@@ -1,0 +1,3377 @@
+[
+  {
+    "lesson": "47",
+    "masu_form": "します[においが～]",
+    "masu_form_kanji": null,
+    "ba_form": "すれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "する",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "26",
+    "masu_form": "みます",
+    "masu_form_kanji": "見ます, 診ます",
+    "ba_form": "みれば",
+    "ba_form_kanji": "見れば",
+    "dictionary_form": "みる",
+    "dictionary_form_kanji": "見る"
+  },
+  {
+    "lesson": "22",
+    "masu_form": "うまれます",
+    "masu_form_kanji": "生まれます",
+    "ba_form": "うまれれば",
+    "ba_form_kanji": "生まれれば",
+    "dictionary_form": "うまれる",
+    "dictionary_form_kanji": "生まれる"
+  },
+  {
+    "lesson": "50",
+    "masu_form": "かないます[ゆめが～]",
+    "masu_form_kanji": "[夢が～]",
+    "ba_form": "かなえば",
+    "ba_form_kanji": null,
+    "dictionary_form": "かなう",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "17",
+    "masu_form": "しゅっちょうします",
+    "masu_form_kanji": "出張します",
+    "ba_form": "しゅっちょうすれば",
+    "ba_form_kanji": "出張すれば",
+    "dictionary_form": "しゅっちょうする",
+    "dictionary_form_kanji": "出張する"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "さそいます",
+    "masu_form_kanji": "誘います",
+    "ba_form": "さそえば",
+    "ba_form_kanji": "誘えば",
+    "dictionary_form": "さそう",
+    "dictionary_form_kanji": "誘う"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "もって きます",
+    "masu_form_kanji": "持って来ます",
+    "ba_form": "もってくれば",
+    "ba_form_kanji": "持って来れば",
+    "dictionary_form": "もってくる",
+    "dictionary_form_kanji": "持って来る"
+  },
+  {
+    "lesson": "50",
+    "masu_form": "よういします",
+    "masu_form_kanji": "用意します",
+    "ba_form": "よういすれば",
+    "ba_form_kanji": "用意すれば",
+    "dictionary_form": "よういする",
+    "dictionary_form_kanji": "用意する"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "うけます [しけんを～]",
+    "masu_form_kanji": "受けます [試験を～]",
+    "ba_form": "うければ",
+    "ba_form_kanji": "受ければ",
+    "dictionary_form": "うける",
+    "dictionary_form_kanji": "受ける"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "します",
+    "masu_form_kanji": null,
+    "ba_form": "すれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "する",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "41",
+    "masu_form": "さげます",
+    "masu_form_kanji": "下げます",
+    "ba_form": "さげれば",
+    "ba_form_kanji": "下げれば",
+    "dictionary_form": "さげる",
+    "dictionary_form_kanji": "下げる"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "うんどうします",
+    "masu_form_kanji": "運動します",
+    "ba_form": "うんどうすれば",
+    "ba_form_kanji": "運動すれば",
+    "dictionary_form": "うんどうする",
+    "dictionary_form_kanji": "運動する"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "むかいます",
+    "masu_form_kanji": "向かいます",
+    "ba_form": "むかえば",
+    "ba_form_kanji": "向かえば",
+    "dictionary_form": "むかう",
+    "dictionary_form_kanji": "向かう"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "ぬぎます",
+    "masu_form_kanji": "脱ぎます",
+    "ba_form": "ぬげば",
+    "ba_form_kanji": "脱げば",
+    "dictionary_form": "ぬぐ",
+    "dictionary_form_kanji": "脱ぐ"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ゆにゅうします",
+    "masu_form_kanji": "輸入します",
+    "ba_form": "ゆにゅうすれば",
+    "ba_form_kanji": "輸入すれば",
+    "dictionary_form": "ゆにゅうする",
+    "dictionary_form_kanji": "輸入する"
+  },
+  {
+    "lesson": "11",
+    "masu_form": "やすみます (かいしゃを～)",
+    "masu_form_kanji": "休みます (会社を～)",
+    "ba_form": "やすめば",
+    "ba_form_kanji": "休めば",
+    "dictionary_form": "やすむ",
+    "dictionary_form_kanji": "休む"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "おもいます",
+    "masu_form_kanji": "思います",
+    "ba_form": "おもえば",
+    "ba_form_kanji": "思えば",
+    "dictionary_form": "おもう",
+    "dictionary_form_kanji": "思う"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "あんないします",
+    "masu_form_kanji": "案内します",
+    "ba_form": "あんないすれば",
+    "ba_form_kanji": "案内すれば",
+    "dictionary_form": "あんないする",
+    "dictionary_form_kanji": "案内する"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "のります [でんしゃに～) ]",
+    "masu_form_kanji": "乗ります [電車に～]",
+    "ba_form": "のれば",
+    "ba_form_kanji": "乗れば",
+    "dictionary_form": "のる",
+    "dictionary_form_kanji": "乗る"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "まがります [みぎへ ～]",
+    "masu_form_kanji": "曲がります [右へ ～]",
+    "ba_form": "まがれば",
+    "ba_form_kanji": "曲がれば",
+    "dictionary_form": "まがる",
+    "dictionary_form_kanji": "曲がる"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "にゅうりょくします",
+    "masu_form_kanji": "入力します",
+    "ba_form": "にゅうりょくすれば",
+    "ba_form_kanji": "入力すれば",
+    "dictionary_form": "にゅうりょくする",
+    "dictionary_form_kanji": "入力する"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "ひやします",
+    "masu_form_kanji": "冷やします",
+    "ba_form": "ひやせば",
+    "ba_form_kanji": "冷やせば",
+    "dictionary_form": "ひやす",
+    "dictionary_form_kanji": "冷やす"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ほめます",
+    "masu_form_kanji": "褒めます",
+    "ba_form": "ほめれば",
+    "ba_form_kanji": "褒めれば",
+    "dictionary_form": "ほめる",
+    "dictionary_form_kanji": "褒める"
+  },
+  {
+    "lesson": "44",
+    "masu_form": "ちょうせつします",
+    "masu_form_kanji": "調節します",
+    "ba_form": "ちょうせつすれば",
+    "ba_form_kanji": "調節すれば",
+    "dictionary_form": "ちょうせつする",
+    "dictionary_form_kanji": "調節する"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "けっこんします",
+    "masu_form_kanji": "結婚します",
+    "ba_form": "けっこんすれば",
+    "ba_form_kanji": "結婚すれば",
+    "dictionary_form": "けっこんする",
+    "dictionary_form_kanji": "結婚する"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "いれます",
+    "masu_form_kanji": "入れます",
+    "ba_form": "いれれば",
+    "ba_form_kanji": "入れれば",
+    "dictionary_form": "いれる",
+    "dictionary_form_kanji": "入れる"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "えらびます",
+    "masu_form_kanji": "選びます",
+    "ba_form": "えらべば",
+    "ba_form_kanji": "選べば",
+    "dictionary_form": "えらぶ",
+    "dictionary_form_kanji": "選ぶ"
+  },
+  {
+    "lesson": "50",
+    "masu_form": "かんしゃします",
+    "masu_form_kanji": "感謝します",
+    "ba_form": "かんしゃすれば",
+    "ba_form_kanji": "感謝すれば",
+    "dictionary_form": "かんしゃする",
+    "dictionary_form_kanji": "感謝する"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "もどします",
+    "masu_form_kanji": "戻します",
+    "ba_form": "もどせば",
+    "ba_form_kanji": "戻せば",
+    "dictionary_form": "もどす",
+    "dictionary_form_kanji": "戻す"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "わかれます",
+    "masu_form_kanji": "別れます",
+    "ba_form": "わかれれば",
+    "ba_form_kanji": "別れれば",
+    "dictionary_form": "わかれる",
+    "dictionary_form_kanji": "別れる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "かします",
+    "masu_form_kanji": "貸します",
+    "ba_form": "かせば",
+    "ba_form_kanji": "貸せば",
+    "dictionary_form": "かす",
+    "dictionary_form_kanji": "貸す"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "きがつきます[わすれものに～]",
+    "masu_form_kanji": "気がつきます[忘れ物に～]",
+    "ba_form": "きがつけば",
+    "ba_form_kanji": "気がつけば",
+    "dictionary_form": "きがつく",
+    "dictionary_form_kanji": "気がつく"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "もうしこみます",
+    "masu_form_kanji": "申し込みます",
+    "ba_form": "もうしこめば",
+    "ba_form_kanji": "申し込めば",
+    "dictionary_form": "もうしこむ",
+    "dictionary_form_kanji": "申し込む"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "しりあいます",
+    "masu_form_kanji": "知り合います",
+    "ba_form": "しりあえば",
+    "ba_form_kanji": "知り合えば",
+    "dictionary_form": "しりあう",
+    "dictionary_form_kanji": "知り合う"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "こみます [みち が～]",
+    "masu_form_kanji": "込みます [道 が～]",
+    "ba_form": "こめば",
+    "ba_form_kanji": "込めば",
+    "dictionary_form": "こむ",
+    "dictionary_form_kanji": "込む"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "れんしゅうします",
+    "masu_form_kanji": "練習します",
+    "ba_form": "れんしゅうすれば",
+    "ba_form_kanji": "練習すれば",
+    "dictionary_form": "れんしゅうする",
+    "dictionary_form_kanji": "練習する"
+  },
+  {
+    "lesson": "36",
+    "masu_form": "ちがいます",
+    "masu_form_kanji": "違います",
+    "ba_form": "ちがえば",
+    "ba_form_kanji": "違えば",
+    "dictionary_form": "ちがう",
+    "dictionary_form_kanji": "違う"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "ならびます",
+    "masu_form_kanji": "並びます",
+    "ba_form": "ならべば",
+    "ba_form_kanji": "並べば",
+    "dictionary_form": "ならぶ",
+    "dictionary_form_kanji": "並ぶ"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "でます[きっさてんを～]",
+    "masu_form_kanji": "出ます[喫茶店を～]",
+    "ba_form": "でれば",
+    "ba_form_kanji": "出れば",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る"
+  },
+  {
+    "lesson": "48",
+    "masu_form": "たのしみます",
+    "masu_form_kanji": "楽しみます",
+    "ba_form": "たのしめば",
+    "ba_form_kanji": "楽しめば",
+    "dictionary_form": "たのしむ",
+    "dictionary_form_kanji": "楽しむ"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "さがします",
+    "masu_form_kanji": "探します,捜します",
+    "ba_form": "さがせば",
+    "ba_form_kanji": "探せば",
+    "dictionary_form": "さがす",
+    "dictionary_form_kanji": "探す"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "おれます [き が～]",
+    "masu_form_kanji": "折れます [木 が～]",
+    "ba_form": "おれれば",
+    "ba_form_kanji": "折れれば",
+    "dictionary_form": "おれる",
+    "dictionary_form_kanji": "折れる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "のせます",
+    "masu_form_kanji": "載せます",
+    "ba_form": "のせれば",
+    "ba_form_kanji": "載せれば",
+    "dictionary_form": "のせる",
+    "dictionary_form_kanji": "載せる"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "やけます[パンが～][にくが～]",
+    "masu_form_kanji": "焼けます[パンが～][肉が～]",
+    "ba_form": "やければ",
+    "ba_form_kanji": "焼ければ",
+    "dictionary_form": "やける",
+    "dictionary_form_kanji": "焼ける"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "ひらきます [きょうしつ を～]",
+    "masu_form_kanji": "開きます [教室 を～]",
+    "ba_form": "ひらけば",
+    "ba_form_kanji": "開けば",
+    "dictionary_form": "ひらく",
+    "dictionary_form_kanji": "開く"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "さんかします [パーテイー に～]",
+    "masu_form_kanji": "参加します",
+    "ba_form": "さんかすれば",
+    "ba_form_kanji": "参加すれば",
+    "dictionary_form": "さんかする",
+    "dictionary_form_kanji": "参加する"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "なおります[びょうきが～]",
+    "masu_form_kanji": "治ります[病気が～]",
+    "ba_form": "なおれば",
+    "ba_form_kanji": "治れば",
+    "dictionary_form": "なおる",
+    "dictionary_form_kanji": "治る"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "はいります [おふろに～]",
+    "masu_form_kanji": "入ります [おふろに～]",
+    "ba_form": "はいれば",
+    "ba_form_kanji": "入れば",
+    "dictionary_form": "はいる",
+    "dictionary_form_kanji": "入る"
+  },
+  {
+    "lesson": "45",
+    "masu_form": "しんじます",
+    "masu_form_kanji": "信じます",
+    "ba_form": "しんじれば",
+    "ba_form_kanji": "信じれば",
+    "dictionary_form": "しんじる",
+    "dictionary_form_kanji": "信じる"
+  },
+  {
+    "lesson": "50",
+    "masu_form": "いれます [コーヒーを～]",
+    "masu_form_kanji": null,
+    "ba_form": "いれれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "いれる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "28",
+    "masu_form": "おどります",
+    "masu_form_kanji": "踊ります",
+    "ba_form": "おどれば",
+    "ba_form_kanji": "踊れば",
+    "dictionary_form": "おどる",
+    "dictionary_form_kanji": "踊る"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "うれます [パンが～]",
+    "masu_form_kanji": "売れます [パンが～]",
+    "ba_form": "うれれば",
+    "ba_form_kanji": "売れれば",
+    "dictionary_form": "うれる",
+    "dictionary_form_kanji": "売れる"
+  },
+  {
+    "lesson": "10",
+    "masu_form": "あります",
+    "masu_form_kanji": null,
+    "ba_form": "あれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "ある",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "14",
+    "masu_form": "はなします",
+    "masu_form_kanji": "話します",
+    "ba_form": "はなせば",
+    "ba_form_kanji": "話せば",
+    "dictionary_form": "はなす",
+    "dictionary_form_kanji": "話す"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "まちます",
+    "masu_form_kanji": "待ちます",
+    "ba_form": "まてば",
+    "ba_form_kanji": "待てば",
+    "dictionary_form": "まつ",
+    "dictionary_form_kanji": "待つ"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "おります [でんしゃを～)]",
+    "masu_form_kanji": "降ります [電車を～]",
+    "ba_form": "おりれば",
+    "ba_form_kanji": "降りれば",
+    "dictionary_form": "おりる",
+    "dictionary_form_kanji": "降りる"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "できます [くうこう が～]",
+    "masu_form_kanji": "[空港 が～]",
+    "ba_form": "できれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "できる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "41",
+    "masu_form": "あげます",
+    "masu_form_kanji": "上げます",
+    "ba_form": "あげれば",
+    "ba_form_kanji": "上げれば",
+    "dictionary_form": "あげる",
+    "dictionary_form_kanji": "上げる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "あります [おまつりが～]",
+    "masu_form_kanji": "[お祭りが～]",
+    "ba_form": "あれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "ある",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "49",
+    "masu_form": "つとめます[かいしゃに～]",
+    "masu_form_kanji": "勤めます[会社に～]",
+    "ba_form": "つとめれば",
+    "ba_form_kanji": "勤めれば",
+    "dictionary_form": "つとめる",
+    "dictionary_form_kanji": "勤める"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "でます[ボーナスが～]",
+    "masu_form_kanji": "出ます[ボーナスが～]",
+    "ba_form": "でれば",
+    "ba_form_kanji": "出れば",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る"
+  },
+  {
+    "lesson": "43",
+    "masu_form": "おちます[にもつが～]",
+    "masu_form_kanji": "落ちます[荷物が～]",
+    "ba_form": "おちれば",
+    "ba_form_kanji": "落ちれば",
+    "dictionary_form": "おちる",
+    "dictionary_form_kanji": "落ちる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "おります",
+    "masu_form_kanji": "折ります",
+    "ba_form": "おれば",
+    "ba_form_kanji": "折れば",
+    "dictionary_form": "おる",
+    "dictionary_form_kanji": "折る"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "やめます [かいしゃを～]",
+    "masu_form_kanji": "やめます [会社を～]",
+    "ba_form": "やめれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "やめる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "18",
+    "masu_form": "あつめます",
+    "masu_form_kanji": "集めます",
+    "ba_form": "あつめれば",
+    "ba_form_kanji": "集めれば",
+    "dictionary_form": "あつめる",
+    "dictionary_form_kanji": "集める"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "とまります [ホテルに ～]",
+    "masu_form_kanji": "泊まります [ホテルに ～]",
+    "ba_form": "とまれば",
+    "ba_form_kanji": "泊まれば",
+    "dictionary_form": "とまる",
+    "dictionary_form_kanji": "泊まる"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "きえます [でんき が～]",
+    "masu_form_kanji": "消えます [電気 が～]",
+    "ba_form": "きえれば",
+    "ba_form_kanji": "消えれば",
+    "dictionary_form": "きえる",
+    "dictionary_form_kanji": "消える"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "つたえます",
+    "masu_form_kanji": "伝えます",
+    "ba_form": "つたえれば",
+    "ba_form_kanji": "伝えれば",
+    "dictionary_form": "つたえる",
+    "dictionary_form_kanji": "伝える"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "とります [やすみ を～]",
+    "masu_form_kanji": "取ります [休み を～]",
+    "ba_form": "とれば",
+    "ba_form_kanji": "取れば",
+    "dictionary_form": "とる",
+    "dictionary_form_kanji": "取る"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "そうじします",
+    "masu_form_kanji": "掃除します",
+    "ba_form": "そうじすれば",
+    "ba_form_kanji": "掃除すれば",
+    "dictionary_form": "そうじする",
+    "dictionary_form_kanji": "掃除する"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "わたります [はしを ～]",
+    "masu_form_kanji": "渡ります [橋を～]",
+    "ba_form": "わたれば",
+    "ba_form_kanji": "渡れば",
+    "dictionary_form": "わたる",
+    "dictionary_form_kanji": "渡る"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "りこんします",
+    "masu_form_kanji": "離婚します",
+    "ba_form": "りこんすれば",
+    "ba_form_kanji": "離婚すれば",
+    "dictionary_form": "りこんする",
+    "dictionary_form_kanji": "離婚する"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "はかります",
+    "masu_form_kanji": "測ります、量ります",
+    "ba_form": "はかれば",
+    "ba_form_kanji": "測れば",
+    "dictionary_form": "はかる",
+    "dictionary_form_kanji": "測る"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "おきます",
+    "masu_form_kanji": "置きます",
+    "ba_form": "おけば",
+    "ba_form_kanji": "置けば",
+    "dictionary_form": "おく",
+    "dictionary_form_kanji": "置く"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "おこないます",
+    "masu_form_kanji": "行います",
+    "ba_form": "おこなえば",
+    "ba_form_kanji": "行えば",
+    "dictionary_form": "おこなう",
+    "dictionary_form_kanji": "行う"
+  },
+  {
+    "lesson": "49",
+    "masu_form": "じゅしょうします",
+    "masu_form_kanji": "受賞します",
+    "ba_form": "じゅしょうすれば",
+    "ba_form_kanji": "受賞すれば",
+    "dictionary_form": "じゅしょうする",
+    "dictionary_form_kanji": "受賞する"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "まぜます",
+    "masu_form_kanji": "混ぜます",
+    "ba_form": "まぜれば",
+    "ba_form_kanji": "混ぜれば",
+    "dictionary_form": "まぜる",
+    "dictionary_form_kanji": "混ぜる"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "せいこうします",
+    "masu_form_kanji": "成功します",
+    "ba_form": "せいこうすれば",
+    "ba_form_kanji": "成功すれば",
+    "dictionary_form": "せいこうする",
+    "dictionary_form_kanji": "成功する"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "かきます",
+    "masu_form_kanji": "書きます",
+    "ba_form": "かけば",
+    "ba_form_kanji": "書けば",
+    "dictionary_form": "かく",
+    "dictionary_form_kanji": "書く"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "けいさんします",
+    "masu_form_kanji": "計算します",
+    "ba_form": "けいさんすれば",
+    "ba_form_kanji": "計算すれば",
+    "dictionary_form": "けいさんする",
+    "dictionary_form_kanji": "計算する"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "します[おと/こえが～)]",
+    "masu_form_kanji": "します[音/声が～]",
+    "ba_form": "すれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "する",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "34",
+    "masu_form": "さします [かさを～]",
+    "masu_form_kanji": "さします[傘を～]",
+    "ba_form": "させば",
+    "ba_form_kanji": null,
+    "dictionary_form": "さす",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "6",
+    "masu_form": "かいます",
+    "masu_form_kanji": "買います",
+    "ba_form": "かえば",
+    "ba_form_kanji": "買えば",
+    "dictionary_form": "かう",
+    "dictionary_form_kanji": "買う"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "きめます",
+    "masu_form_kanji": "決めます",
+    "ba_form": "きめれば",
+    "ba_form_kanji": "決めれば",
+    "dictionary_form": "きめる",
+    "dictionary_form_kanji": "決める"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "なります",
+    "masu_form_kanji": null,
+    "ba_form": "なれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "なる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "38",
+    "masu_form": "せいりします",
+    "masu_form_kanji": "整理します",
+    "ba_form": "せいりすれば",
+    "ba_form_kanji": "整理すれば",
+    "dictionary_form": "せいりする",
+    "dictionary_form_kanji": "整理する"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "よごします",
+    "masu_form_kanji": "汚します",
+    "ba_form": "よごせば",
+    "ba_form_kanji": "汚せば",
+    "dictionary_form": "よごす",
+    "dictionary_form_kanji": "汚す"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "クリックします",
+    "masu_form_kanji": null,
+    "ba_form": "クリックすれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "クリックする",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "22",
+    "masu_form": "きます [シャツを～]",
+    "masu_form_kanji": "着ます",
+    "ba_form": "きれば",
+    "ba_form_kanji": "着れば",
+    "dictionary_form": "きる",
+    "dictionary_form_kanji": "着る"
+  },
+  {
+    "lesson": "43",
+    "masu_form": "へります[ゆしゅつが～]",
+    "masu_form_kanji": "減ります[輸出が～]",
+    "ba_form": "へれば",
+    "ba_form_kanji": "減れば",
+    "dictionary_form": "へる",
+    "dictionary_form_kanji": "減る"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "よいます",
+    "masu_form_kanji": "酔います",
+    "ba_form": "よえば",
+    "ba_form_kanji": "酔えば",
+    "dictionary_form": "よう",
+    "dictionary_form_kanji": "酔う"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "さきます [はなが～]",
+    "masu_form_kanji": "咲きます [花が～]",
+    "ba_form": "さけば",
+    "ba_form_kanji": "咲けば",
+    "dictionary_form": "さく",
+    "dictionary_form_kanji": "咲く"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "くみたてます",
+    "masu_form_kanji": "組み立てます",
+    "ba_form": "くみたてれば",
+    "ba_form_kanji": "組み立てれば",
+    "dictionary_form": "くみたてる",
+    "dictionary_form_kanji": "組み立てる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "つかいます",
+    "masu_form_kanji": "使います",
+    "ba_form": "つかえば",
+    "ba_form_kanji": "使えば",
+    "dictionary_form": "つかう",
+    "dictionary_form_kanji": "使う"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "ごうかくします [しけんに～]",
+    "masu_form_kanji": "合格します [試験に～]",
+    "ba_form": "ごうかくすれば",
+    "ba_form_kanji": "合格すれば",
+    "dictionary_form": "ごうかくする",
+    "dictionary_form_kanji": "合格する"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "はしります [みち を～]",
+    "masu_form_kanji": "走ります [道 を～]",
+    "ba_form": "はしれば",
+    "ba_form_kanji": "走れば",
+    "dictionary_form": "はしる",
+    "dictionary_form_kanji": "走る"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "むりをします",
+    "masu_form_kanji": "無理をします",
+    "ba_form": "むりをすれば",
+    "ba_form_kanji": "無理をすれば",
+    "dictionary_form": "むりをする",
+    "dictionary_form_kanji": "無理をする"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "ひきます",
+    "masu_form_kanji": "弾きます",
+    "ba_form": "ひけば",
+    "ba_form_kanji": "弾けば",
+    "dictionary_form": "ひく",
+    "dictionary_form_kanji": "弾く"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "します[あじが～]",
+    "masu_form_kanji": "します[味が～]",
+    "ba_form": "すれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "する",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "21",
+    "masu_form": "りゅうがくします",
+    "masu_form_kanji": "留学します",
+    "ba_form": "りゅうがくすれば",
+    "ba_form_kanji": "留学すれば",
+    "dictionary_form": "りゅうがくする",
+    "dictionary_form_kanji": "留学する"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "やきます",
+    "masu_form_kanji": "焼きます",
+    "ba_form": "やけば",
+    "ba_form_kanji": "焼けば",
+    "dictionary_form": "やく",
+    "dictionary_form_kanji": "焼く"
+  },
+  {
+    "lesson": "43",
+    "masu_form": "さがります[ねだんが～]",
+    "masu_form_kanji": "下がります[値段が～]",
+    "ba_form": "さがれば",
+    "ba_form_kanji": "下がれば",
+    "dictionary_form": "さがる",
+    "dictionary_form_kanji": "下がる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "のりかえます",
+    "masu_form_kanji": "乗り換えます",
+    "ba_form": "のりかえれば",
+    "ba_form_kanji": "乗り換えれば",
+    "dictionary_form": "のりかえる",
+    "dictionary_form_kanji": "乗り換える"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "うんてんします",
+    "masu_form_kanji": "運転します",
+    "ba_form": "うんてんすれば",
+    "ba_form_kanji": "運転すれば",
+    "dictionary_form": "うんてんする",
+    "dictionary_form_kanji": "運転する"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "やけます[うちが～]",
+    "masu_form_kanji": "焼けます[うちが～]",
+    "ba_form": "やければ",
+    "ba_form_kanji": "焼ければ",
+    "dictionary_form": "やける",
+    "dictionary_form_kanji": "焼ける"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "でます[バスが～]",
+    "masu_form_kanji": "出ます",
+    "ba_form": "でれば",
+    "ba_form_kanji": "出れば",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "むかえます",
+    "masu_form_kanji": "迎えます",
+    "ba_form": "むかえれば",
+    "ba_form_kanji": "迎えれば",
+    "dictionary_form": "むかえる",
+    "dictionary_form_kanji": "迎える"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "あいます[サイズが～]",
+    "masu_form_kanji": "合います",
+    "ba_form": "あえば",
+    "ba_form_kanji": "合えば",
+    "dictionary_form": "あう",
+    "dictionary_form_kanji": "合う"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "ひろいます",
+    "masu_form_kanji": "拾います",
+    "ba_form": "ひろえば",
+    "ba_form_kanji": "拾えば",
+    "dictionary_form": "ひろう",
+    "dictionary_form_kanji": "拾う"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "やくにたちます",
+    "masu_form_kanji": "役に立ちます",
+    "ba_form": "やくにたてば",
+    "ba_form_kanji": "役に立てば",
+    "dictionary_form": "やくにたつ",
+    "dictionary_form_kanji": "役に立つ"
+  },
+  {
+    "lesson": "4",
+    "masu_form": "はたらきます",
+    "masu_form_kanji": "働きます",
+    "ba_form": "はたらけば",
+    "ba_form_kanji": "働けば",
+    "dictionary_form": "はたらく",
+    "dictionary_form_kanji": "働く"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "すみます",
+    "masu_form_kanji": "住みます",
+    "ba_form": "すめば",
+    "ba_form_kanji": "住めば",
+    "dictionary_form": "すむ",
+    "dictionary_form_kanji": "住む"
+  },
+  {
+    "lesson": "49",
+    "masu_form": "りようします",
+    "masu_form_kanji": "利用します",
+    "ba_form": "りようすれば",
+    "ba_form_kanji": "利用すれば",
+    "dictionary_form": "りようする",
+    "dictionary_form_kanji": "利用する"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "かかります [かぎ が～]",
+    "masu_form_kanji": "掛かります",
+    "ba_form": "かかれば",
+    "ba_form_kanji": "掛かれば",
+    "dictionary_form": "かかる",
+    "dictionary_form_kanji": "掛かる"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "すてます",
+    "masu_form_kanji": "捨てます",
+    "ba_form": "すてれば",
+    "ba_form_kanji": "捨てれば",
+    "dictionary_form": "すてる",
+    "dictionary_form_kanji": "捨てる"
+  },
+  {
+    "lesson": "4",
+    "masu_form": "べんきょうします",
+    "masu_form_kanji": "勉強します",
+    "ba_form": "べんきょうすれば",
+    "ba_form_kanji": "勉強すれば",
+    "dictionary_form": "べんきょうする",
+    "dictionary_form_kanji": "勉強する"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "ならいます",
+    "masu_form_kanji": "習います",
+    "ba_form": "ならえば",
+    "ba_form_kanji": "習えば",
+    "dictionary_form": "ならう",
+    "dictionary_form_kanji": "習う"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "コピーします",
+    "masu_form_kanji": null,
+    "ba_form": "コピーすれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "コピーする",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "23",
+    "masu_form": "さわります [ドアに～]",
+    "masu_form_kanji": "触ります",
+    "ba_form": "さわれば",
+    "ba_form_kanji": "触れば",
+    "dictionary_form": "さわる",
+    "dictionary_form_kanji": "触る"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "とりかえます",
+    "masu_form_kanji": "取り替えます",
+    "ba_form": "とりかえれば",
+    "ba_form_kanji": "取り替えれば",
+    "dictionary_form": "とりかえる",
+    "dictionary_form_kanji": "取り替える"
+  },
+  {
+    "lesson": "1",
+    "masu_form": "あきます [ドア が～]",
+    "masu_form_kanji": "開きます",
+    "ba_form": "あけば",
+    "ba_form_kanji": "開けば",
+    "dictionary_form": "あく",
+    "dictionary_form_kanji": "開く"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "きります",
+    "masu_form_kanji": "切ります",
+    "ba_form": "きれば",
+    "ba_form_kanji": "切れば",
+    "dictionary_form": "きる",
+    "dictionary_form_kanji": "切る"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "くれます",
+    "masu_form_kanji": null,
+    "ba_form": "くれれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "くれる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "7",
+    "masu_form": "おしえます",
+    "masu_form_kanji": "教えます",
+    "ba_form": "おしえれば",
+    "ba_form_kanji": "教えれば",
+    "dictionary_form": "おしえる",
+    "dictionary_form_kanji": "教える"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "そつぎょうします [だいがくを～]",
+    "masu_form_kanji": "卒業します [大学を～]",
+    "ba_form": "そつぎょうすれば",
+    "ba_form_kanji": "卒業すれば",
+    "dictionary_form": "そつぎょうする",
+    "dictionary_form_kanji": "卒業する"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "のぼります [やまに ～]",
+    "masu_form_kanji": "登ります[山に ～]",
+    "ba_form": "のぼれば",
+    "ba_form_kanji": "登れば",
+    "dictionary_form": "のぼる",
+    "dictionary_form_kanji": "登る"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "かえします",
+    "masu_form_kanji": "返します",
+    "ba_form": "かえせば",
+    "ba_form_kanji": "返せば",
+    "dictionary_form": "かえす",
+    "dictionary_form_kanji": "返す"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "われます [コップ が～]",
+    "masu_form_kanji": "割れます",
+    "ba_form": "われれば",
+    "ba_form_kanji": "割れれば",
+    "dictionary_form": "われる",
+    "dictionary_form_kanji": "割れる"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "しまります [ドア が～]",
+    "masu_form_kanji": "閉まります",
+    "ba_form": "しまれば",
+    "ba_form_kanji": "閉まれば",
+    "dictionary_form": "しまる",
+    "dictionary_form_kanji": "閉まる"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "つかれます",
+    "masu_form_kanji": "疲れます",
+    "ba_form": "つかれれば",
+    "ba_form_kanji": "疲れれば",
+    "dictionary_form": "つかれる",
+    "dictionary_form_kanji": "疲れる"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "やります",
+    "masu_form_kanji": null,
+    "ba_form": "やれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "やる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "13",
+    "masu_form": "しょくじします",
+    "masu_form_kanji": "食事します",
+    "ba_form": "しょくじすれば",
+    "ba_form_kanji": "食事すれば",
+    "dictionary_form": "しょくじする",
+    "dictionary_form_kanji": "食事する"
+  },
+  {
+    "lesson": "43",
+    "masu_form": "あがります[ねだんが～]",
+    "masu_form_kanji": "上がります[値段が～]",
+    "ba_form": "あがれば",
+    "ba_form_kanji": "上がれば",
+    "dictionary_form": "あがる",
+    "dictionary_form_kanji": "上がる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "まもります",
+    "masu_form_kanji": "守ります",
+    "ba_form": "まもれば",
+    "ba_form_kanji": "守れば",
+    "dictionary_form": "まもる",
+    "dictionary_form_kanji": "守る"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "やぶれます [かみ が～]",
+    "masu_form_kanji": "破れます [紙 が～]",
+    "ba_form": "やぶれれば",
+    "ba_form_kanji": "破れれば",
+    "dictionary_form": "やぶれる",
+    "dictionary_form_kanji": "破れる"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "こわれます [いす が～]",
+    "masu_form_kanji": "壊れます",
+    "ba_form": "こわれれば",
+    "ba_form_kanji": "壊れれば",
+    "dictionary_form": "こわれる",
+    "dictionary_form_kanji": "壊れる"
+  },
+  {
+    "lesson": "25",
+    "masu_form": "がんばります",
+    "masu_form_kanji": "頑張ります",
+    "ba_form": "がんばれば",
+    "ba_form_kanji": "頑張れば",
+    "dictionary_form": "がんばる",
+    "dictionary_form_kanji": "頑張る"
+  },
+  {
+    "lesson": "44",
+    "masu_form": "ねむります",
+    "masu_form_kanji": "眠ります",
+    "ba_form": "ねむれば",
+    "ba_form_kanji": "眠れば",
+    "dictionary_form": "ねむる",
+    "dictionary_form_kanji": "眠る"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "おくります [ひとを～]",
+    "masu_form_kanji": "送ります [人を～]",
+    "ba_form": "おくれば",
+    "ba_form_kanji": "送れば",
+    "dictionary_form": "おくる",
+    "dictionary_form_kanji": "送る"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "はいります[きっさてんに～]",
+    "masu_form_kanji": "入ります[喫茶店に～]",
+    "ba_form": "はいれば",
+    "ba_form_kanji": "入れば",
+    "dictionary_form": "はいる",
+    "dictionary_form_kanji": "入る"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "つづきます[ねつが～]",
+    "masu_form_kanji": "続きます[熱が～]",
+    "ba_form": "つづけば",
+    "ba_form_kanji": "続けば",
+    "dictionary_form": "つづく",
+    "dictionary_form_kanji": "続く"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "［ビルが～］たおれます",
+    "masu_form_kanji": "［ビルが］倒れます",
+    "ba_form": "たおれれば",
+    "ba_form_kanji": "倒れれば",
+    "dictionary_form": "たおれる",
+    "dictionary_form_kanji": "倒れる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "かざります",
+    "masu_form_kanji": "飾ります",
+    "ba_form": "かざれば",
+    "ba_form_kanji": "飾れば",
+    "dictionary_form": "かざる",
+    "dictionary_form_kanji": "飾る"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "かぞえます",
+    "masu_form_kanji": "数えます",
+    "ba_form": "かぞえれば",
+    "ba_form_kanji": "数えれば",
+    "dictionary_form": "かぞえる",
+    "dictionary_form_kanji": "数える"
+  },
+  {
+    "lesson": "25",
+    "masu_form": "たります",
+    "masu_form_kanji": "足ります",
+    "ba_form": "たりれば",
+    "ba_form_kanji": "足りれば",
+    "dictionary_form": "たりる",
+    "dictionary_form_kanji": "足りる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "いれます [でんげんを～]",
+    "masu_form_kanji": "入れます [電源を～]",
+    "ba_form": "いれれば",
+    "ba_form_kanji": "入れれば",
+    "dictionary_form": "いれる",
+    "dictionary_form_kanji": "入れる"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "でます [しあいに～]",
+    "masu_form_kanji": "出ます [試合に～]",
+    "ba_form": "でれば",
+    "ba_form_kanji": "出れば",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る"
+  },
+  {
+    "lesson": "36",
+    "masu_form": "チャレンジします",
+    "masu_form_kanji": null,
+    "ba_form": "チャレンジすれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "チャレンジする",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "16",
+    "masu_form": "おします",
+    "masu_form_kanji": "押します",
+    "ba_form": "おせば",
+    "ba_form_kanji": "押せば",
+    "dictionary_form": "おす",
+    "dictionary_form_kanji": "押す"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "たしかめます",
+    "masu_form_kanji": "確かめます",
+    "ba_form": "たしかめれば",
+    "ba_form_kanji": "確かめれば",
+    "dictionary_form": "たしかめる",
+    "dictionary_form_kanji": "確かめる"
+  },
+  {
+    "lesson": "48",
+    "masu_form": "おろします",
+    "masu_form_kanji": "降ろします、下ろします",
+    "ba_form": "おろせば",
+    "ba_form_kanji": "下ろせば",
+    "dictionary_form": "おろす",
+    "dictionary_form_kanji": "下ろす"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "でます [だいがくを～]",
+    "masu_form_kanji": "出ます [大学を～]",
+    "ba_form": "でれば",
+    "ba_form_kanji": "出れば",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "おぼえます",
+    "masu_form_kanji": "覚えます",
+    "ba_form": "おぼえれば",
+    "ba_form_kanji": "覚えれば",
+    "dictionary_form": "おぼえる",
+    "dictionary_form_kanji": "覚える"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "ひきます [かぜを～]",
+    "masu_form_kanji": null,
+    "ba_form": "ひけば",
+    "ba_form_kanji": null,
+    "dictionary_form": "ひく",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "6",
+    "masu_form": "すいます（たばこを～）",
+    "masu_form_kanji": "吸います",
+    "ba_form": "すえば",
+    "ba_form_kanji": "吸えば",
+    "dictionary_form": "すう",
+    "dictionary_form_kanji": "吸う"
+  },
+  {
+    "lesson": "41",
+    "masu_form": "しんせつにします",
+    "masu_form_kanji": "親切に します",
+    "ba_form": "しんせつにすれば",
+    "ba_form_kanji": "親切にすれば",
+    "dictionary_form": "しんせつにする",
+    "dictionary_form_kanji": "親切にする"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "たちます",
+    "masu_form_kanji": "立ちます",
+    "ba_form": "たてば",
+    "ba_form_kanji": "立てば",
+    "dictionary_form": "たつ",
+    "dictionary_form_kanji": "立つ"
+  },
+  {
+    "lesson": "48",
+    "masu_form": "せわをします",
+    "masu_form_kanji": "世話をします",
+    "ba_form": "せわをすれば",
+    "ba_form_kanji": "世話をすれば",
+    "dictionary_form": "せわをする",
+    "dictionary_form_kanji": "世話をする"
+  },
+  {
+    "lesson": "4",
+    "masu_form": "おわります",
+    "masu_form_kanji": "終わります",
+    "ba_form": "おわれば",
+    "ba_form_kanji": "終われば",
+    "dictionary_form": "おわる",
+    "dictionary_form_kanji": "終わる"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "つくります",
+    "masu_form_kanji": "作ります/造ります",
+    "ba_form": "つくれば",
+    "ba_form_kanji": "作れば",
+    "dictionary_form": "つくる",
+    "dictionary_form_kanji": "作る"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "つきます [でんき が～]",
+    "masu_form_kanji": "[電気 が～]",
+    "ba_form": "つけば",
+    "ba_form_kanji": null,
+    "dictionary_form": "つく",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "30",
+    "masu_form": "うえます",
+    "masu_form_kanji": "植えます",
+    "ba_form": "うえれば",
+    "ba_form_kanji": "植えれば",
+    "dictionary_form": "うえる",
+    "dictionary_form_kanji": "植える"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "はずれます [ボタン が～]",
+    "masu_form_kanji": "外れます",
+    "ba_form": "はずれれば",
+    "ba_form_kanji": "外れれば",
+    "dictionary_form": "はずれる",
+    "dictionary_form_kanji": "外れる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "そだてます",
+    "masu_form_kanji": "育てます",
+    "ba_form": "そだてれば",
+    "ba_form_kanji": "育てれば",
+    "dictionary_form": "そだてる",
+    "dictionary_form_kanji": "育てる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "こたえます [質問 に～]",
+    "masu_form_kanji": "答えます [質問に～]",
+    "ba_form": "こたえれば",
+    "ba_form_kanji": "答えれば",
+    "dictionary_form": "こたえる",
+    "dictionary_form_kanji": "答える"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "きこえます [おと が～]",
+    "masu_form_kanji": "聞こえます [音 が～]",
+    "ba_form": "きこえれば",
+    "ba_form_kanji": "聞こえれば",
+    "dictionary_form": "きこえる",
+    "dictionary_form_kanji": "聞こえる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "はいります [だいがくに～)]",
+    "masu_form_kanji": "入ります [大学に～]",
+    "ba_form": "はいれば",
+    "ba_form_kanji": "入れば",
+    "dictionary_form": "はいる",
+    "dictionary_form_kanji": "入る"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "わすれます",
+    "masu_form_kanji": "忘れます",
+    "ba_form": "わすれれば",
+    "ba_form_kanji": "忘れれば",
+    "dictionary_form": "わすれる",
+    "dictionary_form_kanji": "忘れる"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "ひきます",
+    "masu_form_kanji": "引きます",
+    "ba_form": "ひけば",
+    "ba_form_kanji": "引けば",
+    "dictionary_form": "ひく",
+    "dictionary_form_kanji": "引く"
+  },
+  {
+    "lesson": "11",
+    "masu_form": "います (こどもが～)",
+    "masu_form_kanji": "います (子どもが～)",
+    "ba_form": "いれば",
+    "ba_form_kanji": "NA",
+    "dictionary_form": "いる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "14",
+    "masu_form": "てつだいます",
+    "masu_form_kanji": "手伝います",
+    "ba_form": "てつだえば",
+    "ba_form_kanji": "手伝えば",
+    "dictionary_form": "てつだう",
+    "dictionary_form_kanji": "手伝う"
+  },
+  {
+    "lesson": "10",
+    "masu_form": "います",
+    "masu_form_kanji": null,
+    "ba_form": "いれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "いる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "9",
+    "masu_form": "あります",
+    "masu_form_kanji": null,
+    "ba_form": "あれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "ある",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "13",
+    "masu_form": "かいものします",
+    "masu_form_kanji": "買い物します",
+    "ba_form": "かいものすれば",
+    "ba_form_kanji": "買い物すれば",
+    "dictionary_form": "かいものする",
+    "dictionary_form_kanji": "買い物する"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "そうだんします",
+    "masu_form_kanji": "相談します",
+    "ba_form": "そうだんすれば",
+    "ba_form_kanji": "相談すれば",
+    "dictionary_form": "そうだんする",
+    "dictionary_form_kanji": "相談する"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "あびます [シャワーを～]",
+    "masu_form_kanji": "浴びます［シャワーを］",
+    "ba_form": "あびれば",
+    "ba_form_kanji": "浴びれば",
+    "dictionary_form": "あびる",
+    "dictionary_form_kanji": "浴びる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "しんぱいします",
+    "masu_form_kanji": "心配します",
+    "ba_form": "しんぱいすれば",
+    "ba_form_kanji": "心配すれば",
+    "dictionary_form": "しんぱいする",
+    "dictionary_form_kanji": "心配する"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "なおります[こしょうが～]",
+    "masu_form_kanji": "直ります[故障が～]",
+    "ba_form": "なおれば",
+    "ba_form_kanji": "直れば",
+    "dictionary_form": "なおる",
+    "dictionary_form_kanji": "直る"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "つれて いきます",
+    "masu_form_kanji": "連れて行きます",
+    "ba_form": "つれていければ",
+    "ba_form_kanji": "連れて行ければ",
+    "dictionary_form": "つれていく",
+    "dictionary_form_kanji": "連れて行く"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "あんしんします",
+    "masu_form_kanji": "安心します",
+    "ba_form": "あんしんすれば",
+    "ba_form_kanji": "安心すれば",
+    "dictionary_form": "あんしんする",
+    "dictionary_form_kanji": "安心する"
+  },
+  {
+    "lesson": "44",
+    "masu_form": "おきます",
+    "masu_form_kanji": "起きます[事故が]",
+    "ba_form": "おきれば",
+    "ba_form_kanji": "起きれば",
+    "dictionary_form": "おきる",
+    "dictionary_form_kanji": "起きる"
+  },
+  {
+    "lesson": "45",
+    "masu_form": "キャンセルします",
+    "masu_form_kanji": null,
+    "ba_form": "キャンセルすれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "キャンセルする",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "36",
+    "masu_form": "あいます[じこに～]",
+    "masu_form_kanji": "[事故に～]",
+    "ba_form": "あえば",
+    "ba_form_kanji": null,
+    "dictionary_form": "あう",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "32",
+    "masu_form": "すきます [みち が～]",
+    "masu_form_kanji": "[道 が～]",
+    "ba_form": "すけば",
+    "ba_form_kanji": null,
+    "dictionary_form": "すく",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "29",
+    "masu_form": "おとします",
+    "masu_form_kanji": "落とします",
+    "ba_form": "おとせば",
+    "ba_form_kanji": "落とせば",
+    "dictionary_form": "おとす",
+    "dictionary_form_kanji": "落とす"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "わたします",
+    "masu_form_kanji": "渡します",
+    "ba_form": "わたせば",
+    "ba_form_kanji": "渡せば",
+    "dictionary_form": "わたす",
+    "dictionary_form_kanji": "渡す"
+  },
+  {
+    "lesson": "25",
+    "masu_form": "かんがえます",
+    "masu_form_kanji": "考えます",
+    "ba_form": "かんがえれば",
+    "ba_form_kanji": "考えれば",
+    "dictionary_form": "かんがえる",
+    "dictionary_form_kanji": "考える"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "のみます",
+    "masu_form_kanji": "飲みます",
+    "ba_form": "のめば",
+    "ba_form_kanji": "飲めば",
+    "dictionary_form": "のむ",
+    "dictionary_form_kanji": "飲む"
+  },
+  {
+    "lesson": "43",
+    "masu_form": "ふえます[ゆしゅつが～]",
+    "masu_form_kanji": "増えます[輸出が～]",
+    "ba_form": "ふえれば",
+    "ba_form_kanji": "増えれば",
+    "dictionary_form": "ふえる",
+    "dictionary_form_kanji": "増える"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "あけます",
+    "masu_form_kanji": "開けます",
+    "ba_form": "あければ",
+    "ba_form_kanji": "開ければ",
+    "dictionary_form": "あける",
+    "dictionary_form_kanji": "開ける"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "とうちゃくします",
+    "masu_form_kanji": "到着します",
+    "ba_form": "とうちゃくすれば",
+    "ba_form_kanji": "到着すれば",
+    "dictionary_form": "とうちゃくする",
+    "dictionary_form_kanji": "到着する"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "まけます",
+    "masu_form_kanji": "負けます",
+    "ba_form": "まければ",
+    "ba_form_kanji": "負ければ",
+    "dictionary_form": "まける",
+    "dictionary_form_kanji": "負ける"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ふみます",
+    "masu_form_kanji": "踏みます",
+    "ba_form": "ふめば",
+    "ba_form_kanji": "踏めば",
+    "dictionary_form": "ふむ",
+    "dictionary_form_kanji": "踏む"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "とめます",
+    "masu_form_kanji": "止めます",
+    "ba_form": "とめれば",
+    "ba_form_kanji": "止めれば",
+    "dictionary_form": "とめる",
+    "dictionary_form_kanji": "止める"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "まちがえます",
+    "masu_form_kanji": "間違えます",
+    "ba_form": "まちがえれば",
+    "ba_form_kanji": "間違えれば",
+    "dictionary_form": "まちがえる",
+    "dictionary_form_kanji": "間違える"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "こわします",
+    "masu_form_kanji": "壊します",
+    "ba_form": "こわせば",
+    "ba_form_kanji": "壊せば",
+    "dictionary_form": "こわす",
+    "dictionary_form_kanji": "壊す"
+  },
+  {
+    "lesson": "44",
+    "masu_form": "かわきます",
+    "masu_form_kanji": "乾きます",
+    "ba_form": "かわけば",
+    "ba_form_kanji": "乾けば",
+    "dictionary_form": "かわく",
+    "dictionary_form_kanji": "乾く"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ちゅういします",
+    "masu_form_kanji": "注意します",
+    "ba_form": "ちゅういすれば",
+    "ba_form_kanji": "注意すれば",
+    "dictionary_form": "ちゅういする",
+    "dictionary_form_kanji": "注意する"
+  },
+  {
+    "lesson": "5",
+    "masu_form": "きます",
+    "masu_form_kanji": "来ます",
+    "ba_form": "くれば",
+    "ba_form_kanji": "来れば",
+    "dictionary_form": "くる",
+    "dictionary_form_kanji": "来る"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "あげます",
+    "masu_form_kanji": null,
+    "ba_form": "あげれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "あげる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "38",
+    "masu_form": "はこびます",
+    "masu_form_kanji": "運びます",
+    "ba_form": "はこべば",
+    "ba_form_kanji": "運べば",
+    "dictionary_form": "はこぶ",
+    "dictionary_form_kanji": "運ぶ"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "もどります",
+    "masu_form_kanji": "戻ります",
+    "ba_form": "もどれば",
+    "ba_form_kanji": "戻れば",
+    "dictionary_form": "もどる",
+    "dictionary_form_kanji": "戻る"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "だします",
+    "masu_form_kanji": "出します",
+    "ba_form": "だせば",
+    "ba_form_kanji": "出せば",
+    "dictionary_form": "だす",
+    "dictionary_form_kanji": "出す"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "はります",
+    "masu_form_kanji": "貼ります",
+    "ba_form": "はれば",
+    "ba_form_kanji": "貼れば",
+    "dictionary_form": "はる",
+    "dictionary_form_kanji": "貼る"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "けします",
+    "masu_form_kanji": "消します",
+    "ba_form": "けせば",
+    "ba_form_kanji": "消せば",
+    "dictionary_form": "けす",
+    "dictionary_form_kanji": "消す"
+  },
+  {
+    "lesson": "49",
+    "masu_form": "かけます[いすに～]",
+    "masu_form_kanji": "掛けます",
+    "ba_form": "かければ",
+    "ba_form_kanji": "掛ければ",
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": "掛ける"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "よしゅうします",
+    "masu_form_kanji": "予習します",
+    "ba_form": "よしゅうすれば",
+    "ba_form_kanji": "予習すれば",
+    "dictionary_form": "よしゅうする",
+    "dictionary_form_kanji": "予習する"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "よやくします",
+    "masu_form_kanji": "予約します",
+    "ba_form": "よやくすれば",
+    "ba_form_kanji": "予約すれば",
+    "dictionary_form": "よやくする",
+    "dictionary_form_kanji": "予約する"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "もちます",
+    "masu_form_kanji": "持ちます",
+    "ba_form": "もてば",
+    "ba_form_kanji": "持てば",
+    "dictionary_form": "もつ",
+    "dictionary_form_kanji": "持つ"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "かいます",
+    "masu_form_kanji": "飼います",
+    "ba_form": "かえば",
+    "ba_form_kanji": "飼えば",
+    "dictionary_form": "かう",
+    "dictionary_form_kanji": "飼う"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "かたづけます",
+    "masu_form_kanji": "片づけます",
+    "ba_form": "かたづければ",
+    "ba_form_kanji": "片づければ",
+    "dictionary_form": "かたづける",
+    "dictionary_form_kanji": "片づける"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "あいます[ともだち に～]",
+    "masu_form_kanji": "会います [友達に～]",
+    "ba_form": "あえば",
+    "ba_form_kanji": "会えば",
+    "dictionary_form": "あう",
+    "dictionary_form_kanji": "会う"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "あそびます",
+    "masu_form_kanji": "遊びます",
+    "ba_form": "あそべば",
+    "ba_form_kanji": "遊べば",
+    "dictionary_form": "あそぶ",
+    "dictionary_form_kanji": "遊ぶ"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "みえます [やまが～]",
+    "masu_form_kanji": "見えます [山 が～]",
+    "ba_form": "みえれば",
+    "ba_form_kanji": "見えれば",
+    "dictionary_form": "みえる",
+    "dictionary_form_kanji": "見える"
+  },
+  {
+    "lesson": "43",
+    "masu_form": "なくなります[ガソリンが～]",
+    "masu_form_kanji": null,
+    "ba_form": "なくなれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "なくなる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "37",
+    "masu_form": "はつめいします",
+    "masu_form_kanji": "発明します",
+    "ba_form": "はつめいすれば",
+    "ba_form_kanji": "発明すれば",
+    "dictionary_form": "はつめいする",
+    "dictionary_form_kanji": "発明する"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "とります",
+    "masu_form_kanji": "取ります",
+    "ba_form": "とれば",
+    "ba_form_kanji": "取れば",
+    "dictionary_form": "とる",
+    "dictionary_form_kanji": "取る"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "よごれます [ふく が～]",
+    "masu_form_kanji": "汚れます [服 が～]",
+    "ba_form": "よごれれば",
+    "ba_form_kanji": "汚れれば",
+    "dictionary_form": "よごれる",
+    "dictionary_form_kanji": "汚れる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ほんやくします",
+    "masu_form_kanji": "翻訳します",
+    "ba_form": "ほんやくすれば",
+    "ba_form_kanji": "翻訳すれば",
+    "dictionary_form": "ほんやくする",
+    "dictionary_form_kanji": "翻訳する"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "ならべます",
+    "masu_form_kanji": "並べます",
+    "ba_form": "ならべれば",
+    "ba_form_kanji": "並べれば",
+    "dictionary_form": "ならべる",
+    "dictionary_form_kanji": "並べる"
+  },
+  {
+    "lesson": "41",
+    "masu_form": "くださいます",
+    "masu_form_kanji": null,
+    "ba_form": "くだされば",
+    "ba_form_kanji": null,
+    "dictionary_form": "くださる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "15",
+    "masu_form": "すわります",
+    "masu_form_kanji": "座ります",
+    "ba_form": "すわれば",
+    "ba_form_kanji": "座れば",
+    "dictionary_form": "すわる",
+    "dictionary_form_kanji": "座る"
+  },
+  {
+    "lesson": "44",
+    "masu_form": "なきます",
+    "masu_form_kanji": "泣きます",
+    "ba_form": "なけば",
+    "ba_form_kanji": "泣けば",
+    "dictionary_form": "なく",
+    "dictionary_form_kanji": "泣く"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "かけます",
+    "masu_form_kanji": "掛けます",
+    "ba_form": "かければ",
+    "ba_form_kanji": "掛ければ",
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": "掛ける"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "かわります [いろが～]",
+    "masu_form_kanji": "変わります [色が～]",
+    "ba_form": "かわれば",
+    "ba_form_kanji": "変われば",
+    "dictionary_form": "かわる",
+    "dictionary_form_kanji": "変わる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "しめます",
+    "masu_form_kanji": "閉めます",
+    "ba_form": "しめれば",
+    "ba_form_kanji": "閉めれば",
+    "dictionary_form": "しめる",
+    "dictionary_form_kanji": "閉める"
+  },
+  {
+    "lesson": "11",
+    "masu_form": "おねがいします",
+    "masu_form_kanji": "お願いします",
+    "ba_form": "おねがいすれば",
+    "ba_form_kanji": "お願いすれば",
+    "dictionary_form": "おねがいする",
+    "dictionary_form_kanji": "お願いする"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ゆしゅつします",
+    "masu_form_kanji": "輸出します",
+    "ba_form": "ゆしゅつすれば",
+    "ba_form_kanji": "輸出すれば",
+    "dictionary_form": "ゆしゅつする",
+    "dictionary_form_kanji": "輸出する"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "こまります",
+    "masu_form_kanji": "困ります",
+    "ba_form": "こまれば",
+    "ba_form_kanji": "困れば",
+    "dictionary_form": "こまる",
+    "dictionary_form_kanji": "困る"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "メモします",
+    "masu_form_kanji": null,
+    "ba_form": "メモすれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "メモする",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "14",
+    "masu_form": "いそぎます",
+    "masu_form_kanji": "急ぎます",
+    "ba_form": "いそげば",
+    "ba_form_kanji": "急げば",
+    "dictionary_form": "いそぐ",
+    "dictionary_form_kanji": "急ぐ"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "せんたくします",
+    "masu_form_kanji": "洗濯します",
+    "ba_form": "せんたくすれば",
+    "ba_form_kanji": "洗濯すれば",
+    "dictionary_form": "せんたくする",
+    "dictionary_form_kanji": "洗濯する"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "とります[しゃしんを～]",
+    "masu_form_kanji": "撮ります [写真を～]",
+    "ba_form": "とれば",
+    "ba_form_kanji": "撮れば",
+    "dictionary_form": "とる",
+    "dictionary_form_kanji": "撮る"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "ざんぎょうします",
+    "masu_form_kanji": "残業します",
+    "ba_form": "ざんぎょうすれば",
+    "ba_form_kanji": "ざんぎょうすれば",
+    "dictionary_form": "ざんぎょうする",
+    "dictionary_form_kanji": "残業する"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "よみます",
+    "masu_form_kanji": "読みます",
+    "ba_form": "よめば",
+    "ba_form_kanji": "読めば",
+    "dictionary_form": "よむ",
+    "dictionary_form_kanji": "読む"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "にげます",
+    "masu_form_kanji": "逃げます",
+    "ba_form": "にげれば",
+    "ba_form_kanji": "逃げれば",
+    "dictionary_form": "にげる",
+    "dictionary_form_kanji": "逃げる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "たべます",
+    "masu_form_kanji": "食べます",
+    "ba_form": "たべれば",
+    "ba_form_kanji": "食べれば",
+    "dictionary_form": "たべる",
+    "dictionary_form_kanji": "食べる"
+  },
+  {
+    "lesson": "22",
+    "masu_form": "かぶります [ぼうしを～]",
+    "masu_form_kanji": "[帽子を～]",
+    "ba_form": "かぶれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "かぶる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "32",
+    "masu_form": "しっぱいします [しけんに～]",
+    "masu_form_kanji": "失敗します [試験に～]",
+    "ba_form": "しっぱいすれば",
+    "ba_form_kanji": "失敗すれば",
+    "dictionary_form": "しっぱいする",
+    "dictionary_form_kanji": "失敗する"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "つけます [まるを～]",
+    "masu_form_kanji": "付けます [丸を～]",
+    "ba_form": "つければ",
+    "ba_form_kanji": "付ければ",
+    "dictionary_form": "つける",
+    "dictionary_form_kanji": "付ける"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "なくします",
+    "masu_form_kanji": null,
+    "ba_form": "なくせば",
+    "ba_form_kanji": null,
+    "dictionary_form": "なくす",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "31",
+    "masu_form": "みつけます",
+    "masu_form_kanji": "見つけます",
+    "ba_form": "みつければ",
+    "ba_form_kanji": "見つければ",
+    "dictionary_form": "みつける",
+    "dictionary_form_kanji": "見つける"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "ふります [あめ が～]",
+    "masu_form_kanji": "降ります [雨 が～]",
+    "ba_form": "ふれば",
+    "ba_form_kanji": "降れば",
+    "dictionary_form": "ふる",
+    "dictionary_form_kanji": "降る"
+  },
+  {
+    "lesson": "49",
+    "masu_form": "だします[ねつを～]",
+    "masu_form_kanji": "出します[熱を～]",
+    "ba_form": "だせば",
+    "ba_form_kanji": "出せば",
+    "dictionary_form": "だす",
+    "dictionary_form_kanji": "出す"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "まとめます",
+    "masu_form_kanji": null,
+    "ba_form": "まとめれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "まとめる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "33",
+    "masu_form": "はずします [せきを～]",
+    "masu_form_kanji": "外します [席を～]",
+    "ba_form": "はずせば",
+    "ba_form_kanji": "外せば",
+    "dictionary_form": "はずす",
+    "dictionary_form_kanji": "外す"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "きゅうけいします",
+    "masu_form_kanji": "休憩します",
+    "ba_form": "きゅうけいすれば",
+    "ba_form_kanji": "休憩すれば",
+    "dictionary_form": "きゅうけいする",
+    "dictionary_form_kanji": "休憩する"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "つつみます",
+    "masu_form_kanji": "包みます",
+    "ba_form": "つつめば",
+    "ba_form_kanji": "包めば",
+    "dictionary_form": "つつむ",
+    "dictionary_form_kanji": "包む"
+  },
+  {
+    "lesson": "20",
+    "masu_form": "いります [ビザが ～]",
+    "masu_form_kanji": "要ります [ビザが～]",
+    "ba_form": "いれば",
+    "ba_form_kanji": "要れば",
+    "dictionary_form": "いる",
+    "dictionary_form_kanji": "要る"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "つきます［うそを～］",
+    "masu_form_kanji": null,
+    "ba_form": "つけば",
+    "ba_form_kanji": null,
+    "dictionary_form": "つく",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "39",
+    "masu_form": "ふとります",
+    "masu_form_kanji": "太ります",
+    "ba_form": "ふとれば",
+    "ba_form_kanji": "太れば",
+    "dictionary_form": "ふとる",
+    "dictionary_form_kanji": "太る"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "ききます",
+    "masu_form_kanji": "聞きます",
+    "ba_form": "きけば",
+    "ba_form_kanji": "聞けば",
+    "dictionary_form": "きく",
+    "dictionary_form_kanji": "聞く"
+  },
+  {
+    "lesson": "9",
+    "masu_form": "わかります",
+    "masu_form_kanji": null,
+    "ba_form": "わかれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "わかる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "38",
+    "masu_form": "にゅういんします",
+    "masu_form_kanji": "入院します",
+    "ba_form": "にゅういんすれば",
+    "ba_form_kanji": "入院すれば",
+    "dictionary_form": "にゅういんする",
+    "dictionary_form_kanji": "入院する"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "かります",
+    "masu_form_kanji": "借ります",
+    "ba_form": "かりれば",
+    "ba_form_kanji": "借りれば",
+    "dictionary_form": "かりる",
+    "dictionary_form_kanji": "借りる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "しょうたいします",
+    "masu_form_kanji": "招待します",
+    "ba_form": "しょうたいすれば",
+    "ba_form_kanji": "招待すれば",
+    "dictionary_form": "しょうたいする",
+    "dictionary_form_kanji": "招待する"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "けんきゅうします",
+    "masu_form_kanji": "研究します",
+    "ba_form": "けんきゅうすれば",
+    "ba_form_kanji": "研究すれば",
+    "dictionary_form": "けんきゅうする",
+    "dictionary_form_kanji": "研究する"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "さんぽします[こうえんを～]",
+    "masu_form_kanji": "散歩します[公園を～]",
+    "ba_form": "さんぽすれば",
+    "ba_form_kanji": "散歩すれば",
+    "dictionary_form": "さんぽする",
+    "dictionary_form_kanji": "散歩する"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "うまく いきます",
+    "masu_form_kanji": null,
+    "ba_form": "うまくいけば",
+    "ba_form_kanji": "NA",
+    "dictionary_form": "うまくいく",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "33",
+    "masu_form": "ちゅういします [くるまに～]",
+    "masu_form_kanji": "注意します [車に～]",
+    "ba_form": "ちゅういすれば",
+    "ba_form_kanji": "注意すれば",
+    "dictionary_form": "ちゅういする",
+    "dictionary_form_kanji": "注意する"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "しかります",
+    "masu_form_kanji": null,
+    "ba_form": "しかれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "しかる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "37",
+    "masu_form": "たのみます",
+    "masu_form_kanji": "頼みます",
+    "ba_form": "たのめば",
+    "ba_form_kanji": "頼めば",
+    "dictionary_form": "たのむ",
+    "dictionary_form_kanji": "頼む"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "しつもんします",
+    "masu_form_kanji": "質問します",
+    "ba_form": "しつもんすれば",
+    "ba_form_kanji": "質問すれば",
+    "dictionary_form": "しつもんする",
+    "dictionary_form_kanji": "質問する"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "うたいます",
+    "masu_form_kanji": "歌います",
+    "ba_form": "うたえば",
+    "ba_form_kanji": "歌えば",
+    "dictionary_form": "うたう",
+    "dictionary_form_kanji": "歌う"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "さわぎます",
+    "masu_form_kanji": "騒ぎます",
+    "ba_form": "さわげば",
+    "ba_form_kanji": "騒げば",
+    "dictionary_form": "さわぐ",
+    "dictionary_form_kanji": "騒ぐ"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "ぶつかります",
+    "masu_form_kanji": null,
+    "ba_form": "ぶつかれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "ぶつかる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "18",
+    "masu_form": "できます",
+    "masu_form_kanji": null,
+    "ba_form": "できれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "できる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "27",
+    "masu_form": "たてます",
+    "masu_form_kanji": "建てます",
+    "ba_form": "たてれば",
+    "ba_form_kanji": "建てれば",
+    "dictionary_form": "たてる",
+    "dictionary_form_kanji": "建てる"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "れんらくします",
+    "masu_form_kanji": "連絡します",
+    "ba_form": "れんらくすれば",
+    "ba_form_kanji": "連絡すれば",
+    "dictionary_form": "れんらくする",
+    "dictionary_form_kanji": "連絡する"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "かみます",
+    "masu_form_kanji": null,
+    "ba_form": "かめば",
+    "ba_form_kanji": null,
+    "dictionary_form": "かむ",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "17",
+    "masu_form": "のみます [くすりを ～]",
+    "masu_form_kanji": "飲みます [薬を ～]",
+    "ba_form": "のめば",
+    "ba_form_kanji": "飲めば",
+    "dictionary_form": "のむ",
+    "dictionary_form_kanji": "飲む"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "がっかりします",
+    "masu_form_kanji": null,
+    "ba_form": "がっかりすれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "がっかりする",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "17",
+    "masu_form": "はらいます",
+    "masu_form_kanji": "払います",
+    "ba_form": "はらえば",
+    "ba_form_kanji": "払えば",
+    "dictionary_form": "はらう",
+    "dictionary_form_kanji": "払う"
+  },
+  {
+    "lesson": "25",
+    "masu_form": "つきます [えきに～]",
+    "masu_form_kanji": "着きます [駅に～]",
+    "ba_form": "つけば",
+    "ba_form_kanji": "着けば",
+    "dictionary_form": "つく",
+    "dictionary_form_kanji": "着く"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "あるきます [みちを～]",
+    "masu_form_kanji": "歩きます [道を～]",
+    "ba_form": "あるけば",
+    "ba_form_kanji": "歩けば",
+    "dictionary_form": "あるく",
+    "dictionary_form_kanji": "歩く"
+  },
+  {
+    "lesson": "36",
+    "masu_form": "くさります",
+    "masu_form_kanji": "腐ります",
+    "ba_form": "くされば",
+    "ba_form_kanji": "腐れば",
+    "dictionary_form": "くさる",
+    "dictionary_form_kanji": "腐る"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "のみます",
+    "masu_form_kanji": "飲みます",
+    "ba_form": "のめば",
+    "ba_form_kanji": "飲めば",
+    "dictionary_form": "のむ",
+    "dictionary_form_kanji": "飲む"
+  },
+  {
+    "lesson": "36",
+    "masu_form": "ちょきんします",
+    "masu_form_kanji": "貯金します",
+    "ba_form": "ちょきんすれば",
+    "ba_form_kanji": "貯金すれば",
+    "dictionary_form": "ちょきんする",
+    "dictionary_form_kanji": "貯金する"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "あきらめます",
+    "masu_form_kanji": null,
+    "ba_form": "あきらめれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "あきらめる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "14",
+    "masu_form": "よびます",
+    "masu_form_kanji": "呼びます",
+    "ba_form": "よべば",
+    "ba_form_kanji": "呼べば",
+    "dictionary_form": "よぶ",
+    "dictionary_form_kanji": "呼ぶ"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "けんかします",
+    "masu_form_kanji": null,
+    "ba_form": "けんかすれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "けんかする",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "44",
+    "masu_form": "ぬれます",
+    "masu_form_kanji": null,
+    "ba_form": "ぬれれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "ぬれる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "22",
+    "masu_form": "はきます [くつを～]",
+    "masu_form_kanji": "[靴を～]",
+    "ba_form": "はけば",
+    "ba_form_kanji": null,
+    "dictionary_form": "はく",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "4",
+    "masu_form": "おきます",
+    "masu_form_kanji": "起きます",
+    "ba_form": "おきれば",
+    "ba_form_kanji": "起きれば",
+    "dictionary_form": "おきる",
+    "dictionary_form_kanji": "起きる"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "まに あいます [じかんに～]",
+    "masu_form_kanji": "間に合います [時間に～]",
+    "ba_form": "まにあえば",
+    "ba_form_kanji": "間に合えば",
+    "dictionary_form": "まにあう",
+    "dictionary_form_kanji": "間に合う"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "つきます [ポケット が～]",
+    "masu_form_kanji": "付きます",
+    "ba_form": "つけば",
+    "ba_form_kanji": "付けば",
+    "dictionary_form": "つく",
+    "dictionary_form_kanji": "付く"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "まわします",
+    "masu_form_kanji": "回します",
+    "ba_form": "まわせば",
+    "ba_form_kanji": "回せば",
+    "dictionary_form": "まわす",
+    "dictionary_form_kanji": "回す"
+  },
+  {
+    "lesson": "43",
+    "masu_form": "とれます[ボタンが～]",
+    "masu_form_kanji": "取れます",
+    "ba_form": "とれれば",
+    "ba_form_kanji": "取れれば",
+    "dictionary_form": "とれる",
+    "dictionary_form_kanji": "取れる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "とります",
+    "masu_form_kanji": null,
+    "ba_form": "とれば",
+    "ba_form_kanji": "取れば",
+    "dictionary_form": "とる",
+    "dictionary_form_kanji": "取る"
+  },
+  {
+    "lesson": "45",
+    "masu_form": "しらせます",
+    "masu_form_kanji": "知らせます",
+    "ba_form": "しらせれば",
+    "ba_form_kanji": "知らせれば",
+    "dictionary_form": "しらせる",
+    "dictionary_form_kanji": "知らせる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "しゅっせきします [かいぎに～]",
+    "masu_form_kanji": "出席します [会議に～]",
+    "ba_form": "しゅっせきすれば",
+    "ba_form_kanji": "出席すれば",
+    "dictionary_form": "しゅっせきする",
+    "dictionary_form_kanji": "出席する"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "でんわします",
+    "masu_form_kanji": "電話します",
+    "ba_form": "でんわすれば",
+    "ba_form_kanji": "電話すれば",
+    "dictionary_form": "でんわする",
+    "dictionary_form_kanji": "電話する"
+  },
+  {
+    "lesson": "25",
+    "masu_form": "とります [としを～]",
+    "masu_form_kanji": "取ります [年を～]",
+    "ba_form": "とれば",
+    "ba_form_kanji": "取れば",
+    "dictionary_form": "とる",
+    "dictionary_form_kanji": "取る"
+  },
+  {
+    "lesson": "45",
+    "masu_form": "ゆうしょうします",
+    "masu_form_kanji": "優勝します",
+    "ba_form": "ゆうしょうすれば",
+    "ba_form_kanji": "優勝すれば",
+    "dictionary_form": "ゆうしょうする",
+    "dictionary_form_kanji": "優勝する"
+  },
+  {
+    "lesson": "41",
+    "masu_form": "やります",
+    "masu_form_kanji": null,
+    "ba_form": "やれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "やる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "23",
+    "masu_form": "ききます [せんせいに～]",
+    "masu_form_kanji": "聞きます [先生に～]",
+    "ba_form": "きけば",
+    "ba_form_kanji": "聞けば",
+    "dictionary_form": "きく",
+    "dictionary_form_kanji": "聞く"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "しにます",
+    "masu_form_kanji": "死にます",
+    "ba_form": "しねば",
+    "ba_form_kanji": "死ねば",
+    "dictionary_form": "しぬ",
+    "dictionary_form_kanji": "死ぬ"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "うります",
+    "masu_form_kanji": "売ります",
+    "ba_form": "うれば",
+    "ba_form_kanji": "売れば",
+    "dictionary_form": "うる",
+    "dictionary_form_kanji": "売る"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "ふくしゅうします",
+    "masu_form_kanji": "復習します",
+    "ba_form": "ふくしゅうすれば",
+    "ba_form_kanji": "復習すれば",
+    "dictionary_form": "ふくしゅうする",
+    "dictionary_form_kanji": "復習する"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "こんやくします",
+    "masu_form_kanji": "婚約します",
+    "ba_form": "こんやくすれば",
+    "ba_form_kanji": "婚約すれば",
+    "dictionary_form": "こんやくする",
+    "dictionary_form_kanji": "婚約する"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "なおします",
+    "masu_form_kanji": "直します",
+    "ba_form": "なおせば",
+    "ba_form_kanji": "直せば",
+    "dictionary_form": "なおす",
+    "dictionary_form_kanji": "直す"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "しまいます",
+    "masu_form_kanji": null,
+    "ba_form": "しまえば",
+    "ba_form_kanji": null,
+    "dictionary_form": "しまう",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "47",
+    "masu_form": "ふきます [かぜが～]",
+    "masu_form_kanji": "吹きます [風が～]",
+    "ba_form": "ふけば",
+    "ba_form_kanji": "吹けば",
+    "dictionary_form": "ふく",
+    "dictionary_form_kanji": "吹く"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "でます [おつりが～]",
+    "masu_form_kanji": "出ます [お釣りが～]",
+    "ba_form": "でれば",
+    "ba_form_kanji": "出れば",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る"
+  },
+  {
+    "lesson": "4",
+    "masu_form": "やすみます",
+    "masu_form_kanji": "休みます",
+    "ba_form": "やすめば",
+    "ba_form_kanji": "休めば",
+    "dictionary_form": "やすむ",
+    "dictionary_form_kanji": "休む"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "はじまります [しきが～]",
+    "masu_form_kanji": "始まります [式が～]",
+    "ba_form": "はじまれば",
+    "ba_form_kanji": "始まれば",
+    "dictionary_form": "はじまる",
+    "dictionary_form_kanji": "始まる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "つけます [しょうゆを～]",
+    "masu_form_kanji": null,
+    "ba_form": "つければ",
+    "ba_form_kanji": null,
+    "dictionary_form": "つける",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "31",
+    "masu_form": "のこります",
+    "masu_form_kanji": "残ります",
+    "ba_form": "のこれば",
+    "ba_form_kanji": "残れば",
+    "dictionary_form": "のこる",
+    "dictionary_form_kanji": "残る"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "かえます",
+    "masu_form_kanji": "換えます",
+    "ba_form": "かえれば",
+    "ba_form_kanji": "換えれば",
+    "dictionary_form": "かえる",
+    "dictionary_form_kanji": "換える"
+  },
+  {
+    "lesson": "36",
+    "masu_form": "すぎます [７じを～]",
+    "masu_form_kanji": "過ぎます [7時を～]",
+    "ba_form": "すぎれば",
+    "ba_form_kanji": "過ぎれば",
+    "dictionary_form": "すぎる",
+    "dictionary_form_kanji": "過ぎる"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "しります",
+    "masu_form_kanji": "知ります",
+    "ba_form": "しれば",
+    "ba_form_kanji": "知れば",
+    "dictionary_form": "しる",
+    "dictionary_form_kanji": "知る"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "おもいだします",
+    "masu_form_kanji": "思い出します",
+    "ba_form": "おもいだせば",
+    "ba_form_kanji": "思い出せば",
+    "dictionary_form": "おもいだす",
+    "dictionary_form_kanji": "思い出す"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "もえます",
+    "masu_form_kanji": "燃えます",
+    "ba_form": "もえれば",
+    "ba_form_kanji": "燃えれば",
+    "dictionary_form": "もえる",
+    "dictionary_form_kanji": "燃える"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "およぎます",
+    "masu_form_kanji": "泳ぎます",
+    "ba_form": "およげば",
+    "ba_form_kanji": "泳げば",
+    "dictionary_form": "およぐ",
+    "dictionary_form_kanji": "泳ぐ"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "しつれいします",
+    "masu_form_kanji": "失礼します",
+    "ba_form": "しつれいすれば",
+    "ba_form_kanji": "失礼すれば",
+    "dictionary_form": "しつれいする",
+    "dictionary_form_kanji": "失礼する"
+  },
+  {
+    "lesson": "22",
+    "masu_form": "かけます[めがねを～]",
+    "masu_form_kanji": "[眼鏡を～]",
+    "ba_form": "かければ",
+    "ba_form_kanji": null,
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "44",
+    "masu_form": "わらいます",
+    "masu_form_kanji": "笑います",
+    "ba_form": "わらえば",
+    "ba_form_kanji": "笑えば",
+    "dictionary_form": "わらう",
+    "dictionary_form_kanji": "笑う"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "かえってきます",
+    "masu_form_kanji": "帰って 来ます",
+    "ba_form": "かえってくれば",
+    "ba_form_kanji": "帰って来れば",
+    "dictionary_form": "かえってくる",
+    "dictionary_form_kanji": "帰って来る"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "かけます[でんわを～]",
+    "masu_form_kanji": "[電話を～]",
+    "ba_form": "かければ",
+    "ba_form_kanji": null,
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "5",
+    "masu_form": "いきます",
+    "masu_form_kanji": "行きます",
+    "ba_form": "いけば",
+    "ba_form_kanji": "行けば",
+    "dictionary_form": "いく",
+    "dictionary_form_kanji": "行く"
+  },
+  {
+    "lesson": "50",
+    "masu_form": "きんちょうします",
+    "masu_form_kanji": "緊張します",
+    "ba_form": "きんちょうすれば",
+    "ba_form_kanji": "緊張すれば",
+    "dictionary_form": "きんちょうする",
+    "dictionary_form_kanji": "緊張する"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "たいいんします",
+    "masu_form_kanji": "退院します",
+    "ba_form": "たいいんすれば",
+    "ba_form_kanji": "退院すれば",
+    "dictionary_form": "たいいんする",
+    "dictionary_form_kanji": "退院する"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "はれます",
+    "masu_form_kanji": "晴れます",
+    "ba_form": "はれれば",
+    "ba_form_kanji": "晴れれば",
+    "dictionary_form": "はれる",
+    "dictionary_form_kanji": "晴れる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "びっくりします",
+    "masu_form_kanji": null,
+    "ba_form": "びっくりすれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "びっくりする",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "46",
+    "masu_form": "とどきます [にもつが～]",
+    "masu_form_kanji": "届きます [荷物が～]",
+    "ba_form": "とどけば",
+    "ba_form_kanji": "届けば",
+    "dictionary_form": "とどく",
+    "dictionary_form_kanji": "届く"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "そのままにします",
+    "masu_form_kanji": null,
+    "ba_form": "そのままにすれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "そのままにする",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "16",
+    "masu_form": "けんがくします",
+    "masu_form_kanji": "見学します",
+    "ba_form": "けんがくすれば",
+    "ba_form_kanji": "見学すれば",
+    "dictionary_form": "けんがくする",
+    "dictionary_form_kanji": "見学する"
+  },
+  {
+    "lesson": "22",
+    "masu_form": "します [ネクタイを～]",
+    "masu_form_kanji": null,
+    "ba_form": "すれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "する",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "39",
+    "masu_form": "やせます",
+    "masu_form_kanji": null,
+    "ba_form": "やせれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "やせる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "21",
+    "masu_form": "いいます",
+    "masu_form_kanji": "言います",
+    "ba_form": "いえば",
+    "ba_form_kanji": "言えば",
+    "dictionary_form": "いう",
+    "dictionary_form_kanji": "言う"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "なくなります",
+    "masu_form_kanji": "亡くなります",
+    "ba_form": "なくなれば",
+    "ba_form_kanji": "亡くなれば",
+    "dictionary_form": "なくなる",
+    "dictionary_form_kanji": "亡くなる"
+  },
+  {
+    "lesson": "20",
+    "masu_form": "しゅうりします",
+    "masu_form_kanji": "修理します",
+    "ba_form": "しゅうりすれば",
+    "ba_form_kanji": "修理すれば",
+    "dictionary_form": "しゅうりする",
+    "dictionary_form_kanji": "修理する"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "はじめます",
+    "masu_form_kanji": "始めます",
+    "ba_form": "はじめれば",
+    "ba_form_kanji": "始めれば",
+    "dictionary_form": "はじめる",
+    "dictionary_form_kanji": "始める"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "つれて きます",
+    "masu_form_kanji": "連れて来ます",
+    "ba_form": "つれてくれば",
+    "ba_form_kanji": "連れて来れば",
+    "dictionary_form": "つれてくる",
+    "dictionary_form_kanji": "連れて来る"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "おします [はんこを～]",
+    "masu_form_kanji": "押します [はんこを～]",
+    "ba_form": "おせば",
+    "ba_form_kanji": "押せば",
+    "dictionary_form": "おす",
+    "dictionary_form_kanji": "押す"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "みつかります [かぎが～]",
+    "masu_form_kanji": "見つかります [かぎが～]",
+    "ba_form": "みつかれば",
+    "ba_form_kanji": "見つかれば",
+    "dictionary_form": "みつかる",
+    "dictionary_form_kanji": "見つかる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "うごきます [とけいが～]",
+    "masu_form_kanji": "動きます [時計が～]",
+    "ba_form": "うごけば",
+    "ba_form_kanji": "動けば",
+    "dictionary_form": "うごく",
+    "dictionary_form_kanji": "動く"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "つづけます",
+    "masu_form_kanji": "続けます",
+    "ba_form": "つづければ",
+    "ba_form_kanji": "続ければ",
+    "dictionary_form": "つづける",
+    "dictionary_form_kanji": "続ける"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "なげます",
+    "masu_form_kanji": "投げます",
+    "ba_form": "なげれば",
+    "ba_form_kanji": "投げれば",
+    "dictionary_form": "なげる",
+    "dictionary_form_kanji": "投げる"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "でます[もんだいが～]",
+    "masu_form_kanji": "出ます[問題が～]",
+    "ba_form": "でれば",
+    "ba_form_kanji": "出れば",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る"
+  },
+  {
+    "lesson": "49",
+    "masu_form": "すごします",
+    "masu_form_kanji": "過ごします",
+    "ba_form": "すごせば",
+    "ba_form_kanji": "過ごせば",
+    "dictionary_form": "すごす",
+    "dictionary_form_kanji": "過ごす"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "おくれます [じかんに～]",
+    "masu_form_kanji": "遅れます [時間に～]",
+    "ba_form": "おくれれば",
+    "ba_form_kanji": "遅れれば",
+    "dictionary_form": "おくれる",
+    "dictionary_form_kanji": "遅れる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "つけます",
+    "masu_form_kanji": null,
+    "ba_form": "つければ",
+    "ba_form_kanji": null,
+    "dictionary_form": "つける",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "44",
+    "masu_form": "すべります",
+    "masu_form_kanji": "滑ります",
+    "ba_form": "すべれば",
+    "ba_form_kanji": "滑れば",
+    "dictionary_form": "すべる",
+    "dictionary_form_kanji": "滑る"
+  },
+  {
+    "lesson": "20",
+    "masu_form": "しらべます",
+    "masu_form_kanji": "調べます",
+    "ba_form": "しらべれば",
+    "ba_form_kanji": "調べれば",
+    "dictionary_form": "しらべる",
+    "dictionary_form_kanji": "調べる"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "あつまります［人が］",
+    "masu_form_kanji": "集まります［人が］",
+    "ba_form": "あつまれば",
+    "ba_form_kanji": "集まれば",
+    "dictionary_form": "あつまる",
+    "dictionary_form_kanji": "集まる"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "わかします",
+    "masu_form_kanji": "沸かします",
+    "ba_form": "わかせば",
+    "ba_form_kanji": "沸かせば",
+    "dictionary_form": "わかす",
+    "dictionary_form_kanji": "沸かす"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "でかけます",
+    "masu_form_kanji": "出かけます",
+    "ba_form": "でかければ",
+    "ba_form_kanji": "出かければ",
+    "dictionary_form": "でかける",
+    "dictionary_form_kanji": "出かける"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "はっけんします",
+    "masu_form_kanji": "発見します",
+    "ba_form": "はっけんすれば",
+    "ba_form_kanji": "発見すれば",
+    "dictionary_form": "はっけんする",
+    "dictionary_form_kanji": "発見する"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "あらいます",
+    "masu_form_kanji": "洗います",
+    "ba_form": "あらえば",
+    "ba_form_kanji": "洗えば",
+    "dictionary_form": "あらう",
+    "dictionary_form_kanji": "洗う"
+  },
+  {
+    "lesson": "48",
+    "masu_form": "とどけます",
+    "masu_form_kanji": "届けます",
+    "ba_form": "とどければ",
+    "ba_form_kanji": "届ければ",
+    "dictionary_form": "とどける",
+    "dictionary_form_kanji": "届ける"
+  },
+  {
+    "lesson": "5",
+    "masu_form": "かえります",
+    "masu_form_kanji": "帰ります",
+    "ba_form": "かえれば",
+    "ba_form_kanji": "帰れば",
+    "dictionary_form": "かえる",
+    "dictionary_form_kanji": "帰る"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "おしえます [じゅうしょを～]",
+    "masu_form_kanji": "教えます [住所 を～]",
+    "ba_form": "おしえれば",
+    "ba_form_kanji": "教えれば",
+    "dictionary_form": "おしえる",
+    "dictionary_form_kanji": "教える"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "おくります",
+    "masu_form_kanji": "送ります",
+    "ba_form": "おくれば",
+    "ba_form_kanji": "送れば",
+    "dictionary_form": "おくる",
+    "dictionary_form_kanji": "送る"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "だします [ごみを～]",
+    "masu_form_kanji": "出します",
+    "ba_form": "だせば",
+    "ba_form_kanji": "出せば",
+    "dictionary_form": "だす",
+    "dictionary_form_kanji": "出す"
+  },
+  {
+    "lesson": "43",
+    "masu_form": "きれます[ひもが～]",
+    "masu_form_kanji": "切れます",
+    "ba_form": "きれれば",
+    "ba_form_kanji": "切れれば",
+    "dictionary_form": "きれる",
+    "dictionary_form_kanji": "切れる"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "とまります [エレベーター が～]",
+    "masu_form_kanji": "止まります",
+    "ba_form": "とまれば",
+    "ba_form_kanji": "止まれば",
+    "dictionary_form": "とまる",
+    "dictionary_form_kanji": "止まる"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "せつめいします",
+    "masu_form_kanji": "説明します",
+    "ba_form": "せつめいすれば",
+    "ba_form_kanji": "説明すれば",
+    "dictionary_form": "せつめいする",
+    "dictionary_form_kanji": "説明する"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "みがきます[はを～]",
+    "masu_form_kanji": "磨きます [歯を～]",
+    "ba_form": "みがけば",
+    "ba_form_kanji": "磨けば",
+    "dictionary_form": "みがく",
+    "dictionary_form_kanji": "磨く"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "みせます",
+    "masu_form_kanji": "見せます",
+    "ba_form": "みせれば",
+    "ba_form_kanji": "見せれば",
+    "dictionary_form": "みせる",
+    "dictionary_form_kanji": "見せる"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "やみます [あめが～]",
+    "masu_form_kanji": "やみます [雨が～]",
+    "ba_form": "やめば",
+    "ba_form_kanji": null,
+    "dictionary_form": "やむ",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "38",
+    "masu_form": "かけます[かぎを～]",
+    "masu_form_kanji": "掛けます",
+    "ba_form": "かければ",
+    "ba_form_kanji": "掛ければ",
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": "掛ける"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "にゅうがくします [だいがくに～]",
+    "masu_form_kanji": "入学します [大学に～]",
+    "ba_form": "にゅうがくすれば",
+    "ba_form_kanji": "入学すれば",
+    "dictionary_form": "にゅうがくする",
+    "dictionary_form_kanji": "入学する"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "もって いきます",
+    "masu_form_kanji": "持って行きます",
+    "ba_form": "もっていけば",
+    "ba_form_kanji": "持って行けば",
+    "dictionary_form": "もっていく",
+    "dictionary_form_kanji": "持って行く"
+  },
+  {
+    "lesson": "11",
+    "masu_form": "います (にほんに～)",
+    "masu_form_kanji": "います (日本に～)",
+    "ba_form": "いれば",
+    "ba_form_kanji": null,
+    "dictionary_form": "いる",
+    "dictionary_form_kanji": null
+  },
+  {
+    "lesson": "39",
+    "masu_form": "とおります [みちを～]",
+    "masu_form_kanji": "通ります[道を～]",
+    "ba_form": "とおれば",
+    "ba_form_kanji": "通れば",
+    "dictionary_form": "とおる",
+    "dictionary_form_kanji": "通る"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "かちます",
+    "masu_form_kanji": "勝ちます",
+    "ba_form": "かてば",
+    "ba_form_kanji": "勝てば",
+    "dictionary_form": "かつ",
+    "dictionary_form_kanji": "勝つ"
+  },
+  {
+    "lesson": "36",
+    "masu_form": "なれます [しゅうかんに～]",
+    "masu_form_kanji": "慣れます [習慣に～]",
+    "ba_form": "なれれば",
+    "ba_form_kanji": "慣れれば",
+    "dictionary_form": "なれる",
+    "dictionary_form_kanji": "慣れる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "きります [でんげんを～]",
+    "masu_form_kanji": "切ります [電源を～]",
+    "ba_form": "きれば",
+    "ba_form_kanji": "切れば",
+    "dictionary_form": "きる",
+    "dictionary_form_kanji": "切る"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "しゅっぱつします",
+    "masu_form_kanji": "出発します",
+    "ba_form": "しゅっぱつすれば",
+    "ba_form_kanji": "出発すれば",
+    "dictionary_form": "しゅっぱつする",
+    "dictionary_form_kanji": "出発する"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "くもります",
+    "masu_form_kanji": "曇ります",
+    "ba_form": "くもれば",
+    "ba_form_kanji": "曇れば",
+    "dictionary_form": "くもる",
+    "dictionary_form_kanji": "曇る"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "かよいます [だいがく に～]",
+    "masu_form_kanji": "通います [大学 に～]",
+    "ba_form": "かよえば",
+    "ba_form_kanji": "通えば",
+    "dictionary_form": "かよう",
+    "dictionary_form_kanji": "通う"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "かえます",
+    "masu_form_kanji": "変えます",
+    "ba_form": "かえれば",
+    "ba_form_kanji": "変えれば",
+    "dictionary_form": "かえる",
+    "dictionary_form_kanji": "変える"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "つけます",
+    "masu_form_kanji": "付けます",
+    "ba_form": "つければ",
+    "ba_form_kanji": "付ければ",
+    "dictionary_form": "つける",
+    "dictionary_form_kanji": "付ける"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "みます",
+    "masu_form_kanji": "見ます",
+    "ba_form": "みれば",
+    "ba_form_kanji": "見れば",
+    "dictionary_form": "みる",
+    "dictionary_form_kanji": "見る"
+  }
+]

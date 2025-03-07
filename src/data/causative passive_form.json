@@ -1,0 +1,2621 @@
+[
+  {
+    "lesson": "23",
+    "masu_form": "さわります [ドアに～]",
+    "masu_form_kanji": "触ります",
+    "dictionary_form": "さわる",
+    "dictionary_form_kanji": "触る",
+    "causative_passive_form": "さわらせられる",
+    "causative_passive_form_kanji": "触らせられる"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "しりあいます",
+    "masu_form_kanji": "知り合います",
+    "dictionary_form": "しりあう",
+    "dictionary_form_kanji": "知り合う",
+    "causative_passive_form": "しりあわせられる",
+    "causative_passive_form_kanji": "知り合わせられる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "かります",
+    "masu_form_kanji": "借ります",
+    "dictionary_form": "かりる",
+    "dictionary_form_kanji": "借りる",
+    "causative_passive_form": "かりさせられる",
+    "causative_passive_form_kanji": "借りさせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "コピーします",
+    "masu_form_kanji": null,
+    "dictionary_form": "コピーする",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "コピーさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "13",
+    "masu_form": "あそびます",
+    "masu_form_kanji": "遊びます",
+    "dictionary_form": "あそぶ",
+    "dictionary_form_kanji": "遊ぶ",
+    "causative_passive_form": "あそばせられる",
+    "causative_passive_form_kanji": "遊ばせられる"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "にゅうりょくします",
+    "masu_form_kanji": "入力します",
+    "dictionary_form": "にゅうりょくする",
+    "dictionary_form_kanji": "入力する",
+    "causative_passive_form": "にゅうりょくさせられる",
+    "causative_passive_form_kanji": "入力させられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "はじめます",
+    "masu_form_kanji": "始めます",
+    "dictionary_form": "はじめる",
+    "dictionary_form_kanji": "始める",
+    "causative_passive_form": "はじめさせられる",
+    "causative_passive_form_kanji": "始めさせられる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "くみたてます",
+    "masu_form_kanji": "組み立てます",
+    "dictionary_form": "くみたてる",
+    "dictionary_form_kanji": "組み立てる",
+    "causative_passive_form": "くみたてさせられる",
+    "causative_passive_form_kanji": "組み立てさせられる"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "うたいます",
+    "masu_form_kanji": "歌います",
+    "dictionary_form": "うたう",
+    "dictionary_form_kanji": "歌う",
+    "causative_passive_form": "うたわせられる",
+    "causative_passive_form_kanji": "歌わせられる"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "ひらきます [きょうしつ を～]",
+    "masu_form_kanji": "開きます [教室 を～]",
+    "dictionary_form": "ひらく",
+    "dictionary_form_kanji": "開く",
+    "causative_passive_form": "ひらかせられる",
+    "causative_passive_form_kanji": "開かせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "でます[きっさてんを～]",
+    "masu_form_kanji": "出ます[喫茶店を～]",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る",
+    "causative_passive_form": "でさせられる",
+    "causative_passive_form_kanji": "出させられる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "とおります [みちを～]",
+    "masu_form_kanji": "通ります[道を～]",
+    "dictionary_form": "とおる",
+    "dictionary_form_kanji": "通る",
+    "causative_passive_form": "とおらせられる",
+    "causative_passive_form_kanji": "通らせられる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "のせます",
+    "masu_form_kanji": "載せます",
+    "dictionary_form": "のせる",
+    "dictionary_form_kanji": "載せる",
+    "causative_passive_form": "のせさせられる",
+    "causative_passive_form_kanji": "載せさせられる"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "ひきます",
+    "masu_form_kanji": "引きます",
+    "dictionary_form": "ひく",
+    "dictionary_form_kanji": "引く",
+    "causative_passive_form": "ひかせられる",
+    "causative_passive_form_kanji": "引かせられる"
+  },
+  {
+    "lesson": "44",
+    "masu_form": "すべります",
+    "masu_form_kanji": "滑ります",
+    "dictionary_form": "すべる",
+    "dictionary_form_kanji": "滑る",
+    "causative_passive_form": "すべらせられる",
+    "causative_passive_form_kanji": "滑らせられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "けんがくします",
+    "masu_form_kanji": "見学します",
+    "dictionary_form": "けんがくする",
+    "dictionary_form_kanji": "見学する",
+    "causative_passive_form": "けんがくさせられる",
+    "causative_passive_form_kanji": "見学させられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "こわします",
+    "masu_form_kanji": "壊します",
+    "dictionary_form": "こわす",
+    "dictionary_form_kanji": "壊す",
+    "causative_passive_form": "こわさせられる",
+    "causative_passive_form_kanji": "壊させられる"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "つけます",
+    "masu_form_kanji": "付けます",
+    "dictionary_form": "つける",
+    "dictionary_form_kanji": "付ける",
+    "causative_passive_form": "つけさせられる",
+    "causative_passive_form_kanji": "付けさせられる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "いいます",
+    "masu_form_kanji": "言います",
+    "dictionary_form": "いう",
+    "dictionary_form_kanji": "言う",
+    "causative_passive_form": "いわせられる",
+    "causative_passive_form_kanji": "言わせられる"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "せつめいします",
+    "masu_form_kanji": "説明します",
+    "dictionary_form": "せつめいする",
+    "dictionary_form_kanji": "説明する",
+    "causative_passive_form": "せつめいさせられる",
+    "causative_passive_form_kanji": "説明させられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "かいます",
+    "masu_form_kanji": "買います",
+    "dictionary_form": "かう",
+    "dictionary_form_kanji": "買う",
+    "causative_passive_form": "かわせられる",
+    "causative_passive_form_kanji": "買わせられる"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "しっぱいします [しけんに～]",
+    "masu_form_kanji": "失敗します [試験に～]",
+    "dictionary_form": "しっぱいする",
+    "dictionary_form_kanji": "失敗する",
+    "causative_passive_form": "しっぱいさせられる",
+    "causative_passive_form_kanji": "失敗させられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ゆにゅうします",
+    "masu_form_kanji": "輸入します",
+    "dictionary_form": "ゆにゅうする",
+    "dictionary_form_kanji": "輸入する",
+    "causative_passive_form": "ゆにゅうさせられる",
+    "causative_passive_form_kanji": "輸入させられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "すいます（たばこを～）",
+    "masu_form_kanji": "吸います",
+    "dictionary_form": "すう",
+    "dictionary_form_kanji": "吸う",
+    "causative_passive_form": "すわせられる",
+    "causative_passive_form_kanji": "吸わせられる"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "つくります",
+    "masu_form_kanji": "作ります/造ります",
+    "dictionary_form": "つくる",
+    "dictionary_form_kanji": "作る",
+    "causative_passive_form": "つくらせられる",
+    "causative_passive_form_kanji": "作らせられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "おぼえます",
+    "masu_form_kanji": "覚えます",
+    "dictionary_form": "おぼえる",
+    "dictionary_form_kanji": "覚える",
+    "causative_passive_form": "おぼえさせられる",
+    "causative_passive_form_kanji": "覚えさせられる"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "おきます",
+    "masu_form_kanji": "置きます",
+    "dictionary_form": "おく",
+    "dictionary_form_kanji": "置く",
+    "causative_passive_form": "おかせられる",
+    "causative_passive_form_kanji": "置かせられる"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "つけます [まるを～]",
+    "masu_form_kanji": "付けます [丸を～]",
+    "dictionary_form": "つける",
+    "dictionary_form_kanji": "付ける",
+    "causative_passive_form": "つけさせられる",
+    "causative_passive_form_kanji": "付けさせられる"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "たしかめます",
+    "masu_form_kanji": "確かめます",
+    "dictionary_form": "たしかめる",
+    "dictionary_form_kanji": "確かめる",
+    "causative_passive_form": "たしかめさせられる",
+    "causative_passive_form_kanji": "確かめさせられる"
+  },
+  {
+    "lesson": "11",
+    "masu_form": "おねがいします",
+    "masu_form_kanji": "お願いします",
+    "dictionary_form": "おねがいする",
+    "dictionary_form_kanji": "お願いする",
+    "causative_passive_form": "おねがいさせられる",
+    "causative_passive_form_kanji": "お願いさせられる"
+  },
+  {
+    "lesson": "36",
+    "masu_form": "なれます [しゅうかんに～]",
+    "masu_form_kanji": "慣れます [習慣に～]",
+    "dictionary_form": "なれる",
+    "dictionary_form_kanji": "慣れる",
+    "causative_passive_form": "なれさせられる",
+    "causative_passive_form_kanji": "慣れさせられる"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "かぞえます",
+    "masu_form_kanji": "数えます",
+    "dictionary_form": "かぞえる",
+    "dictionary_form_kanji": "数える",
+    "causative_passive_form": "かぞえさせられる",
+    "causative_passive_form_kanji": "数えさせられる"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "むかえます",
+    "masu_form_kanji": "迎えます",
+    "dictionary_form": "むかえる",
+    "dictionary_form_kanji": "迎える",
+    "causative_passive_form": "むかえさせられる",
+    "causative_passive_form_kanji": "迎えさせられる"
+  },
+  {
+    "lesson": "11",
+    "masu_form": "います (にほんに～)",
+    "masu_form_kanji": "います (日本に～)",
+    "dictionary_form": "いる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "いさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "17",
+    "masu_form": "のみます [くすりを ～]",
+    "masu_form_kanji": "飲みます [薬を ～]",
+    "dictionary_form": "のむ",
+    "dictionary_form_kanji": "飲む",
+    "causative_passive_form": "のませられる",
+    "causative_passive_form_kanji": "飲ませられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "たちます",
+    "masu_form_kanji": "立ちます",
+    "dictionary_form": "たつ",
+    "dictionary_form_kanji": "立つ",
+    "causative_passive_form": "たたせられる",
+    "causative_passive_form_kanji": "立たせられる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "いれます [でんげんを～]",
+    "masu_form_kanji": "入れます [電源を～]",
+    "dictionary_form": "いれる",
+    "dictionary_form_kanji": "入れる",
+    "causative_passive_form": "いれさせられる",
+    "causative_passive_form_kanji": "入れさせられる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "けんかします",
+    "masu_form_kanji": null,
+    "dictionary_form": "けんかする",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "けんかさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "15",
+    "masu_form": "すわります",
+    "masu_form_kanji": "座ります",
+    "dictionary_form": "すわる",
+    "dictionary_form_kanji": "座る",
+    "causative_passive_form": "すわらせられる",
+    "causative_passive_form_kanji": "座らせられる"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "うんてんします",
+    "masu_form_kanji": "運転します",
+    "dictionary_form": "うんてんする",
+    "dictionary_form_kanji": "運転する",
+    "causative_passive_form": "うんてんさせられる",
+    "causative_passive_form_kanji": "運転させられる"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "わたします",
+    "masu_form_kanji": "渡します",
+    "dictionary_form": "わたす",
+    "dictionary_form_kanji": "渡す",
+    "causative_passive_form": "わたさせられる",
+    "causative_passive_form_kanji": "渡させられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "でんわします",
+    "masu_form_kanji": "電話します",
+    "dictionary_form": "でんわする",
+    "dictionary_form_kanji": "電話する",
+    "causative_passive_form": "でんわさせられる",
+    "causative_passive_form_kanji": "電話させられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "もって いきます",
+    "masu_form_kanji": "持って行きます",
+    "dictionary_form": "もっていく",
+    "dictionary_form_kanji": "持って行く",
+    "causative_passive_form": "もっていかせられる",
+    "causative_passive_form_kanji": "持って行かせられる"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "あらいます",
+    "masu_form_kanji": "洗います",
+    "dictionary_form": "あらう",
+    "dictionary_form_kanji": "洗う",
+    "causative_passive_form": "あらわせられる",
+    "causative_passive_form_kanji": "洗わせられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "まもります",
+    "masu_form_kanji": "守ります",
+    "dictionary_form": "まもる",
+    "dictionary_form_kanji": "守る",
+    "causative_passive_form": "まもらせられる",
+    "causative_passive_form_kanji": "守らせられる"
+  },
+  {
+    "lesson": "48",
+    "masu_form": "せわをします",
+    "masu_form_kanji": "世話をします",
+    "dictionary_form": "せわをする",
+    "dictionary_form_kanji": "世話をする",
+    "causative_passive_form": "せわをさせられる",
+    "causative_passive_form_kanji": "世話をさせられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "しょうたいします",
+    "masu_form_kanji": "招待します",
+    "dictionary_form": "しょうたいする",
+    "dictionary_form_kanji": "招待する",
+    "causative_passive_form": "しょうたいさせられる",
+    "causative_passive_form_kanji": "招待させられる"
+  },
+  {
+    "lesson": "49",
+    "masu_form": "じゅしょうします",
+    "masu_form_kanji": "受賞します",
+    "dictionary_form": "じゅしょうする",
+    "dictionary_form_kanji": "受賞する",
+    "causative_passive_form": "じゅしょうさせられる",
+    "causative_passive_form_kanji": "受賞させられる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "つけます [しょうゆを～]",
+    "masu_form_kanji": null,
+    "dictionary_form": "つける",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "つけさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "49",
+    "masu_form": "りようします",
+    "masu_form_kanji": "利用します",
+    "dictionary_form": "りようする",
+    "dictionary_form_kanji": "利用する",
+    "causative_passive_form": "りようさせられる",
+    "causative_passive_form_kanji": "利用させられる"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "だします [ごみを～]",
+    "masu_form_kanji": "出します",
+    "dictionary_form": "だす",
+    "dictionary_form_kanji": "出す",
+    "causative_passive_form": "ださせられる",
+    "causative_passive_form_kanji": "出させられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "はつめいします",
+    "masu_form_kanji": "発明します",
+    "dictionary_form": "はつめいする",
+    "dictionary_form_kanji": "発明する",
+    "causative_passive_form": "はつめいさせられる",
+    "causative_passive_form_kanji": "発明させられる"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "みつけます",
+    "masu_form_kanji": "見つけます",
+    "dictionary_form": "みつける",
+    "dictionary_form_kanji": "見つける",
+    "causative_passive_form": "みつけさせられる",
+    "causative_passive_form_kanji": "見つけさせられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ふみます",
+    "masu_form_kanji": "踏みます",
+    "dictionary_form": "ふむ",
+    "dictionary_form_kanji": "踏む",
+    "causative_passive_form": "ふませられる",
+    "causative_passive_form_kanji": "踏ませられる"
+  },
+  {
+    "lesson": "49",
+    "masu_form": "すごします",
+    "masu_form_kanji": "過ごします",
+    "dictionary_form": "すごす",
+    "dictionary_form_kanji": "過ごす",
+    "causative_passive_form": "すごさせられる",
+    "causative_passive_form_kanji": "過ごさせられる"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "ひやします",
+    "masu_form_kanji": "冷やします",
+    "dictionary_form": "ひやす",
+    "dictionary_form_kanji": "冷やす",
+    "causative_passive_form": "ひやさせられる",
+    "causative_passive_form_kanji": "冷やさせられる"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "うけます [しけんを～]",
+    "masu_form_kanji": "受けます [試験を～]",
+    "dictionary_form": "うける",
+    "dictionary_form_kanji": "受ける",
+    "causative_passive_form": "うけさせられる",
+    "causative_passive_form_kanji": "受けさせられる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "ならいます",
+    "masu_form_kanji": "習います",
+    "dictionary_form": "ならう",
+    "dictionary_form_kanji": "習う",
+    "causative_passive_form": "ならわせられる",
+    "causative_passive_form_kanji": "習わせられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "でかけます",
+    "masu_form_kanji": "出かけます",
+    "dictionary_form": "でかける",
+    "dictionary_form_kanji": "出かける",
+    "causative_passive_form": "でかけさせられる",
+    "causative_passive_form_kanji": "出かけさせられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "はります",
+    "masu_form_kanji": "貼ります",
+    "dictionary_form": "はる",
+    "dictionary_form_kanji": "貼る",
+    "causative_passive_form": "はらせられる",
+    "causative_passive_form_kanji": "貼らせられる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "やせます",
+    "masu_form_kanji": null,
+    "dictionary_form": "やせる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "やせさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "38",
+    "masu_form": "きります [でんげんを～]",
+    "masu_form_kanji": "切ります [電源を～]",
+    "dictionary_form": "きる",
+    "dictionary_form_kanji": "切る",
+    "causative_passive_form": "きらせられる",
+    "causative_passive_form_kanji": "切らせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "しめます",
+    "masu_form_kanji": "閉めます",
+    "dictionary_form": "しめる",
+    "dictionary_form_kanji": "閉める",
+    "causative_passive_form": "しめさせられる",
+    "causative_passive_form_kanji": "閉めさせられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "かけます",
+    "masu_form_kanji": "掛けます",
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": "掛ける",
+    "causative_passive_form": "かけさせられる",
+    "causative_passive_form_kanji": "掛けさせられる"
+  },
+  {
+    "lesson": "50",
+    "masu_form": "いれます [コーヒーを～]",
+    "masu_form_kanji": null,
+    "dictionary_form": "いれる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "いれさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "42",
+    "masu_form": "けいさんします",
+    "masu_form_kanji": "計算します",
+    "dictionary_form": "けいさんする",
+    "dictionary_form_kanji": "計算する",
+    "causative_passive_form": "けいさんさせられる",
+    "causative_passive_form_kanji": "計算させられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "ちゅういします [くるまに～]",
+    "masu_form_kanji": "注意します [車に～]",
+    "dictionary_form": "ちゅういする",
+    "dictionary_form_kanji": "注意する",
+    "causative_passive_form": "ちゅういさせられる",
+    "causative_passive_form_kanji": "注意させられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "はっけんします",
+    "masu_form_kanji": "発見します",
+    "dictionary_form": "はっけんする",
+    "dictionary_form_kanji": "発見する",
+    "causative_passive_form": "はっけんさせられる",
+    "causative_passive_form_kanji": "発見させられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "あきらめます",
+    "masu_form_kanji": null,
+    "dictionary_form": "あきらめる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "あきらめさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "37",
+    "masu_form": "たのみます",
+    "masu_form_kanji": "頼みます",
+    "dictionary_form": "たのむ",
+    "dictionary_form_kanji": "頼む",
+    "causative_passive_form": "たのませられる",
+    "causative_passive_form_kanji": "頼ませられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "しまいます",
+    "masu_form_kanji": null,
+    "dictionary_form": "しまう",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "しまわせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "27",
+    "masu_form": "かいます",
+    "masu_form_kanji": "飼います",
+    "dictionary_form": "かう",
+    "dictionary_form_kanji": "飼う",
+    "causative_passive_form": "かわせられる",
+    "causative_passive_form_kanji": "飼わせられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "ざんぎょうします",
+    "masu_form_kanji": "残業します",
+    "dictionary_form": "ざんぎょうする",
+    "dictionary_form_kanji": "残業する",
+    "causative_passive_form": "ざんぎょうさせられる",
+    "causative_passive_form_kanji": "残業させられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "はらいます",
+    "masu_form_kanji": "払います",
+    "dictionary_form": "はらう",
+    "dictionary_form_kanji": "払う",
+    "causative_passive_form": "はらわせられる",
+    "causative_passive_form_kanji": "払わせられる"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "やきます",
+    "masu_form_kanji": "焼きます",
+    "dictionary_form": "やく",
+    "dictionary_form_kanji": "焼く",
+    "causative_passive_form": "やかせられる",
+    "causative_passive_form_kanji": "焼かせられる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "おしえます",
+    "masu_form_kanji": "教えます",
+    "dictionary_form": "おしえる",
+    "dictionary_form_kanji": "教える",
+    "causative_passive_form": "おしえさせられる",
+    "causative_passive_form_kanji": "教えさせられる"
+  },
+  {
+    "lesson": "49",
+    "masu_form": "かけます[いすに～]",
+    "masu_form_kanji": "掛けます",
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": "掛ける",
+    "causative_passive_form": "かけさせられる",
+    "causative_passive_form_kanji": "掛けさせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "てつだいます",
+    "masu_form_kanji": "手伝います",
+    "dictionary_form": "てつだう",
+    "dictionary_form_kanji": "手伝う",
+    "causative_passive_form": "てつだわせられる",
+    "causative_passive_form_kanji": "手伝わせられる"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "かえってきます",
+    "masu_form_kanji": "帰って 来ます",
+    "dictionary_form": "かえってくる",
+    "dictionary_form_kanji": "帰って来る",
+    "causative_passive_form": "かえってこさせられる",
+    "causative_passive_form_kanji": "帰って来させられる"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "おどります",
+    "masu_form_kanji": "踊ります",
+    "dictionary_form": "おどる",
+    "dictionary_form_kanji": "踊る",
+    "causative_passive_form": "おどらせられる",
+    "causative_passive_form_kanji": "踊らせられる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "こたえます [質問 に～]",
+    "masu_form_kanji": "答えます [質問に～]",
+    "dictionary_form": "こたえる",
+    "dictionary_form_kanji": "答える",
+    "causative_passive_form": "こたえさせられる",
+    "causative_passive_form_kanji": "答えさせられる"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "ならびます",
+    "masu_form_kanji": "並びます",
+    "dictionary_form": "ならぶ",
+    "dictionary_form_kanji": "並ぶ",
+    "causative_passive_form": "ならばせられる",
+    "causative_passive_form_kanji": "並ばせられる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "さんかします [パーテイー に～]",
+    "masu_form_kanji": "参加します",
+    "dictionary_form": "さんかする",
+    "dictionary_form_kanji": "参加する",
+    "causative_passive_form": "さんかさせられる",
+    "causative_passive_form_kanji": "参加させられる"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "はしります [みち を～]",
+    "masu_form_kanji": "走ります [道 を～]",
+    "dictionary_form": "はしる",
+    "dictionary_form_kanji": "走る",
+    "causative_passive_form": "はしらせられる",
+    "causative_passive_form_kanji": "走らせられる"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "せんたくします",
+    "masu_form_kanji": "洗濯します",
+    "dictionary_form": "せんたくする",
+    "dictionary_form_kanji": "洗濯する",
+    "causative_passive_form": "せんたくさせられる",
+    "causative_passive_form_kanji": "洗濯させられる"
+  },
+  {
+    "lesson": "36",
+    "masu_form": "すぎます [７じを～]",
+    "masu_form_kanji": "過ぎます [7時を～]",
+    "dictionary_form": "すぎる",
+    "dictionary_form_kanji": "過ぎる",
+    "causative_passive_form": "すぎさせられる",
+    "causative_passive_form_kanji": "過ぎさせられる"
+  },
+  {
+    "lesson": "20",
+    "masu_form": "しゅうりします",
+    "masu_form_kanji": "修理します",
+    "dictionary_form": "しゅうりする",
+    "dictionary_form_kanji": "修理する",
+    "causative_passive_form": "しゅうりさせられる",
+    "causative_passive_form_kanji": "修理させられる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "あげます",
+    "masu_form_kanji": null,
+    "dictionary_form": "あげる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "あげさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "14",
+    "masu_form": "あけます",
+    "masu_form_kanji": "開けます",
+    "dictionary_form": "あける",
+    "dictionary_form_kanji": "開ける",
+    "causative_passive_form": "あけさせられる",
+    "causative_passive_form_kanji": "開けさせられる"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "れんしゅうします",
+    "masu_form_kanji": "練習します",
+    "dictionary_form": "れんしゅうする",
+    "dictionary_form_kanji": "練習する",
+    "causative_passive_form": "れんしゅうさせられる",
+    "causative_passive_form_kanji": "練習させられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "つけます",
+    "masu_form_kanji": null,
+    "dictionary_form": "つける",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "つけさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "6",
+    "masu_form": "たべます",
+    "masu_form_kanji": "食べます",
+    "dictionary_form": "たべる",
+    "dictionary_form_kanji": "食べる",
+    "causative_passive_form": "たべさせられる",
+    "causative_passive_form_kanji": "食べさせられる"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "きゅうけいします",
+    "masu_form_kanji": "休憩します",
+    "dictionary_form": "きゅうけいする",
+    "dictionary_form_kanji": "休憩する",
+    "causative_passive_form": "きゅうけいさせられる",
+    "causative_passive_form_kanji": "休憩させられる"
+  },
+  {
+    "lesson": "22",
+    "masu_form": "かぶります [ぼうしを～]",
+    "masu_form_kanji": "[帽子を～]",
+    "dictionary_form": "かぶる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "かぶらせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "17",
+    "masu_form": "しんぱいします",
+    "masu_form_kanji": "心配します",
+    "dictionary_form": "しんぱいする",
+    "dictionary_form_kanji": "心配する",
+    "causative_passive_form": "しんぱいさせられる",
+    "causative_passive_form_kanji": "心配させられる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "しにます",
+    "masu_form_kanji": "死にます",
+    "dictionary_form": "しぬ",
+    "dictionary_form_kanji": "死ぬ",
+    "causative_passive_form": "しなせられる",
+    "causative_passive_form_kanji": "死なせられる"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "よやくします",
+    "masu_form_kanji": "予約します",
+    "dictionary_form": "よやくする",
+    "dictionary_form_kanji": "予約する",
+    "causative_passive_form": "よやくさせられる",
+    "causative_passive_form_kanji": "予約させられる"
+  },
+  {
+    "lesson": "45",
+    "masu_form": "しんじます",
+    "masu_form_kanji": "信じます",
+    "dictionary_form": "しんじる",
+    "dictionary_form_kanji": "信じる",
+    "causative_passive_form": "しんじさせられる",
+    "causative_passive_form_kanji": "信じさせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "とります",
+    "masu_form_kanji": "取ります",
+    "dictionary_form": "とる",
+    "dictionary_form_kanji": "取る",
+    "causative_passive_form": "とらせられる",
+    "causative_passive_form_kanji": "取らせられる"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "けんきゅうします",
+    "masu_form_kanji": "研究します",
+    "dictionary_form": "けんきゅうする",
+    "dictionary_form_kanji": "研究する",
+    "causative_passive_form": "けんきゅうさせられる",
+    "causative_passive_form_kanji": "研究させられる"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "さんぽします[こうえんを～]",
+    "masu_form_kanji": "散歩します[公園を～]",
+    "dictionary_form": "さんぽする",
+    "dictionary_form_kanji": "散歩する",
+    "causative_passive_form": "さんぽさせられる",
+    "causative_passive_form_kanji": "散歩させられる"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "しょくじします",
+    "masu_form_kanji": "食事します",
+    "dictionary_form": "しょくじする",
+    "dictionary_form_kanji": "食事する",
+    "causative_passive_form": "しょくじさせられる",
+    "causative_passive_form_kanji": "食事させられる"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "うんどうします",
+    "masu_form_kanji": "運動します",
+    "dictionary_form": "うんどうする",
+    "dictionary_form_kanji": "運動する",
+    "causative_passive_form": "うんどうさせられる",
+    "causative_passive_form_kanji": "運動させられる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "さします [かさを～]",
+    "masu_form_kanji": "さします[傘を～]",
+    "dictionary_form": "さす",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "ささせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "26",
+    "masu_form": "れんらくします",
+    "masu_form_kanji": "連絡します",
+    "dictionary_form": "れんらくする",
+    "dictionary_form_kanji": "連絡する",
+    "causative_passive_form": "れんらくさせられる",
+    "causative_passive_form_kanji": "連絡させられる"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "のぼります [やまに ～]",
+    "masu_form_kanji": "登ります[山に ～]",
+    "dictionary_form": "のぼる",
+    "dictionary_form_kanji": "登る",
+    "causative_passive_form": "のぼらせられる",
+    "causative_passive_form_kanji": "登らせられる"
+  },
+  {
+    "lesson": "5",
+    "masu_form": "いきます",
+    "masu_form_kanji": "行きます",
+    "dictionary_form": "いく",
+    "dictionary_form_kanji": "行く",
+    "causative_passive_form": "いかせられる",
+    "causative_passive_form_kanji": "行かせられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "ふくしゅうします",
+    "masu_form_kanji": "復習します",
+    "dictionary_form": "ふくしゅうする",
+    "dictionary_form_kanji": "復習する",
+    "causative_passive_form": "ふくしゅうさせられる",
+    "causative_passive_form_kanji": "復習させられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "かえします",
+    "masu_form_kanji": "返します",
+    "dictionary_form": "かえす",
+    "dictionary_form_kanji": "返す",
+    "causative_passive_form": "かえさせられる",
+    "causative_passive_form_kanji": "返させられる"
+  },
+  {
+    "lesson": "25",
+    "masu_form": "かんがえます",
+    "masu_form_kanji": "考えます",
+    "dictionary_form": "かんがえる",
+    "dictionary_form_kanji": "考える",
+    "causative_passive_form": "かんがえさせられる",
+    "causative_passive_form_kanji": "考えさせられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "おします",
+    "masu_form_kanji": "押します",
+    "dictionary_form": "おす",
+    "dictionary_form_kanji": "押す",
+    "causative_passive_form": "おさせられる",
+    "causative_passive_form_kanji": "押させられる"
+  },
+  {
+    "lesson": "4",
+    "masu_form": "おきます",
+    "masu_form_kanji": "起きます",
+    "dictionary_form": "おきる",
+    "dictionary_form_kanji": "起きる",
+    "causative_passive_form": "おきさせられる",
+    "causative_passive_form_kanji": "起きさせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "とめます",
+    "masu_form_kanji": "止めます",
+    "dictionary_form": "とめる",
+    "dictionary_form_kanji": "止める",
+    "causative_passive_form": "とめさせられる",
+    "causative_passive_form_kanji": "止めさせられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "はずします [せきを～]",
+    "masu_form_kanji": "外します [席を～]",
+    "dictionary_form": "はずす",
+    "dictionary_form_kanji": "外す",
+    "causative_passive_form": "はずさせられる",
+    "causative_passive_form_kanji": "外させられる"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "わかれます",
+    "masu_form_kanji": "別れます",
+    "dictionary_form": "わかれる",
+    "dictionary_form_kanji": "別れる",
+    "causative_passive_form": "わかれさせられる",
+    "causative_passive_form_kanji": "別れさせられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "ききます",
+    "masu_form_kanji": "聞きます",
+    "dictionary_form": "きく",
+    "dictionary_form_kanji": "聞く",
+    "causative_passive_form": "きかせられる",
+    "causative_passive_form_kanji": "聞かせられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "もって きます",
+    "masu_form_kanji": "持って来ます",
+    "dictionary_form": "もってくる",
+    "dictionary_form_kanji": "持って来る",
+    "causative_passive_form": "もってこさせられる",
+    "causative_passive_form_kanji": "持って来させられる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "みがきます[はを～]",
+    "masu_form_kanji": "磨きます [歯を～]",
+    "dictionary_form": "みがく",
+    "dictionary_form_kanji": "磨く",
+    "causative_passive_form": "みがかせられる",
+    "causative_passive_form_kanji": "磨かせられる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "かします",
+    "masu_form_kanji": "貸します",
+    "dictionary_form": "かす",
+    "dictionary_form_kanji": "貸す",
+    "causative_passive_form": "かさせられる",
+    "causative_passive_form_kanji": "貸させられる"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "うります",
+    "masu_form_kanji": "売ります",
+    "dictionary_form": "うる",
+    "dictionary_form_kanji": "売る",
+    "causative_passive_form": "うらせられる",
+    "causative_passive_form_kanji": "売らせられる"
+  },
+  {
+    "lesson": "45",
+    "masu_form": "しらせます",
+    "masu_form_kanji": "知らせます",
+    "dictionary_form": "しらせる",
+    "dictionary_form_kanji": "知らせる",
+    "causative_passive_form": "しらせさせられる",
+    "causative_passive_form_kanji": "知らせさせられる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "まけます",
+    "masu_form_kanji": "負けます",
+    "dictionary_form": "まける",
+    "dictionary_form_kanji": "負ける",
+    "causative_passive_form": "まけさせられる",
+    "causative_passive_form_kanji": "負けさせられる"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "けっこんします",
+    "masu_form_kanji": "結婚します",
+    "dictionary_form": "けっこんする",
+    "dictionary_form_kanji": "結婚する",
+    "causative_passive_form": "けっこんさせられる",
+    "causative_passive_form_kanji": "結婚させられる"
+  },
+  {
+    "lesson": "44",
+    "masu_form": "なきます",
+    "masu_form_kanji": "泣きます",
+    "dictionary_form": "なく",
+    "dictionary_form_kanji": "泣く",
+    "causative_passive_form": "なかせられる",
+    "causative_passive_form_kanji": "泣かせられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "しゅっせきします [かいぎに～]",
+    "masu_form_kanji": "出席します [会議に～]",
+    "dictionary_form": "しゅっせきする",
+    "dictionary_form_kanji": "出席する",
+    "causative_passive_form": "しゅっせきさせられる",
+    "causative_passive_form_kanji": "出席させられる"
+  },
+  {
+    "lesson": "45",
+    "masu_form": "キャンセルします",
+    "masu_form_kanji": null,
+    "dictionary_form": "キャンセルする",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "キャンセルさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "39",
+    "masu_form": "びっくりします",
+    "masu_form_kanji": null,
+    "dictionary_form": "びっくりする",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "びっくりさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "25",
+    "masu_form": "がんばります",
+    "masu_form_kanji": "頑張ります",
+    "dictionary_form": "がんばる",
+    "dictionary_form_kanji": "頑張る",
+    "causative_passive_form": "がんばらせられる",
+    "causative_passive_form_kanji": "頑張らせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "もちます",
+    "masu_form_kanji": "持ちます",
+    "dictionary_form": "もつ",
+    "dictionary_form_kanji": "持つ",
+    "causative_passive_form": "もたせられる",
+    "causative_passive_form_kanji": "持たせられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "さわぎます",
+    "masu_form_kanji": "騒ぎます",
+    "dictionary_form": "さわぐ",
+    "dictionary_form_kanji": "騒ぐ",
+    "causative_passive_form": "さわがせられる",
+    "causative_passive_form_kanji": "騒がせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "つかいます",
+    "masu_form_kanji": "使います",
+    "dictionary_form": "つかう",
+    "dictionary_form_kanji": "使う",
+    "causative_passive_form": "つかわせられる",
+    "causative_passive_form_kanji": "使わせられる"
+  },
+  {
+    "lesson": "11",
+    "masu_form": "やすみます (かいしゃを～)",
+    "masu_form_kanji": "休みます (会社を～)",
+    "dictionary_form": "やすむ",
+    "dictionary_form_kanji": "休む",
+    "causative_passive_form": "やすませられる",
+    "causative_passive_form_kanji": "休ませられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "けします",
+    "masu_form_kanji": "消します",
+    "dictionary_form": "けす",
+    "dictionary_form_kanji": "消す",
+    "causative_passive_form": "けさせられる",
+    "causative_passive_form_kanji": "消させられる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "かちます",
+    "masu_form_kanji": "勝ちます",
+    "dictionary_form": "かつ",
+    "dictionary_form_kanji": "勝つ",
+    "causative_passive_form": "かたせられる",
+    "causative_passive_form_kanji": "勝たせられる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "かけます[でんわを～]",
+    "masu_form_kanji": "[電話を～]",
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "かけさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "4",
+    "masu_form": "おわります",
+    "masu_form_kanji": "終わります",
+    "dictionary_form": "おわる",
+    "dictionary_form_kanji": "終わる",
+    "causative_passive_form": "おわらせられる",
+    "causative_passive_form_kanji": "終わらせられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "かざります",
+    "masu_form_kanji": "飾ります",
+    "dictionary_form": "かざる",
+    "dictionary_form_kanji": "飾る",
+    "causative_passive_form": "かざらせられる",
+    "causative_passive_form_kanji": "飾らせられる"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "あんないします",
+    "masu_form_kanji": "案内します",
+    "dictionary_form": "あんないする",
+    "dictionary_form_kanji": "案内する",
+    "causative_passive_form": "あんないさせられる",
+    "causative_passive_form_kanji": "案内させられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "のみます",
+    "masu_form_kanji": "飲みます",
+    "dictionary_form": "のむ",
+    "dictionary_form_kanji": "飲む",
+    "causative_passive_form": "のませられる",
+    "causative_passive_form_kanji": "飲ませられる"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "あるきます [みちを～]",
+    "masu_form_kanji": "歩きます [道を～]",
+    "dictionary_form": "あるく",
+    "dictionary_form_kanji": "歩く",
+    "causative_passive_form": "あるかせられる",
+    "causative_passive_form_kanji": "歩かせられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "のみます",
+    "masu_form_kanji": "飲みます",
+    "dictionary_form": "のむ",
+    "dictionary_form_kanji": "飲む",
+    "causative_passive_form": "のませられる",
+    "causative_passive_form_kanji": "飲ませられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "よみます",
+    "masu_form_kanji": "読みます",
+    "dictionary_form": "よむ",
+    "dictionary_form_kanji": "読む",
+    "causative_passive_form": "よませられる",
+    "causative_passive_form_kanji": "読ませられる"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "とりかえます",
+    "masu_form_kanji": "取り替えます",
+    "dictionary_form": "とりかえる",
+    "dictionary_form_kanji": "取り替える",
+    "causative_passive_form": "とりかえさせられる",
+    "causative_passive_form_kanji": "取り替えさせられる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "かけます[かぎを～]",
+    "masu_form_kanji": "掛けます",
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": "掛ける",
+    "causative_passive_form": "かけさせられる",
+    "causative_passive_form_kanji": "掛けさせられる"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "はかります",
+    "masu_form_kanji": "測ります、量ります",
+    "dictionary_form": "はかる",
+    "dictionary_form_kanji": "測る",
+    "causative_passive_form": "はからせられる",
+    "causative_passive_form_kanji": "測らせられる"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "ききます [せんせいに～]",
+    "masu_form_kanji": "聞きます [先生に～]",
+    "dictionary_form": "きく",
+    "dictionary_form_kanji": "聞く",
+    "causative_passive_form": "きかせられる",
+    "causative_passive_form_kanji": "聞かせられる"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "クリックします",
+    "masu_form_kanji": null,
+    "dictionary_form": "クリックする",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "クリックさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "19",
+    "masu_form": "なります",
+    "masu_form_kanji": null,
+    "dictionary_form": "なる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "ならせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "47",
+    "masu_form": "こんやくします",
+    "masu_form_kanji": "婚約します",
+    "dictionary_form": "こんやくする",
+    "dictionary_form_kanji": "婚約する",
+    "causative_passive_form": "こんやくさせられる",
+    "causative_passive_form_kanji": "婚約させられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ちゅういします",
+    "masu_form_kanji": "注意します",
+    "dictionary_form": "ちゅういする",
+    "dictionary_form_kanji": "注意する",
+    "causative_passive_form": "ちゅういさせられる",
+    "causative_passive_form_kanji": "注意させられる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "つきます［うそを～］",
+    "masu_form_kanji": null,
+    "dictionary_form": "つく",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "つかせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "16",
+    "masu_form": "いれます",
+    "masu_form_kanji": "入れます",
+    "dictionary_form": "いれる",
+    "dictionary_form_kanji": "入れる",
+    "causative_passive_form": "いれさせられる",
+    "causative_passive_form_kanji": "入れさせられる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "りゅうがくします",
+    "masu_form_kanji": "留学します",
+    "dictionary_form": "りゅうがくする",
+    "dictionary_form_kanji": "留学する",
+    "causative_passive_form": "りゅうがくさせられる",
+    "causative_passive_form_kanji": "留学させられる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "きります",
+    "masu_form_kanji": "切ります",
+    "dictionary_form": "きる",
+    "dictionary_form_kanji": "切る",
+    "causative_passive_form": "きらせられる",
+    "causative_passive_form_kanji": "切らせられる"
+  },
+  {
+    "lesson": "48",
+    "masu_form": "とどけます",
+    "masu_form_kanji": "届けます",
+    "dictionary_form": "とどける",
+    "dictionary_form_kanji": "届ける",
+    "causative_passive_form": "とどけさせられる",
+    "causative_passive_form_kanji": "届けさせられる"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "しります",
+    "masu_form_kanji": "知ります",
+    "dictionary_form": "しる",
+    "dictionary_form_kanji": "知る",
+    "causative_passive_form": "しらせられる",
+    "causative_passive_form_kanji": "知らせられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ほんやくします",
+    "masu_form_kanji": "翻訳します",
+    "dictionary_form": "ほんやくする",
+    "dictionary_form_kanji": "翻訳する",
+    "causative_passive_form": "ほんやくさせられる",
+    "causative_passive_form_kanji": "翻訳させられる"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "えらびます",
+    "masu_form_kanji": "選びます",
+    "dictionary_form": "えらぶ",
+    "dictionary_form_kanji": "選ぶ",
+    "causative_passive_form": "えらばせられる",
+    "causative_passive_form_kanji": "選ばせられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "とります",
+    "masu_form_kanji": null,
+    "dictionary_form": "とる",
+    "dictionary_form_kanji": "取る",
+    "causative_passive_form": "とらせられる",
+    "causative_passive_form_kanji": "取らせられる"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "かよいます [だいがく に～]",
+    "masu_form_kanji": "通います [大学 に～]",
+    "dictionary_form": "かよう",
+    "dictionary_form_kanji": "通う",
+    "causative_passive_form": "かよわせられる",
+    "causative_passive_form_kanji": "通わせられる"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "まぜます",
+    "masu_form_kanji": "混ぜます",
+    "dictionary_form": "まぜる",
+    "dictionary_form_kanji": "混ぜる",
+    "causative_passive_form": "まぜさせられる",
+    "causative_passive_form_kanji": "混ぜさせられる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "やくにたちます",
+    "masu_form_kanji": "役に立ちます",
+    "dictionary_form": "やくにたつ",
+    "dictionary_form_kanji": "役に立つ",
+    "causative_passive_form": "やくにたたせられる",
+    "causative_passive_form_kanji": "役に立たせられる"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "おくります [ひとを～]",
+    "masu_form_kanji": "送ります [人を～]",
+    "dictionary_form": "おくる",
+    "dictionary_form_kanji": "送る",
+    "causative_passive_form": "おくらせられる",
+    "causative_passive_form_kanji": "送らせられる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "おります",
+    "masu_form_kanji": "折ります",
+    "dictionary_form": "おる",
+    "dictionary_form_kanji": "折る",
+    "causative_passive_form": "おらせられる",
+    "causative_passive_form_kanji": "折らせられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "しかります",
+    "masu_form_kanji": null,
+    "dictionary_form": "しかる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "しからせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "26",
+    "masu_form": "ひろいます",
+    "masu_form_kanji": "拾います",
+    "dictionary_form": "ひろう",
+    "dictionary_form_kanji": "拾う",
+    "causative_passive_form": "ひろわせられる",
+    "causative_passive_form_kanji": "拾わせられる"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "まがります [みぎへ ～]",
+    "masu_form_kanji": "曲がります [右へ ～]",
+    "dictionary_form": "まがる",
+    "dictionary_form_kanji": "曲がる",
+    "causative_passive_form": "まがらせられる",
+    "causative_passive_form_kanji": "曲がらせられる"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "とります [やすみ を～]",
+    "masu_form_kanji": "取ります [休み を～]",
+    "dictionary_form": "とる",
+    "dictionary_form_kanji": "取る",
+    "causative_passive_form": "とらせられる",
+    "causative_passive_form_kanji": "取らせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "まちます",
+    "masu_form_kanji": "待ちます",
+    "dictionary_form": "まつ",
+    "dictionary_form_kanji": "待つ",
+    "causative_passive_form": "またせられる",
+    "causative_passive_form_kanji": "待たせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "みせます",
+    "masu_form_kanji": "見せます",
+    "dictionary_form": "みせる",
+    "dictionary_form_kanji": "見せる",
+    "causative_passive_form": "みせさせられる",
+    "causative_passive_form_kanji": "見せさせられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "はいります [おふろに～]",
+    "masu_form_kanji": "入ります [おふろに～]",
+    "dictionary_form": "はいる",
+    "dictionary_form_kanji": "入る",
+    "causative_passive_form": "はいらせられる",
+    "causative_passive_form_kanji": "入らせられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "なげます",
+    "masu_form_kanji": "投げます",
+    "dictionary_form": "なげる",
+    "dictionary_form_kanji": "投げる",
+    "causative_passive_form": "投げさせられる",
+    "causative_passive_form_kanji": "投げさせられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "みます",
+    "masu_form_kanji": "見ます",
+    "dictionary_form": "みる",
+    "dictionary_form_kanji": "見る",
+    "causative_passive_form": "みさせられる",
+    "causative_passive_form_kanji": "見させられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "あいます[ともだち に～]",
+    "masu_form_kanji": "会います [友達に～]",
+    "dictionary_form": "あう",
+    "dictionary_form_kanji": "会う",
+    "causative_passive_form": "あわせられる",
+    "causative_passive_form_kanji": "会わせられる"
+  },
+  {
+    "lesson": "20",
+    "masu_form": "しらべます",
+    "masu_form_kanji": "調べます",
+    "dictionary_form": "しらべる",
+    "dictionary_form_kanji": "調べる",
+    "causative_passive_form": "しらべさせられる",
+    "causative_passive_form_kanji": "調べさせられる"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "さがします",
+    "masu_form_kanji": "探します,捜します",
+    "dictionary_form": "さがす",
+    "dictionary_form_kanji": "探す",
+    "causative_passive_form": "さがさせられる",
+    "causative_passive_form_kanji": "探させられる"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "つつみます",
+    "masu_form_kanji": "包みます",
+    "dictionary_form": "つつむ",
+    "dictionary_form_kanji": "包む",
+    "causative_passive_form": "つつませられる",
+    "causative_passive_form_kanji": "包ませられる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "やめます [かいしゃを～]",
+    "masu_form_kanji": "やめます [会社を～]",
+    "dictionary_form": "やめる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "やめさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "44",
+    "masu_form": "ちょうせつします",
+    "masu_form_kanji": "調節します",
+    "dictionary_form": "ちょうせつする",
+    "dictionary_form_kanji": "調節する",
+    "causative_passive_form": "ちょうせつさせられる",
+    "causative_passive_form_kanji": "調節させられる"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "よいます",
+    "masu_form_kanji": "酔います",
+    "dictionary_form": "よう",
+    "dictionary_form_kanji": "酔う",
+    "causative_passive_form": "よわせられる",
+    "causative_passive_form_kanji": "酔わせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "はなします",
+    "masu_form_kanji": "話します",
+    "dictionary_form": "はなす",
+    "dictionary_form_kanji": "話す",
+    "causative_passive_form": "はなさせられる",
+    "causative_passive_form_kanji": "話させられる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "はこびます",
+    "masu_form_kanji": "運びます",
+    "dictionary_form": "はこぶ",
+    "dictionary_form_kanji": "運ぶ",
+    "causative_passive_form": "はこばせられる",
+    "causative_passive_form_kanji": "運ばせられる"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "しゅっぱつします",
+    "masu_form_kanji": "出発します",
+    "dictionary_form": "しゅっぱつする",
+    "dictionary_form_kanji": "出発する",
+    "causative_passive_form": "しゅっぱつさせられる",
+    "causative_passive_form_kanji": "出発させられる"
+  },
+  {
+    "lesson": "42",
+    "masu_form": "わかします",
+    "masu_form_kanji": "沸かします",
+    "dictionary_form": "わかす",
+    "dictionary_form_kanji": "沸かす",
+    "causative_passive_form": "わかさせられる",
+    "causative_passive_form_kanji": "沸かさせられる"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "かみます",
+    "masu_form_kanji": null,
+    "dictionary_form": "かむ",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "かませられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "41",
+    "masu_form": "やります",
+    "masu_form_kanji": null,
+    "dictionary_form": "やる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "やらせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "14",
+    "masu_form": "よびます",
+    "masu_form_kanji": "呼びます",
+    "dictionary_form": "よぶ",
+    "dictionary_form_kanji": "呼ぶ",
+    "causative_passive_form": "よばせられる",
+    "causative_passive_form_kanji": "呼ばせられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "のりかえます",
+    "masu_form_kanji": "乗り換えます",
+    "dictionary_form": "のりかえる",
+    "dictionary_form_kanji": "乗り換える",
+    "causative_passive_form": "のりかえさせられる",
+    "causative_passive_form_kanji": "乗り換えさせられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "はいります [だいがくに～)]",
+    "masu_form_kanji": "入ります [大学に～]",
+    "dictionary_form": "はいる",
+    "dictionary_form_kanji": "入る",
+    "causative_passive_form": "はいらせられる",
+    "causative_passive_form_kanji": "入らせられる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "ふとります",
+    "masu_form_kanji": "太ります",
+    "dictionary_form": "ふとる",
+    "dictionary_form_kanji": "太る",
+    "causative_passive_form": "ふとらせられる",
+    "causative_passive_form_kanji": "太らせられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "よごします",
+    "masu_form_kanji": "汚します",
+    "dictionary_form": "よごす",
+    "dictionary_form_kanji": "汚す",
+    "causative_passive_form": "よごさせられる",
+    "causative_passive_form_kanji": "汚させられる"
+  },
+  {
+    "lesson": "22",
+    "masu_form": "します [ネクタイを～]",
+    "masu_form_kanji": null,
+    "dictionary_form": "する",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "させられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "38",
+    "masu_form": "たいいんします",
+    "masu_form_kanji": "退院します",
+    "dictionary_form": "たいいんする",
+    "dictionary_form_kanji": "退院する",
+    "causative_passive_form": "たいいんさせられる",
+    "causative_passive_form_kanji": "退院させられる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "おもいます",
+    "masu_form_kanji": "思います",
+    "dictionary_form": "おもう",
+    "dictionary_form_kanji": "思う",
+    "causative_passive_form": "おもわせられる",
+    "causative_passive_form_kanji": "思わせられる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "りこんします",
+    "masu_form_kanji": "離婚します",
+    "dictionary_form": "りこんする",
+    "dictionary_form_kanji": "離婚する",
+    "causative_passive_form": "りこんさせられる",
+    "causative_passive_form_kanji": "離婚させられる"
+  },
+  {
+    "lesson": "36",
+    "masu_form": "チャレンジします",
+    "masu_form_kanji": null,
+    "dictionary_form": "チャレンジする",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "チャレンジさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "50",
+    "masu_form": "きんちょうします",
+    "masu_form_kanji": "緊張します",
+    "dictionary_form": "きんちょうする",
+    "dictionary_form_kanji": "緊張する",
+    "causative_passive_form": "きんちょうさせられる",
+    "causative_passive_form_kanji": "緊張させられる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "にゅういんします",
+    "masu_form_kanji": "入院します",
+    "dictionary_form": "にゅういんする",
+    "dictionary_form_kanji": "入院する",
+    "causative_passive_form": "にゅういんさせられる",
+    "causative_passive_form_kanji": "入院させられる"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "むりをします",
+    "masu_form_kanji": "無理をします",
+    "dictionary_form": "むりをする",
+    "dictionary_form_kanji": "無理をする",
+    "causative_passive_form": "むりをさせられる",
+    "causative_passive_form_kanji": "無理をさせられる"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "わたります [はしを ～]",
+    "masu_form_kanji": "渡ります [橋を～]",
+    "dictionary_form": "わたる",
+    "dictionary_form_kanji": "渡る",
+    "causative_passive_form": "わたらせられる",
+    "causative_passive_form_kanji": "渡らせられる"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "みます",
+    "masu_form_kanji": "見ます, 診ます",
+    "dictionary_form": "みる",
+    "dictionary_form_kanji": "見る",
+    "causative_passive_form": "みさせられる",
+    "causative_passive_form_kanji": "見させられる"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "かたづけます",
+    "masu_form_kanji": "片づけます",
+    "dictionary_form": "かたづける",
+    "dictionary_form_kanji": "片づける",
+    "causative_passive_form": "かたづけさせられる",
+    "causative_passive_form_kanji": "片づけさせられる"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "おとします",
+    "masu_form_kanji": "落とします",
+    "dictionary_form": "おとす",
+    "dictionary_form_kanji": "落とす",
+    "causative_passive_form": "おとさせられる",
+    "causative_passive_form_kanji": "落とさせられる"
+  },
+  {
+    "lesson": "48",
+    "masu_form": "おろします",
+    "masu_form_kanji": "降ろします、下ろします",
+    "dictionary_form": "おろす",
+    "dictionary_form_kanji": "下ろす",
+    "causative_passive_form": "おろさせられる",
+    "causative_passive_form_kanji": "下ろさせられる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "せいりします",
+    "masu_form_kanji": "整理します",
+    "dictionary_form": "せいりする",
+    "dictionary_form_kanji": "整理する",
+    "causative_passive_form": "せいりさせられる",
+    "causative_passive_form_kanji": "整理させられる"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "かえます",
+    "masu_form_kanji": "変えます",
+    "dictionary_form": "かえる",
+    "dictionary_form_kanji": "変える",
+    "causative_passive_form": "かえさせられる",
+    "causative_passive_form_kanji": "変えさせられる"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "おもいだします",
+    "masu_form_kanji": "思い出します",
+    "dictionary_form": "おもいだす",
+    "dictionary_form_kanji": "思い出す",
+    "causative_passive_form": "おもいださせられる",
+    "causative_passive_form_kanji": "思い出させられる"
+  },
+  {
+    "lesson": "49",
+    "masu_form": "つとめます[かいしゃに～]",
+    "masu_form_kanji": "勤めます[会社に～]",
+    "dictionary_form": "つとめる",
+    "dictionary_form_kanji": "勤める",
+    "causative_passive_form": "つとめさせられる",
+    "causative_passive_form_kanji": "勤めさせられる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "おくります",
+    "masu_form_kanji": "送ります",
+    "dictionary_form": "おくる",
+    "dictionary_form_kanji": "送る",
+    "causative_passive_form": "おくらせられる",
+    "causative_passive_form_kanji": "送らせられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ゆしゅつします",
+    "masu_form_kanji": "輸出します",
+    "dictionary_form": "ゆしゅつする",
+    "dictionary_form_kanji": "輸出する",
+    "causative_passive_form": "ゆしゅつさせられる",
+    "causative_passive_form_kanji": "輸出させられる"
+  },
+  {
+    "lesson": "41",
+    "masu_form": "あげます",
+    "masu_form_kanji": "上げます",
+    "dictionary_form": "あげる",
+    "dictionary_form_kanji": "上げる",
+    "causative_passive_form": "あげさせられる",
+    "causative_passive_form_kanji": "上げさせられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "おります [でんしゃを～)]",
+    "masu_form_kanji": "降ります [電車を～]",
+    "dictionary_form": "おりる",
+    "dictionary_form_kanji": "降りる",
+    "causative_passive_form": "おりさせられる",
+    "causative_passive_form_kanji": "降りさせられる"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "つれて いきます",
+    "masu_form_kanji": "連れて行きます",
+    "dictionary_form": "つれていく",
+    "dictionary_form_kanji": "連れて行く",
+    "causative_passive_form": "つれていかせられる",
+    "causative_passive_form_kanji": "連れて行かせられる"
+  },
+  {
+    "lesson": "31",
+    "masu_form": "もうしこみます",
+    "masu_form_kanji": "申し込みます",
+    "dictionary_form": "もうしこむ",
+    "dictionary_form_kanji": "申し込む",
+    "causative_passive_form": "もうしこませられる",
+    "causative_passive_form_kanji": "申し込ませられる"
+  },
+  {
+    "lesson": "21",
+    "masu_form": "うごきます [とけいが～]",
+    "masu_form_kanji": "動きます [時計が～]",
+    "dictionary_form": "うごく",
+    "dictionary_form_kanji": "動く",
+    "causative_passive_form": "うごかせられる",
+    "causative_passive_form_kanji": "動かせられる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "きがつきます[わすれものに～]",
+    "masu_form_kanji": "気がつきます[忘れ物に～]",
+    "dictionary_form": "きがつく",
+    "dictionary_form_kanji": "気がつく",
+    "causative_passive_form": "きがつかせられる",
+    "causative_passive_form_kanji": "気がつかせられる"
+  },
+  {
+    "lesson": "34",
+    "masu_form": "しつもんします",
+    "masu_form_kanji": "質問します",
+    "dictionary_form": "しつもんする",
+    "dictionary_form_kanji": "質問する",
+    "causative_passive_form": "しつもんさせられる",
+    "causative_passive_form_kanji": "質問させられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "わすれます",
+    "masu_form_kanji": "忘れます",
+    "dictionary_form": "わすれる",
+    "dictionary_form_kanji": "忘れる",
+    "causative_passive_form": "わすれさせられる",
+    "causative_passive_form_kanji": "忘れさせられる"
+  },
+  {
+    "lesson": "47",
+    "masu_form": "あつまります［人が］",
+    "masu_form_kanji": "集まります［人が］",
+    "dictionary_form": "あつまる",
+    "dictionary_form_kanji": "集まる",
+    "causative_passive_form": "あつまらせられる",
+    "causative_passive_form_kanji": "集まらせられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "はいります[きっさてんに～]",
+    "masu_form_kanji": "入ります[喫茶店に～]",
+    "dictionary_form": "はいる",
+    "dictionary_form_kanji": "入る",
+    "causative_passive_form": "はいらせられる",
+    "causative_passive_form_kanji": "入らせられる"
+  },
+  {
+    "lesson": "23",
+    "masu_form": "まわします",
+    "masu_form_kanji": "回します",
+    "dictionary_form": "まわす",
+    "dictionary_form_kanji": "回す",
+    "causative_passive_form": "まわさせられる",
+    "causative_passive_form_kanji": "回させられる"
+  },
+  {
+    "lesson": "15",
+    "masu_form": "すみます",
+    "masu_form_kanji": "住みます",
+    "dictionary_form": "すむ",
+    "dictionary_form_kanji": "住む",
+    "causative_passive_form": "すませられる",
+    "causative_passive_form_kanji": "住ませられる"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "ひきます",
+    "masu_form_kanji": "弾きます",
+    "dictionary_form": "ひく",
+    "dictionary_form_kanji": "弾く",
+    "causative_passive_form": "ひかせられる",
+    "causative_passive_form_kanji": "弾かせられる"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "つれて きます",
+    "masu_form_kanji": "連れて来ます",
+    "dictionary_form": "つれてくる",
+    "dictionary_form_kanji": "連れて来る",
+    "causative_passive_form": "つれてこさせられる",
+    "causative_passive_form_kanji": "連れて来させられる"
+  },
+  {
+    "lesson": "44",
+    "masu_form": "わらいます",
+    "masu_form_kanji": "笑います",
+    "dictionary_form": "わらう",
+    "dictionary_form_kanji": "笑う",
+    "causative_passive_form": "わらわせられる",
+    "causative_passive_form_kanji": "笑わせられる"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "あつめます",
+    "masu_form_kanji": "集めます",
+    "dictionary_form": "あつめる",
+    "dictionary_form_kanji": "集める",
+    "causative_passive_form": "あつめさせられる",
+    "causative_passive_form_kanji": "集めさせられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "さそいます",
+    "masu_form_kanji": "誘います",
+    "dictionary_form": "さそう",
+    "dictionary_form_kanji": "誘う",
+    "causative_passive_form": "さそわせられる",
+    "causative_passive_form_kanji": "誘わせられる"
+  },
+  {
+    "lesson": "32",
+    "masu_form": "でます [しあいに～]",
+    "masu_form_kanji": "出ます [試合に～]",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る",
+    "causative_passive_form": "でさせられる",
+    "causative_passive_form_kanji": "出させられる"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "にゅうがくします [だいがくに～]",
+    "masu_form_kanji": "入学します [大学に～]",
+    "dictionary_form": "にゅうがくする",
+    "dictionary_form_kanji": "入学する",
+    "causative_passive_form": "にゅうがくさせられる",
+    "causative_passive_form_kanji": "入学させられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "ぬぎます",
+    "masu_form_kanji": "脱ぎます",
+    "dictionary_form": "ぬぐ",
+    "dictionary_form_kanji": "脱ぐ",
+    "causative_passive_form": "ぬがせられる",
+    "causative_passive_form_kanji": "脱がせられる"
+  },
+  {
+    "lesson": "26",
+    "masu_form": "やります",
+    "masu_form_kanji": null,
+    "dictionary_form": "やる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "やらせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "16",
+    "masu_form": "でます [だいがくを～]",
+    "masu_form_kanji": "出ます [大学を～]",
+    "dictionary_form": "でる",
+    "dictionary_form_kanji": "出る",
+    "causative_passive_form": "でさせられる",
+    "causative_passive_form_kanji": "出させられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "ならべます",
+    "masu_form_kanji": "並べます",
+    "dictionary_form": "ならべる",
+    "dictionary_form_kanji": "並べる",
+    "causative_passive_form": "ならべさせられる",
+    "causative_passive_form_kanji": "並べさせられる"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "そうじします",
+    "masu_form_kanji": "掃除します",
+    "dictionary_form": "そうじする",
+    "dictionary_form_kanji": "掃除する",
+    "causative_passive_form": "そうじさせられる",
+    "causative_passive_form_kanji": "掃除させられる"
+  },
+  {
+    "lesson": "22",
+    "masu_form": "かけます[めがねを～]",
+    "masu_form_kanji": "[眼鏡を～]",
+    "dictionary_form": "かける",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "かけさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "5",
+    "masu_form": "きます",
+    "masu_form_kanji": "来ます",
+    "dictionary_form": "くる",
+    "dictionary_form_kanji": "来る",
+    "causative_passive_form": "こさせられる",
+    "causative_passive_form_kanji": "来させられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "よしゅうします",
+    "masu_form_kanji": "予習します",
+    "dictionary_form": "よしゅうする",
+    "dictionary_form_kanji": "予習する",
+    "causative_passive_form": "よしゅうさせられる",
+    "causative_passive_form_kanji": "予習させられる"
+  },
+  {
+    "lesson": "50",
+    "masu_form": "よういします",
+    "masu_form_kanji": "用意します",
+    "dictionary_form": "よういする",
+    "dictionary_form_kanji": "用意する",
+    "causative_passive_form": "よういさせられる",
+    "causative_passive_form_kanji": "用意させられる"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "そうだんします",
+    "masu_form_kanji": "相談します",
+    "dictionary_form": "そうだんする",
+    "dictionary_form_kanji": "相談する",
+    "causative_passive_form": "そうだんさせられる",
+    "causative_passive_form_kanji": "相談させられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "かきます",
+    "masu_form_kanji": "書きます",
+    "dictionary_form": "かく",
+    "dictionary_form_kanji": "書く",
+    "causative_passive_form": "かかせられる",
+    "causative_passive_form_kanji": "書かせられる"
+  },
+  {
+    "lesson": "40",
+    "masu_form": "とうちゃくします",
+    "masu_form_kanji": "到着します",
+    "dictionary_form": "とうちゃくする",
+    "dictionary_form_kanji": "到着する",
+    "causative_passive_form": "とうちゃくさせられる",
+    "causative_passive_form_kanji": "到着させられる"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "つかれます",
+    "masu_form_kanji": "疲れます",
+    "dictionary_form": "つかれる",
+    "dictionary_form_kanji": "疲れる",
+    "causative_passive_form": "つかれさせられる",
+    "causative_passive_form_kanji": "疲れさせられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "します",
+    "masu_form_kanji": null,
+    "dictionary_form": "する",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "させられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "14",
+    "masu_form": "おしえます [じゅうしょを～]",
+    "masu_form_kanji": "教えます [住所 を～]",
+    "dictionary_form": "おしえる",
+    "dictionary_form_kanji": "教える",
+    "causative_passive_form": "おしえさせられる",
+    "causative_passive_form_kanji": "教えさせられる"
+  },
+  {
+    "lesson": "10",
+    "masu_form": "います",
+    "masu_form_kanji": null,
+    "dictionary_form": "いる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "いさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "4",
+    "masu_form": "はたらきます",
+    "masu_form_kanji": "働きます",
+    "dictionary_form": "はたらく",
+    "dictionary_form_kanji": "働く",
+    "causative_passive_form": "はたらかせられる",
+    "causative_passive_form_kanji": "働かせられる"
+  },
+  {
+    "lesson": "44",
+    "masu_form": "ねむります",
+    "masu_form_kanji": "眠ります",
+    "dictionary_form": "ねむる",
+    "dictionary_form_kanji": "眠る",
+    "causative_passive_form": "ねむらせられる",
+    "causative_passive_form_kanji": "眠らせられる"
+  },
+  {
+    "lesson": "24",
+    "masu_form": "なおします",
+    "masu_form_kanji": "直します",
+    "dictionary_form": "なおす",
+    "dictionary_form_kanji": "直す",
+    "causative_passive_form": "なおさせられる",
+    "causative_passive_form_kanji": "直させられる"
+  },
+  {
+    "lesson": "7",
+    "masu_form": "しつれいします",
+    "masu_form_kanji": "失礼します",
+    "dictionary_form": "しつれいする",
+    "dictionary_form_kanji": "失礼する",
+    "causative_passive_form": "しつれいさせられる",
+    "causative_passive_form_kanji": "失礼させられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "ほめます",
+    "masu_form_kanji": "褒めます",
+    "dictionary_form": "ほめる",
+    "dictionary_form_kanji": "褒める",
+    "causative_passive_form": "ほめさせられる",
+    "causative_passive_form_kanji": "褒めさせられる"
+  },
+  {
+    "lesson": "50",
+    "masu_form": "かんしゃします",
+    "masu_form_kanji": "感謝します",
+    "dictionary_form": "かんしゃする",
+    "dictionary_form_kanji": "感謝する",
+    "causative_passive_form": "かんしゃさせられる",
+    "causative_passive_form_kanji": "感謝させられる"
+  },
+  {
+    "lesson": "14",
+    "masu_form": "いそぎます",
+    "masu_form_kanji": "急ぎます",
+    "dictionary_form": "いそぐ",
+    "dictionary_form_kanji": "急ぐ",
+    "causative_passive_form": "いそがせられる",
+    "causative_passive_form_kanji": "急がせられる"
+  },
+  {
+    "lesson": "29",
+    "masu_form": "とまります [エレベーター が～]",
+    "masu_form_kanji": "止まります",
+    "dictionary_form": "とまる",
+    "dictionary_form_kanji": "止まる",
+    "causative_passive_form": "とまらせられる",
+    "causative_passive_form_kanji": "止まらせられる"
+  },
+  {
+    "lesson": "22",
+    "masu_form": "はきます [くつを～]",
+    "masu_form_kanji": "[靴を～]",
+    "dictionary_form": "はく",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "はかせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "18",
+    "masu_form": "かえます",
+    "masu_form_kanji": "換えます",
+    "dictionary_form": "かえる",
+    "dictionary_form_kanji": "換える",
+    "causative_passive_form": "かえさせられる",
+    "causative_passive_form_kanji": "換えさせられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "あびます [シャワーを～]",
+    "masu_form_kanji": "浴びます［シャワーを］",
+    "dictionary_form": "あびる",
+    "dictionary_form_kanji": "浴びる",
+    "causative_passive_form": "あびさせられる",
+    "causative_passive_form_kanji": "浴びさせられる"
+  },
+  {
+    "lesson": "22",
+    "masu_form": "きます [シャツを～]",
+    "masu_form_kanji": "着ます",
+    "dictionary_form": "きる",
+    "dictionary_form_kanji": "着る",
+    "causative_passive_form": "きさせられる",
+    "causative_passive_form_kanji": "着させられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "うえます",
+    "masu_form_kanji": "植えます",
+    "dictionary_form": "うえる",
+    "dictionary_form_kanji": "植える",
+    "causative_passive_form": "うえさせられる",
+    "causative_passive_form_kanji": "植えさせられる"
+  },
+  {
+    "lesson": "13",
+    "masu_form": "かいものします",
+    "masu_form_kanji": "買い物します",
+    "dictionary_form": "かいものする",
+    "dictionary_form_kanji": "買い物する",
+    "causative_passive_form": "かいものさせられる",
+    "causative_passive_form_kanji": "買い物させられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "まとめます",
+    "masu_form_kanji": null,
+    "dictionary_form": "まとめる",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "まとめさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "36",
+    "masu_form": "ちょきんします",
+    "masu_form_kanji": "貯金します",
+    "dictionary_form": "ちょきんする",
+    "dictionary_form_kanji": "貯金する",
+    "causative_passive_form": "ちょきんさせられる",
+    "causative_passive_form_kanji": "貯金させられる"
+  },
+  {
+    "lesson": "18",
+    "masu_form": "すてます",
+    "masu_form_kanji": "捨てます",
+    "dictionary_form": "すてる",
+    "dictionary_form_kanji": "捨てる",
+    "causative_passive_form": "すてさせられる",
+    "causative_passive_form_kanji": "捨てさせられる"
+  },
+  {
+    "lesson": "35",
+    "masu_form": "こまります",
+    "masu_form_kanji": "困ります",
+    "dictionary_form": "こまる",
+    "dictionary_form_kanji": "困る",
+    "causative_passive_form": "こまらせられる",
+    "causative_passive_form_kanji": "困らせられる"
+  },
+  {
+    "lesson": "27",
+    "masu_form": "たてます",
+    "masu_form_kanji": "建てます",
+    "dictionary_form": "たてる",
+    "dictionary_form_kanji": "建てる",
+    "causative_passive_form": "たてさせられる",
+    "causative_passive_form_kanji": "建てさせられる"
+  },
+  {
+    "lesson": "28",
+    "masu_form": "メモします",
+    "masu_form_kanji": null,
+    "dictionary_form": "メモする",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "メモさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "31",
+    "masu_form": "つづけます",
+    "masu_form_kanji": "続けます",
+    "dictionary_form": "つづける",
+    "dictionary_form_kanji": "続ける",
+    "causative_passive_form": "つづけさせられる",
+    "causative_passive_form_kanji": "続けさせられる"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "むかいます",
+    "masu_form_kanji": "向かいます",
+    "dictionary_form": "むかう",
+    "dictionary_form_kanji": "向かう",
+    "causative_passive_form": "むかわせられる",
+    "causative_passive_form_kanji": "向かわせられる"
+  },
+  {
+    "lesson": "5",
+    "masu_form": "かえります",
+    "masu_form_kanji": "帰ります",
+    "dictionary_form": "かえる",
+    "dictionary_form_kanji": "帰る",
+    "causative_passive_form": "かえらせられる",
+    "causative_passive_form_kanji": "帰らせられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "のります [でんしゃに～) ]",
+    "masu_form_kanji": "乗ります [電車に～]",
+    "dictionary_form": "のる",
+    "dictionary_form_kanji": "乗る",
+    "causative_passive_form": "のらせられる",
+    "causative_passive_form_kanji": "乗らせられる"
+  },
+  {
+    "lesson": "6",
+    "masu_form": "とります[しゃしんを～]",
+    "masu_form_kanji": "撮ります [写真を～]",
+    "dictionary_form": "とる",
+    "dictionary_form_kanji": "撮る",
+    "causative_passive_form": "とらせられる",
+    "causative_passive_form_kanji": "撮らせられる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "おします [はんこを～]",
+    "masu_form_kanji": "押します [はんこを～]",
+    "dictionary_form": "おす",
+    "dictionary_form_kanji": "押す",
+    "causative_passive_form": "おさせられる",
+    "causative_passive_form_kanji": "押させられる"
+  },
+  {
+    "lesson": "4",
+    "masu_form": "べんきょうします",
+    "masu_form_kanji": "勉強します",
+    "dictionary_form": "べんきょうする",
+    "dictionary_form_kanji": "勉強する",
+    "causative_passive_form": "べんきょうさせられる",
+    "causative_passive_form_kanji": "勉強させられる"
+  },
+  {
+    "lesson": "17",
+    "masu_form": "しゅっちょうします",
+    "masu_form_kanji": "出張します",
+    "dictionary_form": "しゅっちょうする",
+    "dictionary_form_kanji": "出張する",
+    "causative_passive_form": "しゅっちょうさせられる",
+    "causative_passive_form_kanji": "出張させられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "もどします",
+    "masu_form_kanji": "戻します",
+    "dictionary_form": "もどす",
+    "dictionary_form_kanji": "戻す",
+    "causative_passive_form": "もどさせられる",
+    "causative_passive_form_kanji": "戻させられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "そのままにします",
+    "masu_form_kanji": null,
+    "dictionary_form": "そのままにする",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "そのままにさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "13",
+    "masu_form": "およぎます",
+    "masu_form_kanji": "泳ぎます",
+    "dictionary_form": "およぐ",
+    "dictionary_form_kanji": "泳ぐ",
+    "causative_passive_form": "およがせられる",
+    "causative_passive_form_kanji": "泳がせられる"
+  },
+  {
+    "lesson": "39",
+    "masu_form": "がっかりします",
+    "masu_form_kanji": null,
+    "dictionary_form": "がっかりする",
+    "dictionary_form_kanji": null,
+    "causative_passive_form": "がっかりさせられる",
+    "causative_passive_form_kanji": null
+  },
+  {
+    "lesson": "41",
+    "masu_form": "しんせつにします",
+    "masu_form_kanji": "親切に します",
+    "dictionary_form": "しんせつにする",
+    "dictionary_form_kanji": "親切にする",
+    "causative_passive_form": "しんせつにさせられる",
+    "causative_passive_form_kanji": "親切にさせられる"
+  },
+  {
+    "lesson": "4",
+    "masu_form": "やすみます",
+    "masu_form_kanji": "休みます",
+    "dictionary_form": "やすむ",
+    "dictionary_form_kanji": "休む",
+    "causative_passive_form": "やすませられる",
+    "causative_passive_form_kanji": "休ませられる"
+  },
+  {
+    "lesson": "25",
+    "masu_form": "つきます [えきに～]",
+    "masu_form_kanji": "着きます [駅に～]",
+    "dictionary_form": "つく",
+    "dictionary_form_kanji": "着く",
+    "causative_passive_form": "つかせられる",
+    "causative_passive_form_kanji": "着かせられる"
+  },
+  {
+    "lesson": "48",
+    "masu_form": "たのしみます",
+    "masu_form_kanji": "楽しみます",
+    "dictionary_form": "たのしむ",
+    "dictionary_form_kanji": "楽しむ",
+    "causative_passive_form": "たのしませられる",
+    "causative_passive_form_kanji": "楽しませられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "もどります",
+    "masu_form_kanji": "戻ります",
+    "dictionary_form": "もどる",
+    "dictionary_form_kanji": "戻る",
+    "causative_passive_form": "もどらせられる",
+    "causative_passive_form_kanji": "戻らせられる"
+  },
+  {
+    "lesson": "16",
+    "masu_form": "だします",
+    "masu_form_kanji": "出します",
+    "dictionary_form": "だす",
+    "dictionary_form_kanji": "出す",
+    "causative_passive_form": "ださせられる",
+    "causative_passive_form_kanji": "出させられる"
+  },
+  {
+    "lesson": "19",
+    "masu_form": "とまります [ホテルに ～]",
+    "masu_form_kanji": "泊まります [ホテルに ～]",
+    "dictionary_form": "とまる",
+    "dictionary_form_kanji": "泊まる",
+    "causative_passive_form": "とまらせられる",
+    "causative_passive_form_kanji": "泊まらせられる"
+  },
+  {
+    "lesson": "38",
+    "masu_form": "そだてます",
+    "masu_form_kanji": "育てます",
+    "dictionary_form": "そだてる",
+    "dictionary_form_kanji": "育てる",
+    "causative_passive_form": "そだてさせられる",
+    "causative_passive_form_kanji": "育てさせられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "にげます",
+    "masu_form_kanji": "逃げます",
+    "dictionary_form": "にげる",
+    "dictionary_form_kanji": "逃げる",
+    "causative_passive_form": "にげさせられる",
+    "causative_passive_form_kanji": "逃げさせられる"
+  },
+  {
+    "lesson": "33",
+    "masu_form": "つたえます",
+    "masu_form_kanji": "伝えます",
+    "dictionary_form": "つたえる",
+    "dictionary_form_kanji": "伝える",
+    "causative_passive_form": "つたえさせられる",
+    "causative_passive_form_kanji": "伝えさせられる"
+  },
+  {
+    "lesson": "37",
+    "masu_form": "おこないます",
+    "masu_form_kanji": "行います",
+    "dictionary_form": "おこなう",
+    "dictionary_form_kanji": "行う",
+    "causative_passive_form": "おこなわせられる",
+    "causative_passive_form_kanji": "行わせられる"
+  },
+  {
+    "lesson": "46",
+    "masu_form": "そつぎょうします [だいがくを～]",
+    "masu_form_kanji": "卒業します [大学を～]",
+    "dictionary_form": "そつぎょうする",
+    "dictionary_form_kanji": "卒業する",
+    "causative_passive_form": "そつぎょうさせられる",
+    "causative_passive_form_kanji": "卒業させられる"
+  },
+  {
+    "lesson": "41",
+    "masu_form": "さげます",
+    "masu_form_kanji": "下げます",
+    "dictionary_form": "さげる",
+    "dictionary_form_kanji": "下げる",
+    "causative_passive_form": "さげさせられる",
+    "causative_passive_form_kanji": "下げさせられる"
+  },
+  {
+    "lesson": "30",
+    "masu_form": "きめます",
+    "masu_form_kanji": "決めます",
+    "dictionary_form": "きめる",
+    "dictionary_form_kanji": "決める",
+    "causative_passive_form": "きめさせられる",
+    "causative_passive_form_kanji": "決めさせられる"
+  }
+]
