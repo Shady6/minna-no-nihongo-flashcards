@@ -8,6 +8,7 @@ import {
 } from '@mui/material'
 import GitHubIcon from '@mui/icons-material/GitHub'
 import YouTubeIcon from '@mui/icons-material/YouTube'
+import TwitterIcon from '@mui/icons-material/Twitter'
 
 export const Author = () => {
   return (
@@ -56,10 +57,29 @@ export const Author = () => {
                 '&:hover': {
                   color: 'primary.main',
                 },
+                mr: 1,
               }}
               size="small"
             >
               <GitHubIcon />
+            </IconButton>
+          </Tooltip>
+          <Tooltip title="Follow me on Twitter">
+            <IconButton
+              component="a"
+              href="https://x.com/MikolajPiekutow"
+              target="_blank"
+              rel="noopener noreferrer"
+              sx={{
+                color: 'text.secondary',
+                '&:hover': {
+                  color: 'primary.main',
+                },
+                mr: 1,
+              }}
+              size="small"
+            >
+              <TwitterIcon />
             </IconButton>
           </Tooltip>
           <Tooltip title="Checkout my YouTube Channel">
