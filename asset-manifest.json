@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/minna-no-nihongo-flashcards/static/css/main.e6c13ad2.css",
-    "main.js": "/minna-no-nihongo-flashcards/static/js/main.5310292b.js",
+    "main.js": "/minna-no-nihongo-flashcards/static/js/main.79037504.js",
     "index.html": "/minna-no-nihongo-flashcards/index.html",
     "main.e6c13ad2.css.map": "/minna-no-nihongo-flashcards/static/css/main.e6c13ad2.css.map",
-    "main.5310292b.js.map": "/minna-no-nihongo-flashcards/static/js/main.5310292b.js.map"
+    "main.79037504.js.map": "/minna-no-nihongo-flashcards/static/js/main.79037504.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5310292b.js"
+    "static/js/main.79037504.js"
   ]
 }
