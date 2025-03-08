@@ -67,7 +67,7 @@ export const Author = () => {
           <Tooltip title="Follow me on Twitter">
             <IconButton
               component="a"
-              href="https://x.com/MikolajPiekutow"
+              href="https://x.com/mikopukpuk"
               target="_blank"
               rel="noopener noreferrer"
               sx={{
