@@ -4,6 +4,7 @@ import { FlashcardContainer } from './FlashcardContainer'
 import { DeckConfigType, useDeckConfig } from '../contexts/DeckConfigContext'
 import { Stack } from '@mui/material'
 import { KeyboardShortcutsInfo } from './KeyboardShortcutsInfo'
+import { Author } from './Author'
 
 // Import all form data
 import teFormData from '../data/te_form.json'
@@ -45,7 +46,7 @@ export const loadData = (deckConfig: DeckConfigType) => {
           // @ts-ignore
           backKana: item[form] as string,
           // @ts-ignore
-          backKanji: item[`${form}_kanji`] ?? (item[form] as string),
+          backKanji: item[`${form}kanji`] ?? (item[form] as string),
           lesson: Number(item.lesson),
           form: form,
         })
@@ -67,12 +68,13 @@ export default function Deck() {
 
   useEffect(() => {
     setFlashcards(loadData(deckConfig))
-  }, [])
+  }, [deckConfig, setFlashcards])
 
   return (
     <Stack sx={{ width: '100%', height: '100%', position: 'relative' }}>
       <KeyboardShortcutsInfo />
       <FlashcardContainer />
+      <Author />
     </Stack>
   )
 }

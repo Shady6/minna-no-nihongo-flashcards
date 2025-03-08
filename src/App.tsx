@@ -2,6 +2,7 @@ import Deck from './Components/Deck'
 import { DeckConfig } from './Components/DeckConfig'
 import { Box } from '@mui/material'
 import { useDeckConfig } from './contexts/DeckConfigContext'
+import { Author } from './Components/Author'
 
 function App() {
   const { isConfigDone } = useDeckConfig()
@@ -14,7 +15,14 @@ function App() {
       }}
       className="App"
     >
-      {isConfigDone ? <Deck /> : <DeckConfig />}
+      {isConfigDone ? (
+        <Deck />
+      ) : (
+        <>
+          <DeckConfig />
+          <Author />
+        </>
+      )}
     </Box>
   )
 }

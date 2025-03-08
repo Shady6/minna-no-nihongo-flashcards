@@ -136,5 +136,5 @@ const DoneButton = () => {
 }
 
 export const displayForm = (form: string) => {
-  return form.replace('_form', '').replace('_', '')
+  return form.replace('_form', '').replace('_', ' ')
 }
