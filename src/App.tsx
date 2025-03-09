@@ -11,18 +11,15 @@ function App() {
     <Box
       sx={{
         minHeight: '100vh',
-        mt: 5,
+        display: 'flex',
+        flexDirection: 'column',
       }}
       className="App"
     >
-      {isConfigDone ? (
-        <Deck />
-      ) : (
-        <>
-          <DeckConfig />
-          <Author />
-        </>
-      )}
+      <Box sx={{ flex: 1, mt: 5 }}>
+        {isConfigDone ? <Deck /> : <DeckConfig />}
+      </Box>
+      {!isConfigDone && <Author />}
     </Box>
   )
 }

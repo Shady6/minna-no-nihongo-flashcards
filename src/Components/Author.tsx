@@ -15,10 +15,7 @@ export const Author = () => {
     <Box
       component="footer"
       sx={{
-        position: 'fixed',
-        bottom: 0,
-        left: 0,
-        right: 0,
+        width: '100%',
         padding: 2,
         backgroundColor: 'background.paper',
         borderTop: '1px solid',
@@ -27,6 +24,7 @@ export const Author = () => {
         justifyContent: 'center',
         alignItems: 'center',
         gap: 2,
+        marginTop: 'auto',
       }}
     >
       <Stack alignItems="center">
