@@ -1,7 +1,7 @@
 import { Paper, Typography, Box } from '@mui/material'
 import { flashcardStyles } from './Flashcard.styles'
 import { useDeck } from '../contexts/DeckContext'
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { displayForm } from './DeckConfig'
 import { CardBackside } from './CardBackside'
 
@@ -14,17 +14,24 @@ export const Flashcard = () => {
     currentIndex,
   } = useDeck()
 
+  const [transitionEnabled, setTransitionEnabled] = useState(false)
+
   useEffect(() => {
     const handleKeyPress = (e: KeyboardEvent) => {
       if (e.code === 'Space') {
         e.preventDefault()
         setFlipped(!flipped)
+        setTransitionEnabled(true)
       }
     }
 
     window.addEventListener('keydown', handleKeyPress)
     return () => window.removeEventListener('keydown', handleKeyPress)
   }, [flipped, setFlipped])
+
+  useEffect(() => {
+    setTransitionEnabled(false)
+  }, [card])
 
   const CardContent = ({ kanji, kana }: { kanji?: string; kana?: string }) => (
     <Box
@@ -52,9 +59,13 @@ export const Flashcard = () => {
         {currentIndex + 1} / {flashcards.length}
       </Typography>
       <Paper
-        onClick={() => setFlipped(!flipped)}
+        onClick={() => {
+          setFlipped(!flipped)
+          setTransitionEnabled(true)
+        }}
         sx={{
           ...flashcardStyles.container,
+          transition: transitionEnabled ? 'transform 0.6s' : 'none',
           transform: flipped ? 'rotateY(180deg)' : 'rotateY(0)',
         }}
       >
