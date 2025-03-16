@@ -48,6 +48,7 @@ export const loadData = (deckConfig: DeckConfigType) => {
           backKanji: item[`${form}_kanji`] ?? (item[form] as string),
           lesson: Number(item.lesson),
           form: form,
+          translation: item.translation,
         })
       }
     })

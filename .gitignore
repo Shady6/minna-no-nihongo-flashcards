@@ -22,6 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# scripts
-/src/scripts/**/*.js
-/src/scripts/**/*.js.map
+# ignore all files in scripts folder
+
+/src/scripts/

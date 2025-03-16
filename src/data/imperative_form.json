@@ -6,7 +6,8 @@
     "dictionary_form": "たのむ",
     "dictionary_form_kanji": "頼む",
     "imperative_form": "たのめ",
-    "imperative_form_kanji": "頼め"
+    "imperative_form_kanji": "頼め",
+    "translation": "I'll ask"
   },
   {
     "lesson": "15",
@@ -15,7 +16,8 @@
     "dictionary_form": "おもいだす",
     "dictionary_form_kanji": "思い出す",
     "imperative_form": "おもいだせ",
-    "imperative_form_kanji": "思い出せ"
+    "imperative_form_kanji": "思い出せ",
+    "translation": "I remember"
   },
   {
     "lesson": "37",
@@ -24,7 +26,8 @@
     "dictionary_form": "こわす",
     "dictionary_form_kanji": "壊す",
     "imperative_form": "こわせ",
-    "imperative_form_kanji": "壊せ"
+    "imperative_form_kanji": "壊せ",
+    "translation": "I'll break it"
   },
   {
     "lesson": "44",
@@ -33,7 +36,8 @@
     "dictionary_form": "なく",
     "dictionary_form_kanji": "泣く",
     "imperative_form": "なけ",
-    "imperative_form_kanji": "泣け"
+    "imperative_form_kanji": "泣け",
+    "translation": "I'm crying"
   },
   {
     "lesson": "33",
@@ -42,7 +46,8 @@
     "dictionary_form": "にげる",
     "dictionary_form_kanji": "逃げる",
     "imperative_form": "にげろ",
-    "imperative_form_kanji": "逃げろ"
+    "imperative_form_kanji": "逃げろ",
+    "translation": "I'll run away"
   },
   {
     "lesson": "48",
@@ -51,7 +56,8 @@
     "dictionary_form": "とどける",
     "dictionary_form_kanji": "届ける",
     "imperative_form": "とどけろ",
-    "imperative_form_kanji": "届けろ"
+    "imperative_form_kanji": "届けろ",
+    "translation": "I'll deliver it"
   },
   {
     "lesson": "16",
@@ -60,7 +66,8 @@
     "dictionary_form": "おす",
     "dictionary_form_kanji": "押す",
     "imperative_form": "おせ",
-    "imperative_form_kanji": "押せ"
+    "imperative_form_kanji": "押せ",
+    "translation": "Press"
   },
   {
     "lesson": "50",
@@ -69,7 +76,8 @@
     "dictionary_form": "かんしゃする",
     "dictionary_form_kanji": "感謝する",
     "imperative_form": "かんしゃしろ",
-    "imperative_form_kanji": "感謝しろ"
+    "imperative_form_kanji": "感謝しろ",
+    "translation": "appreciate"
   },
   {
     "lesson": "39",
@@ -78,7 +86,8 @@
     "dictionary_form": "けんかする",
     "dictionary_form_kanji": null,
     "imperative_form": "けんかしろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll fight"
   },
   {
     "lesson": "39",
@@ -87,7 +96,8 @@
     "dictionary_form": "とおる",
     "dictionary_form_kanji": "通る",
     "imperative_form": "とおれ",
-    "imperative_form_kanji": "通れ"
+    "imperative_form_kanji": "通れ",
+    "translation": "I'll pass"
   },
   {
     "lesson": "19",
@@ -96,7 +106,8 @@
     "dictionary_form": "なる",
     "dictionary_form_kanji": null,
     "imperative_form": "なれ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "It will become"
   },
   {
     "lesson": "17",
@@ -105,7 +116,8 @@
     "dictionary_form": "おぼえる",
     "dictionary_form_kanji": "覚える",
     "imperative_form": "おぼえろ",
-    "imperative_form_kanji": "覚えろ"
+    "imperative_form_kanji": "覚えろ",
+    "translation": "I'll remember"
   },
   {
     "lesson": "48",
@@ -114,7 +126,8 @@
     "dictionary_form": "おろす",
     "dictionary_form_kanji": "下ろす",
     "imperative_form": "おろせ",
-    "imperative_form_kanji": "下ろせ"
+    "imperative_form_kanji": "下ろせ",
+    "translation": "I'll take it down, I'll take it down"
   },
   {
     "lesson": "6",
@@ -123,7 +136,8 @@
     "dictionary_form": "すう",
     "dictionary_form_kanji": "吸う",
     "imperative_form": "すえ",
-    "imperative_form_kanji": "吸え"
+    "imperative_form_kanji": "吸え",
+    "translation": "I'll suck"
   },
   {
     "lesson": "37",
@@ -132,7 +146,8 @@
     "dictionary_form": "ほめる",
     "dictionary_form_kanji": "褒める",
     "imperative_form": "ほめろ",
-    "imperative_form_kanji": "褒めろ"
+    "imperative_form_kanji": "褒めろ",
+    "translation": "I'll praise you"
   },
   {
     "lesson": "7",
@@ -141,7 +156,8 @@
     "dictionary_form": "ならう",
     "dictionary_form_kanji": "習う",
     "imperative_form": "ならえ",
-    "imperative_form_kanji": "習え"
+    "imperative_form_kanji": "習え",
+    "translation": "I'll learn"
   },
   {
     "lesson": "11",
@@ -150,7 +166,8 @@
     "dictionary_form": "いる",
     "dictionary_form_kanji": null,
     "imperative_form": "いろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'm here (in Japan)"
   },
   {
     "lesson": "24",
@@ -159,7 +176,8 @@
     "dictionary_form": "つれていく",
     "dictionary_form_kanji": "連れて行く",
     "imperative_form": "つれていけ",
-    "imperative_form_kanji": "連れて行け"
+    "imperative_form_kanji": "連れて行け",
+    "translation": "I'll take you"
   },
   {
     "lesson": "46",
@@ -168,7 +186,8 @@
     "dictionary_form": "むかう",
     "dictionary_form_kanji": "向かう",
     "imperative_form": "むかえ",
-    "imperative_form_kanji": "向かえ"
+    "imperative_form_kanji": "向かえ",
+    "translation": "I'm heading"
   },
   {
     "lesson": "47",
@@ -177,7 +196,8 @@
     "dictionary_form": "わかれる",
     "dictionary_form_kanji": "別れる",
     "imperative_form": "わかれろ",
-    "imperative_form_kanji": "別れろ"
+    "imperative_form_kanji": "別れろ",
+    "translation": "I'll part ways"
   },
   {
     "lesson": "4",
@@ -186,7 +206,8 @@
     "dictionary_form": "やすむ",
     "dictionary_form_kanji": "休む",
     "imperative_form": "やすめ",
-    "imperative_form_kanji": "休め"
+    "imperative_form_kanji": "休め",
+    "translation": "I'm off"
   },
   {
     "lesson": "16",
@@ -195,7 +216,8 @@
     "dictionary_form": "あびる",
     "dictionary_form_kanji": "浴びる",
     "imperative_form": "あびろ",
-    "imperative_form_kanji": "浴びろ"
+    "imperative_form_kanji": "浴びろ",
+    "translation": "I'll take a shower [Shower]"
   },
   {
     "lesson": "34",
@@ -204,7 +226,8 @@
     "dictionary_form": "のせる",
     "dictionary_form_kanji": "載せる",
     "imperative_form": "のせろ",
-    "imperative_form_kanji": "載せろ"
+    "imperative_form_kanji": "載せろ",
+    "translation": "I'll post it"
   },
   {
     "lesson": "16",
@@ -213,7 +236,8 @@
     "dictionary_form": "おりる",
     "dictionary_form_kanji": "降りる",
     "imperative_form": "おりろ",
-    "imperative_form_kanji": "降りろ"
+    "imperative_form_kanji": "降りろ",
+    "translation": "I'm off"
   },
   {
     "lesson": "14",
@@ -222,7 +246,8 @@
     "dictionary_form": "もつ",
     "dictionary_form_kanji": "持つ",
     "imperative_form": "もて",
-    "imperative_form_kanji": "持て"
+    "imperative_form_kanji": "持て",
+    "translation": "I'll have it"
   },
   {
     "lesson": "38",
@@ -231,7 +256,8 @@
     "dictionary_form": "はこぶ",
     "dictionary_form_kanji": "運ぶ",
     "imperative_form": "はこべ",
-    "imperative_form_kanji": "運べ"
+    "imperative_form_kanji": "運べ",
+    "translation": "I'll carry it"
   },
   {
     "lesson": "14",
@@ -240,7 +266,8 @@
     "dictionary_form": "てつだう",
     "dictionary_form_kanji": "手伝う",
     "imperative_form": "てつだえ",
-    "imperative_form_kanji": "手伝え"
+    "imperative_form_kanji": "手伝え",
+    "translation": "I'll help"
   },
   {
     "lesson": "29",
@@ -249,7 +276,8 @@
     "dictionary_form": "とりかえる",
     "dictionary_form_kanji": "取り替える",
     "imperative_form": "とりかえろ",
-    "imperative_form_kanji": "取り替えろ"
+    "imperative_form_kanji": "取り替えろ",
+    "translation": "I'll replace it"
   },
   {
     "lesson": "28",
@@ -258,7 +286,8 @@
     "dictionary_form": "えらぶ",
     "dictionary_form_kanji": "選ぶ",
     "imperative_form": "えらべ",
-    "imperative_form_kanji": "選べ"
+    "imperative_form_kanji": "選べ",
+    "translation": "I'll choose"
   },
   {
     "lesson": "18",
@@ -267,7 +296,8 @@
     "dictionary_form": "あらう",
     "dictionary_form_kanji": "洗う",
     "imperative_form": "あらえ",
-    "imperative_form_kanji": "洗え"
+    "imperative_form_kanji": "洗え",
+    "translation": "I'll wash it"
   },
   {
     "lesson": "47",
@@ -276,7 +306,8 @@
     "dictionary_form": "こんやくする",
     "dictionary_form_kanji": "婚約する",
     "imperative_form": "こんやくしろ",
-    "imperative_form_kanji": "婚約しろ"
+    "imperative_form_kanji": "婚約しろ",
+    "translation": "I'm engaged"
   },
   {
     "lesson": "6",
@@ -285,7 +316,8 @@
     "dictionary_form": "みる",
     "dictionary_form_kanji": "見る",
     "imperative_form": "みろ",
-    "imperative_form_kanji": "見ろ"
+    "imperative_form_kanji": "見ろ",
+    "translation": "I'll see"
   },
   {
     "lesson": "15",
@@ -294,7 +326,8 @@
     "dictionary_form": "すむ",
     "dictionary_form_kanji": "住む",
     "imperative_form": "すめ",
-    "imperative_form_kanji": "住め"
+    "imperative_form_kanji": "住め",
+    "translation": "I'll live there"
   },
   {
     "lesson": "34",
@@ -303,7 +336,8 @@
     "dictionary_form": "しつもんする",
     "dictionary_form_kanji": "質問する",
     "imperative_form": "しつもんしろ",
-    "imperative_form_kanji": "質問しろ"
+    "imperative_form_kanji": "質問しろ",
+    "translation": "I'll ask a question"
   },
   {
     "lesson": "13",
@@ -312,7 +346,8 @@
     "dictionary_form": "およぐ",
     "dictionary_form_kanji": "泳ぐ",
     "imperative_form": "およげ",
-    "imperative_form_kanji": "泳げ"
+    "imperative_form_kanji": "泳げ",
+    "translation": "I'll swim"
   },
   {
     "lesson": "13",
@@ -321,7 +356,8 @@
     "dictionary_form": "けっこんする",
     "dictionary_form_kanji": "結婚する",
     "imperative_form": "けっこんしろ",
-    "imperative_form_kanji": "結婚しろ"
+    "imperative_form_kanji": "結婚しろ",
+    "translation": "I'm getting married"
   },
   {
     "lesson": "38",
@@ -330,7 +366,8 @@
     "dictionary_form": "たいいんする",
     "dictionary_form_kanji": "退院する",
     "imperative_form": "たいいんしろ",
-    "imperative_form_kanji": "退院しろ"
+    "imperative_form_kanji": "退院しろ",
+    "translation": "I'll be discharged from the hospital"
   },
   {
     "lesson": "4",
@@ -339,7 +376,8 @@
     "dictionary_form": "おきる",
     "dictionary_form_kanji": "起きる",
     "imperative_form": "おきろ",
-    "imperative_form_kanji": "起きろ"
+    "imperative_form_kanji": "起きろ",
+    "translation": "I'm waking up"
   },
   {
     "lesson": "25",
@@ -348,7 +386,8 @@
     "dictionary_form": "つく",
     "dictionary_form_kanji": "着く",
     "imperative_form": "つけ",
-    "imperative_form_kanji": "着け"
+    "imperative_form_kanji": "着け",
+    "translation": "I'll arrive"
   },
   {
     "lesson": "14",
@@ -357,7 +396,8 @@
     "dictionary_form": "はなす",
     "dictionary_form_kanji": "話す",
     "imperative_form": "はなせ",
-    "imperative_form_kanji": "話せ"
+    "imperative_form_kanji": "話せ",
+    "translation": "I'll talk"
   },
   {
     "lesson": "16",
@@ -366,7 +406,8 @@
     "dictionary_form": "のむ",
     "dictionary_form_kanji": "飲む",
     "imperative_form": "のめ",
-    "imperative_form_kanji": "飲め"
+    "imperative_form_kanji": "飲め",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "23",
@@ -375,7 +416,8 @@
     "dictionary_form": "わたる",
     "dictionary_form_kanji": "渡る",
     "imperative_form": "わたれ",
-    "imperative_form_kanji": "渡れ"
+    "imperative_form_kanji": "渡れ",
+    "translation": "I'll cross"
   },
   {
     "lesson": "37",
@@ -384,7 +426,8 @@
     "dictionary_form": "はつめいする",
     "dictionary_form_kanji": "発明する",
     "imperative_form": "はつめいしろ",
-    "imperative_form_kanji": "発明しろ"
+    "imperative_form_kanji": "発明しろ",
+    "translation": "I'll invent"
   },
   {
     "lesson": "11",
@@ -393,7 +436,8 @@
     "dictionary_form": "やすむ",
     "dictionary_form_kanji": "休む",
     "imperative_form": "やすめ",
-    "imperative_form_kanji": "休め"
+    "imperative_form_kanji": "休め",
+    "translation": "I'm off (from work)"
   },
   {
     "lesson": "15",
@@ -402,7 +446,8 @@
     "dictionary_form": "おく",
     "dictionary_form_kanji": "置く",
     "imperative_form": "おけ",
-    "imperative_form_kanji": "置け"
+    "imperative_form_kanji": "置け",
+    "translation": "I'll put it"
   },
   {
     "lesson": "19",
@@ -411,7 +456,8 @@
     "dictionary_form": "そうじする",
     "dictionary_form_kanji": "掃除する",
     "imperative_form": "そうじしろ",
-    "imperative_form_kanji": "掃除しろ"
+    "imperative_form_kanji": "掃除しろ",
+    "translation": "I'll clean it"
   },
   {
     "lesson": "23",
@@ -420,7 +466,8 @@
     "dictionary_form": "さわる",
     "dictionary_form_kanji": "触る",
     "imperative_form": "さわれ",
-    "imperative_form_kanji": "触れ"
+    "imperative_form_kanji": "触れ",
+    "translation": "I'll touch it"
   },
   {
     "lesson": "34",
@@ -429,7 +476,8 @@
     "dictionary_form": "くみたてる",
     "dictionary_form_kanji": "組み立てる",
     "imperative_form": "くみたてろ",
-    "imperative_form_kanji": "組み立てろ"
+    "imperative_form_kanji": "組み立てろ",
+    "translation": "I'll assemble it"
   },
   {
     "lesson": "37",
@@ -438,7 +486,8 @@
     "dictionary_form": "よごす",
     "dictionary_form_kanji": "汚す",
     "imperative_form": "よごせ",
-    "imperative_form_kanji": "汚せ"
+    "imperative_form_kanji": "汚せ",
+    "translation": "It's tainted"
   },
   {
     "lesson": "28",
@@ -447,7 +496,8 @@
     "dictionary_form": "メモする",
     "dictionary_form_kanji": null,
     "imperative_form": "メモしろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll make a note"
   },
   {
     "lesson": "6",
@@ -456,7 +506,8 @@
     "dictionary_form": "する",
     "dictionary_form_kanji": null,
     "imperative_form": "しろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "37",
@@ -465,7 +516,8 @@
     "dictionary_form": "しょうたいする",
     "dictionary_form_kanji": "招待する",
     "imperative_form": "しょうたいしろ",
-    "imperative_form_kanji": "招待しろ"
+    "imperative_form_kanji": "招待しろ",
+    "translation": "I'll invite you"
   },
   {
     "lesson": "6",
@@ -474,7 +526,8 @@
     "dictionary_form": "かう",
     "dictionary_form_kanji": "買う",
     "imperative_form": "かえ",
-    "imperative_form_kanji": "買え"
+    "imperative_form_kanji": "買え",
+    "translation": "I'll take it"
   },
   {
     "lesson": "21",
@@ -483,7 +536,8 @@
     "dictionary_form": "まける",
     "dictionary_form_kanji": "負ける",
     "imperative_form": "まけろ",
-    "imperative_form_kanji": "負けろ"
+    "imperative_form_kanji": "負けろ",
+    "translation": "I'll lose"
   },
   {
     "lesson": "29",
@@ -492,7 +546,8 @@
     "dictionary_form": "おとす",
     "dictionary_form_kanji": "落とす",
     "imperative_form": "おとせ",
-    "imperative_form_kanji": "落とせ"
+    "imperative_form_kanji": "落とせ",
+    "translation": "I'll drop it"
   },
   {
     "lesson": "38",
@@ -501,7 +556,8 @@
     "dictionary_form": "いれる",
     "dictionary_form_kanji": "入れる",
     "imperative_form": "いれろ",
-    "imperative_form_kanji": "入れろ"
+    "imperative_form_kanji": "入れろ",
+    "translation": "I'll put it in"
   },
   {
     "lesson": "45",
@@ -510,7 +566,8 @@
     "dictionary_form": "ゆうしょうする",
     "dictionary_form_kanji": "優勝する",
     "imperative_form": "ゆうしょうしろ",
-    "imperative_form_kanji": "優勝しろ"
+    "imperative_form_kanji": "優勝しろ",
+    "translation": "I'll win"
   },
   {
     "lesson": "14",
@@ -519,7 +576,8 @@
     "dictionary_form": "つかう",
     "dictionary_form_kanji": "使う",
     "imperative_form": "つかえ",
-    "imperative_form_kanji": "使え"
+    "imperative_form_kanji": "使え",
+    "translation": "I'll use it"
   },
   {
     "lesson": "22",
@@ -528,7 +586,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": null,
     "imperative_form": "かけろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "32",
@@ -537,7 +596,8 @@
     "dictionary_form": "でる",
     "dictionary_form_kanji": "出る",
     "imperative_form": "でろ",
-    "imperative_form_kanji": "出ろ"
+    "imperative_form_kanji": "出ろ",
+    "translation": "It's coming out"
   },
   {
     "lesson": "35",
@@ -546,7 +606,8 @@
     "dictionary_form": "クリックする",
     "dictionary_form_kanji": null,
     "imperative_form": "クリックしろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "Click"
   },
   {
     "lesson": "48",
@@ -555,7 +616,8 @@
     "dictionary_form": "せわをする",
     "dictionary_form_kanji": "世話をする",
     "imperative_form": "せわをしろ",
-    "imperative_form_kanji": "世話をしろ"
+    "imperative_form_kanji": "世話をしろ",
+    "translation": "I'll take care of you"
   },
   {
     "lesson": "17",
@@ -564,7 +626,8 @@
     "dictionary_form": "もっていく",
     "dictionary_form_kanji": "持って行く",
     "imperative_form": "もっていけ",
-    "imperative_form_kanji": "持って行け"
+    "imperative_form_kanji": "持って行け",
+    "translation": "I'll take it with me"
   },
   {
     "lesson": "46",
@@ -573,7 +636,8 @@
     "dictionary_form": "わたす",
     "dictionary_form_kanji": "渡す",
     "imperative_form": "わたせ",
-    "imperative_form_kanji": "渡せ"
+    "imperative_form_kanji": "渡せ",
+    "translation": "I'll give it to you"
   },
   {
     "lesson": "21",
@@ -582,7 +646,8 @@
     "dictionary_form": "おもう",
     "dictionary_form_kanji": "思う",
     "imperative_form": "おもえ",
-    "imperative_form_kanji": "思え"
+    "imperative_form_kanji": "思え",
+    "translation": "I think so"
   },
   {
     "lesson": "4",
@@ -591,7 +656,8 @@
     "dictionary_form": "はたらく",
     "dictionary_form_kanji": "働く",
     "imperative_form": "はたらけ",
-    "imperative_form_kanji": "働け"
+    "imperative_form_kanji": "働け",
+    "translation": "I'll work"
   },
   {
     "lesson": "49",
@@ -600,7 +666,8 @@
     "dictionary_form": "つとめる",
     "dictionary_form_kanji": "勤める",
     "imperative_form": "つとめろ",
-    "imperative_form_kanji": "勤めろ"
+    "imperative_form_kanji": "勤めろ",
+    "translation": "I'll work"
   },
   {
     "lesson": "6",
@@ -609,7 +676,8 @@
     "dictionary_form": "よむ",
     "dictionary_form_kanji": "読む",
     "imperative_form": "よめ",
-    "imperative_form_kanji": "読め"
+    "imperative_form_kanji": "読め",
+    "translation": "I'll read"
   },
   {
     "lesson": "49",
@@ -618,7 +686,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": "掛ける",
     "imperative_form": "かけろ",
-    "imperative_form_kanji": "掛けろ"
+    "imperative_form_kanji": "掛けろ",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "40",
@@ -627,7 +696,8 @@
     "dictionary_form": "かぞえる",
     "dictionary_form_kanji": "数える",
     "imperative_form": "かぞえろ",
-    "imperative_form_kanji": "数えろ"
+    "imperative_form_kanji": "数えろ",
+    "translation": "I'll count"
   },
   {
     "lesson": "28",
@@ -636,7 +706,8 @@
     "dictionary_form": "かむ",
     "dictionary_form_kanji": null,
     "imperative_form": "かめ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll bite"
   },
   {
     "lesson": "30",
@@ -645,7 +716,8 @@
     "dictionary_form": "きめる",
     "dictionary_form_kanji": "決める",
     "imperative_form": "きめろ",
-    "imperative_form_kanji": "決めろ"
+    "imperative_form_kanji": "決めろ",
+    "translation": "I'll decide"
   },
   {
     "lesson": "33",
@@ -654,7 +726,8 @@
     "dictionary_form": "さわぐ",
     "dictionary_form_kanji": "騒ぐ",
     "imperative_form": "さわげ",
-    "imperative_form_kanji": "騒げ"
+    "imperative_form_kanji": "騒げ",
+    "translation": "I'm making a fuss"
   },
   {
     "lesson": "26",
@@ -663,7 +736,8 @@
     "dictionary_form": "ひろう",
     "dictionary_form_kanji": "拾う",
     "imperative_form": "ひろえ",
-    "imperative_form_kanji": "拾え"
+    "imperative_form_kanji": "拾え",
+    "translation": "I'll pick it up"
   },
   {
     "lesson": "14",
@@ -672,7 +746,8 @@
     "dictionary_form": "いそぐ",
     "dictionary_form_kanji": "急ぐ",
     "imperative_form": "いそげ",
-    "imperative_form_kanji": "急げ"
+    "imperative_form_kanji": "急げ",
+    "translation": "I'm hurry"
   },
   {
     "lesson": "33",
@@ -681,7 +756,8 @@
     "dictionary_form": "しゅっせきする",
     "dictionary_form_kanji": "出席する",
     "imperative_form": "しゅっせきしろ",
-    "imperative_form_kanji": "出席しろ"
+    "imperative_form_kanji": "出席しろ",
+    "translation": "I'll be attending"
   },
   {
     "lesson": "47",
@@ -690,7 +766,8 @@
     "dictionary_form": "しりあう",
     "dictionary_form_kanji": "知り合う",
     "imperative_form": "しりあえ",
-    "imperative_form_kanji": "知り合え"
+    "imperative_form_kanji": "知り合え",
+    "translation": "I'll know you"
   },
   {
     "lesson": "33",
@@ -699,7 +776,8 @@
     "dictionary_form": "まもる",
     "dictionary_form_kanji": "守る",
     "imperative_form": "まもれ",
-    "imperative_form_kanji": "守れ"
+    "imperative_form_kanji": "守れ",
+    "translation": "I'll protect it"
   },
   {
     "lesson": "36",
@@ -708,7 +786,8 @@
     "dictionary_form": "ちょきんする",
     "dictionary_form_kanji": "貯金する",
     "imperative_form": "ちょきんしろ",
-    "imperative_form_kanji": "貯金しろ"
+    "imperative_form_kanji": "貯金しろ",
+    "translation": "I'll save"
   },
   {
     "lesson": "50",
@@ -717,7 +796,8 @@
     "dictionary_form": "きんちょうする",
     "dictionary_form_kanji": "緊張する",
     "imperative_form": "きんちょうしろ",
-    "imperative_form_kanji": "緊張しろ"
+    "imperative_form_kanji": "緊張しろ",
+    "translation": "I'm nervous"
   },
   {
     "lesson": "23",
@@ -726,7 +806,8 @@
     "dictionary_form": "ひく",
     "dictionary_form_kanji": "引く",
     "imperative_form": "ひけ",
-    "imperative_form_kanji": "弾け"
+    "imperative_form_kanji": "弾け",
+    "translation": "I'll pull"
   },
   {
     "lesson": "34",
@@ -735,7 +816,8 @@
     "dictionary_form": "さす",
     "dictionary_form_kanji": null,
     "imperative_form": "させ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll say"
   },
   {
     "lesson": "13",
@@ -744,7 +826,8 @@
     "dictionary_form": "さんぽする",
     "dictionary_form_kanji": "散歩する",
     "imperative_form": "さんぽしろ",
-    "imperative_form_kanji": "散歩しろ"
+    "imperative_form_kanji": "散歩しろ",
+    "translation": "I'll take a walk"
   },
   {
     "lesson": "7",
@@ -753,7 +836,8 @@
     "dictionary_form": "おくる",
     "dictionary_form_kanji": "送る",
     "imperative_form": "おくれ",
-    "imperative_form_kanji": "送れ"
+    "imperative_form_kanji": "送れ",
+    "translation": "send"
   },
   {
     "lesson": "23",
@@ -762,7 +846,8 @@
     "dictionary_form": "まがる",
     "dictionary_form_kanji": "曲がる",
     "imperative_form": "まがれ",
-    "imperative_form_kanji": "曲がれ"
+    "imperative_form_kanji": "曲がれ",
+    "translation": "It's bent"
   },
   {
     "lesson": "14",
@@ -771,7 +856,8 @@
     "dictionary_form": "たつ",
     "dictionary_form_kanji": "立つ",
     "imperative_form": "たて",
-    "imperative_form_kanji": "立て"
+    "imperative_form_kanji": "立て",
+    "translation": "I'll stand"
   },
   {
     "lesson": "13",
@@ -780,7 +866,8 @@
     "dictionary_form": "しょくじする",
     "dictionary_form_kanji": "食事する",
     "imperative_form": "しょくじしろ",
-    "imperative_form_kanji": "食事しろ"
+    "imperative_form_kanji": "食事しろ",
+    "translation": "I'll eat"
   },
   {
     "lesson": "34",
@@ -789,7 +876,8 @@
     "dictionary_form": "おる",
     "dictionary_form_kanji": "折る",
     "imperative_form": "おれ",
-    "imperative_form_kanji": "折れ"
+    "imperative_form_kanji": "折れ",
+    "translation": "Fold"
   },
   {
     "lesson": "17",
@@ -798,7 +886,8 @@
     "dictionary_form": "かえす",
     "dictionary_form_kanji": "返す",
     "imperative_form": "かえせ",
-    "imperative_form_kanji": "返せ"
+    "imperative_form_kanji": "返せ",
+    "translation": "I'll return it"
   },
   {
     "lesson": "15",
@@ -807,7 +896,8 @@
     "dictionary_form": "しる",
     "dictionary_form_kanji": "知る",
     "imperative_form": "しれ",
-    "imperative_form_kanji": "知れ"
+    "imperative_form_kanji": "知れ",
+    "translation": "I'll know"
   },
   {
     "lesson": "27",
@@ -816,7 +906,8 @@
     "dictionary_form": "はしる",
     "dictionary_form_kanji": "走る",
     "imperative_form": "はしれ",
-    "imperative_form_kanji": "走れ"
+    "imperative_form_kanji": "走れ",
+    "translation": "I'll run"
   },
   {
     "lesson": "14",
@@ -825,7 +916,8 @@
     "dictionary_form": "まつ",
     "dictionary_form_kanji": "待つ",
     "imperative_form": "まて",
-    "imperative_form_kanji": "待て"
+    "imperative_form_kanji": "待て",
+    "translation": "I'll wait"
   },
   {
     "lesson": "6",
@@ -834,7 +926,8 @@
     "dictionary_form": "とる",
     "dictionary_form_kanji": "撮る",
     "imperative_form": "とれ",
-    "imperative_form_kanji": "撮れ"
+    "imperative_form_kanji": "撮れ",
+    "translation": "I'll take a picture"
   },
   {
     "lesson": "17",
@@ -843,7 +936,8 @@
     "dictionary_form": "はらう",
     "dictionary_form_kanji": "払う",
     "imperative_form": "はらえ",
-    "imperative_form_kanji": "払え"
+    "imperative_form_kanji": "払え",
+    "translation": "I'll pay"
   },
   {
     "lesson": "39",
@@ -852,7 +946,8 @@
     "dictionary_form": "りこんする",
     "dictionary_form_kanji": "離婚する",
     "imperative_form": "りこんしろ",
-    "imperative_form_kanji": "離婚しろ"
+    "imperative_form_kanji": "離婚しろ",
+    "translation": "I'm going to divorce"
   },
   {
     "lesson": "41",
@@ -861,7 +956,8 @@
     "dictionary_form": "あげる",
     "dictionary_form_kanji": "上げる",
     "imperative_form": "あげろ",
-    "imperative_form_kanji": "上げろ"
+    "imperative_form_kanji": "上げろ",
+    "translation": "I'll raise it"
   },
   {
     "lesson": "29",
@@ -870,7 +966,8 @@
     "dictionary_form": "とまる",
     "dictionary_form_kanji": "止まる",
     "imperative_form": "とまれ",
-    "imperative_form_kanji": "止まれ"
+    "imperative_form_kanji": "止まれ",
+    "translation": "It's stopping"
   },
   {
     "lesson": "17",
@@ -879,7 +976,8 @@
     "dictionary_form": "ぬぐ",
     "dictionary_form_kanji": "脱ぐ",
     "imperative_form": "ぬげ",
-    "imperative_form_kanji": "脱げ"
+    "imperative_form_kanji": "脱げ",
+    "translation": "I'll take it off"
   },
   {
     "lesson": "50",
@@ -888,7 +986,8 @@
     "dictionary_form": "いれる",
     "dictionary_form_kanji": null,
     "imperative_form": "いれろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll come"
   },
   {
     "lesson": "6",
@@ -897,7 +996,8 @@
     "dictionary_form": "きく",
     "dictionary_form_kanji": "聞く",
     "imperative_form": "きけ",
-    "imperative_form_kanji": "聞け"
+    "imperative_form_kanji": "聞け",
+    "translation": "I'll listen"
   },
   {
     "lesson": "44",
@@ -906,7 +1006,8 @@
     "dictionary_form": "すべる",
     "dictionary_form_kanji": "滑る",
     "imperative_form": "すべれ",
-    "imperative_form_kanji": "滑れ"
+    "imperative_form_kanji": "滑れ",
+    "translation": "It's slipping"
   },
   {
     "lesson": "20",
@@ -915,7 +1016,8 @@
     "dictionary_form": "しゅうりする",
     "dictionary_form_kanji": "修理する",
     "imperative_form": "しゅうりしろ",
-    "imperative_form_kanji": "修理しろ"
+    "imperative_form_kanji": "修理しろ",
+    "translation": "I'll repair it"
   },
   {
     "lesson": "14",
@@ -924,7 +1026,8 @@
     "dictionary_form": "とめる",
     "dictionary_form_kanji": "止める",
     "imperative_form": "とめろ",
-    "imperative_form_kanji": "止めろ"
+    "imperative_form_kanji": "止めろ",
+    "translation": "I'll stop"
   },
   {
     "lesson": "38",
@@ -933,7 +1036,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": "掛ける",
     "imperative_form": "かけろ",
-    "imperative_form_kanji": "掛けろ"
+    "imperative_form_kanji": "掛けろ",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "16",
@@ -942,7 +1046,8 @@
     "dictionary_form": "けんがくする",
     "dictionary_form_kanji": "見学する",
     "imperative_form": "けんがくしろ",
-    "imperative_form_kanji": "見学しろ"
+    "imperative_form_kanji": "見学しろ",
+    "translation": "I'll be watching"
   },
   {
     "lesson": "40",
@@ -951,7 +1056,8 @@
     "dictionary_form": "そうだんする",
     "dictionary_form_kanji": "相談する",
     "imperative_form": "そうだんしろ",
-    "imperative_form_kanji": "相談しろ"
+    "imperative_form_kanji": "相談しろ",
+    "translation": "I'll talk"
   },
   {
     "lesson": "19",
@@ -960,7 +1066,8 @@
     "dictionary_form": "のぼる",
     "dictionary_form_kanji": "登る",
     "imperative_form": "のぼれ",
-    "imperative_form_kanji": "登れ"
+    "imperative_form_kanji": "登れ",
+    "translation": "I'll climb"
   },
   {
     "lesson": "30",
@@ -969,7 +1076,8 @@
     "dictionary_form": "そのままにする",
     "dictionary_form_kanji": null,
     "imperative_form": "そのままにしろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll leave it as is"
   },
   {
     "lesson": "17",
@@ -978,7 +1086,8 @@
     "dictionary_form": "しんぱいする",
     "dictionary_form_kanji": "心配する",
     "imperative_form": "しんぱいしろ",
-    "imperative_form_kanji": "心配しろ"
+    "imperative_form_kanji": "心配しろ",
+    "translation": "I'm worried"
   },
   {
     "lesson": "37",
@@ -987,7 +1096,8 @@
     "dictionary_form": "はっけんする",
     "dictionary_form_kanji": "発見する",
     "imperative_form": "はっけんしろ",
-    "imperative_form_kanji": "発見しろ"
+    "imperative_form_kanji": "発見しろ",
+    "translation": "I'll discover"
   },
   {
     "lesson": "14",
@@ -996,7 +1106,8 @@
     "dictionary_form": "コピーする",
     "dictionary_form_kanji": null,
     "imperative_form": "コピーしろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll copy it"
   },
   {
     "lesson": "20",
@@ -1005,7 +1116,8 @@
     "dictionary_form": "しらべる",
     "dictionary_form_kanji": "調べる",
     "imperative_form": "しらべろ",
-    "imperative_form_kanji": "調べろ"
+    "imperative_form_kanji": "調べろ",
+    "translation": "I'll look into it"
   },
   {
     "lesson": "18",
@@ -1014,7 +1126,8 @@
     "dictionary_form": "ひく",
     "dictionary_form_kanji": "弾く",
     "imperative_form": "ひけ",
-    "imperative_form_kanji": "引け"
+    "imperative_form_kanji": "引け",
+    "translation": "I'll play"
   },
   {
     "lesson": "26",
@@ -1023,7 +1136,8 @@
     "dictionary_form": "みる",
     "dictionary_form_kanji": "見る",
     "imperative_form": "みろ",
-    "imperative_form_kanji": "見ろ"
+    "imperative_form_kanji": "見ろ",
+    "translation": "I'll see, I'll examine you"
   },
   {
     "lesson": "14",
@@ -1032,7 +1146,8 @@
     "dictionary_form": "しめる",
     "dictionary_form_kanji": "閉める",
     "imperative_form": "しめろ",
-    "imperative_form_kanji": "閉めろ"
+    "imperative_form_kanji": "閉めろ",
+    "translation": "I'll close it"
   },
   {
     "lesson": "16",
@@ -1041,7 +1156,8 @@
     "dictionary_form": "のる",
     "dictionary_form_kanji": "乗る",
     "imperative_form": "のれ",
-    "imperative_form_kanji": "乗れ"
+    "imperative_form_kanji": "乗れ",
+    "translation": "I'll ride"
   },
   {
     "lesson": "23",
@@ -1050,7 +1166,8 @@
     "dictionary_form": "かえる",
     "dictionary_form_kanji": "変える",
     "imperative_form": "かえろ",
-    "imperative_form_kanji": "変えろ"
+    "imperative_form_kanji": "変えろ",
+    "translation": "I'll change it"
   },
   {
     "lesson": "27",
@@ -1059,7 +1176,8 @@
     "dictionary_form": "かう",
     "dictionary_form_kanji": "飼う",
     "imperative_form": "かえ",
-    "imperative_form_kanji": "飼え"
+    "imperative_form_kanji": "飼え",
+    "translation": "I'll keep it"
   },
   {
     "lesson": "33",
@@ -1068,7 +1186,8 @@
     "dictionary_form": "ちゅういする",
     "dictionary_form_kanji": "注意する",
     "imperative_form": "ちゅういしろ",
-    "imperative_form_kanji": "注意しろ"
+    "imperative_form_kanji": "注意しろ",
+    "translation": "I'll be careful"
   },
   {
     "lesson": "16",
@@ -1077,7 +1196,8 @@
     "dictionary_form": "でんわする",
     "dictionary_form_kanji": "電話する",
     "imperative_form": "でんわしろ",
-    "imperative_form_kanji": "電話しろ"
+    "imperative_form_kanji": "電話しろ",
+    "translation": "I'll call"
   },
   {
     "lesson": "21",
@@ -1086,7 +1206,8 @@
     "dictionary_form": "かつ",
     "dictionary_form_kanji": "勝つ",
     "imperative_form": "かて",
-    "imperative_form_kanji": "勝て"
+    "imperative_form_kanji": "勝て",
+    "translation": "I'll win"
   },
   {
     "lesson": "26",
@@ -1095,7 +1216,8 @@
     "dictionary_form": "やる",
     "dictionary_form_kanji": null,
     "imperative_form": "やれ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "17",
@@ -1104,7 +1226,8 @@
     "dictionary_form": "はいる",
     "dictionary_form_kanji": "入る",
     "imperative_form": "はいれ",
-    "imperative_form_kanji": "入れ"
+    "imperative_form_kanji": "入れ",
+    "translation": "enter"
   },
   {
     "lesson": "16",
@@ -1113,7 +1236,8 @@
     "dictionary_form": "はじめる",
     "dictionary_form_kanji": "始める",
     "imperative_form": "はじめろ",
-    "imperative_form_kanji": "始めろ"
+    "imperative_form_kanji": "始めろ",
+    "translation": "I'll start"
   },
   {
     "lesson": "34",
@@ -1122,7 +1246,8 @@
     "dictionary_form": "きがつく",
     "dictionary_form_kanji": "気がつく",
     "imperative_form": "きがつけ",
-    "imperative_form_kanji": "気がつけ"
+    "imperative_form_kanji": "気がつけ",
+    "translation": "I'll notice"
   },
   {
     "lesson": "27",
@@ -1131,7 +1256,8 @@
     "dictionary_form": "たてる",
     "dictionary_form_kanji": "建てる",
     "imperative_form": "たてろ",
-    "imperative_form_kanji": "建てろ"
+    "imperative_form_kanji": "建てろ",
+    "translation": "I'll build it"
   },
   {
     "lesson": "32",
@@ -1140,7 +1266,8 @@
     "dictionary_form": "うんどうする",
     "dictionary_form_kanji": "運動する",
     "imperative_form": "うんどうしろ",
-    "imperative_form_kanji": "運動しろ"
+    "imperative_form_kanji": "運動しろ",
+    "translation": "I'll exercise"
   },
   {
     "lesson": "37",
@@ -1149,7 +1276,8 @@
     "dictionary_form": "とる",
     "dictionary_form_kanji": "取る",
     "imperative_form": "とれ",
-    "imperative_form_kanji": "取れ"
+    "imperative_form_kanji": "取れ",
+    "translation": "I'll take it"
   },
   {
     "lesson": "24",
@@ -1158,7 +1286,8 @@
     "dictionary_form": "なおす",
     "dictionary_form_kanji": "直す",
     "imperative_form": "なおせ",
-    "imperative_form_kanji": "直せ"
+    "imperative_form_kanji": "直せ",
+    "translation": "I'll fix it"
   },
   {
     "lesson": "46",
@@ -1167,7 +1296,8 @@
     "dictionary_form": "そつぎょうする",
     "dictionary_form_kanji": "卒業する",
     "imperative_form": "そつぎょうしろ",
-    "imperative_form_kanji": "卒業しろ"
+    "imperative_form_kanji": "卒業しろ",
+    "translation": "I'm graduating"
   },
   {
     "lesson": "31",
@@ -1176,7 +1306,8 @@
     "dictionary_form": "きゅうけいする",
     "dictionary_form_kanji": "休憩する",
     "imperative_form": "きゅうけいしろ",
-    "imperative_form_kanji": "休憩しろ"
+    "imperative_form_kanji": "休憩しろ",
+    "translation": "I'll take a break"
   },
   {
     "lesson": "7",
@@ -1185,7 +1316,8 @@
     "dictionary_form": "かりる",
     "dictionary_form_kanji": "借りる",
     "imperative_form": "かりろ",
-    "imperative_form_kanji": "借りろ"
+    "imperative_form_kanji": "借りろ",
+    "translation": "I'll borrow it"
   },
   {
     "lesson": "29",
@@ -1194,7 +1326,8 @@
     "dictionary_form": "かたづける",
     "dictionary_form_kanji": "片づける",
     "imperative_form": "かたづけろ",
-    "imperative_form_kanji": "片づけろ"
+    "imperative_form_kanji": "片づけろ",
+    "translation": "I'll clean it up"
   },
   {
     "lesson": "32",
@@ -1203,7 +1336,8 @@
     "dictionary_form": "ごうかくする",
     "dictionary_form_kanji": "合格する",
     "imperative_form": "ごうかくしろ",
-    "imperative_form_kanji": "合格しろ"
+    "imperative_form_kanji": "合格しろ",
+    "translation": "I'll pass"
   },
   {
     "lesson": "17",
@@ -1212,7 +1346,8 @@
     "dictionary_form": "わすれる",
     "dictionary_form_kanji": "忘れる",
     "imperative_form": "わすれろ",
-    "imperative_form_kanji": "忘れろ"
+    "imperative_form_kanji": "忘れろ",
+    "translation": "I'll forget"
   },
   {
     "lesson": "45",
@@ -1221,7 +1356,8 @@
     "dictionary_form": "しんじる",
     "dictionary_form_kanji": "信じる",
     "imperative_form": "しんじろ",
-    "imperative_form_kanji": "信じろ"
+    "imperative_form_kanji": "信じろ",
+    "translation": "I believe it"
   },
   {
     "lesson": "28",
@@ -1230,7 +1366,8 @@
     "dictionary_form": "かよう",
     "dictionary_form_kanji": "通う",
     "imperative_form": "かよえ",
-    "imperative_form_kanji": "通え"
+    "imperative_form_kanji": "通え",
+    "translation": "I'm going"
   },
   {
     "lesson": "17",
@@ -1239,7 +1376,8 @@
     "dictionary_form": "のむ",
     "dictionary_form_kanji": "飲む",
     "imperative_form": "のめ",
-    "imperative_form_kanji": "飲め"
+    "imperative_form_kanji": "飲め",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "46",
@@ -1248,7 +1386,8 @@
     "dictionary_form": "やく",
     "dictionary_form_kanji": "焼く",
     "imperative_form": "やけ",
-    "imperative_form_kanji": "焼け"
+    "imperative_form_kanji": "焼け",
+    "translation": "Bake"
   },
   {
     "lesson": "14",
@@ -1257,7 +1396,8 @@
     "dictionary_form": "よぶ",
     "dictionary_form_kanji": "呼ぶ",
     "imperative_form": "よべ",
-    "imperative_form_kanji": "呼べ"
+    "imperative_form_kanji": "呼べ",
+    "translation": "I'll call you"
   },
   {
     "lesson": "38",
@@ -1266,7 +1406,8 @@
     "dictionary_form": "さんかする",
     "dictionary_form_kanji": "参加する",
     "imperative_form": "さんかしろ",
-    "imperative_form_kanji": "参加しろ"
+    "imperative_form_kanji": "参加しろ",
+    "translation": "join"
   },
   {
     "lesson": "44",
@@ -1275,7 +1416,8 @@
     "dictionary_form": "わらう",
     "dictionary_form_kanji": "笑う",
     "imperative_form": "わらえ",
-    "imperative_form_kanji": "笑え"
+    "imperative_form_kanji": "笑え",
+    "translation": "I'll laugh"
   },
   {
     "lesson": "6",
@@ -1284,7 +1426,8 @@
     "dictionary_form": "あう",
     "dictionary_form_kanji": "会う",
     "imperative_form": "あえ",
-    "imperative_form_kanji": "会え"
+    "imperative_form_kanji": "会え",
+    "translation": "I'll meet"
   },
   {
     "lesson": "47",
@@ -1293,7 +1436,8 @@
     "dictionary_form": "あつまる",
     "dictionary_form_kanji": "集まる",
     "imperative_form": "あつまれ",
-    "imperative_form_kanji": "集まれ"
+    "imperative_form_kanji": "集まれ",
+    "translation": "We'll gather [people]"
   },
   {
     "lesson": "7",
@@ -1302,7 +1446,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": null,
     "imperative_form": "かけろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "42",
@@ -1311,7 +1456,8 @@
     "dictionary_form": "ならぶ",
     "dictionary_form_kanji": "並ぶ",
     "imperative_form": "ならべ",
-    "imperative_form_kanji": "並べ"
+    "imperative_form_kanji": "並べ",
+    "translation": "I'll line up"
   },
   {
     "lesson": "36",
@@ -1320,7 +1466,8 @@
     "dictionary_form": "すぎる",
     "dictionary_form_kanji": "過ぎる",
     "imperative_form": "すぎろ",
-    "imperative_form_kanji": "過ぎろ"
+    "imperative_form_kanji": "過ぎろ",
+    "translation": "It's past"
   },
   {
     "lesson": "5",
@@ -1329,7 +1476,8 @@
     "dictionary_form": "くる",
     "dictionary_form_kanji": "来る",
     "imperative_form": "こい",
-    "imperative_form_kanji": "来い"
+    "imperative_form_kanji": "来い",
+    "translation": "I'll come"
   },
   {
     "lesson": "40",
@@ -1338,7 +1486,8 @@
     "dictionary_form": "とうちゃくする",
     "dictionary_form_kanji": "到着する",
     "imperative_form": "とうちゃくしろ",
-    "imperative_form_kanji": "到着しろ"
+    "imperative_form_kanji": "到着しろ",
+    "translation": "I'll arrive"
   },
   {
     "lesson": "49",
@@ -1347,7 +1496,8 @@
     "dictionary_form": "じゅしょうする",
     "dictionary_form_kanji": "受賞する",
     "imperative_form": "じゅしょうしろ",
-    "imperative_form_kanji": "受賞しろ"
+    "imperative_form_kanji": "受賞しろ",
+    "translation": "I'll be awarded"
   },
   {
     "lesson": "15",
@@ -1356,7 +1506,8 @@
     "dictionary_form": "うる",
     "dictionary_form_kanji": "売る",
     "imperative_form": "うれ",
-    "imperative_form_kanji": "売れ"
+    "imperative_form_kanji": "売れ",
+    "translation": "I'll sell it"
   },
   {
     "lesson": "16",
@@ -1365,7 +1516,8 @@
     "dictionary_form": "のりかえる",
     "dictionary_form_kanji": "乗り換える",
     "imperative_form": "のりかえろ",
-    "imperative_form_kanji": "乗り換えろ"
+    "imperative_form_kanji": "乗り換えろ",
+    "translation": "I'll switch"
   },
   {
     "lesson": "37",
@@ -1374,7 +1526,8 @@
     "dictionary_form": "ゆにゅうする",
     "dictionary_form_kanji": "輸入する",
     "imperative_form": "ゆにゅうしろ",
-    "imperative_form_kanji": "輸入しろ"
+    "imperative_form_kanji": "輸入しろ",
+    "translation": "I'll import it"
   },
   {
     "lesson": "23",
@@ -1383,7 +1536,8 @@
     "dictionary_form": "まわす",
     "dictionary_form_kanji": "回す",
     "imperative_form": "まわせ",
-    "imperative_form_kanji": "回せ"
+    "imperative_form_kanji": "回せ",
+    "translation": "I'll turn it"
   },
   {
     "lesson": "15",
@@ -1392,7 +1546,8 @@
     "dictionary_form": "けんきゅうする",
     "dictionary_form_kanji": "研究する",
     "imperative_form": "けんきゅうしろ",
-    "imperative_form_kanji": "研究しろ"
+    "imperative_form_kanji": "研究しろ",
+    "translation": "I'll research"
   },
   {
     "lesson": "34",
@@ -1401,7 +1556,8 @@
     "dictionary_form": "つける",
     "dictionary_form_kanji": null,
     "imperative_form": "つけろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll put it on"
   },
   {
     "lesson": "41",
@@ -1410,7 +1566,8 @@
     "dictionary_form": "さげる",
     "dictionary_form_kanji": "下げる",
     "imperative_form": "さげろ",
-    "imperative_form_kanji": "下げろ"
+    "imperative_form_kanji": "下げろ",
+    "translation": "I'll lower it"
   },
   {
     "lesson": "49",
@@ -1419,7 +1576,8 @@
     "dictionary_form": "りようする",
     "dictionary_form_kanji": "利用する",
     "imperative_form": "りようしろ",
-    "imperative_form_kanji": "利用しろ"
+    "imperative_form_kanji": "利用しろ",
+    "translation": "I'll use it"
   },
   {
     "lesson": "27",
@@ -1428,7 +1586,8 @@
     "dictionary_form": "ひらく",
     "dictionary_form_kanji": "開く",
     "imperative_form": "ひらけ",
-    "imperative_form_kanji": "開け"
+    "imperative_form_kanji": "開け",
+    "translation": "It will open"
   },
   {
     "lesson": "14",
@@ -1437,7 +1596,8 @@
     "dictionary_form": "みせる",
     "dictionary_form_kanji": "見せる",
     "imperative_form": "みせろ",
-    "imperative_form_kanji": "見せろ"
+    "imperative_form_kanji": "見せろ",
+    "translation": "I'll show it"
   },
   {
     "lesson": "44",
@@ -1446,7 +1606,8 @@
     "dictionary_form": "ちょうせつする",
     "dictionary_form_kanji": "調節する",
     "imperative_form": "ちょうせつしろ",
-    "imperative_form_kanji": "調節しろ"
+    "imperative_form_kanji": "調節しろ",
+    "translation": "I'll adjust it"
   },
   {
     "lesson": "19",
@@ -1455,7 +1616,8 @@
     "dictionary_form": "れんしゅうする",
     "dictionary_form_kanji": "練習する",
     "imperative_form": "れんしゅうしろ",
-    "imperative_form_kanji": "練習しろ"
+    "imperative_form_kanji": "練習しろ",
+    "translation": "I'll practice"
   },
   {
     "lesson": "32",
@@ -1464,7 +1626,8 @@
     "dictionary_form": "しっぱいする",
     "dictionary_form_kanji": "失敗する",
     "imperative_form": "しっぱいしろ",
-    "imperative_form_kanji": "失敗しろ"
+    "imperative_form_kanji": "失敗しろ",
+    "translation": "It's failing"
   },
   {
     "lesson": "17",
@@ -1473,7 +1636,8 @@
     "dictionary_form": "もってくる",
     "dictionary_form_kanji": "持って来る",
     "imperative_form": "もってこい",
-    "imperative_form_kanji": "持って来い"
+    "imperative_form_kanji": "持って来い",
+    "translation": "I'll bring it"
   },
   {
     "lesson": "14",
@@ -1482,7 +1646,8 @@
     "dictionary_form": "あける",
     "dictionary_form_kanji": "開ける",
     "imperative_form": "あけろ",
-    "imperative_form_kanji": "開けろ"
+    "imperative_form_kanji": "開けろ",
+    "translation": "I'll open it"
   },
   {
     "lesson": "15",
@@ -1491,7 +1656,8 @@
     "dictionary_form": "つくる",
     "dictionary_form_kanji": "作る",
     "imperative_form": "つくれ",
-    "imperative_form_kanji": "作れ"
+    "imperative_form_kanji": "作れ",
+    "translation": "I'll make/make"
   },
   {
     "lesson": "33",
@@ -1500,7 +1666,8 @@
     "dictionary_form": "つたえる",
     "dictionary_form_kanji": "伝える",
     "imperative_form": "つたえろ",
-    "imperative_form_kanji": "伝えろ"
+    "imperative_form_kanji": "伝えろ",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "37",
@@ -1509,7 +1676,8 @@
     "dictionary_form": "ゆしゅつする",
     "dictionary_form_kanji": "輸出する",
     "imperative_form": "ゆしゅつしろ",
-    "imperative_form_kanji": "輸出しろ"
+    "imperative_form_kanji": "輸出しろ",
+    "translation": "I will export"
   },
   {
     "lesson": "14",
@@ -1518,7 +1686,8 @@
     "dictionary_form": "けす",
     "dictionary_form_kanji": "消す",
     "imperative_form": "けせ",
-    "imperative_form_kanji": "消せ"
+    "imperative_form_kanji": "消せ",
+    "translation": "erase"
   },
   {
     "lesson": "7",
@@ -1527,7 +1696,8 @@
     "dictionary_form": "おしえる",
     "dictionary_form_kanji": "教える",
     "imperative_form": "おしえろ",
-    "imperative_form_kanji": "教えろ"
+    "imperative_form_kanji": "教えろ",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "32",
@@ -1536,7 +1706,8 @@
     "dictionary_form": "ひやす",
     "dictionary_form_kanji": "冷やす",
     "imperative_form": "ひやせ",
-    "imperative_form_kanji": "冷やせ"
+    "imperative_form_kanji": "冷やせ",
+    "translation": "Let it cool"
   },
   {
     "lesson": "7",
@@ -1545,7 +1716,8 @@
     "dictionary_form": "あげる",
     "dictionary_form_kanji": null,
     "imperative_form": "あげろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll give it"
   },
   {
     "lesson": "44",
@@ -1554,7 +1726,8 @@
     "dictionary_form": "ねむる",
     "dictionary_form_kanji": "眠る",
     "imperative_form": "ねむれ",
-    "imperative_form_kanji": "眠れ"
+    "imperative_form_kanji": "眠れ",
+    "translation": "I'm going to sleep"
   },
   {
     "lesson": "38",
@@ -1563,7 +1736,8 @@
     "dictionary_form": "つく",
     "dictionary_form_kanji": null,
     "imperative_form": "つけ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll come on [I'm lying]"
   },
   {
     "lesson": "45",
@@ -1572,7 +1746,8 @@
     "dictionary_form": "キャンセルする",
     "dictionary_form_kanji": null,
     "imperative_form": "キャンセルしろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll cancel"
   },
   {
     "lesson": "14",
@@ -1581,7 +1756,8 @@
     "dictionary_form": "とる",
     "dictionary_form_kanji": "取る",
     "imperative_form": "とれ",
-    "imperative_form_kanji": "取れ"
+    "imperative_form_kanji": "取れ",
+    "translation": "I'll take it"
   },
   {
     "lesson": "30",
@@ -1590,7 +1766,8 @@
     "dictionary_form": "よしゅうする",
     "dictionary_form_kanji": "予習する",
     "imperative_form": "よしゅうしろ",
-    "imperative_form_kanji": "予習しろ"
+    "imperative_form_kanji": "予習しろ",
+    "translation": "I'll prepare"
   },
   {
     "lesson": "25",
@@ -1599,7 +1776,8 @@
     "dictionary_form": "がんばる",
     "dictionary_form_kanji": "頑張る",
     "imperative_form": "がんばれ",
-    "imperative_form_kanji": "頑張れ"
+    "imperative_form_kanji": "頑張れ",
+    "translation": "I will do my best"
   },
   {
     "lesson": "7",
@@ -1608,7 +1786,8 @@
     "dictionary_form": "かす",
     "dictionary_form_kanji": "貸す",
     "imperative_form": "かせ",
-    "imperative_form_kanji": "貸せ"
+    "imperative_form_kanji": "貸せ",
+    "translation": "lend"
   },
   {
     "lesson": "17",
@@ -1617,7 +1796,8 @@
     "dictionary_form": "でかける",
     "dictionary_form_kanji": "出かける",
     "imperative_form": "でかけろ",
-    "imperative_form_kanji": "出かけろ"
+    "imperative_form_kanji": "出かけろ",
+    "translation": "I'm going out"
   },
   {
     "lesson": "13",
@@ -1626,7 +1806,8 @@
     "dictionary_form": "むかえる",
     "dictionary_form_kanji": "迎える",
     "imperative_form": "むかえろ",
-    "imperative_form_kanji": "迎えろ"
+    "imperative_form_kanji": "迎えろ",
+    "translation": "I'll welcome"
   },
   {
     "lesson": "42",
@@ -1635,7 +1816,8 @@
     "dictionary_form": "つつむ",
     "dictionary_form_kanji": "包む",
     "imperative_form": "つつめ",
-    "imperative_form_kanji": "包め"
+    "imperative_form_kanji": "包め",
+    "translation": "I'll wrap it"
   },
   {
     "lesson": "50",
@@ -1644,7 +1826,8 @@
     "dictionary_form": "よういする",
     "dictionary_form_kanji": "用意する",
     "imperative_form": "よういしろ",
-    "imperative_form_kanji": "用意しろ"
+    "imperative_form_kanji": "用意しろ",
+    "translation": "I'll prepare it"
   },
   {
     "lesson": "37",
@@ -1653,7 +1836,8 @@
     "dictionary_form": "ちゅういする",
     "dictionary_form_kanji": "注意する",
     "imperative_form": "ちゅういしろ",
-    "imperative_form_kanji": "注意しろ"
+    "imperative_form_kanji": "注意しろ",
+    "translation": "I'll be careful"
   },
   {
     "lesson": "38",
@@ -1662,7 +1846,8 @@
     "dictionary_form": "せいりする",
     "dictionary_form_kanji": "整理する",
     "imperative_form": "せいりしろ",
-    "imperative_form_kanji": "整理しろ"
+    "imperative_form_kanji": "整理しろ",
+    "translation": "I'll sort it out"
   },
   {
     "lesson": "36",
@@ -1671,7 +1856,8 @@
     "dictionary_form": "なれる",
     "dictionary_form_kanji": "慣れる",
     "imperative_form": "なれろ",
-    "imperative_form_kanji": "慣れろ"
+    "imperative_form_kanji": "慣れろ",
+    "translation": "I'll get used to it"
   },
   {
     "lesson": "30",
@@ -1680,7 +1866,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": "掛ける",
     "imperative_form": "かけろ",
-    "imperative_form_kanji": "掛けろ"
+    "imperative_form_kanji": "掛けろ",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "37",
@@ -1689,7 +1876,8 @@
     "dictionary_form": "ふむ",
     "dictionary_form_kanji": "踏む",
     "imperative_form": "ふめ",
-    "imperative_form_kanji": "踏め"
+    "imperative_form_kanji": "踏め",
+    "translation": "I'll step on"
   },
   {
     "lesson": "49",
@@ -1698,7 +1886,8 @@
     "dictionary_form": "すごす",
     "dictionary_form_kanji": "過ごす",
     "imperative_form": "すごせ",
-    "imperative_form_kanji": "過ごせ"
+    "imperative_form_kanji": "過ごせ",
+    "translation": "I'll spend it"
   },
   {
     "lesson": "31",
@@ -1707,7 +1896,8 @@
     "dictionary_form": "つづける",
     "dictionary_form_kanji": "続ける",
     "imperative_form": "つづけろ",
-    "imperative_form_kanji": "続けろ"
+    "imperative_form_kanji": "続けろ",
+    "translation": "I'll continue"
   },
   {
     "lesson": "22",
@@ -1716,7 +1906,8 @@
     "dictionary_form": "きる",
     "dictionary_form_kanji": "着る",
     "imperative_form": "きろ",
-    "imperative_form_kanji": "着ろ"
+    "imperative_form_kanji": "着ろ",
+    "translation": "I'll wear it"
   },
   {
     "lesson": "18",
@@ -1725,7 +1916,8 @@
     "dictionary_form": "うんてんする",
     "dictionary_form_kanji": "運転する",
     "imperative_form": "うんてんしろ",
-    "imperative_form_kanji": "運転しろ"
+    "imperative_form_kanji": "運転しろ",
+    "translation": "I'll drive"
   },
   {
     "lesson": "26",
@@ -1734,7 +1926,8 @@
     "dictionary_form": "さがす",
     "dictionary_form_kanji": "探す",
     "imperative_form": "さがせ",
-    "imperative_form_kanji": "探せ"
+    "imperative_form_kanji": "探せ",
+    "translation": "I'll look for, I'll look for"
   },
   {
     "lesson": "48",
@@ -1743,7 +1936,8 @@
     "dictionary_form": "たのしむ",
     "dictionary_form_kanji": "楽しむ",
     "imperative_form": "たのしめ",
-    "imperative_form_kanji": "楽しめ"
+    "imperative_form_kanji": "楽しめ",
+    "translation": "I'll enjoy it"
   },
   {
     "lesson": "13",
@@ -1752,7 +1946,8 @@
     "dictionary_form": "かいものする",
     "dictionary_form_kanji": "買い物する",
     "imperative_form": "かいものしろ",
-    "imperative_form_kanji": "買い物しろ"
+    "imperative_form_kanji": "買い物しろ",
+    "translation": "I'll shop"
   },
   {
     "lesson": "23",
@@ -1761,7 +1956,8 @@
     "dictionary_form": "きく",
     "dictionary_form_kanji": "聞く",
     "imperative_form": "きけ",
-    "imperative_form_kanji": "聞け"
+    "imperative_form_kanji": "聞け",
+    "translation": "I'll listen"
   },
   {
     "lesson": "21",
@@ -1770,7 +1966,8 @@
     "dictionary_form": "りゅうがくする",
     "dictionary_form_kanji": "留学する",
     "imperative_form": "りゅうがくしろ",
-    "imperative_form_kanji": "留学しろ"
+    "imperative_form_kanji": "留学しろ",
+    "translation": "I'm going to study abroad"
   },
   {
     "lesson": "33",
@@ -1779,7 +1976,8 @@
     "dictionary_form": "もどる",
     "dictionary_form_kanji": "戻る",
     "imperative_form": "もどれ",
-    "imperative_form_kanji": "戻れ"
+    "imperative_form_kanji": "戻れ",
+    "translation": "i will be back"
   },
   {
     "lesson": "6",
@@ -1788,7 +1986,8 @@
     "dictionary_form": "かく",
     "dictionary_form_kanji": "書く",
     "imperative_form": "かけ",
-    "imperative_form_kanji": "書け"
+    "imperative_form_kanji": "書け",
+    "translation": "I'll write it"
   },
   {
     "lesson": "30",
@@ -1797,7 +1996,8 @@
     "dictionary_form": "ふくしゅうする",
     "dictionary_form_kanji": "復習する",
     "imperative_form": "ふくしゅうしろ",
-    "imperative_form_kanji": "復習しろ"
+    "imperative_form_kanji": "復習しろ",
+    "translation": "I'll review"
   },
   {
     "lesson": "17",
@@ -1806,7 +2006,8 @@
     "dictionary_form": "ざんぎょうする",
     "dictionary_form_kanji": "残業する",
     "imperative_form": "ざんぎょうしろ",
-    "imperative_form_kanji": "残業しろ"
+    "imperative_form_kanji": "残業しろ",
+    "translation": "I'll work overtime"
   },
   {
     "lesson": "41",
@@ -1815,7 +2016,8 @@
     "dictionary_form": "しんせつにする",
     "dictionary_form_kanji": "親切にする",
     "imperative_form": "しんせつにしろ",
-    "imperative_form_kanji": "親切にしろ"
+    "imperative_form_kanji": "親切にしろ",
+    "translation": "I'll be kind"
   },
   {
     "lesson": "11",
@@ -1824,7 +2026,8 @@
     "dictionary_form": "おねがいする",
     "dictionary_form_kanji": "お願いする",
     "imperative_form": "おねがいしろ",
-    "imperative_form_kanji": "お願いしろ"
+    "imperative_form_kanji": "お願いしろ",
+    "translation": "please"
   },
   {
     "lesson": "6",
@@ -1833,7 +2036,8 @@
     "dictionary_form": "のむ",
     "dictionary_form_kanji": "飲む",
     "imperative_form": "のめ",
-    "imperative_form_kanji": "飲め"
+    "imperative_form_kanji": "飲め",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "21",
@@ -1842,7 +2046,8 @@
     "dictionary_form": "やくにたつ",
     "dictionary_form_kanji": "役に立つ",
     "imperative_form": "やくにたて",
-    "imperative_form_kanji": "役に立て"
+    "imperative_form_kanji": "役に立て",
+    "translation": "It's helpful"
   },
   {
     "lesson": "16",
@@ -1851,7 +2056,8 @@
     "dictionary_form": "だす",
     "dictionary_form_kanji": "出す",
     "imperative_form": "だせ",
-    "imperative_form_kanji": "出せ"
+    "imperative_form_kanji": "出せ",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "30",
@@ -1860,7 +2066,8 @@
     "dictionary_form": "はる",
     "dictionary_form_kanji": "貼る",
     "imperative_form": "はれ",
-    "imperative_form_kanji": "貼れ"
+    "imperative_form_kanji": "貼れ",
+    "translation": "I'll stick it"
   },
   {
     "lesson": "39",
@@ -1869,7 +2076,8 @@
     "dictionary_form": "こたえる",
     "dictionary_form_kanji": "答える",
     "imperative_form": "こたえろ",
-    "imperative_form_kanji": "答えろ"
+    "imperative_form_kanji": "答えろ",
+    "translation": "I'll answer"
   },
   {
     "lesson": "27",
@@ -1878,7 +2086,8 @@
     "dictionary_form": "つける",
     "dictionary_form_kanji": "付ける",
     "imperative_form": "つけろ",
-    "imperative_form_kanji": "付けろ"
+    "imperative_form_kanji": "付けろ",
+    "translation": "I'll put it on"
   },
   {
     "lesson": "38",
@@ -1887,7 +2096,8 @@
     "dictionary_form": "そだてる",
     "dictionary_form_kanji": "育てる",
     "imperative_form": "そだてろ",
-    "imperative_form_kanji": "育てろ"
+    "imperative_form_kanji": "育てろ",
+    "translation": "I'll grow it"
   },
   {
     "lesson": "14",
@@ -1896,7 +2106,8 @@
     "dictionary_form": "でる",
     "dictionary_form_kanji": "出る",
     "imperative_form": "でろ",
-    "imperative_form_kanji": "出ろ"
+    "imperative_form_kanji": "出ろ",
+    "translation": "It's coming out"
   },
   {
     "lesson": "40",
@@ -1905,7 +2116,8 @@
     "dictionary_form": "たしかめる",
     "dictionary_form_kanji": "確かめる",
     "imperative_form": "たしかめろ",
-    "imperative_form_kanji": "確かめろ"
+    "imperative_form_kanji": "確かめろ",
+    "translation": "I'll check it out"
   },
   {
     "lesson": "46",
@@ -1914,7 +2126,8 @@
     "dictionary_form": "にゅうがくする",
     "dictionary_form_kanji": "入学する",
     "imperative_form": "にゅうがくしろ",
-    "imperative_form_kanji": "入学しろ"
+    "imperative_form_kanji": "入学しろ",
+    "translation": "I'm going to enroll"
   },
   {
     "lesson": "33",
@@ -1923,7 +2136,8 @@
     "dictionary_form": "はずす",
     "dictionary_form_kanji": "外す",
     "imperative_form": "はずせ",
-    "imperative_form_kanji": "外せ"
+    "imperative_form_kanji": "外せ",
+    "translation": "I'll remove it"
   },
   {
     "lesson": "18",
@@ -1932,7 +2146,8 @@
     "dictionary_form": "あつめる",
     "dictionary_form_kanji": "集める",
     "imperative_form": "あつめろ",
-    "imperative_form_kanji": "集めろ"
+    "imperative_form_kanji": "集めろ",
+    "translation": "I'll collect it"
   },
   {
     "lesson": "30",
@@ -1941,7 +2156,8 @@
     "dictionary_form": "しまう",
     "dictionary_form_kanji": null,
     "imperative_form": "しまえ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "It's gone"
   },
   {
     "lesson": "37",
@@ -1950,7 +2166,8 @@
     "dictionary_form": "ほんやくする",
     "dictionary_form_kanji": "翻訳する",
     "imperative_form": "ほんやくしろ",
-    "imperative_form_kanji": "翻訳しろ"
+    "imperative_form_kanji": "翻訳しろ",
+    "translation": "I'll translate"
   },
   {
     "lesson": "19",
@@ -1959,7 +2176,8 @@
     "dictionary_form": "とまる",
     "dictionary_form_kanji": "泊まる",
     "imperative_form": "とまれ",
-    "imperative_form_kanji": "泊まれ"
+    "imperative_form_kanji": "泊まれ",
+    "translation": "I'll stay"
   },
   {
     "lesson": "21",
@@ -1968,7 +2186,8 @@
     "dictionary_form": "いう",
     "dictionary_form_kanji": "言う",
     "imperative_form": "いえ",
-    "imperative_form_kanji": "言え"
+    "imperative_form_kanji": "言え",
+    "translation": "I'll say it"
   },
   {
     "lesson": "14",
@@ -1977,7 +2196,8 @@
     "dictionary_form": "はいる",
     "dictionary_form_kanji": "入る",
     "imperative_form": "はいれ",
-    "imperative_form_kanji": "入れ"
+    "imperative_form_kanji": "入れ",
+    "translation": "enter"
   },
   {
     "lesson": "21",
@@ -1986,7 +2206,8 @@
     "dictionary_form": "やめる",
     "dictionary_form_kanji": null,
     "imperative_form": "やめろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll stop"
   },
   {
     "lesson": "15",
@@ -1995,7 +2216,8 @@
     "dictionary_form": "すわる",
     "dictionary_form_kanji": "座る",
     "imperative_form": "すわれ",
-    "imperative_form_kanji": "座れ"
+    "imperative_form_kanji": "座れ",
+    "translation": "I'll sit"
   },
   {
     "lesson": "24",
@@ -2004,7 +2226,8 @@
     "dictionary_form": "あんないする",
     "dictionary_form_kanji": "案内する",
     "imperative_form": "あんないしろ",
-    "imperative_form_kanji": "案内しろ"
+    "imperative_form_kanji": "案内しろ",
+    "translation": "I'll show you"
   },
   {
     "lesson": "37",
@@ -2013,7 +2236,8 @@
     "dictionary_form": "しかる",
     "dictionary_form_kanji": null,
     "imperative_form": "しかれ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "That's right"
   },
   {
     "lesson": "42",
@@ -2022,7 +2246,8 @@
     "dictionary_form": "まぜる",
     "dictionary_form_kanji": "混ぜる",
     "imperative_form": "まぜろ",
-    "imperative_form_kanji": "混ぜろ"
+    "imperative_form_kanji": "混ぜろ",
+    "translation": "Mix it"
   },
   {
     "lesson": "18",
@@ -2031,7 +2256,8 @@
     "dictionary_form": "かえる",
     "dictionary_form_kanji": "換える",
     "imperative_form": "かえろ",
-    "imperative_form_kanji": "換えろ"
+    "imperative_form_kanji": "換えろ",
+    "translation": "I'll change it"
   },
   {
     "lesson": "30",
@@ -2040,7 +2266,8 @@
     "dictionary_form": "ならべる",
     "dictionary_form_kanji": "並べる",
     "imperative_form": "ならべろ",
-    "imperative_form_kanji": "並べろ"
+    "imperative_form_kanji": "並べろ",
+    "translation": "I'll line it up"
   },
   {
     "lesson": "14",
@@ -2049,7 +2276,8 @@
     "dictionary_form": "おしえる",
     "dictionary_form_kanji": "教える",
     "imperative_form": "おしえろ",
-    "imperative_form_kanji": "教えろ"
+    "imperative_form_kanji": "教えろ",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "36",
@@ -2058,7 +2286,8 @@
     "dictionary_form": "チャレンジする",
     "dictionary_form_kanji": null,
     "imperative_form": "チャレンジしろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll take the challenge"
   },
   {
     "lesson": "22",
@@ -2067,7 +2296,8 @@
     "dictionary_form": "する",
     "dictionary_form_kanji": null,
     "imperative_form": "しろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "35",
@@ -2076,7 +2306,8 @@
     "dictionary_form": "つける",
     "dictionary_form_kanji": "付ける",
     "imperative_form": "つけろ",
-    "imperative_form_kanji": "付けろ"
+    "imperative_form_kanji": "付けろ",
+    "translation": "I'll put it on"
   },
   {
     "lesson": "25",
@@ -2085,7 +2316,8 @@
     "dictionary_form": "かんがえる",
     "dictionary_form_kanji": "考える",
     "imperative_form": "かんがえろ",
-    "imperative_form_kanji": "考えろ"
+    "imperative_form_kanji": "考えろ",
+    "translation": "I'll think about it"
   },
   {
     "lesson": "6",
@@ -2094,7 +2326,8 @@
     "dictionary_form": "たべる",
     "dictionary_form_kanji": "食べる",
     "imperative_form": "たべろ",
-    "imperative_form_kanji": "食べろ"
+    "imperative_form_kanji": "食べろ",
+    "translation": "I'll eat"
   },
   {
     "lesson": "34",
@@ -2103,7 +2336,8 @@
     "dictionary_form": "みがく",
     "dictionary_form_kanji": "磨く",
     "imperative_form": "みがけ",
-    "imperative_form_kanji": "磨け"
+    "imperative_form_kanji": "磨け",
+    "translation": "polish"
   },
   {
     "lesson": "18",
@@ -2112,7 +2346,8 @@
     "dictionary_form": "うたう",
     "dictionary_form_kanji": "歌う",
     "imperative_form": "うたえ",
-    "imperative_form_kanji": "歌え"
+    "imperative_form_kanji": "歌え",
+    "translation": "I'll sing"
   },
   {
     "lesson": "26",
@@ -2121,7 +2356,8 @@
     "dictionary_form": "だす",
     "dictionary_form_kanji": "出す",
     "imperative_form": "だせ",
-    "imperative_form_kanji": "出せ"
+    "imperative_form_kanji": "出せ",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "4",
@@ -2130,7 +2366,8 @@
     "dictionary_form": "べんきょうする",
     "dictionary_form_kanji": "勉強する",
     "imperative_form": "べんきょうしろ",
-    "imperative_form_kanji": "勉強しろ"
+    "imperative_form_kanji": "勉強しろ",
+    "translation": "I'll study"
   },
   {
     "lesson": "46",
@@ -2139,7 +2376,8 @@
     "dictionary_form": "かえってくる",
     "dictionary_form_kanji": "帰って来る",
     "imperative_form": "かえってこい",
-    "imperative_form_kanji": "帰って来い"
+    "imperative_form_kanji": "帰って来い",
+    "translation": "I'll come back"
   },
   {
     "lesson": "32",
@@ -2148,7 +2386,8 @@
     "dictionary_form": "むりをする",
     "dictionary_form_kanji": "無理をする",
     "imperative_form": "むりをしろ",
-    "imperative_form_kanji": "無理をしろ"
+    "imperative_form_kanji": "無理をしろ",
+    "translation": "I'll overdo it"
   },
   {
     "lesson": "38",
@@ -2157,7 +2396,8 @@
     "dictionary_form": "きる",
     "dictionary_form_kanji": "切る",
     "imperative_form": "きれ",
-    "imperative_form_kanji": "切れ"
+    "imperative_form_kanji": "切れ",
+    "translation": "I'll cut it"
   },
   {
     "lesson": "38",
@@ -2166,7 +2406,8 @@
     "dictionary_form": "おす",
     "dictionary_form_kanji": "押す",
     "imperative_form": "おせ",
-    "imperative_form_kanji": "押せ"
+    "imperative_form_kanji": "押せ",
+    "translation": "Press"
   },
   {
     "lesson": "33",
@@ -2175,7 +2416,8 @@
     "dictionary_form": "なげる",
     "dictionary_form_kanji": "投げる",
     "imperative_form": "なげろ",
-    "imperative_form_kanji": "投げろ"
+    "imperative_form_kanji": "投げろ",
+    "translation": "I'll throw it"
   },
   {
     "lesson": "18",
@@ -2184,7 +2426,8 @@
     "dictionary_form": "よやくする",
     "dictionary_form_kanji": "予約する",
     "imperative_form": "よやくしろ",
-    "imperative_form_kanji": "予約しろ"
+    "imperative_form_kanji": "予約しろ",
+    "translation": "I'll make a reservation"
   },
   {
     "lesson": "31",
@@ -2193,7 +2436,8 @@
     "dictionary_form": "うける",
     "dictionary_form_kanji": "受ける",
     "imperative_form": "うけろ",
-    "imperative_form_kanji": "受けろ"
+    "imperative_form_kanji": "受けろ",
+    "translation": "I'll take it"
   },
   {
     "lesson": "35",
@@ -2202,7 +2446,8 @@
     "dictionary_form": "にゅうりょくする",
     "dictionary_form_kanji": "入力する",
     "imperative_form": "にゅうりょくしろ",
-    "imperative_form_kanji": "入力しろ"
+    "imperative_form_kanji": "入力しろ",
+    "translation": "Enter"
   },
   {
     "lesson": "39",
@@ -2211,7 +2456,8 @@
     "dictionary_form": "ふとる",
     "dictionary_form_kanji": "太る",
     "imperative_form": "ふとれ",
-    "imperative_form_kanji": "太れ"
+    "imperative_form_kanji": "太れ",
+    "translation": "I'm gaining weight"
   },
   {
     "lesson": "37",
@@ -2220,7 +2466,8 @@
     "dictionary_form": "さそう",
     "dictionary_form_kanji": "誘う",
     "imperative_form": "さそえ",
-    "imperative_form_kanji": "誘え"
+    "imperative_form_kanji": "誘え",
+    "translation": "I'll invite you"
   },
   {
     "lesson": "31",
@@ -2229,7 +2476,8 @@
     "dictionary_form": "とる",
     "dictionary_form_kanji": "取る",
     "imperative_form": "とれ",
-    "imperative_form_kanji": "取れ"
+    "imperative_form_kanji": "取れ",
+    "translation": "I'll take it"
   },
   {
     "lesson": "16",
@@ -2238,7 +2486,8 @@
     "dictionary_form": "はいる",
     "dictionary_form_kanji": "入る",
     "imperative_form": "はいれ",
-    "imperative_form_kanji": "入れ"
+    "imperative_form_kanji": "入れ",
+    "translation": "enter"
   },
   {
     "lesson": "22",
@@ -2247,7 +2496,8 @@
     "dictionary_form": "かぶる",
     "dictionary_form_kanji": null,
     "imperative_form": "かぶれ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "40",
@@ -2256,7 +2506,8 @@
     "dictionary_form": "よう",
     "dictionary_form_kanji": "酔う",
     "imperative_form": "よえ",
-    "imperative_form_kanji": "酔え"
+    "imperative_form_kanji": "酔え",
+    "translation": "I'm drunk"
   },
   {
     "lesson": "24",
@@ -2265,7 +2516,8 @@
     "dictionary_form": "つれてくる",
     "dictionary_form_kanji": "連れて来る",
     "imperative_form": "つれてこい",
-    "imperative_form_kanji": "連れて来い"
+    "imperative_form_kanji": "連れて来い",
+    "translation": "I'll bring it"
   },
   {
     "lesson": "30",
@@ -2274,7 +2526,8 @@
     "dictionary_form": "うえる",
     "dictionary_form_kanji": "植える",
     "imperative_form": "うえろ",
-    "imperative_form_kanji": "植えろ"
+    "imperative_form_kanji": "植えろ",
+    "translation": "I'll plant it"
   },
   {
     "lesson": "17",
@@ -2283,7 +2536,8 @@
     "dictionary_form": "しゅっちょうする",
     "dictionary_form_kanji": "出張する",
     "imperative_form": "しゅっちょうしろ",
-    "imperative_form_kanji": "出張しろ"
+    "imperative_form_kanji": "出張しろ",
+    "translation": "I'm going on a business trip"
   },
   {
     "lesson": "22",
@@ -2292,7 +2546,8 @@
     "dictionary_form": "はく",
     "dictionary_form_kanji": null,
     "imperative_form": "はけ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "24",
@@ -2301,7 +2556,8 @@
     "dictionary_form": "おくる",
     "dictionary_form_kanji": "送る",
     "imperative_form": "おくれ",
-    "imperative_form_kanji": "送れ"
+    "imperative_form_kanji": "送れ",
+    "translation": "send"
   },
   {
     "lesson": "16",
@@ -2310,7 +2566,8 @@
     "dictionary_form": "でる",
     "dictionary_form_kanji": "出る",
     "imperative_form": "でろ",
-    "imperative_form_kanji": "出ろ"
+    "imperative_form_kanji": "出ろ",
+    "translation": "It's coming out"
   },
   {
     "lesson": "33",
@@ -2319,7 +2576,8 @@
     "dictionary_form": "あきらめる",
     "dictionary_form_kanji": null,
     "imperative_form": "あきらめろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll give up"
   },
   {
     "lesson": "5",
@@ -2328,7 +2586,8 @@
     "dictionary_form": "いく",
     "dictionary_form_kanji": "行く",
     "imperative_form": "いけ",
-    "imperative_form_kanji": "行け"
+    "imperative_form_kanji": "行け",
+    "translation": "I'm going"
   },
   {
     "lesson": "37",
@@ -2337,7 +2596,8 @@
     "dictionary_form": "おこなう",
     "dictionary_form_kanji": "行う",
     "imperative_form": "おこなえ",
-    "imperative_form_kanji": "行え"
+    "imperative_form_kanji": "行え",
+    "translation": "I'll do it"
   },
   {
     "lesson": "18",
@@ -2346,7 +2606,8 @@
     "dictionary_form": "すてる",
     "dictionary_form_kanji": "捨てる",
     "imperative_form": "すてろ",
-    "imperative_form_kanji": "捨てろ"
+    "imperative_form_kanji": "捨てろ",
+    "translation": "I'll throw it away"
   },
   {
     "lesson": "31",
@@ -2355,7 +2616,8 @@
     "dictionary_form": "みつける",
     "dictionary_form_kanji": "見つける",
     "imperative_form": "みつけろ",
-    "imperative_form_kanji": "見つけろ"
+    "imperative_form_kanji": "見つけろ",
+    "translation": "I'll find it"
   },
   {
     "lesson": "7",
@@ -2364,7 +2626,8 @@
     "dictionary_form": "きる",
     "dictionary_form_kanji": "切る",
     "imperative_form": "きれ",
-    "imperative_form_kanji": "切れ"
+    "imperative_form_kanji": "切れ",
+    "translation": "I'll cut it"
   },
   {
     "lesson": "41",
@@ -2373,7 +2636,8 @@
     "dictionary_form": "やる",
     "dictionary_form_kanji": null,
     "imperative_form": "やれ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "42",
@@ -2382,7 +2646,8 @@
     "dictionary_form": "わかす",
     "dictionary_form_kanji": "沸かす",
     "imperative_form": "わかせ",
-    "imperative_form_kanji": "沸かせ"
+    "imperative_form_kanji": "沸かせ",
+    "translation": "I'll boil it"
   },
   {
     "lesson": "28",
@@ -2391,7 +2656,8 @@
     "dictionary_form": "おどる",
     "dictionary_form_kanji": "踊る",
     "imperative_form": "おどれ",
-    "imperative_form_kanji": "踊れ"
+    "imperative_form_kanji": "踊れ",
+    "translation": "I'll dance"
   },
   {
     "lesson": "39",
@@ -2400,7 +2666,8 @@
     "dictionary_form": "やせる",
     "dictionary_form_kanji": null,
     "imperative_form": "やせろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll lose weight"
   },
   {
     "lesson": "14",
@@ -2409,7 +2676,8 @@
     "dictionary_form": "つける",
     "dictionary_form_kanji": null,
     "imperative_form": "つけろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll put it on"
   },
   {
     "lesson": "23",
@@ -2418,7 +2686,8 @@
     "dictionary_form": "あるく",
     "dictionary_form_kanji": "歩く",
     "imperative_form": "あるけ",
-    "imperative_form_kanji": "歩け"
+    "imperative_form_kanji": "歩け",
+    "translation": "I'm going to walk"
   },
   {
     "lesson": "42",
@@ -2427,7 +2696,8 @@
     "dictionary_form": "けいさんする",
     "dictionary_form_kanji": "計算する",
     "imperative_form": "けいさんしろ",
-    "imperative_form_kanji": "計算しろ"
+    "imperative_form_kanji": "計算しろ",
+    "translation": "I'll calculate it"
   },
   {
     "lesson": "40",
@@ -2436,7 +2706,8 @@
     "dictionary_form": "はかる",
     "dictionary_form_kanji": "測る",
     "imperative_form": "はかれ",
-    "imperative_form_kanji": "測れ"
+    "imperative_form_kanji": "測れ",
+    "translation": "I'll measure, I'll measure"
   },
   {
     "lesson": "38",
@@ -2445,7 +2716,8 @@
     "dictionary_form": "にゅういんする",
     "dictionary_form_kanji": "入院する",
     "imperative_form": "にゅういんしろ",
-    "imperative_form_kanji": "入院しろ"
+    "imperative_form_kanji": "入院しろ",
+    "translation": "I'll be hospitalized"
   },
   {
     "lesson": "31",
@@ -2454,7 +2726,8 @@
     "dictionary_form": "もうしこむ",
     "dictionary_form_kanji": "申し込む",
     "imperative_form": "もうしこめ",
-    "imperative_form_kanji": "申し込め"
+    "imperative_form_kanji": "申し込め",
+    "translation": "I'll apply"
   },
   {
     "lesson": "45",
@@ -2463,7 +2736,8 @@
     "dictionary_form": "しらせる",
     "dictionary_form_kanji": "知らせる",
     "imperative_form": "しらせろ",
-    "imperative_form_kanji": "知らせろ"
+    "imperative_form_kanji": "知らせろ",
+    "translation": "I'll let you know"
   },
   {
     "lesson": "10",
@@ -2472,7 +2746,8 @@
     "dictionary_form": "いる",
     "dictionary_form_kanji": null,
     "imperative_form": "いろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'm here"
   },
   {
     "lesson": "39",
@@ -2481,7 +2756,8 @@
     "dictionary_form": "しぬ",
     "dictionary_form_kanji": "死ぬ",
     "imperative_form": "しね",
-    "imperative_form_kanji": "死ね"
+    "imperative_form_kanji": "死ね",
+    "translation": "I'll die"
   },
   {
     "lesson": "7",
@@ -2490,7 +2766,8 @@
     "dictionary_form": "しつれいする",
     "dictionary_form_kanji": "失礼する",
     "imperative_form": "しつれいしろ",
-    "imperative_form_kanji": "失礼しろ"
+    "imperative_form_kanji": "失礼しろ",
+    "translation": "Excuse me"
   },
   {
     "lesson": "30",
@@ -2499,7 +2776,8 @@
     "dictionary_form": "かざる",
     "dictionary_form_kanji": "飾る",
     "imperative_form": "かざれ",
-    "imperative_form_kanji": "飾れ"
+    "imperative_form_kanji": "飾れ",
+    "translation": "I'll decorate it"
   },
   {
     "lesson": "16",
@@ -2508,7 +2786,8 @@
     "dictionary_form": "いれる",
     "dictionary_form_kanji": "入れる",
     "imperative_form": "いれろ",
-    "imperative_form_kanji": "入れろ"
+    "imperative_form_kanji": "入れろ",
+    "translation": "I'll put it in"
   },
   {
     "lesson": "40",
@@ -2517,7 +2796,8 @@
     "dictionary_form": "しゅっぱつする",
     "dictionary_form_kanji": "出発する",
     "imperative_form": "しゅっぱつしろ",
-    "imperative_form_kanji": "出発しろ"
+    "imperative_form_kanji": "出発しろ",
+    "translation": "I'm leaving"
   },
   {
     "lesson": "39",
@@ -2526,7 +2806,8 @@
     "dictionary_form": "あんしんする",
     "dictionary_form_kanji": "安心する",
     "imperative_form": "あんしんしろ",
-    "imperative_form_kanji": "安心しろ"
+    "imperative_form_kanji": "安心しろ",
+    "translation": "It's safe"
   },
   {
     "lesson": "5",
@@ -2535,7 +2816,8 @@
     "dictionary_form": "かえる",
     "dictionary_form_kanji": "帰る",
     "imperative_form": "かえれ",
-    "imperative_form_kanji": "帰れ"
+    "imperative_form_kanji": "帰れ",
+    "translation": "I'm going home"
   },
   {
     "lesson": "30",
@@ -2544,7 +2826,8 @@
     "dictionary_form": "まとめる",
     "dictionary_form_kanji": null,
     "imperative_form": "まとめろ",
-    "imperative_form_kanji": null
+    "imperative_form_kanji": null,
+    "translation": "I'll summarize"
   },
   {
     "lesson": "26",
@@ -2553,7 +2836,8 @@
     "dictionary_form": "れんらくする",
     "dictionary_form_kanji": "連絡する",
     "imperative_form": "れんらくしろ",
-    "imperative_form_kanji": "連絡しろ"
+    "imperative_form_kanji": "連絡しろ",
+    "translation": "I'll contact you"
   },
   {
     "lesson": "24",
@@ -2562,7 +2846,8 @@
     "dictionary_form": "せつめいする",
     "dictionary_form_kanji": "説明する",
     "imperative_form": "せつめいしろ",
-    "imperative_form_kanji": "説明しろ"
+    "imperative_form_kanji": "説明しろ",
+    "translation": "I'll explain it"
   },
   {
     "lesson": "21",
@@ -2571,7 +2856,8 @@
     "dictionary_form": "うごく",
     "dictionary_form_kanji": "動く",
     "imperative_form": "うごけ",
-    "imperative_form_kanji": "動け"
+    "imperative_form_kanji": "動け",
+    "translation": "It's moving"
   },
   {
     "lesson": "13",
@@ -2580,7 +2866,8 @@
     "dictionary_form": "あそぶ",
     "dictionary_form_kanji": "遊ぶ",
     "imperative_form": "あそべ",
-    "imperative_form_kanji": "遊べ"
+    "imperative_form_kanji": "遊べ",
+    "translation": "I'll play"
   },
   {
     "lesson": "19",
@@ -2589,7 +2876,8 @@
     "dictionary_form": "せんたくする",
     "dictionary_form_kanji": "洗濯する",
     "imperative_form": "せんたくしろ",
-    "imperative_form_kanji": "洗濯しろ"
+    "imperative_form_kanji": "洗濯しろ",
+    "translation": "I'll wash it"
   },
   {
     "lesson": "30",
@@ -2598,6 +2886,7 @@
     "dictionary_form": "もどす",
     "dictionary_form_kanji": "戻す",
     "imperative_form": "もどせ",
-    "imperative_form_kanji": "戻せ"
+    "imperative_form_kanji": "戻せ",
+    "translation": "I'll go back"
   }
 ]

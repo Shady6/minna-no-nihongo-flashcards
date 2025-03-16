@@ -6,7 +6,8 @@
     "dictionary_form": "あつまる",
     "dictionary_form_kanji": "集まる",
     "causative_form": "あつまらせる",
-    "causative_form_kanji": "集まらせる"
+    "causative_form_kanji": "集まらせる",
+    "translation": "We'll gather [people]"
   },
   {
     "lesson": "22",
@@ -15,7 +16,8 @@
     "dictionary_form": "かぶる",
     "dictionary_form_kanji": null,
     "causative_form": "かぶらせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "38",
@@ -24,7 +26,8 @@
     "dictionary_form": "つく",
     "dictionary_form_kanji": null,
     "causative_form": "つかせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll come on [I'm lying]"
   },
   {
     "lesson": "37",
@@ -33,7 +36,8 @@
     "dictionary_form": "こわす",
     "dictionary_form_kanji": "壊す",
     "causative_form": "こわさせる",
-    "causative_form_kanji": "壊させる"
+    "causative_form_kanji": "壊させる",
+    "translation": "I'll break it"
   },
   {
     "lesson": "49",
@@ -42,7 +46,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": "掛ける",
     "causative_form": "かけさせる",
-    "causative_form_kanji": "掛けさせる"
+    "causative_form_kanji": "掛けさせる",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "33",
@@ -51,7 +56,8 @@
     "dictionary_form": "にげる",
     "dictionary_form_kanji": "逃げる",
     "causative_form": "にげさせる",
-    "causative_form_kanji": "逃げさせる"
+    "causative_form_kanji": "逃げさせる",
+    "translation": "I'll run away"
   },
   {
     "lesson": "11",
@@ -60,7 +66,8 @@
     "dictionary_form": "いる",
     "dictionary_form_kanji": null,
     "causative_form": "いさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'm here (in Japan)"
   },
   {
     "lesson": "17",
@@ -69,7 +76,8 @@
     "dictionary_form": "わすれる",
     "dictionary_form_kanji": "忘れる",
     "causative_form": "わすれさせる",
-    "causative_form_kanji": "忘れさせる"
+    "causative_form_kanji": "忘れさせる",
+    "translation": "I'll forget"
   },
   {
     "lesson": "17",
@@ -78,7 +86,8 @@
     "dictionary_form": "はいる",
     "dictionary_form_kanji": "入る",
     "causative_form": "はいらせる",
-    "causative_form_kanji": "入らせる"
+    "causative_form_kanji": "入らせる",
+    "translation": "enter"
   },
   {
     "lesson": "27",
@@ -87,7 +96,8 @@
     "dictionary_form": "つける",
     "dictionary_form_kanji": "付ける",
     "causative_form": "つけさせる",
-    "causative_form_kanji": "付けさせる"
+    "causative_form_kanji": "付けさせる",
+    "translation": "I'll put it on"
   },
   {
     "lesson": "13",
@@ -96,7 +106,8 @@
     "dictionary_form": "しょくじする",
     "dictionary_form_kanji": "食事する",
     "causative_form": "しょくじさせる",
-    "causative_form_kanji": "食事させる"
+    "causative_form_kanji": "食事させる",
+    "translation": "I'll eat"
   },
   {
     "lesson": "40",
@@ -105,7 +116,8 @@
     "dictionary_form": "そうだんする",
     "dictionary_form_kanji": "相談する",
     "causative_form": "そうだんさせる",
-    "causative_form_kanji": "相談させる"
+    "causative_form_kanji": "相談させる",
+    "translation": "I'll talk"
   },
   {
     "lesson": "6",
@@ -114,7 +126,8 @@
     "dictionary_form": "とる",
     "dictionary_form_kanji": "撮る",
     "causative_form": "とらせる",
-    "causative_form_kanji": "撮らせる"
+    "causative_form_kanji": "撮らせる",
+    "translation": "I'll take a picture"
   },
   {
     "lesson": "20",
@@ -123,7 +136,8 @@
     "dictionary_form": "しゅうりする",
     "dictionary_form_kanji": "修理する",
     "causative_form": "しゅうりさせる",
-    "causative_form_kanji": "修理させる"
+    "causative_form_kanji": "修理させる",
+    "translation": "I'll repair it"
   },
   {
     "lesson": "17",
@@ -132,7 +146,8 @@
     "dictionary_form": "ざんぎょうする",
     "dictionary_form_kanji": "残業する",
     "causative_form": "ざんぎょうさせる",
-    "causative_form_kanji": "残業させる"
+    "causative_form_kanji": "残業させる",
+    "translation": "I'll work overtime"
   },
   {
     "lesson": "14",
@@ -141,7 +156,8 @@
     "dictionary_form": "とめる",
     "dictionary_form_kanji": "止める",
     "causative_form": "とめさせる",
-    "causative_form_kanji": "止めさせる"
+    "causative_form_kanji": "止めさせる",
+    "translation": "I'll stop"
   },
   {
     "lesson": "33",
@@ -150,7 +166,8 @@
     "dictionary_form": "さわぐ",
     "dictionary_form_kanji": "騒ぐ",
     "causative_form": "さわがせる",
-    "causative_form_kanji": "騒がせる"
+    "causative_form_kanji": "騒がせる",
+    "translation": "I'm making a fuss"
   },
   {
     "lesson": "14",
@@ -159,7 +176,8 @@
     "dictionary_form": "いそぐ",
     "dictionary_form_kanji": "急ぐ",
     "causative_form": "いそがせる",
-    "causative_form_kanji": "急がせる"
+    "causative_form_kanji": "急がせる",
+    "translation": "I'm hurry"
   },
   {
     "lesson": "10",
@@ -168,7 +186,8 @@
     "dictionary_form": "いる",
     "dictionary_form_kanji": null,
     "causative_form": "いさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'm here"
   },
   {
     "lesson": "40",
@@ -177,7 +196,8 @@
     "dictionary_form": "とうちゃくする",
     "dictionary_form_kanji": "到着する",
     "causative_form": "とうちゃくさせる",
-    "causative_form_kanji": "到着させる"
+    "causative_form_kanji": "到着させる",
+    "translation": "I'll arrive"
   },
   {
     "lesson": "30",
@@ -186,7 +206,8 @@
     "dictionary_form": "そのままにする",
     "dictionary_form_kanji": null,
     "causative_form": "そのままにさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll leave it as is"
   },
   {
     "lesson": "14",
@@ -195,7 +216,8 @@
     "dictionary_form": "よぶ",
     "dictionary_form_kanji": "呼ぶ",
     "causative_form": "よばせる",
-    "causative_form_kanji": "呼ばせる"
+    "causative_form_kanji": "呼ばせる",
+    "translation": "I'll call you"
   },
   {
     "lesson": "15",
@@ -204,7 +226,8 @@
     "dictionary_form": "おく",
     "dictionary_form_kanji": "置く",
     "causative_form": "おかせる",
-    "causative_form_kanji": "置かせる"
+    "causative_form_kanji": "置かせる",
+    "translation": "I'll put it"
   },
   {
     "lesson": "32",
@@ -213,7 +236,8 @@
     "dictionary_form": "ごうかくする",
     "dictionary_form_kanji": "合格する",
     "causative_form": "ごうかくさせる",
-    "causative_form_kanji": "合格させる"
+    "causative_form_kanji": "合格させる",
+    "translation": "I'll pass"
   },
   {
     "lesson": "27",
@@ -222,7 +246,8 @@
     "dictionary_form": "はしる",
     "dictionary_form_kanji": "走る",
     "causative_form": "はしらせる",
-    "causative_form_kanji": "走らせる"
+    "causative_form_kanji": "走らせる",
+    "translation": "I'll run"
   },
   {
     "lesson": "34",
@@ -231,7 +256,8 @@
     "dictionary_form": "のせる",
     "dictionary_form_kanji": "載せる",
     "causative_form": "のせさせる",
-    "causative_form_kanji": "載せさせる"
+    "causative_form_kanji": "載せさせる",
+    "translation": "I'll post it"
   },
   {
     "lesson": "33",
@@ -240,7 +266,8 @@
     "dictionary_form": "なげる",
     "dictionary_form_kanji": "投げる",
     "causative_form": "なげさせる",
-    "causative_form_kanji": "投げさせる"
+    "causative_form_kanji": "投げさせる",
+    "translation": "I'll throw it"
   },
   {
     "lesson": "13",
@@ -249,7 +276,8 @@
     "dictionary_form": "むかえる",
     "dictionary_form_kanji": "迎える",
     "causative_form": "むかえさせる",
-    "causative_form_kanji": "迎えさせる"
+    "causative_form_kanji": "迎えさせる",
+    "translation": "I'll welcome"
   },
   {
     "lesson": "32",
@@ -258,7 +286,8 @@
     "dictionary_form": "ひやす",
     "dictionary_form_kanji": "冷やす",
     "causative_form": "ひやさせる",
-    "causative_form_kanji": "冷やさせる"
+    "causative_form_kanji": "冷やさせる",
+    "translation": "Let it cool"
   },
   {
     "lesson": "17",
@@ -267,7 +296,8 @@
     "dictionary_form": "かえす",
     "dictionary_form_kanji": "返す",
     "causative_form": "かえさせる",
-    "causative_form_kanji": "返させる"
+    "causative_form_kanji": "返させる",
+    "translation": "I'll return it"
   },
   {
     "lesson": "6",
@@ -276,7 +306,8 @@
     "dictionary_form": "よむ",
     "dictionary_form_kanji": "読む",
     "causative_form": "よませる",
-    "causative_form_kanji": "読ませる"
+    "causative_form_kanji": "読ませる",
+    "translation": "I'll read"
   },
   {
     "lesson": "6",
@@ -285,7 +316,8 @@
     "dictionary_form": "すう",
     "dictionary_form_kanji": "吸う",
     "causative_form": "すわせる",
-    "causative_form_kanji": "吸わせる"
+    "causative_form_kanji": "吸わせる",
+    "translation": "I'll suck"
   },
   {
     "lesson": "44",
@@ -294,7 +326,8 @@
     "dictionary_form": "わらう",
     "dictionary_form_kanji": "笑う",
     "causative_form": "わらわせる",
-    "causative_form_kanji": "笑わせる"
+    "causative_form_kanji": "笑わせる",
+    "translation": "I'll laugh"
   },
   {
     "lesson": "32",
@@ -303,7 +336,8 @@
     "dictionary_form": "でる",
     "dictionary_form_kanji": "出る",
     "causative_form": "でさせる",
-    "causative_form_kanji": "出させる"
+    "causative_form_kanji": "出させる",
+    "translation": "It's coming out"
   },
   {
     "lesson": "41",
@@ -312,7 +346,8 @@
     "dictionary_form": "やる",
     "dictionary_form_kanji": null,
     "causative_form": "やらせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "25",
@@ -321,7 +356,8 @@
     "dictionary_form": "つく",
     "dictionary_form_kanji": "着く",
     "causative_form": "つかせる",
-    "causative_form_kanji": "着かせる"
+    "causative_form_kanji": "着かせる",
+    "translation": "I'll arrive"
   },
   {
     "lesson": "24",
@@ -330,7 +366,8 @@
     "dictionary_form": "つれていく",
     "dictionary_form_kanji": "連れて行く",
     "causative_form": "つれていかせる",
-    "causative_form_kanji": "連れて行かせる"
+    "causative_form_kanji": "連れて行かせる",
+    "translation": "I'll take you"
   },
   {
     "lesson": "13",
@@ -339,7 +376,8 @@
     "dictionary_form": "およぐ",
     "dictionary_form_kanji": "泳ぐ",
     "causative_form": "およがせる",
-    "causative_form_kanji": "泳がせる"
+    "causative_form_kanji": "泳がせる",
+    "translation": "I'll swim"
   },
   {
     "lesson": "5",
@@ -348,7 +386,8 @@
     "dictionary_form": "かえる",
     "dictionary_form_kanji": "帰る",
     "causative_form": "かえらせる",
-    "causative_form_kanji": "帰らせる"
+    "causative_form_kanji": "帰らせる",
+    "translation": "I'm going home"
   },
   {
     "lesson": "49",
@@ -357,7 +396,8 @@
     "dictionary_form": "じゅしょうする",
     "dictionary_form_kanji": "受賞する",
     "causative_form": "じゅしょうさせる",
-    "causative_form_kanji": "受賞させる"
+    "causative_form_kanji": "受賞させる",
+    "translation": "I'll be awarded"
   },
   {
     "lesson": "18",
@@ -366,7 +406,8 @@
     "dictionary_form": "うんてんする",
     "dictionary_form_kanji": "運転する",
     "causative_form": "うんてんさせる",
-    "causative_form_kanji": "運転させる"
+    "causative_form_kanji": "運転させる",
+    "translation": "I'll drive"
   },
   {
     "lesson": "39",
@@ -375,7 +416,8 @@
     "dictionary_form": "ふとる",
     "dictionary_form_kanji": "太る",
     "causative_form": "ふとらせる",
-    "causative_form_kanji": "太らせる"
+    "causative_form_kanji": "太らせる",
+    "translation": "I'm gaining weight"
   },
   {
     "lesson": "16",
@@ -384,7 +426,8 @@
     "dictionary_form": "はじめる",
     "dictionary_form_kanji": "始める",
     "causative_form": "はじめさせる",
-    "causative_form_kanji": "始めさせる"
+    "causative_form_kanji": "始めさせる",
+    "translation": "I'll start"
   },
   {
     "lesson": "46",
@@ -393,7 +436,8 @@
     "dictionary_form": "わたす",
     "dictionary_form_kanji": "渡す",
     "causative_form": "わたさせる",
-    "causative_form_kanji": "渡させる"
+    "causative_form_kanji": "渡させる",
+    "translation": "I'll give it to you"
   },
   {
     "lesson": "33",
@@ -402,7 +446,8 @@
     "dictionary_form": "しゅっせきする",
     "dictionary_form_kanji": "出席する",
     "causative_form": "しゅっせきさせる",
-    "causative_form_kanji": "出席させる"
+    "causative_form_kanji": "出席させる",
+    "translation": "I'll be attending"
   },
   {
     "lesson": "7",
@@ -411,7 +456,8 @@
     "dictionary_form": "きる",
     "dictionary_form_kanji": "切る",
     "causative_form": "きらせる",
-    "causative_form_kanji": "切らせる"
+    "causative_form_kanji": "切らせる",
+    "translation": "I'll cut it"
   },
   {
     "lesson": "4",
@@ -420,7 +466,8 @@
     "dictionary_form": "はたらく",
     "dictionary_form_kanji": "働く",
     "causative_form": "はたらかせる",
-    "causative_form_kanji": "働かせる"
+    "causative_form_kanji": "働かせる",
+    "translation": "I'll work"
   },
   {
     "lesson": "46",
@@ -429,7 +476,8 @@
     "dictionary_form": "やく",
     "dictionary_form_kanji": "焼く",
     "causative_form": "やかせる",
-    "causative_form_kanji": "焼かせる"
+    "causative_form_kanji": "焼かせる",
+    "translation": "Bake"
   },
   {
     "lesson": "35",
@@ -438,7 +486,8 @@
     "dictionary_form": "こまる",
     "dictionary_form_kanji": "困る",
     "causative_form": "こまらせる",
-    "causative_form_kanji": "困らせる"
+    "causative_form_kanji": "困らせる",
+    "translation": "It's a problem"
   },
   {
     "lesson": "17",
@@ -447,7 +496,8 @@
     "dictionary_form": "はらう",
     "dictionary_form_kanji": "払う",
     "causative_form": "はらわせる",
-    "causative_form_kanji": "払わせる"
+    "causative_form_kanji": "払わせる",
+    "translation": "I'll pay"
   },
   {
     "lesson": "44",
@@ -456,7 +506,8 @@
     "dictionary_form": "ちょうせつする",
     "dictionary_form_kanji": "調節する",
     "causative_form": "ちょうせつさせる",
-    "causative_form_kanji": "調節させる"
+    "causative_form_kanji": "調節させる",
+    "translation": "I'll adjust it"
   },
   {
     "lesson": "26",
@@ -465,7 +516,8 @@
     "dictionary_form": "みる",
     "dictionary_form_kanji": "見る",
     "causative_form": "みさせる",
-    "causative_form_kanji": "見させる"
+    "causative_form_kanji": "見させる",
+    "translation": "I'll see, I'll examine you"
   },
   {
     "lesson": "21",
@@ -474,7 +526,8 @@
     "dictionary_form": "いう",
     "dictionary_form_kanji": "言う",
     "causative_form": "いわせる",
-    "causative_form_kanji": "言わせる"
+    "causative_form_kanji": "言わせる",
+    "translation": "I'll say it"
   },
   {
     "lesson": "23",
@@ -483,7 +536,8 @@
     "dictionary_form": "まがる",
     "dictionary_form_kanji": "曲がる",
     "causative_form": "まがらせる",
-    "causative_form_kanji": "曲がらせる"
+    "causative_form_kanji": "曲がらせる",
+    "translation": "It's bent"
   },
   {
     "lesson": "41",
@@ -492,7 +546,8 @@
     "dictionary_form": "あげる",
     "dictionary_form_kanji": "上げる",
     "causative_form": "あげさせる",
-    "causative_form_kanji": "上げさせる"
+    "causative_form_kanji": "上げさせる",
+    "translation": "I'll raise it"
   },
   {
     "lesson": "33",
@@ -501,7 +556,8 @@
     "dictionary_form": "はずす",
     "dictionary_form_kanji": "外す",
     "causative_form": "はずさせる",
-    "causative_form_kanji": "外させる"
+    "causative_form_kanji": "外させる",
+    "translation": "I'll remove it"
   },
   {
     "lesson": "13",
@@ -510,7 +566,8 @@
     "dictionary_form": "さんぽする",
     "dictionary_form_kanji": "散歩する",
     "causative_form": "さんぽさせる",
-    "causative_form_kanji": "散歩させる"
+    "causative_form_kanji": "散歩させる",
+    "translation": "I'll take a walk"
   },
   {
     "lesson": "22",
@@ -519,7 +576,8 @@
     "dictionary_form": "きる",
     "dictionary_form_kanji": "着る",
     "causative_form": "きさせる",
-    "causative_form_kanji": "着させる"
+    "causative_form_kanji": "着させる",
+    "translation": "I'll wear it"
   },
   {
     "lesson": "34",
@@ -528,7 +586,8 @@
     "dictionary_form": "みがく",
     "dictionary_form_kanji": "磨く",
     "causative_form": "みがかせる",
-    "causative_form_kanji": "磨かせる"
+    "causative_form_kanji": "磨かせる",
+    "translation": "polish"
   },
   {
     "lesson": "16",
@@ -537,7 +596,8 @@
     "dictionary_form": "のりかえる",
     "dictionary_form_kanji": "乗り換える",
     "causative_form": "のりかえさせる",
-    "causative_form_kanji": "乗り換えさせる"
+    "causative_form_kanji": "乗り換えさせる",
+    "translation": "I'll switch"
   },
   {
     "lesson": "37",
@@ -546,7 +606,8 @@
     "dictionary_form": "よごす",
     "dictionary_form_kanji": "汚す",
     "causative_form": "よごさせる",
-    "causative_form_kanji": "よごさせる"
+    "causative_form_kanji": "よごさせる",
+    "translation": "It's tainted"
   },
   {
     "lesson": "39",
@@ -555,7 +616,8 @@
     "dictionary_form": "こたえる",
     "dictionary_form_kanji": "答える",
     "causative_form": "こたえさせる",
-    "causative_form_kanji": "答えさせる"
+    "causative_form_kanji": "答えさせる",
+    "translation": "I'll answer"
   },
   {
     "lesson": "36",
@@ -564,7 +626,8 @@
     "dictionary_form": "ちょきんする",
     "dictionary_form_kanji": "貯金する",
     "causative_form": "ちょきんさせる",
-    "causative_form_kanji": "貯金させる"
+    "causative_form_kanji": "貯金させる",
+    "translation": "I'll save"
   },
   {
     "lesson": "45",
@@ -573,7 +636,8 @@
     "dictionary_form": "しんじる",
     "dictionary_form_kanji": "信じる",
     "causative_form": "しんじさせる",
-    "causative_form_kanji": "信じさせる"
+    "causative_form_kanji": "信じさせる",
+    "translation": "I believe it"
   },
   {
     "lesson": "37",
@@ -582,7 +646,8 @@
     "dictionary_form": "たのむ",
     "dictionary_form_kanji": "頼む",
     "causative_form": "たのませる",
-    "causative_form_kanji": "頼ませる"
+    "causative_form_kanji": "頼ませる",
+    "translation": "I'll ask"
   },
   {
     "lesson": "50",
@@ -591,7 +656,8 @@
     "dictionary_form": "いれる",
     "dictionary_form_kanji": null,
     "causative_form": "いれさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll come"
   },
   {
     "lesson": "50",
@@ -600,7 +666,8 @@
     "dictionary_form": "かんしゃする",
     "dictionary_form_kanji": "感謝する",
     "causative_form": "かんしゃさせる",
-    "causative_form_kanji": "感謝させる"
+    "causative_form_kanji": "感謝させる",
+    "translation": "appreciate"
   },
   {
     "lesson": "40",
@@ -609,7 +676,8 @@
     "dictionary_form": "はかる",
     "dictionary_form_kanji": "測る",
     "causative_form": "はからせる",
-    "causative_form_kanji": "測らせる"
+    "causative_form_kanji": "測らせる",
+    "translation": "I'll measure, I'll measure"
   },
   {
     "lesson": "14",
@@ -618,7 +686,8 @@
     "dictionary_form": "コピーする",
     "dictionary_form_kanji": null,
     "causative_form": "コピーさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll copy it"
   },
   {
     "lesson": "49",
@@ -627,7 +696,8 @@
     "dictionary_form": "りようする",
     "dictionary_form_kanji": "利用する",
     "causative_form": "りようさせる",
-    "causative_form_kanji": "利用させる"
+    "causative_form_kanji": "利用させる",
+    "translation": "I'll use it"
   },
   {
     "lesson": "32",
@@ -636,7 +706,8 @@
     "dictionary_form": "せいこうする",
     "dictionary_form_kanji": "成功する",
     "causative_form": "せいこうさせる",
-    "causative_form_kanji": "成功させる"
+    "causative_form_kanji": "成功させる",
+    "translation": "It'll be successful"
   },
   {
     "lesson": "5",
@@ -645,7 +716,8 @@
     "dictionary_form": "いく",
     "dictionary_form_kanji": "行く",
     "causative_form": "いかせる",
-    "causative_form_kanji": "行かせる"
+    "causative_form_kanji": "行かせる",
+    "translation": "I'm going"
   },
   {
     "lesson": "36",
@@ -654,7 +726,8 @@
     "dictionary_form": "チャレンジする",
     "dictionary_form_kanji": null,
     "causative_form": "チャレンジさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll take the challenge"
   },
   {
     "lesson": "18",
@@ -663,7 +736,8 @@
     "dictionary_form": "あらう",
     "dictionary_form_kanji": "洗う",
     "causative_form": "あらわせる",
-    "causative_form_kanji": "洗せる"
+    "causative_form_kanji": "洗せる",
+    "translation": "I'll wash it"
   },
   {
     "lesson": "6",
@@ -672,7 +746,8 @@
     "dictionary_form": "みる",
     "dictionary_form_kanji": "見る",
     "causative_form": "みさせる",
-    "causative_form_kanji": "見させる"
+    "causative_form_kanji": "見させる",
+    "translation": "I'll see"
   },
   {
     "lesson": "42",
@@ -681,7 +756,8 @@
     "dictionary_form": "ならぶ",
     "dictionary_form_kanji": "並ぶ",
     "causative_form": "ならばせる",
-    "causative_form_kanji": "並ばせる"
+    "causative_form_kanji": "並ばせる",
+    "translation": "I'll line up"
   },
   {
     "lesson": "14",
@@ -690,7 +766,8 @@
     "dictionary_form": "とる",
     "dictionary_form_kanji": "取る",
     "causative_form": "とらせる",
-    "causative_form_kanji": "取らせる"
+    "causative_form_kanji": "取らせる",
+    "translation": "I'll take it"
   },
   {
     "lesson": "15",
@@ -699,7 +776,8 @@
     "dictionary_form": "おもいだす",
     "dictionary_form_kanji": "思い出す",
     "causative_form": "おもいださせる",
-    "causative_form_kanji": "思い出させる"
+    "causative_form_kanji": "思い出させる",
+    "translation": "I remember"
   },
   {
     "lesson": "30",
@@ -708,7 +786,8 @@
     "dictionary_form": "ふくしゅうする",
     "dictionary_form_kanji": "復習する",
     "causative_form": "ふくしゅうさせる",
-    "causative_form_kanji": "復習させる"
+    "causative_form_kanji": "復習させる",
+    "translation": "I'll review"
   },
   {
     "lesson": "47",
@@ -717,7 +796,8 @@
     "dictionary_form": "しりあう",
     "dictionary_form_kanji": "知り合う",
     "causative_form": "しりあわせる",
-    "causative_form_kanji": "知り合わせる"
+    "causative_form_kanji": "知り合わせる",
+    "translation": "I'll know you"
   },
   {
     "lesson": "16",
@@ -726,7 +806,8 @@
     "dictionary_form": "いれる",
     "dictionary_form_kanji": "入れる",
     "causative_form": "いれさせる",
-    "causative_form_kanji": "入れさせる"
+    "causative_form_kanji": "入れさせる",
+    "translation": "I'll put it in"
   },
   {
     "lesson": "21",
@@ -735,7 +816,8 @@
     "dictionary_form": "やめる",
     "dictionary_form_kanji": null,
     "causative_form": "やめさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll stop"
   },
   {
     "lesson": "21",
@@ -744,7 +826,8 @@
     "dictionary_form": "やくにたつ",
     "dictionary_form_kanji": "役に立つ",
     "causative_form": "やくにたたせる",
-    "causative_form_kanji": "役に立たせる"
+    "causative_form_kanji": "役に立たせる",
+    "translation": "It's helpful"
   },
   {
     "lesson": "39",
@@ -753,7 +836,8 @@
     "dictionary_form": "やせる",
     "dictionary_form_kanji": null,
     "causative_form": "やせさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll lose weight"
   },
   {
     "lesson": "45",
@@ -762,7 +846,8 @@
     "dictionary_form": "キャンセルする",
     "dictionary_form_kanji": null,
     "causative_form": "キャンセルさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll cancel"
   },
   {
     "lesson": "30",
@@ -771,7 +856,8 @@
     "dictionary_form": "まとめる",
     "dictionary_form_kanji": null,
     "causative_form": "まとめさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll summarize"
   },
   {
     "lesson": "19",
@@ -780,7 +866,8 @@
     "dictionary_form": "れんしゅうする",
     "dictionary_form_kanji": "練習する",
     "causative_form": "れんしゅうさせる",
-    "causative_form_kanji": "練習させる"
+    "causative_form_kanji": "練習させる",
+    "translation": "I'll practice"
   },
   {
     "lesson": "39",
@@ -789,7 +876,8 @@
     "dictionary_form": "びっくりする",
     "dictionary_form_kanji": null,
     "causative_form": "びっくりさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'm surprised"
   },
   {
     "lesson": "36",
@@ -798,7 +886,8 @@
     "dictionary_form": "あう",
     "dictionary_form_kanji": null,
     "causative_form": "あわせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "16",
@@ -807,7 +896,8 @@
     "dictionary_form": "でる",
     "dictionary_form_kanji": "出る",
     "causative_form": "でさせる",
-    "causative_form_kanji": "出させる"
+    "causative_form_kanji": "出させる",
+    "translation": "It's coming out"
   },
   {
     "lesson": "18",
@@ -816,7 +906,8 @@
     "dictionary_form": "よやくする",
     "dictionary_form_kanji": "予約する",
     "causative_form": "よやくさせる",
-    "causative_form_kanji": "予約させる"
+    "causative_form_kanji": "予約させる",
+    "translation": "I'll make a reservation"
   },
   {
     "lesson": "16",
@@ -825,7 +916,8 @@
     "dictionary_form": "だす",
     "dictionary_form_kanji": "出す",
     "causative_form": "ださせる",
-    "causative_form_kanji": "出させる"
+    "causative_form_kanji": "出させる",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "37",
@@ -834,7 +926,8 @@
     "dictionary_form": "ほんやくする",
     "dictionary_form_kanji": "翻訳する",
     "causative_form": "ほんやくさせる",
-    "causative_form_kanji": "翻訳させる"
+    "causative_form_kanji": "翻訳させる",
+    "translation": "I'll translate"
   },
   {
     "lesson": "37",
@@ -843,7 +936,8 @@
     "dictionary_form": "ふむ",
     "dictionary_form_kanji": "踏む",
     "causative_form": "ふませる",
-    "causative_form_kanji": "踏ませる"
+    "causative_form_kanji": "踏ませる",
+    "translation": "I'll step on"
   },
   {
     "lesson": "27",
@@ -852,7 +946,8 @@
     "dictionary_form": "かう",
     "dictionary_form_kanji": "飼う",
     "causative_form": "かわせる",
-    "causative_form_kanji": "飼わせる"
+    "causative_form_kanji": "飼わせる",
+    "translation": "I'll keep it"
   },
   {
     "lesson": "44",
@@ -861,7 +956,8 @@
     "dictionary_form": "ねむる",
     "dictionary_form_kanji": "眠る",
     "causative_form": "ねむらせる",
-    "causative_form_kanji": "眠らせる"
+    "causative_form_kanji": "眠らせる",
+    "translation": "I'm going to sleep"
   },
   {
     "lesson": "13",
@@ -870,7 +966,8 @@
     "dictionary_form": "つかれる",
     "dictionary_form_kanji": "疲れる",
     "causative_form": "つかれさせる",
-    "causative_form_kanji": "疲れさせる"
+    "causative_form_kanji": "疲れさせる",
+    "translation": "I'm tired"
   },
   {
     "lesson": "33",
@@ -879,7 +976,8 @@
     "dictionary_form": "ちゅういする",
     "dictionary_form_kanji": "注意する",
     "causative_form": "ちゅういさせる",
-    "causative_form_kanji": "注意させる"
+    "causative_form_kanji": "注意させる",
+    "translation": "I'll be careful"
   },
   {
     "lesson": "34",
@@ -888,7 +986,8 @@
     "dictionary_form": "きがつく",
     "dictionary_form_kanji": "気がつく",
     "causative_form": "きがつかせる",
-    "causative_form_kanji": "気がつかせる"
+    "causative_form_kanji": "気がつかせる",
+    "translation": "I'll notice"
   },
   {
     "lesson": "11",
@@ -897,7 +996,8 @@
     "dictionary_form": "おねがいする",
     "dictionary_form_kanji": "お願いする",
     "causative_form": "おねがいさせる",
-    "causative_form_kanji": "お願いさせる"
+    "causative_form_kanji": "お願いさせる",
+    "translation": "please"
   },
   {
     "lesson": "23",
@@ -906,7 +1006,8 @@
     "dictionary_form": "きく",
     "dictionary_form_kanji": "聞く",
     "causative_form": "きかせる",
-    "causative_form_kanji": "聞かせる"
+    "causative_form_kanji": "聞かせる",
+    "translation": "I'll listen"
   },
   {
     "lesson": "48",
@@ -915,7 +1016,8 @@
     "dictionary_form": "せわをする",
     "dictionary_form_kanji": "世話をする",
     "causative_form": "せわをさせる",
-    "causative_form_kanji": "世話をさせる"
+    "causative_form_kanji": "世話をさせる",
+    "translation": "I'll take care of you"
   },
   {
     "lesson": "7",
@@ -924,7 +1026,8 @@
     "dictionary_form": "しつれいする",
     "dictionary_form_kanji": "失礼する",
     "causative_form": "しつれいさせる",
-    "causative_form_kanji": "失礼させる"
+    "causative_form_kanji": "失礼させる",
+    "translation": "Excuse me"
   },
   {
     "lesson": "32",
@@ -933,7 +1036,8 @@
     "dictionary_form": "しっぱいする",
     "dictionary_form_kanji": "失敗する",
     "causative_form": "しっぱいさせる",
-    "causative_form_kanji": "失敗させる"
+    "causative_form_kanji": "失敗させる",
+    "translation": "It's failing"
   },
   {
     "lesson": "37",
@@ -942,7 +1046,8 @@
     "dictionary_form": "しょうたいする",
     "dictionary_form_kanji": "招待する",
     "causative_form": "しょうたいさせる",
-    "causative_form_kanji": "招待させる"
+    "causative_form_kanji": "招待させる",
+    "translation": "I'll invite you"
   },
   {
     "lesson": "6",
@@ -951,7 +1056,8 @@
     "dictionary_form": "きく",
     "dictionary_form_kanji": "聞く",
     "causative_form": "きかせる",
-    "causative_form_kanji": "聞かせる"
+    "causative_form_kanji": "聞かせる",
+    "translation": "I'll listen"
   },
   {
     "lesson": "16",
@@ -960,7 +1066,8 @@
     "dictionary_form": "けんがくする",
     "dictionary_form_kanji": "見学する",
     "causative_form": "けんがくさせる",
-    "causative_form_kanji": "見学させる"
+    "causative_form_kanji": "見学させる",
+    "translation": "I'll be watching"
   },
   {
     "lesson": "48",
@@ -969,7 +1076,8 @@
     "dictionary_form": "おろす",
     "dictionary_form_kanji": "下ろす",
     "causative_form": "おろさせる",
-    "causative_form_kanji": "下ろさせる"
+    "causative_form_kanji": "下ろさせる",
+    "translation": "I'll take it down, I'll take it down"
   },
   {
     "lesson": "27",
@@ -978,7 +1086,8 @@
     "dictionary_form": "たてる",
     "dictionary_form_kanji": "建てる",
     "causative_form": "たてさせる",
-    "causative_form_kanji": "建てさせる"
+    "causative_form_kanji": "建てさせる",
+    "translation": "I'll build it"
   },
   {
     "lesson": "24",
@@ -987,7 +1096,8 @@
     "dictionary_form": "なおす",
     "dictionary_form_kanji": "直す",
     "causative_form": "なおさせる",
-    "causative_form_kanji": "直させる"
+    "causative_form_kanji": "直させる",
+    "translation": "I'll fix it"
   },
   {
     "lesson": "29",
@@ -996,7 +1106,8 @@
     "dictionary_form": "とりかえる",
     "dictionary_form_kanji": "取り替える",
     "causative_form": "とりかえさせる",
-    "causative_form_kanji": "取り替えさせる"
+    "causative_form_kanji": "取り替えさせる",
+    "translation": "I'll replace it"
   },
   {
     "lesson": "31",
@@ -1005,7 +1116,8 @@
     "dictionary_form": "きゅうけいする",
     "dictionary_form_kanji": "休憩する",
     "causative_form": "きゅうけいさせる",
-    "causative_form_kanji": "休憩させる"
+    "causative_form_kanji": "休憩させる",
+    "translation": "I'll take a break"
   },
   {
     "lesson": "11",
@@ -1014,7 +1126,8 @@
     "dictionary_form": "やすむ",
     "dictionary_form_kanji": "休む",
     "causative_form": "やすませる",
-    "causative_form_kanji": "休ませる"
+    "causative_form_kanji": "休ませる",
+    "translation": "I'm off (from work)"
   },
   {
     "lesson": "23",
@@ -1023,7 +1136,8 @@
     "dictionary_form": "まわす",
     "dictionary_form_kanji": "回す",
     "causative_form": "まわさせる",
-    "causative_form_kanji": "回させる"
+    "causative_form_kanji": "回させる",
+    "translation": "I'll turn it"
   },
   {
     "lesson": "33",
@@ -1032,7 +1146,8 @@
     "dictionary_form": "まもる",
     "dictionary_form_kanji": "守る",
     "causative_form": "まもらせる",
-    "causative_form_kanji": "守らせる"
+    "causative_form_kanji": "守らせる",
+    "translation": "I'll protect it"
   },
   {
     "lesson": "14",
@@ -1041,7 +1156,8 @@
     "dictionary_form": "みせる",
     "dictionary_form_kanji": "見せる",
     "causative_form": "みせさせる",
-    "causative_form_kanji": "見せさせる"
+    "causative_form_kanji": "見せさせる",
+    "translation": "I'll show it"
   },
   {
     "lesson": "37",
@@ -1050,7 +1166,8 @@
     "dictionary_form": "とる",
     "dictionary_form_kanji": "取る",
     "causative_form": "とらせる",
-    "causative_form_kanji": "取らせる"
+    "causative_form_kanji": "取らせる",
+    "translation": "I'll take it"
   },
   {
     "lesson": "23",
@@ -1059,7 +1176,8 @@
     "dictionary_form": "ひく",
     "dictionary_form_kanji": "引く",
     "causative_form": "ひかせる",
-    "causative_form_kanji": "弾かせる"
+    "causative_form_kanji": "弾かせる",
+    "translation": "I'll pull"
   },
   {
     "lesson": "40",
@@ -1068,7 +1186,8 @@
     "dictionary_form": "しゅっぱつする",
     "dictionary_form_kanji": "出発する",
     "causative_form": "しゅっぱつさせる",
-    "causative_form_kanji": "出発させる"
+    "causative_form_kanji": "出発させる",
+    "translation": "I'm leaving"
   },
   {
     "lesson": "23",
@@ -1077,7 +1196,8 @@
     "dictionary_form": "あるく",
     "dictionary_form_kanji": "歩く",
     "causative_form": "あるかせる",
-    "causative_form_kanji": "歩かせる"
+    "causative_form_kanji": "歩かせる",
+    "translation": "I'm going to walk"
   },
   {
     "lesson": "4",
@@ -1086,7 +1206,8 @@
     "dictionary_form": "べんきょうする",
     "dictionary_form_kanji": "勉強する",
     "causative_form": "べんきょうさせる",
-    "causative_form_kanji": "勉強させる"
+    "causative_form_kanji": "勉強させる",
+    "translation": "I'll study"
   },
   {
     "lesson": "37",
@@ -1095,7 +1216,8 @@
     "dictionary_form": "しかる",
     "dictionary_form_kanji": null,
     "causative_form": "しからせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "That's right"
   },
   {
     "lesson": "4",
@@ -1104,7 +1226,8 @@
     "dictionary_form": "やすむ",
     "dictionary_form_kanji": "休む",
     "causative_form": "やすませる",
-    "causative_form_kanji": "休ませる"
+    "causative_form_kanji": "休ませる",
+    "translation": "I'm off"
   },
   {
     "lesson": "17",
@@ -1113,7 +1236,8 @@
     "dictionary_form": "もっていく",
     "dictionary_form_kanji": "持って行く",
     "causative_form": "もっていかせる",
-    "causative_form_kanji": "持って行かせる"
+    "causative_form_kanji": "持って行かせる",
+    "translation": "I'll take it with me"
   },
   {
     "lesson": "21",
@@ -1122,7 +1246,8 @@
     "dictionary_form": "りゅうがくする",
     "dictionary_form_kanji": "留学する",
     "causative_form": "りゅうがくさせる",
-    "causative_form_kanji": "留学させる"
+    "causative_form_kanji": "留学させる",
+    "translation": "I'm going to study abroad"
   },
   {
     "lesson": "26",
@@ -1131,7 +1256,8 @@
     "dictionary_form": "れんらくする",
     "dictionary_form_kanji": "連絡する",
     "causative_form": "れんらくさせる",
-    "causative_form_kanji": "連絡させる"
+    "causative_form_kanji": "連絡させる",
+    "translation": "I'll contact you"
   },
   {
     "lesson": "28",
@@ -1140,7 +1266,8 @@
     "dictionary_form": "えらぶ",
     "dictionary_form_kanji": "選ぶ",
     "causative_form": "えらばせる",
-    "causative_form_kanji": "選ばせる"
+    "causative_form_kanji": "選ばせる",
+    "translation": "I'll choose"
   },
   {
     "lesson": "50",
@@ -1149,7 +1276,8 @@
     "dictionary_form": "よういする",
     "dictionary_form_kanji": "用意する",
     "causative_form": "よういさせる",
-    "causative_form_kanji": "用意させる"
+    "causative_form_kanji": "用意させる",
+    "translation": "I'll prepare it"
   },
   {
     "lesson": "31",
@@ -1158,7 +1286,8 @@
     "dictionary_form": "つづける",
     "dictionary_form_kanji": "続ける",
     "causative_form": "つづけさせる",
-    "causative_form_kanji": "続けさせる"
+    "causative_form_kanji": "続けさせる",
+    "translation": "I'll continue"
   },
   {
     "lesson": "15",
@@ -1167,7 +1296,8 @@
     "dictionary_form": "すわる",
     "dictionary_form_kanji": "座る",
     "causative_form": "すわらせる",
-    "causative_form_kanji": "座らせる"
+    "causative_form_kanji": "座らせる",
+    "translation": "I'll sit"
   },
   {
     "lesson": "21",
@@ -1176,7 +1306,8 @@
     "dictionary_form": "おもう",
     "dictionary_form_kanji": "思う",
     "causative_form": "おもわせる",
-    "causative_form_kanji": "思わせる"
+    "causative_form_kanji": "思わせる",
+    "translation": "I think so"
   },
   {
     "lesson": "16",
@@ -1185,7 +1316,8 @@
     "dictionary_form": "おりる",
     "dictionary_form_kanji": "降りる",
     "causative_form": "おりさせる",
-    "causative_form_kanji": "降りさせる"
+    "causative_form_kanji": "降りさせる",
+    "translation": "I'm off"
   },
   {
     "lesson": "37",
@@ -1194,7 +1326,8 @@
     "dictionary_form": "ゆしゅつする",
     "dictionary_form_kanji": "輸出する",
     "causative_form": "ゆしゅつさせる",
-    "causative_form_kanji": "輸出させる"
+    "causative_form_kanji": "輸出させる",
+    "translation": "I will export"
   },
   {
     "lesson": "34",
@@ -1203,7 +1336,8 @@
     "dictionary_form": "しつもんする",
     "dictionary_form_kanji": "質問する",
     "causative_form": "しつもんさせる",
-    "causative_form_kanji": "質問させる"
+    "causative_form_kanji": "質問させる",
+    "translation": "I'll ask a question"
   },
   {
     "lesson": "14",
@@ -1212,7 +1346,8 @@
     "dictionary_form": "たつ",
     "dictionary_form_kanji": "立つ",
     "causative_form": "たたせる",
-    "causative_form_kanji": "立たせる"
+    "causative_form_kanji": "立たせる",
+    "translation": "I'll stand"
   },
   {
     "lesson": "40",
@@ -1221,7 +1356,8 @@
     "dictionary_form": "あう",
     "dictionary_form_kanji": "合う",
     "causative_form": "あわせる",
-    "causative_form_kanji": "合わせる"
+    "causative_form_kanji": "合わせる",
+    "translation": "It fits"
   },
   {
     "lesson": "32",
@@ -1230,7 +1366,8 @@
     "dictionary_form": "むりをする",
     "dictionary_form_kanji": "無理をする",
     "causative_form": "むりをさせる",
-    "causative_form_kanji": "無理をさせる"
+    "causative_form_kanji": "無理をさせる",
+    "translation": "I'll overdo it"
   },
   {
     "lesson": "17",
@@ -1239,7 +1376,8 @@
     "dictionary_form": "しゅっちょうする",
     "dictionary_form_kanji": "出張する",
     "causative_form": "しゅっちょうさせる",
-    "causative_form_kanji": "出張させる"
+    "causative_form_kanji": "出張させる",
+    "translation": "I'm going on a business trip"
   },
   {
     "lesson": "33",
@@ -1248,7 +1386,8 @@
     "dictionary_form": "つたえる",
     "dictionary_form_kanji": "伝える",
     "causative_form": "つたえさせる",
-    "causative_form_kanji": "伝えさせる"
+    "causative_form_kanji": "伝えさせる",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "30",
@@ -1257,7 +1396,8 @@
     "dictionary_form": "きめる",
     "dictionary_form_kanji": "決める",
     "causative_form": "きめらせる",
-    "causative_form_kanji": "決めさせる"
+    "causative_form_kanji": "決めさせる",
+    "translation": "I'll decide"
   },
   {
     "lesson": "18",
@@ -1266,7 +1406,8 @@
     "dictionary_form": "すてる",
     "dictionary_form_kanji": "捨てる",
     "causative_form": "すてさせる",
-    "causative_form_kanji": "捨てさせる"
+    "causative_form_kanji": "捨てさせる",
+    "translation": "I'll throw it away"
   },
   {
     "lesson": "6",
@@ -1275,7 +1416,8 @@
     "dictionary_form": "のむ",
     "dictionary_form_kanji": "飲む",
     "causative_form": "のませる",
-    "causative_form_kanji": "飲ませる"
+    "causative_form_kanji": "飲ませる",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "38",
@@ -1284,7 +1426,8 @@
     "dictionary_form": "きる",
     "dictionary_form_kanji": "切る",
     "causative_form": "きらせる",
-    "causative_form_kanji": "切らせる"
+    "causative_form_kanji": "切らせる",
+    "translation": "I'll cut it"
   },
   {
     "lesson": "19",
@@ -1293,7 +1436,8 @@
     "dictionary_form": "のぼる",
     "dictionary_form_kanji": "登る",
     "causative_form": "のぼらせる",
-    "causative_form_kanji": "登らせる"
+    "causative_form_kanji": "登らせる",
+    "translation": "I'll climb"
   },
   {
     "lesson": "6",
@@ -1302,7 +1446,8 @@
     "dictionary_form": "かく",
     "dictionary_form_kanji": "書く",
     "causative_form": "かかせる",
-    "causative_form_kanji": "書かせる"
+    "causative_form_kanji": "書かせる",
+    "translation": "I'll write it"
   },
   {
     "lesson": "41",
@@ -1311,7 +1456,8 @@
     "dictionary_form": "しんせつにする",
     "dictionary_form_kanji": "親切にする",
     "causative_form": "しんせつにさせる",
-    "causative_form_kanji": "親切にさせる"
+    "causative_form_kanji": "親切にさせる",
+    "translation": "I'll be kind"
   },
   {
     "lesson": "13",
@@ -1320,7 +1466,8 @@
     "dictionary_form": "けっこんする",
     "dictionary_form_kanji": "結婚する",
     "causative_form": "けっこんさせる",
-    "causative_form_kanji": "結婚させる"
+    "causative_form_kanji": "結婚させる",
+    "translation": "I'm getting married"
   },
   {
     "lesson": "6",
@@ -1329,7 +1476,8 @@
     "dictionary_form": "たべる",
     "dictionary_form_kanji": "食べる",
     "causative_form": "たべさせる",
-    "causative_form_kanji": "食べさせる"
+    "causative_form_kanji": "食べさせる",
+    "translation": "I'll eat"
   },
   {
     "lesson": "38",
@@ -1338,7 +1486,8 @@
     "dictionary_form": "そだてる",
     "dictionary_form_kanji": "育てる",
     "causative_form": "そだてさせる",
-    "causative_form_kanji": "育てさせる"
+    "causative_form_kanji": "育てさせる",
+    "translation": "I'll grow it"
   },
   {
     "lesson": "7",
@@ -1347,7 +1496,8 @@
     "dictionary_form": "あげる",
     "dictionary_form_kanji": null,
     "causative_form": "あげさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll give it"
   },
   {
     "lesson": "16",
@@ -1356,7 +1506,8 @@
     "dictionary_form": "でんわする",
     "dictionary_form_kanji": "電話する",
     "causative_form": "でんわさせる",
-    "causative_form_kanji": "電話させる"
+    "causative_form_kanji": "電話させる",
+    "translation": "I'll call"
   },
   {
     "lesson": "39",
@@ -1365,7 +1516,8 @@
     "dictionary_form": "がっかりする",
     "dictionary_form_kanji": null,
     "causative_form": "がっかりさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'm disappointed"
   },
   {
     "lesson": "30",
@@ -1374,7 +1526,8 @@
     "dictionary_form": "もどす",
     "dictionary_form_kanji": "戻す",
     "causative_form": "もどさせる",
-    "causative_form_kanji": "戻させる"
+    "causative_form_kanji": "戻させる",
+    "translation": "I'll go back"
   },
   {
     "lesson": "4",
@@ -1383,7 +1536,8 @@
     "dictionary_form": "おきる",
     "dictionary_form_kanji": "起きる",
     "causative_form": "おきさせる",
-    "causative_form_kanji": "起きさせる"
+    "causative_form_kanji": "起きさせる",
+    "translation": "I'm waking up"
   },
   {
     "lesson": "17",
@@ -1392,7 +1546,8 @@
     "dictionary_form": "ぬぐ",
     "dictionary_form_kanji": "脱ぐ",
     "causative_form": "ぬがせる",
-    "causative_form_kanji": "脱がせる"
+    "causative_form_kanji": "脱がせる",
+    "translation": "I'll take it off"
   },
   {
     "lesson": "24",
@@ -1401,7 +1556,8 @@
     "dictionary_form": "あんないする",
     "dictionary_form_kanji": "案内する",
     "causative_form": "あんないさせる",
-    "causative_form_kanji": "案内させる"
+    "causative_form_kanji": "案内させる",
+    "translation": "I'll show you"
   },
   {
     "lesson": "18",
@@ -1410,7 +1566,8 @@
     "dictionary_form": "ひく",
     "dictionary_form_kanji": "弾く",
     "causative_form": "ひかせる",
-    "causative_form_kanji": "弾かせる"
+    "causative_form_kanji": "弾かせる",
+    "translation": "I'll play"
   },
   {
     "lesson": "22",
@@ -1419,7 +1576,8 @@
     "dictionary_form": "する",
     "dictionary_form_kanji": null,
     "causative_form": "させる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "7",
@@ -1428,7 +1586,8 @@
     "dictionary_form": "おしえる",
     "dictionary_form_kanji": "教える",
     "causative_form": "おしえさせる",
-    "causative_form_kanji": "教えさせる"
+    "causative_form_kanji": "教えさせる",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "17",
@@ -1437,7 +1596,8 @@
     "dictionary_form": "おぼえる",
     "dictionary_form_kanji": "覚える",
     "causative_form": "おぼえさせる",
-    "causative_form_kanji": "覚えさせる"
+    "causative_form_kanji": "覚えさせる",
+    "translation": "I'll remember"
   },
   {
     "lesson": "32",
@@ -1446,7 +1606,8 @@
     "dictionary_form": "こむ",
     "dictionary_form_kanji": "込む",
     "causative_form": "こませる",
-    "causative_form_kanji": "込ませる"
+    "causative_form_kanji": "込ませる",
+    "translation": "will be included"
   },
   {
     "lesson": "46",
@@ -1455,7 +1616,8 @@
     "dictionary_form": "にゅうがくする",
     "dictionary_form_kanji": "入学する",
     "causative_form": "にゅうがくさせる",
-    "causative_form_kanji": "入学させる"
+    "causative_form_kanji": "入学させる",
+    "translation": "I'm going to enroll"
   },
   {
     "lesson": "13",
@@ -1464,7 +1626,8 @@
     "dictionary_form": "かいものする",
     "dictionary_form_kanji": "買い物する",
     "causative_form": "かいものさせる",
-    "causative_form_kanji": "買い物させる"
+    "causative_form_kanji": "買い物させる",
+    "translation": "I'll shop"
   },
   {
     "lesson": "35",
@@ -1473,7 +1636,8 @@
     "dictionary_form": "つける",
     "dictionary_form_kanji": "付ける",
     "causative_form": "つけさせる",
-    "causative_form_kanji": "付けさせる"
+    "causative_form_kanji": "付けさせる",
+    "translation": "I'll put it on"
   },
   {
     "lesson": "24",
@@ -1482,7 +1646,8 @@
     "dictionary_form": "つれてくる",
     "dictionary_form_kanji": "連れて来る",
     "causative_form": "つれてこさせる",
-    "causative_form_kanji": "連れて来させる"
+    "causative_form_kanji": "連れて来させる",
+    "translation": "I'll bring it"
   },
   {
     "lesson": "6",
@@ -1491,7 +1656,8 @@
     "dictionary_form": "かう",
     "dictionary_form_kanji": "買う",
     "causative_form": "かわせる",
-    "causative_form_kanji": "買わせる"
+    "causative_form_kanji": "買わせる",
+    "translation": "I'll take it"
   },
   {
     "lesson": "33",
@@ -1500,7 +1666,8 @@
     "dictionary_form": "あきらめる",
     "dictionary_form_kanji": null,
     "causative_form": "あきらめさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll give up"
   },
   {
     "lesson": "26",
@@ -1509,7 +1676,8 @@
     "dictionary_form": "まにあう",
     "dictionary_form_kanji": "間に合う",
     "causative_form": "まにあわせる",
-    "causative_form_kanji": "間に合わせる"
+    "causative_form_kanji": "間に合わせる",
+    "translation": "I'll make it in time"
   },
   {
     "lesson": "14",
@@ -1518,7 +1686,8 @@
     "dictionary_form": "はいる",
     "dictionary_form_kanji": "入る",
     "causative_form": "はいらせる",
-    "causative_form_kanji": "入らせる"
+    "causative_form_kanji": "入らせる",
+    "translation": "enter"
   },
   {
     "lesson": "30",
@@ -1527,7 +1696,8 @@
     "dictionary_form": "うえる",
     "dictionary_form_kanji": "植える",
     "causative_form": "うえさせる",
-    "causative_form_kanji": "植えさせる"
+    "causative_form_kanji": "植えさせる",
+    "translation": "I'll plant it"
   },
   {
     "lesson": "40",
@@ -1536,7 +1706,8 @@
     "dictionary_form": "かぞえる",
     "dictionary_form_kanji": "数える",
     "causative_form": "かぞえさせる",
-    "causative_form_kanji": "数えさせる"
+    "causative_form_kanji": "数えさせる",
+    "translation": "I'll count"
   },
   {
     "lesson": "48",
@@ -1545,7 +1716,8 @@
     "dictionary_form": "とどける",
     "dictionary_form_kanji": "届ける",
     "causative_form": "とどけさせる",
-    "causative_form_kanji": "届けさせる"
+    "causative_form_kanji": "届けさせる",
+    "translation": "I'll deliver it"
   },
   {
     "lesson": "39",
@@ -1554,7 +1726,8 @@
     "dictionary_form": "しぬ",
     "dictionary_form_kanji": "死ぬ",
     "causative_form": "しなせる",
-    "causative_form_kanji": "死なせる"
+    "causative_form_kanji": "死なせる",
+    "translation": "I'll die"
   },
   {
     "lesson": "42",
@@ -1563,7 +1736,8 @@
     "dictionary_form": "わかす",
     "dictionary_form_kanji": "沸かす",
     "causative_form": "わかさせる",
-    "causative_form_kanji": "沸かさせる"
+    "causative_form_kanji": "沸かさせる",
+    "translation": "I'll boil it"
   },
   {
     "lesson": "38",
@@ -1572,7 +1746,8 @@
     "dictionary_form": "いれる",
     "dictionary_form_kanji": "入れる",
     "causative_form": "いれさせる",
-    "causative_form_kanji": "入れさせる"
+    "causative_form_kanji": "入れさせる",
+    "translation": "I'll put it in"
   },
   {
     "lesson": "19",
@@ -1581,7 +1756,8 @@
     "dictionary_form": "そうじする",
     "dictionary_form_kanji": "掃除する",
     "causative_form": "そうじさせる",
-    "causative_form_kanji": "掃除させる"
+    "causative_form_kanji": "掃除させる",
+    "translation": "I'll clean it"
   },
   {
     "lesson": "14",
@@ -1590,7 +1766,8 @@
     "dictionary_form": "てつだう",
     "dictionary_form_kanji": "手伝う",
     "causative_form": "てつだわせる",
-    "causative_form_kanji": "手伝わせる"
+    "causative_form_kanji": "手伝わせる",
+    "translation": "I'll help"
   },
   {
     "lesson": "24",
@@ -1599,7 +1776,8 @@
     "dictionary_form": "おくる",
     "dictionary_form_kanji": "送る",
     "causative_form": "おくらせる",
-    "causative_form_kanji": "送らせる"
+    "causative_form_kanji": "送らせる",
+    "translation": "send"
   },
   {
     "lesson": "21",
@@ -1608,7 +1786,8 @@
     "dictionary_form": "うごく",
     "dictionary_form_kanji": "動く",
     "causative_form": "うごかせる",
-    "causative_form_kanji": "動かせる"
+    "causative_form_kanji": "動かせる",
+    "translation": "It's moving"
   },
   {
     "lesson": "38",
@@ -1617,7 +1796,8 @@
     "dictionary_form": "はこぶ",
     "dictionary_form_kanji": "運ぶ",
     "causative_form": "はこばせる",
-    "causative_form_kanji": "運ばせる"
+    "causative_form_kanji": "運ばせる",
+    "translation": "I'll carry it"
   },
   {
     "lesson": "16",
@@ -1626,7 +1806,8 @@
     "dictionary_form": "はいる",
     "dictionary_form_kanji": "入る",
     "causative_form": "はいらせる",
-    "causative_form_kanji": "入らせる"
+    "causative_form_kanji": "入らせる",
+    "translation": "enter"
   },
   {
     "lesson": "39",
@@ -1635,7 +1816,8 @@
     "dictionary_form": "りこんする",
     "dictionary_form_kanji": "離婚する",
     "causative_form": "りこんさせる",
-    "causative_form_kanji": "離婚させる"
+    "causative_form_kanji": "離婚させる",
+    "translation": "I'm going to divorce"
   },
   {
     "lesson": "22",
@@ -1644,7 +1826,8 @@
     "dictionary_form": "はく",
     "dictionary_form_kanji": null,
     "causative_form": "はかせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "18",
@@ -1653,7 +1836,8 @@
     "dictionary_form": "うたう",
     "dictionary_form_kanji": "歌う",
     "causative_form": "うたわせる",
-    "causative_form_kanji": "歌わせる"
+    "causative_form_kanji": "歌わせる",
+    "translation": "I'll sing"
   },
   {
     "lesson": "49",
@@ -1662,7 +1846,8 @@
     "dictionary_form": "すごす",
     "dictionary_form_kanji": "過ごす",
     "causative_form": "すごさせる",
-    "causative_form_kanji": "過ごさせる"
+    "causative_form_kanji": "過ごさせる",
+    "translation": "I'll spend it"
   },
   {
     "lesson": "30",
@@ -1671,7 +1856,8 @@
     "dictionary_form": "はる",
     "dictionary_form_kanji": "貼る",
     "causative_form": "はらせる",
-    "causative_form_kanji": "貼らせる"
+    "causative_form_kanji": "貼らせる",
+    "translation": "I'll stick it"
   },
   {
     "lesson": "39",
@@ -1680,7 +1866,8 @@
     "dictionary_form": "とおる",
     "dictionary_form_kanji": "通る",
     "causative_form": "とおらせる",
-    "causative_form_kanji": "通らせる"
+    "causative_form_kanji": "通らせる",
+    "translation": "I'll pass"
   },
   {
     "lesson": "29",
@@ -1689,7 +1876,8 @@
     "dictionary_form": "とまる",
     "dictionary_form_kanji": "止まる",
     "causative_form": "とまらせる",
-    "causative_form_kanji": "止まらせる"
+    "causative_form_kanji": "止まらせる",
+    "translation": "It's stopping"
   },
   {
     "lesson": "19",
@@ -1698,7 +1886,8 @@
     "dictionary_form": "とまる",
     "dictionary_form_kanji": "泊まる",
     "causative_form": "とまらせる",
-    "causative_form_kanji": "泊まらせる"
+    "causative_form_kanji": "泊まらせる",
+    "translation": "I'll stay"
   },
   {
     "lesson": "7",
@@ -1707,7 +1896,8 @@
     "dictionary_form": "かりる",
     "dictionary_form_kanji": "借りる",
     "causative_form": "かりさせる",
-    "causative_form_kanji": "借りさせる"
+    "causative_form_kanji": "借りさせる",
+    "translation": "I'll borrow it"
   },
   {
     "lesson": "27",
@@ -1716,7 +1906,8 @@
     "dictionary_form": "ひらく",
     "dictionary_form_kanji": "開く",
     "causative_form": "ひらかせる",
-    "causative_form_kanji": "開かせる"
+    "causative_form_kanji": "開かせる",
+    "translation": "It will open"
   },
   {
     "lesson": "36",
@@ -1725,7 +1916,8 @@
     "dictionary_form": "くさる",
     "dictionary_form_kanji": "腐る",
     "causative_form": "くさらせる",
-    "causative_form_kanji": "腐らせる"
+    "causative_form_kanji": "腐らせる",
+    "translation": "It's rotten"
   },
   {
     "lesson": "50",
@@ -1734,7 +1926,8 @@
     "dictionary_form": "きんちょうする",
     "dictionary_form_kanji": "緊張する",
     "causative_form": "きんちょうさせる",
-    "causative_form_kanji": "緊張させる"
+    "causative_form_kanji": "緊張させる",
+    "translation": "I'm nervous"
   },
   {
     "lesson": "30",
@@ -1743,7 +1936,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": "掛ける",
     "causative_form": "かけさせる",
-    "causative_form_kanji": "掛けさせる"
+    "causative_form_kanji": "掛けさせる",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "13",
@@ -1752,7 +1946,8 @@
     "dictionary_form": "あそぶ",
     "dictionary_form_kanji": "遊ぶ",
     "causative_form": "あそばせる",
-    "causative_form_kanji": "遊ばせる"
+    "causative_form_kanji": "遊ばせる",
+    "translation": "I'll play"
   },
   {
     "lesson": "34",
@@ -1761,7 +1956,8 @@
     "dictionary_form": "おる",
     "dictionary_form_kanji": "折る",
     "causative_form": "おらせる",
-    "causative_form_kanji": "折らせる"
+    "causative_form_kanji": "折らせる",
+    "translation": "Fold"
   },
   {
     "lesson": "14",
@@ -1770,7 +1966,8 @@
     "dictionary_form": "でる",
     "dictionary_form_kanji": "出る",
     "causative_form": "でさせる",
-    "causative_form_kanji": "出させる"
+    "causative_form_kanji": "出させる",
+    "translation": "It's coming out"
   },
   {
     "lesson": "31",
@@ -1779,7 +1976,8 @@
     "dictionary_form": "みつける",
     "dictionary_form_kanji": "見つける",
     "causative_form": "みつけさせる",
-    "causative_form_kanji": "見つけさせる"
+    "causative_form_kanji": "見つけさせる",
+    "translation": "I'll find it"
   },
   {
     "lesson": "31",
@@ -1788,7 +1986,8 @@
     "dictionary_form": "もうしこむ",
     "dictionary_form_kanji": "申し込む",
     "causative_form": "もうしこませる",
-    "causative_form_kanji": "申し込ませる"
+    "causative_form_kanji": "申し込ませる",
+    "translation": "I'll apply"
   },
   {
     "lesson": "15",
@@ -1797,7 +1996,8 @@
     "dictionary_form": "すむ",
     "dictionary_form_kanji": "住む",
     "causative_form": "すませる",
-    "causative_form_kanji": "住ませる"
+    "causative_form_kanji": "住ませる",
+    "translation": "I'll live there"
   },
   {
     "lesson": "7",
@@ -1806,7 +2006,8 @@
     "dictionary_form": "かす",
     "dictionary_form_kanji": "貸す",
     "causative_form": "かさせる",
-    "causative_form_kanji": "貸させる"
+    "causative_form_kanji": "貸させる",
+    "translation": "lend"
   },
   {
     "lesson": "21",
@@ -1815,7 +2016,8 @@
     "dictionary_form": "かつ",
     "dictionary_form_kanji": "勝つ",
     "causative_form": "かたせる",
-    "causative_form_kanji": "勝たせる"
+    "causative_form_kanji": "勝たせる",
+    "translation": "I'll win"
   },
   {
     "lesson": "26",
@@ -1824,7 +2026,8 @@
     "dictionary_form": "さがす",
     "dictionary_form_kanji": "探す",
     "causative_form": "さがさせる",
-    "causative_form_kanji": "探させる"
+    "causative_form_kanji": "探させる",
+    "translation": "I'll look for, I'll look for"
   },
   {
     "lesson": "18",
@@ -1833,7 +2036,8 @@
     "dictionary_form": "あつめる",
     "dictionary_form_kanji": "集める",
     "causative_form": "あつめさせる",
-    "causative_form_kanji": "集めさせる"
+    "causative_form_kanji": "集めさせる",
+    "translation": "I'll collect it"
   },
   {
     "lesson": "21",
@@ -1842,7 +2046,8 @@
     "dictionary_form": "まける",
     "dictionary_form_kanji": "負ける",
     "causative_form": "まけさせる",
-    "causative_form_kanji": "負けさせる"
+    "causative_form_kanji": "負けさせる",
+    "translation": "I'll lose"
   },
   {
     "lesson": "38",
@@ -1851,7 +2056,8 @@
     "dictionary_form": "たいいんする",
     "dictionary_form_kanji": "退院する",
     "causative_form": "たいいんさせる",
-    "causative_form_kanji": "退院させる"
+    "causative_form_kanji": "退院させる",
+    "translation": "I'll be discharged from the hospital"
   },
   {
     "lesson": "35",
@@ -1860,7 +2066,8 @@
     "dictionary_form": "クリックする",
     "dictionary_form_kanji": null,
     "causative_form": "クリックさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "Click"
   },
   {
     "lesson": "26",
@@ -1869,7 +2076,8 @@
     "dictionary_form": "ひろう",
     "dictionary_form_kanji": "拾う",
     "causative_form": "ひろわせる",
-    "causative_form_kanji": "拾わせる"
+    "causative_form_kanji": "拾わせる",
+    "translation": "I'll pick it up"
   },
   {
     "lesson": "46",
@@ -1878,7 +2086,8 @@
     "dictionary_form": "むかう",
     "dictionary_form_kanji": "向かう",
     "causative_form": "むかわせる",
-    "causative_form_kanji": "向かわせる"
+    "causative_form_kanji": "向かわせる",
+    "translation": "I'm heading"
   },
   {
     "lesson": "17",
@@ -1887,7 +2096,8 @@
     "dictionary_form": "でかける",
     "dictionary_form_kanji": "出かける",
     "causative_form": "でかけさせる",
-    "causative_form_kanji": "出かけさせる"
+    "causative_form_kanji": "出かけさせる",
+    "translation": "I'm going out"
   },
   {
     "lesson": "14",
@@ -1896,7 +2106,8 @@
     "dictionary_form": "つかう",
     "dictionary_form_kanji": "使う",
     "causative_form": "つかわせる",
-    "causative_form_kanji": "使わせる"
+    "causative_form_kanji": "使わせる",
+    "translation": "I'll use it"
   },
   {
     "lesson": "28",
@@ -1905,7 +2116,8 @@
     "dictionary_form": "おどる",
     "dictionary_form_kanji": "踊る",
     "causative_form": "おどらせる",
-    "causative_form_kanji": "踊らせる"
+    "causative_form_kanji": "踊らせる",
+    "translation": "I'll dance"
   },
   {
     "lesson": "38",
@@ -1914,7 +2126,8 @@
     "dictionary_form": "おす",
     "dictionary_form_kanji": "押す",
     "causative_form": "おさせる",
-    "causative_form_kanji": "押させる"
+    "causative_form_kanji": "押させる",
+    "translation": "Press"
   },
   {
     "lesson": "37",
@@ -1923,7 +2136,8 @@
     "dictionary_form": "はつめいする",
     "dictionary_form_kanji": "発明する",
     "causative_form": "はつめいさせる",
-    "causative_form_kanji": "発明させる"
+    "causative_form_kanji": "発明させる",
+    "translation": "I'll invent"
   },
   {
     "lesson": "37",
@@ -1932,7 +2146,8 @@
     "dictionary_form": "ゆにゅうする",
     "dictionary_form_kanji": "輸入する",
     "causative_form": "ゆにゅうさせる",
-    "causative_form_kanji": "輸入させる"
+    "causative_form_kanji": "輸入させる",
+    "translation": "I'll import it"
   },
   {
     "lesson": "29",
@@ -1941,7 +2156,8 @@
     "dictionary_form": "かたづける",
     "dictionary_form_kanji": "片づける",
     "causative_form": "かたづけさせる",
-    "causative_form_kanji": "片づけさせる"
+    "causative_form_kanji": "片づけさせる",
+    "translation": "I'll clean it up"
   },
   {
     "lesson": "38",
@@ -1950,7 +2166,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": "掛ける",
     "causative_form": "かけさせる",
-    "causative_form_kanji": "掛けさせる"
+    "causative_form_kanji": "掛けさせる",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "38",
@@ -1959,7 +2176,8 @@
     "dictionary_form": "にゅういんする",
     "dictionary_form_kanji": "入院する",
     "causative_form": "にゅういんさせる",
-    "causative_form_kanji": "入院させる"
+    "causative_form_kanji": "入院させる",
+    "translation": "I'll be hospitalized"
   },
   {
     "lesson": "16",
@@ -1968,7 +2186,8 @@
     "dictionary_form": "あびる",
     "dictionary_form_kanji": "浴びる",
     "causative_form": "あびさせる",
-    "causative_form_kanji": "あびさせる"
+    "causative_form_kanji": "あびさせる",
+    "translation": "I'll take a shower [Shower]"
   },
   {
     "lesson": "26",
@@ -1977,7 +2196,8 @@
     "dictionary_form": "やる",
     "dictionary_form_kanji": null,
     "causative_form": "やらせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "38",
@@ -1986,7 +2206,8 @@
     "dictionary_form": "せいりする",
     "dictionary_form_kanji": "整理する",
     "causative_form": "せいりさせる",
-    "causative_form_kanji": "整理させる"
+    "causative_form_kanji": "整理させる",
+    "translation": "I'll sort it out"
   },
   {
     "lesson": "17",
@@ -1995,7 +2216,8 @@
     "dictionary_form": "もってくる",
     "dictionary_form_kanji": "持って来る",
     "causative_form": "もってこさせる",
-    "causative_form_kanji": "持って来させる"
+    "causative_form_kanji": "持って来させる",
+    "translation": "I'll bring it"
   },
   {
     "lesson": "37",
@@ -2004,7 +2226,8 @@
     "dictionary_form": "ほめる",
     "dictionary_form_kanji": "褒める",
     "causative_form": "ほめさせる",
-    "causative_form_kanji": "褒めさせる"
+    "causative_form_kanji": "褒めさせる",
+    "translation": "I'll praise you"
   },
   {
     "lesson": "16",
@@ -2013,7 +2236,8 @@
     "dictionary_form": "のる",
     "dictionary_form_kanji": "乗る",
     "causative_form": "のらせる",
-    "causative_form_kanji": "乗らせる"
+    "causative_form_kanji": "乗らせる",
+    "translation": "I'll ride"
   },
   {
     "lesson": "17",
@@ -2022,7 +2246,8 @@
     "dictionary_form": "のむ",
     "dictionary_form_kanji": "飲む",
     "causative_form": "のませる",
-    "causative_form_kanji": "飲ませる"
+    "causative_form_kanji": "飲ませる",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "4",
@@ -2031,7 +2256,8 @@
     "dictionary_form": "おわる",
     "dictionary_form_kanji": "終わる",
     "causative_form": "おわらせる",
-    "causative_form_kanji": "終わらせる"
+    "causative_form_kanji": "終わらせる",
+    "translation": "It's over"
   },
   {
     "lesson": "34",
@@ -2040,7 +2266,8 @@
     "dictionary_form": "さす",
     "dictionary_form_kanji": null,
     "causative_form": "ささせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll say"
   },
   {
     "lesson": "28",
@@ -2049,7 +2276,8 @@
     "dictionary_form": "かよう",
     "dictionary_form_kanji": "通う",
     "causative_form": "かよわせる",
-    "causative_form_kanji": "通わせる"
+    "causative_form_kanji": "通わせる",
+    "translation": "I'm going"
   },
   {
     "lesson": "46",
@@ -2058,7 +2286,8 @@
     "dictionary_form": "そつぎょうする",
     "dictionary_form_kanji": "卒業する",
     "causative_form": "そつぎょうさせる",
-    "causative_form_kanji": "卒業させる"
+    "causative_form_kanji": "卒業させる",
+    "translation": "I'm graduating"
   },
   {
     "lesson": "6",
@@ -2067,7 +2296,8 @@
     "dictionary_form": "あう",
     "dictionary_form_kanji": "会う",
     "causative_form": "あわせる",
-    "causative_form_kanji": "会わせる"
+    "causative_form_kanji": "会わせる",
+    "translation": "I'll meet"
   },
   {
     "lesson": "37",
@@ -2076,7 +2306,8 @@
     "dictionary_form": "ちゅういする",
     "dictionary_form_kanji": "注意する",
     "causative_form": "ちゅういさせる",
-    "causative_form_kanji": "注意させる"
+    "causative_form_kanji": "注意させる",
+    "translation": "I'll be careful"
   },
   {
     "lesson": "40",
@@ -2085,7 +2316,8 @@
     "dictionary_form": "たしかめる",
     "dictionary_form_kanji": "確かめる",
     "causative_form": "たしかめさせる",
-    "causative_form_kanji": "確かめさせる"
+    "causative_form_kanji": "確かめさせる",
+    "translation": "I'll check it out"
   },
   {
     "lesson": "23",
@@ -2094,7 +2326,8 @@
     "dictionary_form": "わたる",
     "dictionary_form_kanji": "渡る",
     "causative_form": "わたらせる",
-    "causative_form_kanji": "渡らせる"
+    "causative_form_kanji": "渡らせる",
+    "translation": "I'll cross"
   },
   {
     "lesson": "14",
@@ -2103,7 +2336,8 @@
     "dictionary_form": "しめる",
     "dictionary_form_kanji": "閉める",
     "causative_form": "しめさせる",
-    "causative_form_kanji": "閉めさせる"
+    "causative_form_kanji": "閉めさせる",
+    "translation": "I'll close it"
   },
   {
     "lesson": "25",
@@ -2112,7 +2346,8 @@
     "dictionary_form": "かんがえる",
     "dictionary_form_kanji": "考える",
     "causative_form": "かんがえさせる",
-    "causative_form_kanji": "考えさせる"
+    "causative_form_kanji": "考えさせる",
+    "translation": "I'll think about it"
   },
   {
     "lesson": "26",
@@ -2121,7 +2356,8 @@
     "dictionary_form": "だす",
     "dictionary_form_kanji": "出す",
     "causative_form": "ださせる",
-    "causative_form_kanji": "出させる"
+    "causative_form_kanji": "出させる",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "37",
@@ -2130,7 +2366,8 @@
     "dictionary_form": "おこなう",
     "dictionary_form_kanji": "行う",
     "causative_form": "おこなわせる",
-    "causative_form_kanji": "行わせる"
+    "causative_form_kanji": "行わせる",
+    "translation": "I'll do it"
   },
   {
     "lesson": "40",
@@ -2139,7 +2376,8 @@
     "dictionary_form": "よう",
     "dictionary_form_kanji": "酔う",
     "causative_form": "よわせる",
-    "causative_form_kanji": "酔わせる"
+    "causative_form_kanji": "酔わせる",
+    "translation": "I'm drunk"
   },
   {
     "lesson": "16",
@@ -2148,7 +2386,8 @@
     "dictionary_form": "おす",
     "dictionary_form_kanji": "押す",
     "causative_form": "おさせる",
-    "causative_form_kanji": "押させる"
+    "causative_form_kanji": "押させる",
+    "translation": "Press"
   },
   {
     "lesson": "28",
@@ -2157,7 +2396,8 @@
     "dictionary_form": "メモする",
     "dictionary_form_kanji": null,
     "causative_form": "メモさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll make a note"
   },
   {
     "lesson": "42",
@@ -2166,7 +2406,8 @@
     "dictionary_form": "けいさんする",
     "dictionary_form_kanji": "計算する",
     "causative_form": "けいさんさせる",
-    "causative_form_kanji": "計算させる"
+    "causative_form_kanji": "計算させる",
+    "translation": "I'll calculate it"
   },
   {
     "lesson": "14",
@@ -2175,7 +2416,8 @@
     "dictionary_form": "あける",
     "dictionary_form_kanji": "開ける",
     "causative_form": "あけさせる",
-    "causative_form_kanji": "開けさせる"
+    "causative_form_kanji": "開けさせる",
+    "translation": "I'll open it"
   },
   {
     "lesson": "15",
@@ -2184,7 +2426,8 @@
     "dictionary_form": "つくる",
     "dictionary_form_kanji": "作る",
     "causative_form": "つくらせる",
-    "causative_form_kanji": "作らせる"
+    "causative_form_kanji": "作らせる",
+    "translation": "I'll make/make"
   },
   {
     "lesson": "35",
@@ -2193,7 +2436,8 @@
     "dictionary_form": "にゅうりょくする",
     "dictionary_form_kanji": "入力する",
     "causative_form": "にゅうりょくさせる",
-    "causative_form_kanji": "入力させる"
+    "causative_form_kanji": "入力させる",
+    "translation": "Enter"
   },
   {
     "lesson": "20",
@@ -2202,7 +2446,8 @@
     "dictionary_form": "しらべる",
     "dictionary_form_kanji": "調べる",
     "causative_form": "しらべさせる",
-    "causative_form_kanji": "調べさせる"
+    "causative_form_kanji": "調べさせる",
+    "translation": "I'll look into it"
   },
   {
     "lesson": "22",
@@ -2211,7 +2456,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": null,
     "causative_form": "かけさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "49",
@@ -2220,7 +2466,8 @@
     "dictionary_form": "つとめる",
     "dictionary_form_kanji": "勤める",
     "causative_form": "つとめさせる",
-    "causative_form_kanji": "勤めさせる"
+    "causative_form_kanji": "勤めさせる",
+    "translation": "I'll work"
   },
   {
     "lesson": "19",
@@ -2229,7 +2476,8 @@
     "dictionary_form": "せんたくする",
     "dictionary_form_kanji": "洗濯する",
     "causative_form": "せんたくさせる",
-    "causative_form_kanji": "洗濯させる"
+    "causative_form_kanji": "洗濯させる",
+    "translation": "I'll wash it"
   },
   {
     "lesson": "46",
@@ -2238,7 +2486,8 @@
     "dictionary_form": "かえってくる",
     "dictionary_form_kanji": "帰って来る",
     "causative_form": "かえってこさせる",
-    "causative_form_kanji": "帰って来させる"
+    "causative_form_kanji": "帰って来させる",
+    "translation": "I'll come back"
   },
   {
     "lesson": "14",
@@ -2247,7 +2496,8 @@
     "dictionary_form": "けす",
     "dictionary_form_kanji": "消す",
     "causative_form": "けさせる",
-    "causative_form_kanji": "消させる"
+    "causative_form_kanji": "消させる",
+    "translation": "erase"
   },
   {
     "lesson": "34",
@@ -2256,7 +2506,8 @@
     "dictionary_form": "くみたてる",
     "dictionary_form_kanji": "組み立てる",
     "causative_form": "くみたてさせる",
-    "causative_form_kanji": "組み立てさせる"
+    "causative_form_kanji": "組み立てさせる",
+    "translation": "I'll assemble it"
   },
   {
     "lesson": "30",
@@ -2265,7 +2516,8 @@
     "dictionary_form": "よしゅうする",
     "dictionary_form_kanji": "予習する",
     "causative_form": "よしゅうさせる",
-    "causative_form_kanji": "予習させる"
+    "causative_form_kanji": "予習させる",
+    "translation": "I'll prepare"
   },
   {
     "lesson": "31",
@@ -2274,7 +2526,8 @@
     "dictionary_form": "うける",
     "dictionary_form_kanji": "受ける",
     "causative_form": "うけさせる",
-    "causative_form_kanji": "受けさせる"
+    "causative_form_kanji": "受けさせる",
+    "translation": "I'll take it"
   },
   {
     "lesson": "35",
@@ -2283,7 +2536,8 @@
     "dictionary_form": "さく",
     "dictionary_form_kanji": "咲く",
     "causative_form": "さかせる",
-    "causative_form_kanji": "咲かせる"
+    "causative_form_kanji": "咲かせる",
+    "translation": "It's blooming"
   },
   {
     "lesson": "47",
@@ -2292,7 +2546,8 @@
     "dictionary_form": "わかれる",
     "dictionary_form_kanji": "別れる",
     "causative_form": "わかれさせる",
-    "causative_form_kanji": "別れさせる"
+    "causative_form_kanji": "別れさせる",
+    "translation": "I'll part ways"
   },
   {
     "lesson": "34",
@@ -2301,7 +2556,8 @@
     "dictionary_form": "つける",
     "dictionary_form_kanji": null,
     "causative_form": "つけさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll put it on"
   },
   {
     "lesson": "14",
@@ -2310,7 +2566,8 @@
     "dictionary_form": "はなす",
     "dictionary_form_kanji": "話す",
     "causative_form": "はなさせる",
-    "causative_form_kanji": "話させる"
+    "causative_form_kanji": "話させる",
+    "translation": "I'll talk"
   },
   {
     "lesson": "47",
@@ -2319,7 +2576,8 @@
     "dictionary_form": "こんやくする",
     "dictionary_form_kanji": "婚約する",
     "causative_form": "こんやくさせる",
-    "causative_form_kanji": "婚約させる"
+    "causative_form_kanji": "婚約させる",
+    "translation": "I'm engaged"
   },
   {
     "lesson": "17",
@@ -2328,7 +2586,8 @@
     "dictionary_form": "しんぱいする",
     "dictionary_form_kanji": "心配する",
     "causative_form": "しんぱいさせる",
-    "causative_form_kanji": "心配させる"
+    "causative_form_kanji": "心配させる",
+    "translation": "I'm worried"
   },
   {
     "lesson": "25",
@@ -2337,7 +2596,8 @@
     "dictionary_form": "がんばる",
     "dictionary_form_kanji": "頑張る",
     "causative_form": "がんばらせる",
-    "causative_form_kanji": "頑張らせる"
+    "causative_form_kanji": "頑張らせる",
+    "translation": "I will do my best"
   },
   {
     "lesson": "32",
@@ -2346,7 +2606,8 @@
     "dictionary_form": "うんどうする",
     "dictionary_form_kanji": "運動する",
     "causative_form": "うんどうさせる",
-    "causative_form_kanji": "運動させる"
+    "causative_form_kanji": "運動させる",
+    "translation": "I'll exercise"
   },
   {
     "lesson": "14",
@@ -2355,7 +2616,8 @@
     "dictionary_form": "おしえる",
     "dictionary_form_kanji": "教える",
     "causative_form": "おしえさせる",
-    "causative_form_kanji": "教えさせる"
+    "causative_form_kanji": "教えさせる",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "18",
@@ -2364,7 +2626,8 @@
     "dictionary_form": "かえる",
     "dictionary_form_kanji": "換える",
     "causative_form": "かえさせる",
-    "causative_form_kanji": "換えさせる"
+    "causative_form_kanji": "換えさせる",
+    "translation": "I'll change it"
   },
   {
     "lesson": "7",
@@ -2373,7 +2636,8 @@
     "dictionary_form": "かける",
     "dictionary_form_kanji": null,
     "causative_form": "かけさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "6",
@@ -2382,7 +2646,8 @@
     "dictionary_form": "する",
     "dictionary_form_kanji": null,
     "causative_form": "させる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "14",
@@ -2391,7 +2656,8 @@
     "dictionary_form": "まつ",
     "dictionary_form_kanji": "待つ",
     "causative_form": "またせる",
-    "causative_form_kanji": "待たせる"
+    "causative_form_kanji": "待たせる",
+    "translation": "I'll wait"
   },
   {
     "lesson": "36",
@@ -2400,7 +2666,8 @@
     "dictionary_form": "なれる",
     "dictionary_form_kanji": "慣れる",
     "causative_form": "なれさせる",
-    "causative_form_kanji": "慣れさせる"
+    "causative_form_kanji": "慣れさせる",
+    "translation": "I'll get used to it"
   },
   {
     "lesson": "44",
@@ -2409,7 +2676,8 @@
     "dictionary_form": "すべる",
     "dictionary_form_kanji": "滑る",
     "causative_form": "すべらせる",
-    "causative_form_kanji": "滑らせる"
+    "causative_form_kanji": "滑らせる",
+    "translation": "It's slipping"
   },
   {
     "lesson": "15",
@@ -2418,7 +2686,8 @@
     "dictionary_form": "けんきゅうする",
     "dictionary_form_kanji": "研究する",
     "causative_form": "けんきゅうさせる",
-    "causative_form_kanji": "研究させる"
+    "causative_form_kanji": "研究させる",
+    "translation": "I'll research"
   },
   {
     "lesson": "23",
@@ -2427,7 +2696,8 @@
     "dictionary_form": "かえる",
     "dictionary_form_kanji": "変える",
     "causative_form": "かえさせる",
-    "causative_form_kanji": "変えさせる"
+    "causative_form_kanji": "変えさせる",
+    "translation": "I'll change it"
   },
   {
     "lesson": "14",
@@ -2436,7 +2706,8 @@
     "dictionary_form": "つける",
     "dictionary_form_kanji": null,
     "causative_form": "つけさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll put it on"
   },
   {
     "lesson": "38",
@@ -2445,7 +2716,8 @@
     "dictionary_form": "さんかする",
     "dictionary_form_kanji": "参加する",
     "causative_form": "さんかさせる",
-    "causative_form_kanji": "参加させる"
+    "causative_form_kanji": "参加させる",
+    "translation": "join"
   },
   {
     "lesson": "31",
@@ -2454,7 +2726,8 @@
     "dictionary_form": "とる",
     "dictionary_form_kanji": "取る",
     "causative_form": "とらせる",
-    "causative_form_kanji": "取らせる"
+    "causative_form_kanji": "取らせる",
+    "translation": "I'll take it"
   },
   {
     "lesson": "7",
@@ -2463,7 +2736,8 @@
     "dictionary_form": "ならう",
     "dictionary_form_kanji": "習う",
     "causative_form": "ならわせる",
-    "causative_form_kanji": "習わせる"
+    "causative_form_kanji": "習わせる",
+    "translation": "I'll learn"
   },
   {
     "lesson": "45",
@@ -2472,7 +2746,8 @@
     "dictionary_form": "ゆうしょうする",
     "dictionary_form_kanji": "優勝する",
     "causative_form": "ゆうしょうさせる",
-    "causative_form_kanji": "優勝させる"
+    "causative_form_kanji": "優勝させる",
+    "translation": "I'll win"
   },
   {
     "lesson": "40",
@@ -2481,7 +2756,8 @@
     "dictionary_form": "うまくいく",
     "dictionary_form_kanji": null,
     "causative_form": "うまくいかせる",
-    "causative_form_kanji": "NA"
+    "causative_form_kanji": "NA",
+    "translation": "It's going well"
   },
   {
     "lesson": "33",
@@ -2490,7 +2766,8 @@
     "dictionary_form": "もどる",
     "dictionary_form_kanji": "戻る",
     "causative_form": "もどらせる",
-    "causative_form_kanji": "戻らせる"
+    "causative_form_kanji": "戻らせる",
+    "translation": "i will be back"
   },
   {
     "lesson": "29",
@@ -2499,7 +2776,8 @@
     "dictionary_form": "おとす",
     "dictionary_form_kanji": "落とす",
     "causative_form": "落とさせる",
-    "causative_form_kanji": "落とさせる"
+    "causative_form_kanji": "落とさせる",
+    "translation": "I'll drop it"
   },
   {
     "lesson": "37",
@@ -2508,7 +2786,8 @@
     "dictionary_form": "はっけんする",
     "dictionary_form_kanji": "発見する",
     "causative_form": "はっけんさせる",
-    "causative_form_kanji": "発見させる"
+    "causative_form_kanji": "発見させる",
+    "translation": "I'll discover"
   },
   {
     "lesson": "7",
@@ -2517,7 +2796,8 @@
     "dictionary_form": "おくる",
     "dictionary_form_kanji": "送る",
     "causative_form": "おくらせる",
-    "causative_form_kanji": "送らせる"
+    "causative_form_kanji": "送らせる",
+    "translation": "send"
   },
   {
     "lesson": "30",
@@ -2526,7 +2806,8 @@
     "dictionary_form": "かざる",
     "dictionary_form_kanji": "飾る",
     "causative_form": "かざらせる",
-    "causative_form_kanji": "飾らせる"
+    "causative_form_kanji": "飾らせる",
+    "translation": "I'll decorate it"
   },
   {
     "lesson": "39",
@@ -2535,7 +2816,8 @@
     "dictionary_form": "あんしんする",
     "dictionary_form_kanji": "安心する",
     "causative_form": "あんしんさせる",
-    "causative_form_kanji": "安心させる"
+    "causative_form_kanji": "安心させる",
+    "translation": "It's safe"
   },
   {
     "lesson": "19",
@@ -2544,7 +2826,8 @@
     "dictionary_form": "なる",
     "dictionary_form_kanji": null,
     "causative_form": "ならせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "It will become"
   },
   {
     "lesson": "41",
@@ -2553,7 +2836,8 @@
     "dictionary_form": "さげる",
     "dictionary_form_kanji": "下げる",
     "causative_form": "さげさせる",
-    "causative_form_kanji": "下げさせる"
+    "causative_form_kanji": "下げさせる",
+    "translation": "I'll lower it"
   },
   {
     "lesson": "16",
@@ -2562,7 +2846,8 @@
     "dictionary_form": "のむ",
     "dictionary_form_kanji": "飲む",
     "causative_form": "のませる",
-    "causative_form_kanji": "飲ませる"
+    "causative_form_kanji": "飲ませる",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "15",
@@ -2571,7 +2856,8 @@
     "dictionary_form": "うる",
     "dictionary_form_kanji": "売る",
     "causative_form": "うらせる",
-    "causative_form_kanji": "売らせる"
+    "causative_form_kanji": "売らせる",
+    "translation": "I'll sell it"
   },
   {
     "lesson": "39",
@@ -2580,7 +2866,8 @@
     "dictionary_form": "けんかする",
     "dictionary_form_kanji": null,
     "causative_form": "けんかさせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll fight"
   },
   {
     "lesson": "23",
@@ -2589,7 +2876,8 @@
     "dictionary_form": "さわる",
     "dictionary_form_kanji": "触る",
     "causative_form": "さわらせる",
-    "causative_form_kanji": "触らせる"
+    "causative_form_kanji": "触らせる",
+    "translation": "I'll touch it"
   },
   {
     "lesson": "36",
@@ -2598,7 +2886,8 @@
     "dictionary_form": "すぎる",
     "dictionary_form_kanji": "過ぎる",
     "causative_form": "すぎさせる",
-    "causative_form_kanji": "過ぎさせる"
+    "causative_form_kanji": "過ぎさせる",
+    "translation": "It's past"
   },
   {
     "lesson": "28",
@@ -2607,7 +2896,8 @@
     "dictionary_form": "かむ",
     "dictionary_form_kanji": null,
     "causative_form": "かませる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "I'll bite"
   },
   {
     "lesson": "45",
@@ -2616,7 +2906,8 @@
     "dictionary_form": "しらせる",
     "dictionary_form_kanji": "知らせる",
     "causative_form": "しらせさせる",
-    "causative_form_kanji": "知らせさせる"
+    "causative_form_kanji": "知らせさせる",
+    "translation": "I'll let you know"
   },
   {
     "lesson": "14",
@@ -2625,7 +2916,8 @@
     "dictionary_form": "もつ",
     "dictionary_form_kanji": "持つ",
     "causative_form": "もたせる",
-    "causative_form_kanji": "持たせる"
+    "causative_form_kanji": "持たせる",
+    "translation": "I'll have it"
   },
   {
     "lesson": "48",
@@ -2634,7 +2926,8 @@
     "dictionary_form": "たのしむ",
     "dictionary_form_kanji": "楽しむ",
     "causative_form": "たのしませる",
-    "causative_form_kanji": "楽しませる"
+    "causative_form_kanji": "楽しませる",
+    "translation": "I'll enjoy it"
   },
   {
     "lesson": "42",
@@ -2643,7 +2936,8 @@
     "dictionary_form": "まぜる",
     "dictionary_form_kanji": "混ぜる",
     "causative_form": "まぜさせる",
-    "causative_form_kanji": "混ぜさせる"
+    "causative_form_kanji": "混ぜさせる",
+    "translation": "Mix it"
   },
   {
     "lesson": "24",
@@ -2652,7 +2946,8 @@
     "dictionary_form": "せつめいする",
     "dictionary_form_kanji": "説明する",
     "causative_form": "せつめいさせる",
-    "causative_form_kanji": "説明させる"
+    "causative_form_kanji": "説明させる",
+    "translation": "I'll explain it"
   },
   {
     "lesson": "15",
@@ -2661,7 +2956,8 @@
     "dictionary_form": "しる",
     "dictionary_form_kanji": "知る",
     "causative_form": "しらせる",
-    "causative_form_kanji": "知らせる"
+    "causative_form_kanji": "知らせる",
+    "translation": "I'll know"
   },
   {
     "lesson": "37",
@@ -2670,7 +2966,8 @@
     "dictionary_form": "さそう",
     "dictionary_form_kanji": "誘う",
     "causative_form": "さそわせる",
-    "causative_form_kanji": "誘わせる"
+    "causative_form_kanji": "誘わせる",
+    "translation": "I'll invite you"
   },
   {
     "lesson": "5",
@@ -2679,7 +2976,8 @@
     "dictionary_form": "くる",
     "dictionary_form_kanji": "来る",
     "causative_form": "こさせる",
-    "causative_form_kanji": "来させる"
+    "causative_form_kanji": "来させる",
+    "translation": "I'll come"
   },
   {
     "lesson": "30",
@@ -2688,7 +2986,8 @@
     "dictionary_form": "ならべる",
     "dictionary_form_kanji": "並べる",
     "causative_form": "ならべさせる",
-    "causative_form_kanji": "並べさせる"
+    "causative_form_kanji": "並べさせる",
+    "translation": "I'll line it up"
   },
   {
     "lesson": "42",
@@ -2697,7 +2996,8 @@
     "dictionary_form": "つつむ",
     "dictionary_form_kanji": "包む",
     "causative_form": "つつませる",
-    "causative_form_kanji": "包ませる"
+    "causative_form_kanji": "包ませる",
+    "translation": "I'll wrap it"
   },
   {
     "lesson": "44",
@@ -2706,7 +3006,8 @@
     "dictionary_form": "なく",
     "dictionary_form_kanji": "泣く",
     "causative_form": "なかせる",
-    "causative_form_kanji": "泣かせる"
+    "causative_form_kanji": "泣かせる",
+    "translation": "I'm crying"
   },
   {
     "lesson": "30",
@@ -2715,6 +3016,7 @@
     "dictionary_form": "しまう",
     "dictionary_form_kanji": null,
     "causative_form": "しまわせる",
-    "causative_form_kanji": null
+    "causative_form_kanji": null,
+    "translation": "It's gone"
   }
 ]

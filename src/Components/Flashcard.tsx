@@ -3,6 +3,7 @@ import { flashcardStyles } from './Flashcard.styles'
 import { useDeck } from '../contexts/DeckContext'
 import { useEffect } from 'react'
 import { displayForm } from './DeckConfig'
+import { CardBackside } from './CardBackside'
 
 export const Flashcard = () => {
   const {
@@ -67,7 +68,11 @@ export const Flashcard = () => {
             flashcardStyles.backSide
           )}
         >
-          <CardContent kanji={card?.backKanji} kana={card?.backKana} />
+          <CardBackside
+            kanji={card?.backKanji}
+            kana={card?.backKana}
+            translation={card?.translation}
+          />
         </Box>
       </Paper>
       {!flipped && (

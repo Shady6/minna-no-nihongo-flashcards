@@ -6,7 +6,8 @@
     "nai_form": "しなない",
     "nai_form_kanji": "死なない",
     "dictionary_form": "しぬ",
-    "dictionary_form_kanji": "死ぬ"
+    "dictionary_form_kanji": "死ぬ",
+    "translation": "I'll die"
   },
   {
     "lesson": "22",
@@ -15,7 +16,8 @@
     "nai_form": "きない",
     "nai_form_kanji": "着ない",
     "dictionary_form": "きる",
-    "dictionary_form_kanji": "着る"
+    "dictionary_form_kanji": "着る",
+    "translation": "I'll wear it"
   },
   {
     "lesson": "14",
@@ -24,7 +26,8 @@
     "nai_form": "よばない",
     "nai_form_kanji": "呼ばない",
     "dictionary_form": "よぶ",
-    "dictionary_form_kanji": "呼ぶ"
+    "dictionary_form_kanji": "呼ぶ",
+    "translation": "I'll call you"
   },
   {
     "lesson": "16",
@@ -33,7 +36,8 @@
     "nai_form": "のらない",
     "nai_form_kanji": "乗らない",
     "dictionary_form": "のる",
-    "dictionary_form_kanji": "乗る"
+    "dictionary_form_kanji": "乗る",
+    "translation": "I'll ride"
   },
   {
     "lesson": "24",
@@ -42,7 +46,8 @@
     "nai_form": "つれてこない",
     "nai_form_kanji": "連れて来ない",
     "dictionary_form": "つれてくる",
-    "dictionary_form_kanji": "連れて来る"
+    "dictionary_form_kanji": "連れて来る",
+    "translation": "I'll bring it"
   },
   {
     "lesson": "6",
@@ -51,7 +56,8 @@
     "nai_form": "かかない",
     "nai_form_kanji": "書かない",
     "dictionary_form": "かく",
-    "dictionary_form_kanji": "書く"
+    "dictionary_form_kanji": "書く",
+    "translation": "I'll write it"
   },
   {
     "lesson": "17",
@@ -60,7 +66,8 @@
     "nai_form": "ざんぎょうしない",
     "nai_form_kanji": "残業しない",
     "dictionary_form": "ざんぎょうする",
-    "dictionary_form_kanji": "残業する"
+    "dictionary_form_kanji": "残業する",
+    "translation": "I'll work overtime"
   },
   {
     "lesson": "28",
@@ -69,7 +76,8 @@
     "nai_form": "おどらない",
     "nai_form_kanji": "踊らない",
     "dictionary_form": "おどる",
-    "dictionary_form_kanji": "踊る"
+    "dictionary_form_kanji": "踊る",
+    "translation": "I'll dance"
   },
   {
     "lesson": "24",
@@ -78,7 +86,8 @@
     "nai_form": "せつめいしない",
     "nai_form_kanji": "説明しない",
     "dictionary_form": "せつめいする",
-    "dictionary_form_kanji": "説明する"
+    "dictionary_form_kanji": "説明する",
+    "translation": "I'll explain it"
   },
   {
     "lesson": "4",
@@ -87,7 +96,8 @@
     "nai_form": "べんきょうしない",
     "nai_form_kanji": "勉強しない",
     "dictionary_form": "べんきょうする",
-    "dictionary_form_kanji": "勉強する"
+    "dictionary_form_kanji": "勉強する",
+    "translation": "I'll study"
   },
   {
     "lesson": "14",
@@ -96,7 +106,8 @@
     "nai_form": "けさない",
     "nai_form_kanji": "消さない",
     "dictionary_form": "けす",
-    "dictionary_form_kanji": "消す"
+    "dictionary_form_kanji": "消す",
+    "translation": "erase"
   },
   {
     "lesson": "14",
@@ -105,7 +116,8 @@
     "nai_form": "みせない",
     "nai_form_kanji": "見せない",
     "dictionary_form": "みせる",
-    "dictionary_form_kanji": "見せる"
+    "dictionary_form_kanji": "見せる",
+    "translation": "I'll show it"
   },
   {
     "lesson": "9",
@@ -114,7 +126,8 @@
     "nai_form": "わからない",
     "nai_form_kanji": null,
     "dictionary_form": "わかる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I understand"
   },
   {
     "lesson": "41",
@@ -123,7 +136,8 @@
     "nai_form": "あげない",
     "nai_form_kanji": "上げない",
     "dictionary_form": "あげる",
-    "dictionary_form_kanji": "上げる"
+    "dictionary_form_kanji": "上げる",
+    "translation": "I'll raise it"
   },
   {
     "lesson": "29",
@@ -132,7 +146,8 @@
     "nai_form": "やぶれない",
     "nai_form_kanji": "破れない",
     "dictionary_form": "やぶれる",
-    "dictionary_form_kanji": "破れる"
+    "dictionary_form_kanji": "破れる",
+    "translation": "It's torn"
   },
   {
     "lesson": "26",
@@ -141,7 +156,8 @@
     "nai_form": "まにあわない",
     "nai_form_kanji": "間に合わない",
     "dictionary_form": "まにあう",
-    "dictionary_form_kanji": "間に合う"
+    "dictionary_form_kanji": "間に合う",
+    "translation": "I'll make it in time"
   },
   {
     "lesson": "49",
@@ -150,7 +166,8 @@
     "nai_form": "すごさない",
     "nai_form_kanji": "過ごさない",
     "dictionary_form": "すごす",
-    "dictionary_form_kanji": "過ごす"
+    "dictionary_form_kanji": "過ごす",
+    "translation": "I'll spend it"
   },
   {
     "lesson": "37",
@@ -159,7 +176,8 @@
     "nai_form": "ほめない",
     "nai_form_kanji": "褒めない",
     "dictionary_form": "ほめる",
-    "dictionary_form_kanji": "褒める"
+    "dictionary_form_kanji": "褒める",
+    "translation": "I'll praise you"
   },
   {
     "lesson": "31",
@@ -168,7 +186,8 @@
     "nai_form": "きゅうけいしない",
     "nai_form_kanji": "休憩しない",
     "dictionary_form": "きゅうけいする",
-    "dictionary_form_kanji": "休憩する"
+    "dictionary_form_kanji": "休憩する",
+    "translation": "I'll take a break"
   },
   {
     "lesson": "42",
@@ -177,7 +196,8 @@
     "nai_form": "でない",
     "nai_form_kanji": "出ない",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "7",
@@ -186,7 +206,8 @@
     "nai_form": "しつれいしない",
     "nai_form_kanji": "失礼しない",
     "dictionary_form": "しつれいする",
-    "dictionary_form_kanji": "失礼する"
+    "dictionary_form_kanji": "失礼する",
+    "translation": "Excuse me"
   },
   {
     "lesson": "37",
@@ -195,7 +216,8 @@
     "nai_form": "はつめいしない",
     "nai_form_kanji": "発明しない",
     "dictionary_form": "はつめいする",
-    "dictionary_form_kanji": "発明する"
+    "dictionary_form_kanji": "発明する",
+    "translation": "I'll invent"
   },
   {
     "lesson": "31",
@@ -204,7 +226,8 @@
     "nai_form": "つづけない",
     "nai_form_kanji": "続けない",
     "dictionary_form": "つづける",
-    "dictionary_form_kanji": "続ける"
+    "dictionary_form_kanji": "続ける",
+    "translation": "I'll continue"
   },
   {
     "lesson": "33",
@@ -213,7 +236,8 @@
     "nai_form": "なげない",
     "nai_form_kanji": "投げない",
     "dictionary_form": "なげる",
-    "dictionary_form_kanji": "投げる"
+    "dictionary_form_kanji": "投げる",
+    "translation": "I'll throw it"
   },
   {
     "lesson": "47",
@@ -222,7 +246,8 @@
     "nai_form": "こんやくしない",
     "nai_form_kanji": "婚約しない",
     "dictionary_form": "こんやくする",
-    "dictionary_form_kanji": "婚約する"
+    "dictionary_form_kanji": "婚約する",
+    "translation": "I'm engaged"
   },
   {
     "lesson": "15",
@@ -231,7 +256,8 @@
     "nai_form": "しらない",
     "nai_form_kanji": "知らない",
     "dictionary_form": "しる",
-    "dictionary_form_kanji": "知る"
+    "dictionary_form_kanji": "知る",
+    "translation": "I'll know"
   },
   {
     "lesson": "7",
@@ -240,7 +266,8 @@
     "nai_form": "かりない",
     "nai_form_kanji": "借りない",
     "dictionary_form": "かりる",
-    "dictionary_form_kanji": "借りる"
+    "dictionary_form_kanji": "借りる",
+    "translation": "I'll borrow it"
   },
   {
     "lesson": "28",
@@ -249,7 +276,8 @@
     "nai_form": "かよわない",
     "nai_form_kanji": "通わない",
     "dictionary_form": "かよう",
-    "dictionary_form_kanji": "通う"
+    "dictionary_form_kanji": "通う",
+    "translation": "I'm going"
   },
   {
     "lesson": "28",
@@ -258,7 +286,8 @@
     "nai_form": "メモしない",
     "nai_form_kanji": null,
     "dictionary_form": "メモする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll make a note"
   },
   {
     "lesson": "34",
@@ -267,7 +296,8 @@
     "nai_form": "きがつかない",
     "nai_form_kanji": "気がつかない",
     "dictionary_form": "きがつく",
-    "dictionary_form_kanji": "気がつく"
+    "dictionary_form_kanji": "気がつく",
+    "translation": "I'll notice"
   },
   {
     "lesson": "32",
@@ -276,7 +306,8 @@
     "nai_form": "でない",
     "nai_form_kanji": "出ない",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "29",
@@ -285,7 +316,8 @@
     "nai_form": "われない",
     "nai_form_kanji": "割れない",
     "dictionary_form": "われる",
-    "dictionary_form_kanji": "割れる"
+    "dictionary_form_kanji": "割れる",
+    "translation": "It's cracking"
   },
   {
     "lesson": "33",
@@ -294,7 +326,8 @@
     "nai_form": "ちゅういしない",
     "nai_form_kanji": "注意しない",
     "dictionary_form": "ちゅういする",
-    "dictionary_form_kanji": "注意する"
+    "dictionary_form_kanji": "注意する",
+    "translation": "I'll be careful"
   },
   {
     "lesson": "20",
@@ -303,7 +336,8 @@
     "nai_form": "しらべない",
     "nai_form_kanji": "調べない",
     "dictionary_form": "しらべる",
-    "dictionary_form_kanji": "調べる"
+    "dictionary_form_kanji": "調べる",
+    "translation": "I'll look into it"
   },
   {
     "lesson": "39",
@@ -312,7 +346,8 @@
     "nai_form": "びっくりしない",
     "nai_form_kanji": null,
     "dictionary_form": "びっくりする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'm surprised"
   },
   {
     "lesson": "17",
@@ -321,7 +356,8 @@
     "nai_form": "はらわない",
     "nai_form_kanji": "払わない",
     "dictionary_form": "はらう",
-    "dictionary_form_kanji": "払う"
+    "dictionary_form_kanji": "払う",
+    "translation": "I'll pay"
   },
   {
     "lesson": "14",
@@ -330,7 +366,8 @@
     "nai_form": "あけない",
     "nai_form_kanji": "開けない",
     "dictionary_form": "あける",
-    "dictionary_form_kanji": "開ける"
+    "dictionary_form_kanji": "開ける",
+    "translation": "I'll open it"
   },
   {
     "lesson": "46",
@@ -339,7 +376,8 @@
     "nai_form": "でない",
     "nai_form_kanji": "出ない",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "21",
@@ -348,7 +386,8 @@
     "nai_form": "まけない",
     "nai_form_kanji": "負けない",
     "dictionary_form": "まける",
-    "dictionary_form_kanji": "負ける"
+    "dictionary_form_kanji": "負ける",
+    "translation": "I'll lose"
   },
   {
     "lesson": "7",
@@ -357,7 +396,8 @@
     "nai_form": "きらない",
     "nai_form_kanji": "切らない",
     "dictionary_form": "きる",
-    "dictionary_form_kanji": "切る"
+    "dictionary_form_kanji": "切る",
+    "translation": "I'll cut it"
   },
   {
     "lesson": "26",
@@ -366,7 +406,8 @@
     "nai_form": "れんらくしない",
     "nai_form_kanji": "連絡しない",
     "dictionary_form": "れんらくする",
-    "dictionary_form_kanji": "連絡する"
+    "dictionary_form_kanji": "連絡する",
+    "translation": "I'll contact you"
   },
   {
     "lesson": "27",
@@ -375,7 +416,8 @@
     "nai_form": "できない",
     "nai_form_kanji": null,
     "dictionary_form": "できる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "26",
@@ -384,7 +426,8 @@
     "nai_form": "おくれない",
     "nai_form_kanji": "遅れない",
     "dictionary_form": "おくれる",
-    "dictionary_form_kanji": "遅れる"
+    "dictionary_form_kanji": "遅れる",
+    "translation": "I'll be late"
   },
   {
     "lesson": "33",
@@ -393,7 +436,8 @@
     "nai_form": "しゅっせきしない",
     "nai_form_kanji": "出席しない",
     "dictionary_form": "しゅっせきする",
-    "dictionary_form_kanji": "出席する"
+    "dictionary_form_kanji": "出席する",
+    "translation": "I'll be attending"
   },
   {
     "lesson": "18",
@@ -402,7 +446,8 @@
     "nai_form": "うんてんしない",
     "nai_form_kanji": "運転しない",
     "dictionary_form": "うんてんする",
-    "dictionary_form_kanji": "運転する"
+    "dictionary_form_kanji": "運転する",
+    "translation": "I'll drive"
   },
   {
     "lesson": "4",
@@ -411,7 +456,8 @@
     "nai_form": "やすまない",
     "nai_form_kanji": "休まない",
     "dictionary_form": "やすむ",
-    "dictionary_form_kanji": "休む"
+    "dictionary_form_kanji": "休む",
+    "translation": "I'm off"
   },
   {
     "lesson": "23",
@@ -420,7 +466,8 @@
     "nai_form": "さわらない",
     "nai_form_kanji": "触らない",
     "dictionary_form": "さわる",
-    "dictionary_form_kanji": "触る"
+    "dictionary_form_kanji": "触る",
+    "translation": "I'll touch it"
   },
   {
     "lesson": "26",
@@ -429,7 +476,8 @@
     "nai_form": "ださない",
     "nai_form_kanji": "出さない",
     "dictionary_form": "だす",
-    "dictionary_form_kanji": "出す"
+    "dictionary_form_kanji": "出す",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "47",
@@ -438,7 +486,8 @@
     "nai_form": "しりあわない",
     "nai_form_kanji": "知り合わない",
     "dictionary_form": "しりあう",
-    "dictionary_form_kanji": "知り合う"
+    "dictionary_form_kanji": "知り合う",
+    "translation": "I'll know you"
   },
   {
     "lesson": "17",
@@ -447,7 +496,8 @@
     "nai_form": "おぼえない",
     "nai_form_kanji": "覚えない",
     "dictionary_form": "おぼえる",
-    "dictionary_form_kanji": "覚える"
+    "dictionary_form_kanji": "覚える",
+    "translation": "I'll remember"
   },
   {
     "lesson": "6",
@@ -456,7 +506,8 @@
     "nai_form": "しない",
     "nai_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "11",
@@ -465,7 +516,8 @@
     "nai_form": "いない",
     "nai_form_kanji": null,
     "dictionary_form": "いる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'm here (in Japan)"
   },
   {
     "lesson": "33",
@@ -474,7 +526,8 @@
     "nai_form": "つたえない",
     "nai_form_kanji": "伝えない",
     "dictionary_form": "つたえる",
-    "dictionary_form_kanji": "伝える"
+    "dictionary_form_kanji": "伝える",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "4",
@@ -483,7 +536,8 @@
     "nai_form": "はたらかない",
     "nai_form_kanji": "働かない",
     "dictionary_form": "はたらく",
-    "dictionary_form_kanji": "働く"
+    "dictionary_form_kanji": "働く",
+    "translation": "I'll work"
   },
   {
     "lesson": "24",
@@ -492,7 +546,8 @@
     "nai_form": "なおさない",
     "nai_form_kanji": "直さない",
     "dictionary_form": "なおす",
-    "dictionary_form_kanji": "直す"
+    "dictionary_form_kanji": "直す",
+    "translation": "I'll fix it"
   },
   {
     "lesson": "50",
@@ -501,7 +556,8 @@
     "nai_form": "かなわない",
     "nai_form_kanji": null,
     "dictionary_form": "かなう",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "14",
@@ -510,7 +566,8 @@
     "nai_form": "しめない",
     "nai_form_kanji": "閉めない",
     "dictionary_form": "しめる",
-    "dictionary_form_kanji": "閉める"
+    "dictionary_form_kanji": "閉める",
+    "translation": "I'll close it"
   },
   {
     "lesson": "14",
@@ -519,7 +576,8 @@
     "nai_form": "とめない",
     "nai_form_kanji": "止めない",
     "dictionary_form": "とめる",
-    "dictionary_form_kanji": "止める"
+    "dictionary_form_kanji": "止める",
+    "translation": "I'll stop"
   },
   {
     "lesson": "17",
@@ -528,7 +586,8 @@
     "nai_form": "しんぱいしない",
     "nai_form_kanji": "心配しない",
     "dictionary_form": "しんぱいする",
-    "dictionary_form_kanji": "心配する"
+    "dictionary_form_kanji": "心配する",
+    "translation": "I'm worried"
   },
   {
     "lesson": "32",
@@ -537,7 +596,8 @@
     "nai_form": "くもらない",
     "nai_form_kanji": "曇らない",
     "dictionary_form": "くもる",
-    "dictionary_form_kanji": "曇る"
+    "dictionary_form_kanji": "曇る",
+    "translation": "It's cloudy"
   },
   {
     "lesson": "35",
@@ -546,7 +606,8 @@
     "nai_form": "なおらない",
     "nai_form_kanji": "治らない",
     "dictionary_form": "なおる",
-    "dictionary_form_kanji": "治る"
+    "dictionary_form_kanji": "治る",
+    "translation": "It will heal"
   },
   {
     "lesson": "29",
@@ -555,7 +616,8 @@
     "nai_form": "きえない",
     "nai_form_kanji": "消えない",
     "dictionary_form": "きえる",
-    "dictionary_form_kanji": "消える"
+    "dictionary_form_kanji": "消える",
+    "translation": "It's disappearing"
   },
   {
     "lesson": "31",
@@ -564,7 +626,8 @@
     "nai_form": "もうしこまない",
     "nai_form_kanji": "申し込まない",
     "dictionary_form": "もうしこむ",
-    "dictionary_form_kanji": "申し込む"
+    "dictionary_form_kanji": "申し込む",
+    "translation": "I'll apply"
   },
   {
     "lesson": "23",
@@ -573,7 +636,8 @@
     "nai_form": "かえない",
     "nai_form_kanji": "変えない",
     "dictionary_form": "かえる",
-    "dictionary_form_kanji": "変える"
+    "dictionary_form_kanji": "変える",
+    "translation": "I'll change it"
   },
   {
     "lesson": "42",
@@ -582,7 +646,8 @@
     "nai_form": "まぜない",
     "nai_form_kanji": "混ぜない",
     "dictionary_form": "まぜる",
-    "dictionary_form_kanji": "混ぜる"
+    "dictionary_form_kanji": "混ぜる",
+    "translation": "Mix it"
   },
   {
     "lesson": "29",
@@ -591,7 +656,8 @@
     "nai_form": "つかない",
     "nai_form_kanji": null,
     "dictionary_form": "つく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "27",
@@ -600,7 +666,8 @@
     "nai_form": "はしらない",
     "nai_form_kanji": "走らない",
     "dictionary_form": "はしる",
-    "dictionary_form_kanji": "走る"
+    "dictionary_form_kanji": "走る",
+    "translation": "I'll run"
   },
   {
     "lesson": "6",
@@ -609,7 +676,8 @@
     "nai_form": "あわない",
     "nai_form_kanji": "会わない",
     "dictionary_form": "あう",
-    "dictionary_form_kanji": "会う"
+    "dictionary_form_kanji": "会う",
+    "translation": "I'll meet"
   },
   {
     "lesson": "5",
@@ -618,7 +686,8 @@
     "nai_form": "こない",
     "nai_form_kanji": "来ない",
     "dictionary_form": "くる",
-    "dictionary_form_kanji": "来る"
+    "dictionary_form_kanji": "来る",
+    "translation": "I'll come"
   },
   {
     "lesson": "38",
@@ -627,7 +696,8 @@
     "nai_form": "きらない",
     "nai_form_kanji": "切らない",
     "dictionary_form": "きる",
-    "dictionary_form_kanji": "切る"
+    "dictionary_form_kanji": "切る",
+    "translation": "I'll cut it"
   },
   {
     "lesson": "17",
@@ -636,7 +706,8 @@
     "nai_form": "ぬがない",
     "nai_form_kanji": "脱がない",
     "dictionary_form": "ぬぐ",
-    "dictionary_form_kanji": "脱ぐ"
+    "dictionary_form_kanji": "脱ぐ",
+    "translation": "I'll take it off"
   },
   {
     "lesson": "14",
@@ -645,7 +716,8 @@
     "nai_form": "コピーしない",
     "nai_form_kanji": null,
     "dictionary_form": "コピーする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll copy it"
   },
   {
     "lesson": "40",
@@ -654,7 +726,8 @@
     "nai_form": "うまくいかない",
     "nai_form_kanji": null,
     "dictionary_form": "うまくいく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It's going well"
   },
   {
     "lesson": "44",
@@ -663,7 +736,8 @@
     "nai_form": "かわかない",
     "nai_form_kanji": "乾かない",
     "dictionary_form": "かわく",
-    "dictionary_form_kanji": "乾く"
+    "dictionary_form_kanji": "乾く",
+    "translation": "It's dry"
   },
   {
     "lesson": "11",
@@ -672,7 +746,8 @@
     "nai_form": "いない",
     "nai_form_kanji": null,
     "dictionary_form": "いる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "There is (children...)"
   },
   {
     "lesson": "42",
@@ -681,7 +756,8 @@
     "nai_form": "わかさない",
     "nai_form_kanji": "沸かさない",
     "dictionary_form": "わかす",
-    "dictionary_form_kanji": "沸かす"
+    "dictionary_form_kanji": "沸かす",
+    "translation": "I'll boil it"
   },
   {
     "lesson": "47",
@@ -690,7 +766,8 @@
     "nai_form": "しない",
     "nai_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "19",
@@ -699,7 +776,8 @@
     "nai_form": "そうじしない",
     "nai_form_kanji": "掃除しない",
     "dictionary_form": "そうじする",
-    "dictionary_form_kanji": "掃除する"
+    "dictionary_form_kanji": "掃除する",
+    "translation": "I'll clean it"
   },
   {
     "lesson": "14",
@@ -708,7 +786,8 @@
     "nai_form": "またない",
     "nai_form_kanji": "待たない",
     "dictionary_form": "まつ",
-    "dictionary_form_kanji": "待つ"
+    "dictionary_form_kanji": "待つ",
+    "translation": "I'll wait"
   },
   {
     "lesson": "13",
@@ -717,7 +796,8 @@
     "nai_form": "むかえない",
     "nai_form_kanji": "迎えない",
     "dictionary_form": "むかえる",
-    "dictionary_form_kanji": "迎える"
+    "dictionary_form_kanji": "迎える",
+    "translation": "I'll welcome"
   },
   {
     "lesson": "16",
@@ -726,7 +806,8 @@
     "nai_form": "けんがくしない",
     "nai_form_kanji": "見学しない",
     "dictionary_form": "けんがくする",
-    "dictionary_form_kanji": "見学する"
+    "dictionary_form_kanji": "見学する",
+    "translation": "I'll be watching"
   },
   {
     "lesson": "39",
@@ -735,7 +816,8 @@
     "nai_form": "こたえない",
     "nai_form_kanji": "答えない",
     "dictionary_form": "こたえる",
-    "dictionary_form_kanji": "答える"
+    "dictionary_form_kanji": "答える",
+    "translation": "I'll answer"
   },
   {
     "lesson": "18",
@@ -744,7 +826,8 @@
     "nai_form": "よやくしない",
     "nai_form_kanji": "予約しない",
     "dictionary_form": "よやくする",
-    "dictionary_form_kanji": "予約する"
+    "dictionary_form_kanji": "予約する",
+    "translation": "I'll make a reservation"
   },
   {
     "lesson": "7",
@@ -753,7 +836,8 @@
     "nai_form": "かさない",
     "nai_form_kanji": "貸さない",
     "dictionary_form": "かす",
-    "dictionary_form_kanji": "貸す"
+    "dictionary_form_kanji": "貸す",
+    "translation": "lend"
   },
   {
     "lesson": "15",
@@ -762,7 +846,8 @@
     "nai_form": "おかない",
     "nai_form_kanji": "置かない",
     "dictionary_form": "おく",
-    "dictionary_form_kanji": "置く"
+    "dictionary_form_kanji": "置く",
+    "translation": "I'll put it"
   },
   {
     "lesson": "25",
@@ -771,7 +856,8 @@
     "nai_form": "とらない",
     "nai_form_kanji": "取らない",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "取る"
+    "dictionary_form_kanji": "取る",
+    "translation": "I'll take it"
   },
   {
     "lesson": "38",
@@ -780,7 +866,8 @@
     "nai_form": "はこばない",
     "nai_form_kanji": "運ばない",
     "dictionary_form": "はこぶ",
-    "dictionary_form_kanji": "運ぶ"
+    "dictionary_form_kanji": "運ぶ",
+    "translation": "I'll carry it"
   },
   {
     "lesson": "22",
@@ -789,7 +876,8 @@
     "nai_form": "かぶらない",
     "nai_form_kanji": null,
     "dictionary_form": "かぶる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "45",
@@ -798,7 +886,8 @@
     "nai_form": "しんじない",
     "nai_form_kanji": "信じない",
     "dictionary_form": "しんじる",
-    "dictionary_form_kanji": "信じる"
+    "dictionary_form_kanji": "信じる",
+    "translation": "I believe it"
   },
   {
     "lesson": "47",
@@ -807,7 +896,8 @@
     "nai_form": "もえない",
     "nai_form_kanji": "燃えない",
     "dictionary_form": "もえる",
-    "dictionary_form_kanji": "燃える"
+    "dictionary_form_kanji": "燃える",
+    "translation": "burn"
   },
   {
     "lesson": "14",
@@ -816,7 +906,8 @@
     "nai_form": "でない",
     "nai_form_kanji": "出ない",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "19",
@@ -825,7 +916,8 @@
     "nai_form": "せんたくしない",
     "nai_form_kanji": "洗濯しない",
     "dictionary_form": "せんたくする",
-    "dictionary_form_kanji": "洗濯する"
+    "dictionary_form_kanji": "洗濯する",
+    "translation": "I'll wash it"
   },
   {
     "lesson": "49",
@@ -834,7 +926,8 @@
     "nai_form": "ださない",
     "nai_form_kanji": "出さない",
     "dictionary_form": "だす",
-    "dictionary_form_kanji": "出す"
+    "dictionary_form_kanji": "出す",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "23",
@@ -843,7 +936,8 @@
     "nai_form": "まがらない",
     "nai_form_kanji": "曲がらない",
     "dictionary_form": "まがる",
-    "dictionary_form_kanji": "曲がる"
+    "dictionary_form_kanji": "曲がる",
+    "translation": "It's bent"
   },
   {
     "lesson": "45",
@@ -852,7 +946,8 @@
     "nai_form": "キャンセルしない",
     "nai_form_kanji": null,
     "dictionary_form": "キャンセルする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll cancel"
   },
   {
     "lesson": "32",
@@ -861,7 +956,8 @@
     "nai_form": "すかない",
     "nai_form_kanji": null,
     "dictionary_form": "すく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "33",
@@ -870,7 +966,8 @@
     "nai_form": "あきらめない",
     "nai_form_kanji": null,
     "dictionary_form": "あきらめる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll give up"
   },
   {
     "lesson": "7",
@@ -879,7 +976,8 @@
     "nai_form": "あげない",
     "nai_form_kanji": null,
     "dictionary_form": "あげる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll give it"
   },
   {
     "lesson": "18",
@@ -888,7 +986,8 @@
     "nai_form": "あらわない",
     "nai_form_kanji": "洗わない",
     "dictionary_form": "あらう",
-    "dictionary_form_kanji": "洗う"
+    "dictionary_form_kanji": "洗う",
+    "translation": "I'll wash it"
   },
   {
     "lesson": "33",
@@ -897,7 +996,8 @@
     "nai_form": "まもらない",
     "nai_form_kanji": "守らない",
     "dictionary_form": "まもる",
-    "dictionary_form_kanji": "守る"
+    "dictionary_form_kanji": "守る",
+    "translation": "I'll protect it"
   },
   {
     "lesson": "16",
@@ -906,7 +1006,8 @@
     "nai_form": "おさない",
     "nai_form_kanji": "押さない",
     "dictionary_form": "おす",
-    "dictionary_form_kanji": "押す"
+    "dictionary_form_kanji": "押す",
+    "translation": "Press"
   },
   {
     "lesson": "33",
@@ -915,7 +1016,8 @@
     "nai_form": "もどらない",
     "nai_form_kanji": "戻らない",
     "dictionary_form": "もどる",
-    "dictionary_form_kanji": "戻る"
+    "dictionary_form_kanji": "戻る",
+    "translation": "i will be back"
   },
   {
     "lesson": "29",
@@ -924,7 +1026,8 @@
     "nai_form": "つかない",
     "nai_form_kanji": "付かない",
     "dictionary_form": "つく",
-    "dictionary_form_kanji": "付く"
+    "dictionary_form_kanji": "付く",
+    "translation": "Comes with"
   },
   {
     "lesson": "31",
@@ -933,7 +1036,8 @@
     "nai_form": "みつけない",
     "nai_form_kanji": "見つけない",
     "dictionary_form": "みつける",
-    "dictionary_form_kanji": "見つける"
+    "dictionary_form_kanji": "見つける",
+    "translation": "I'll find it"
   },
   {
     "lesson": "15",
@@ -942,7 +1046,8 @@
     "nai_form": "けんきゅうしない",
     "nai_form_kanji": "研究しない",
     "dictionary_form": "けんきゅうする",
-    "dictionary_form_kanji": "研究する"
+    "dictionary_form_kanji": "研究する",
+    "translation": "I'll research"
   },
   {
     "lesson": "50",
@@ -951,7 +1056,8 @@
     "nai_form": "きんちょうしない",
     "nai_form_kanji": "緊張しない",
     "dictionary_form": "きんちょうする",
-    "dictionary_form_kanji": "緊張する"
+    "dictionary_form_kanji": "緊張する",
+    "translation": "I'm nervous"
   },
   {
     "lesson": "16",
@@ -960,7 +1066,8 @@
     "nai_form": "あびない",
     "nai_form_kanji": "浴びない",
     "dictionary_form": "あびる",
-    "dictionary_form_kanji": "浴びる"
+    "dictionary_form_kanji": "浴びる",
+    "translation": "I'll take a shower [Shower]"
   },
   {
     "lesson": "14",
@@ -969,7 +1076,8 @@
     "nai_form": "ふらない",
     "nai_form_kanji": "降らない",
     "dictionary_form": "ふる",
-    "dictionary_form_kanji": "降る"
+    "dictionary_form_kanji": "降る",
+    "translation": "I'm off"
   },
   {
     "lesson": "37",
@@ -978,7 +1086,8 @@
     "nai_form": "とらない",
     "nai_form_kanji": "取らない",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "取る"
+    "dictionary_form_kanji": "取る",
+    "translation": "I'll take it"
   },
   {
     "lesson": "17",
@@ -987,7 +1096,8 @@
     "nai_form": "しゅっちょうしない",
     "nai_form_kanji": "出張しない",
     "dictionary_form": "しゅっちょうする",
-    "dictionary_form_kanji": "出張する"
+    "dictionary_form_kanji": "出張する",
+    "translation": "I'm going on a business trip"
   },
   {
     "lesson": "35",
@@ -996,7 +1106,8 @@
     "nai_form": "こまらない",
     "nai_form_kanji": "困らない",
     "dictionary_form": "こまる",
-    "dictionary_form_kanji": "困る"
+    "dictionary_form_kanji": "困る",
+    "translation": "It's a problem"
   },
   {
     "lesson": "49",
@@ -1005,7 +1116,8 @@
     "nai_form": "かけない",
     "nai_form_kanji": "掛けない",
     "dictionary_form": "かける",
-    "dictionary_form_kanji": "掛ける"
+    "dictionary_form_kanji": "掛ける",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "36",
@@ -1014,7 +1126,8 @@
     "nai_form": "ちがわない",
     "nai_form_kanji": "違わない",
     "dictionary_form": "ちがう",
-    "dictionary_form_kanji": "違う"
+    "dictionary_form_kanji": "違う",
+    "translation": "It's not"
   },
   {
     "lesson": "6",
@@ -1023,7 +1136,8 @@
     "nai_form": "かわない",
     "nai_form_kanji": "買わない",
     "dictionary_form": "かう",
-    "dictionary_form_kanji": "買う"
+    "dictionary_form_kanji": "買う",
+    "translation": "I'll take it"
   },
   {
     "lesson": "37",
@@ -1032,7 +1146,8 @@
     "nai_form": "やけない",
     "nai_form_kanji": "焼けない",
     "dictionary_form": "やける",
-    "dictionary_form_kanji": "焼ける"
+    "dictionary_form_kanji": "焼ける",
+    "translation": "It's burned"
   },
   {
     "lesson": "49",
@@ -1041,7 +1156,8 @@
     "nai_form": "じゅしょうしない",
     "nai_form_kanji": "受賞しない",
     "dictionary_form": "じゅしょうする",
-    "dictionary_form_kanji": "受賞する"
+    "dictionary_form_kanji": "受賞する",
+    "translation": "I'll be awarded"
   },
   {
     "lesson": "14",
@@ -1050,7 +1166,8 @@
     "nai_form": "たたない",
     "nai_form_kanji": "立たない",
     "dictionary_form": "たつ",
-    "dictionary_form_kanji": "立つ"
+    "dictionary_form_kanji": "立つ",
+    "translation": "I'll stand"
   },
   {
     "lesson": "18",
@@ -1059,7 +1176,8 @@
     "nai_form": "できない",
     "nai_form_kanji": null,
     "dictionary_form": "できる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "can"
   },
   {
     "lesson": "47",
@@ -1068,7 +1186,8 @@
     "nai_form": "わかれない",
     "nai_form_kanji": "別れない",
     "dictionary_form": "わかれる",
-    "dictionary_form_kanji": "別れる"
+    "dictionary_form_kanji": "別れる",
+    "translation": "I'll part ways"
   },
   {
     "lesson": "14",
@@ -1077,7 +1196,8 @@
     "nai_form": "とらない",
     "nai_form_kanji": "取らない",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "取る"
+    "dictionary_form_kanji": "取る",
+    "translation": "I'll take it"
   },
   {
     "lesson": "14",
@@ -1086,7 +1206,8 @@
     "nai_form": "いそがない",
     "nai_form_kanji": "急がない",
     "dictionary_form": "いそぐ",
-    "dictionary_form_kanji": "急ぐ"
+    "dictionary_form_kanji": "急ぐ",
+    "translation": "I'm hurry"
   },
   {
     "lesson": "22",
@@ -1095,7 +1216,8 @@
     "nai_form": "うまれない",
     "nai_form_kanji": "生まれない",
     "dictionary_form": "うまれる",
-    "dictionary_form_kanji": "生まれる"
+    "dictionary_form_kanji": "生まれる",
+    "translation": "Born"
   },
   {
     "lesson": "26",
@@ -1104,7 +1226,8 @@
     "nai_form": "さがさない",
     "nai_form_kanji": "探さない",
     "dictionary_form": "さがす",
-    "dictionary_form_kanji": "探す"
+    "dictionary_form_kanji": "探す",
+    "translation": "I'll look for, I'll look for"
   },
   {
     "lesson": "35",
@@ -1113,7 +1236,8 @@
     "nai_form": "なおらない",
     "nai_form_kanji": "直らない",
     "dictionary_form": "なおる",
-    "dictionary_form_kanji": "直る"
+    "dictionary_form_kanji": "直る",
+    "translation": "It'll fix it"
   },
   {
     "lesson": "44",
@@ -1122,7 +1246,8 @@
     "nai_form": "おきない",
     "nai_form_kanji": "起きない",
     "dictionary_form": "おきる",
-    "dictionary_form_kanji": "起きる"
+    "dictionary_form_kanji": "起きる",
+    "translation": "I'm waking up"
   },
   {
     "lesson": "21",
@@ -1131,7 +1256,8 @@
     "nai_form": "おもわない",
     "nai_form_kanji": "思わない",
     "dictionary_form": "おもう",
-    "dictionary_form_kanji": "思う"
+    "dictionary_form_kanji": "思う",
+    "translation": "I think so"
   },
   {
     "lesson": "28",
@@ -1140,7 +1266,8 @@
     "nai_form": "うれない",
     "nai_form_kanji": "売れない",
     "dictionary_form": "うれる",
-    "dictionary_form_kanji": "売れる"
+    "dictionary_form_kanji": "売れる",
+    "translation": "It sells"
   },
   {
     "lesson": "35",
@@ -1149,7 +1276,8 @@
     "nai_form": "さかない",
     "nai_form_kanji": "咲かない",
     "dictionary_form": "さく",
-    "dictionary_form_kanji": "咲く"
+    "dictionary_form_kanji": "咲く",
+    "translation": "It's blooming"
   },
   {
     "lesson": "18",
@@ -1158,7 +1286,8 @@
     "nai_form": "ひかない",
     "nai_form_kanji": "弾かない",
     "dictionary_form": "ひく",
-    "dictionary_form_kanji": "弾く"
+    "dictionary_form_kanji": "弾く",
+    "translation": "I'll play"
   },
   {
     "lesson": "20",
@@ -1167,7 +1296,8 @@
     "nai_form": "しゅうりしない",
     "nai_form_kanji": "修理しない",
     "dictionary_form": "しゅうりする",
-    "dictionary_form_kanji": "修理する"
+    "dictionary_form_kanji": "修理する",
+    "translation": "I'll repair it"
   },
   {
     "lesson": "46",
@@ -1176,7 +1306,8 @@
     "nai_form": "かえってこない",
     "nai_form_kanji": "帰って来ない",
     "dictionary_form": "かえってくる",
-    "dictionary_form_kanji": "帰って来る"
+    "dictionary_form_kanji": "帰って来る",
+    "translation": "I'll come back"
   },
   {
     "lesson": "7",
@@ -1185,7 +1316,8 @@
     "nai_form": "かけない",
     "nai_form_kanji": null,
     "dictionary_form": "かける",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "40",
@@ -1194,7 +1326,8 @@
     "nai_form": "かぞえない",
     "nai_form_kanji": "数えない",
     "dictionary_form": "かぞえる",
-    "dictionary_form_kanji": "数える"
+    "dictionary_form_kanji": "数える",
+    "translation": "I'll count"
   },
   {
     "lesson": "43",
@@ -1203,7 +1336,8 @@
     "nai_form": "きれない",
     "nai_form_kanji": "切れない",
     "dictionary_form": "きれる",
-    "dictionary_form_kanji": "切れる"
+    "dictionary_form_kanji": "切れる",
+    "translation": "It's cut"
   },
   {
     "lesson": "26",
@@ -1212,7 +1346,8 @@
     "nai_form": "やらない",
     "nai_form_kanji": null,
     "dictionary_form": "やる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "48",
@@ -1221,7 +1356,8 @@
     "nai_form": "おろさない",
     "nai_form_kanji": "下ろさない",
     "dictionary_form": "おろす",
-    "dictionary_form_kanji": "下ろす"
+    "dictionary_form_kanji": "下ろす",
+    "translation": "I'll take it down, I'll take it down"
   },
   {
     "lesson": "38",
@@ -1230,7 +1366,8 @@
     "nai_form": "たいいんしない",
     "nai_form_kanji": "退院しない",
     "dictionary_form": "たいいんする",
-    "dictionary_form_kanji": "退院する"
+    "dictionary_form_kanji": "退院する",
+    "translation": "I'll be discharged from the hospital"
   },
   {
     "lesson": "31",
@@ -1239,7 +1376,8 @@
     "nai_form": "うけない",
     "nai_form_kanji": "受けない",
     "dictionary_form": "うける",
-    "dictionary_form_kanji": "受ける"
+    "dictionary_form_kanji": "受ける",
+    "translation": "I'll take it"
   },
   {
     "lesson": "44",
@@ -1248,7 +1386,8 @@
     "nai_form": "すべらない",
     "nai_form_kanji": "滑らない",
     "dictionary_form": "すべる",
-    "dictionary_form_kanji": "滑る"
+    "dictionary_form_kanji": "滑る",
+    "translation": "It's slipping"
   },
   {
     "lesson": "17",
@@ -1257,7 +1396,8 @@
     "nai_form": "かえさない",
     "nai_form_kanji": "返さない",
     "dictionary_form": "かえす",
-    "dictionary_form_kanji": "返す"
+    "dictionary_form_kanji": "返す",
+    "translation": "I'll return it"
   },
   {
     "lesson": "15",
@@ -1266,7 +1406,8 @@
     "nai_form": "おもいださない",
     "nai_form_kanji": "思い出さない",
     "dictionary_form": "おもいだす",
-    "dictionary_form_kanji": "思い出す"
+    "dictionary_form_kanji": "思い出す",
+    "translation": "I remember"
   },
   {
     "lesson": "16",
@@ -1275,7 +1416,8 @@
     "nai_form": "いれない",
     "nai_form_kanji": "入れない",
     "dictionary_form": "いれる",
-    "dictionary_form_kanji": "入れる"
+    "dictionary_form_kanji": "入れる",
+    "translation": "I'll put it in"
   },
   {
     "lesson": "25",
@@ -1284,7 +1426,8 @@
     "nai_form": "がんばらない",
     "nai_form_kanji": "頑張らない",
     "dictionary_form": "がんばる",
-    "dictionary_form_kanji": "頑張る"
+    "dictionary_form_kanji": "頑張る",
+    "translation": "I will do my best"
   },
   {
     "lesson": "39",
@@ -1293,7 +1436,8 @@
     "nai_form": "りこんしない",
     "nai_form_kanji": "離婚しない",
     "dictionary_form": "りこんする",
-    "dictionary_form_kanji": "離婚する"
+    "dictionary_form_kanji": "離婚する",
+    "translation": "I'm going to divorce"
   },
   {
     "lesson": "19",
@@ -1302,7 +1446,8 @@
     "nai_form": "れんしゅうしない",
     "nai_form_kanji": "練習しない",
     "dictionary_form": "れんしゅうする",
-    "dictionary_form_kanji": "練習する"
+    "dictionary_form_kanji": "練習する",
+    "translation": "I'll practice"
   },
   {
     "lesson": "32",
@@ -1311,7 +1456,8 @@
     "nai_form": "ひかない",
     "nai_form_kanji": null,
     "dictionary_form": "ひく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll pull it"
   },
   {
     "lesson": "17",
@@ -1320,7 +1466,8 @@
     "nai_form": "なくさない",
     "nai_form_kanji": null,
     "dictionary_form": "なくす",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll lose it"
   },
   {
     "lesson": "38",
@@ -1329,7 +1476,8 @@
     "nai_form": "そだてない",
     "nai_form_kanji": "育てない",
     "dictionary_form": "そだてる",
-    "dictionary_form_kanji": "育てる"
+    "dictionary_form_kanji": "育てる",
+    "translation": "I'll grow it"
   },
   {
     "lesson": "14",
@@ -1338,7 +1486,8 @@
     "nai_form": "おしえない",
     "nai_form_kanji": "教えない",
     "dictionary_form": "おしえる",
-    "dictionary_form_kanji": "教える"
+    "dictionary_form_kanji": "教える",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "30",
@@ -1347,7 +1496,8 @@
     "nai_form": "うえない",
     "nai_form_kanji": "植えない",
     "dictionary_form": "うえる",
-    "dictionary_form_kanji": "植える"
+    "dictionary_form_kanji": "植える",
+    "translation": "I'll plant it"
   },
   {
     "lesson": "11",
@@ -1356,7 +1506,8 @@
     "nai_form": "おねがいしない",
     "nai_form_kanji": "お願いしない",
     "dictionary_form": "おねがいする",
-    "dictionary_form_kanji": "お願いする"
+    "dictionary_form_kanji": "お願いする",
+    "translation": "please"
   },
   {
     "lesson": "47",
@@ -1365,7 +1516,8 @@
     "nai_form": "ふかない",
     "nai_form_kanji": "吹かない",
     "dictionary_form": "ふく",
-    "dictionary_form_kanji": "吹く"
+    "dictionary_form_kanji": "吹く",
+    "translation": "I'll blow"
   },
   {
     "lesson": "29",
@@ -1374,7 +1526,8 @@
     "nai_form": "かたづけない",
     "nai_form_kanji": "片づけない",
     "dictionary_form": "かたづける",
-    "dictionary_form_kanji": "片づける"
+    "dictionary_form_kanji": "片づける",
+    "translation": "I'll clean it up"
   },
   {
     "lesson": "38",
@@ -1383,7 +1536,8 @@
     "nai_form": "いれない",
     "nai_form_kanji": "入れない",
     "dictionary_form": "いれる",
-    "dictionary_form_kanji": "入れる"
+    "dictionary_form_kanji": "入れる",
+    "translation": "I'll put it in"
   },
   {
     "lesson": "23",
@@ -1392,7 +1546,8 @@
     "nai_form": "ひかない",
     "nai_form_kanji": "引かない",
     "dictionary_form": "ひく",
-    "dictionary_form_kanji": "引く"
+    "dictionary_form_kanji": "引く",
+    "translation": "I'll pull"
   },
   {
     "lesson": "18",
@@ -1401,7 +1556,8 @@
     "nai_form": "かえない",
     "nai_form_kanji": "換えない",
     "dictionary_form": "かえる",
-    "dictionary_form_kanji": "換える"
+    "dictionary_form_kanji": "換える",
+    "translation": "I'll change it"
   },
   {
     "lesson": "44",
@@ -1410,7 +1566,8 @@
     "nai_form": "ねむらない",
     "nai_form_kanji": "眠らない",
     "dictionary_form": "ねむる",
-    "dictionary_form_kanji": "眠る"
+    "dictionary_form_kanji": "眠る",
+    "translation": "I'm going to sleep"
   },
   {
     "lesson": "30",
@@ -1419,7 +1576,8 @@
     "nai_form": "かざらない",
     "nai_form_kanji": "飾らない",
     "dictionary_form": "かざる",
-    "dictionary_form_kanji": "飾る"
+    "dictionary_form_kanji": "飾る",
+    "translation": "I'll decorate it"
   },
   {
     "lesson": "37",
@@ -1428,7 +1586,8 @@
     "nai_form": "しからない",
     "nai_form_kanji": null,
     "dictionary_form": "しかる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "That's right"
   },
   {
     "lesson": "15",
@@ -1437,7 +1596,8 @@
     "nai_form": "すわらない",
     "nai_form_kanji": "座らない",
     "dictionary_form": "すわる",
-    "dictionary_form_kanji": "座る"
+    "dictionary_form_kanji": "座る",
+    "translation": "I'll sit"
   },
   {
     "lesson": "40",
@@ -1446,7 +1606,8 @@
     "nai_form": "でない",
     "nai_form_kanji": "出ない",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "7",
@@ -1455,7 +1616,8 @@
     "nai_form": "おしえない",
     "nai_form_kanji": "教えない",
     "dictionary_form": "おしえる",
-    "dictionary_form_kanji": "教える"
+    "dictionary_form_kanji": "教える",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "37",
@@ -1464,7 +1626,8 @@
     "nai_form": "ふまない",
     "nai_form_kanji": "踏まない",
     "dictionary_form": "ふむ",
-    "dictionary_form_kanji": "踏む"
+    "dictionary_form_kanji": "踏む",
+    "translation": "I'll step on"
   },
   {
     "lesson": "21",
@@ -1473,7 +1636,8 @@
     "nai_form": "うごかない",
     "nai_form_kanji": "動かない",
     "dictionary_form": "うごく",
-    "dictionary_form_kanji": "動く"
+    "dictionary_form_kanji": "動く",
+    "translation": "It's moving"
   },
   {
     "lesson": "34",
@@ -1482,7 +1646,8 @@
     "nai_form": "のせない",
     "nai_form_kanji": "載せない",
     "dictionary_form": "のせる",
-    "dictionary_form_kanji": "載せる"
+    "dictionary_form_kanji": "載せる",
+    "translation": "I'll post it"
   },
   {
     "lesson": "29",
@@ -1491,7 +1656,8 @@
     "nai_form": "しまらない",
     "nai_form_kanji": "閉まらない",
     "dictionary_form": "しまる",
-    "dictionary_form_kanji": "閉まる"
+    "dictionary_form_kanji": "閉まる",
+    "translation": "It's closed"
   },
   {
     "lesson": "25",
@@ -1500,7 +1666,8 @@
     "nai_form": "かんがえない",
     "nai_form_kanji": "考えない",
     "dictionary_form": "かんがえる",
-    "dictionary_form_kanji": "考える"
+    "dictionary_form_kanji": "考える",
+    "translation": "I'll think about it"
   },
   {
     "lesson": "13",
@@ -1509,7 +1676,8 @@
     "nai_form": "かいものしない",
     "nai_form_kanji": "買い物しない",
     "dictionary_form": "かいものする",
-    "dictionary_form_kanji": "買い物する"
+    "dictionary_form_kanji": "買い物する",
+    "translation": "I'll shop"
   },
   {
     "lesson": "37",
@@ -1518,7 +1686,8 @@
     "nai_form": "ほんやくしない",
     "nai_form_kanji": "翻訳しない",
     "dictionary_form": "ほんやくする",
-    "dictionary_form_kanji": "翻訳する"
+    "dictionary_form_kanji": "翻訳する",
+    "translation": "I'll translate"
   },
   {
     "lesson": "16",
@@ -1527,7 +1696,8 @@
     "nai_form": "でない",
     "nai_form_kanji": "出ない",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "32",
@@ -1536,7 +1706,8 @@
     "nai_form": "こまない",
     "nai_form_kanji": "込まない",
     "dictionary_form": "こむ",
-    "dictionary_form_kanji": "込む"
+    "dictionary_form_kanji": "込む",
+    "translation": "will be included"
   },
   {
     "lesson": "42",
@@ -1545,7 +1716,8 @@
     "nai_form": "つつまない",
     "nai_form_kanji": "包まない",
     "dictionary_form": "つつむ",
-    "dictionary_form_kanji": "包む"
+    "dictionary_form_kanji": "包む",
+    "translation": "I'll wrap it"
   },
   {
     "lesson": "6",
@@ -1554,7 +1726,8 @@
     "nai_form": "のまない",
     "nai_form_kanji": "飲まない",
     "dictionary_form": "のむ",
-    "dictionary_form_kanji": "飲む"
+    "dictionary_form_kanji": "飲む",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "30",
@@ -1563,7 +1736,8 @@
     "nai_form": "そのままにしない",
     "nai_form_kanji": null,
     "dictionary_form": "そのままにする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll leave it as is"
   },
   {
     "lesson": "13",
@@ -1572,7 +1746,8 @@
     "nai_form": "しょくじしない",
     "nai_form_kanji": "食事しない",
     "dictionary_form": "しょくじする",
-    "dictionary_form_kanji": "食事する"
+    "dictionary_form_kanji": "食事する",
+    "translation": "I'll eat"
   },
   {
     "lesson": "39",
@@ -1581,7 +1756,8 @@
     "nai_form": "たおれない",
     "nai_form_kanji": "倒れない",
     "dictionary_form": "たおれる",
-    "dictionary_form_kanji": "倒れる"
+    "dictionary_form_kanji": "倒れる",
+    "translation": "[The building] collapses"
   },
   {
     "lesson": "50",
@@ -1590,7 +1766,8 @@
     "nai_form": "よういしない",
     "nai_form_kanji": "用意しない",
     "dictionary_form": "よういする",
-    "dictionary_form_kanji": "用意する"
+    "dictionary_form_kanji": "用意する",
+    "translation": "I'll prepare it"
   },
   {
     "lesson": "40",
@@ -1599,7 +1776,8 @@
     "nai_form": "しゅっぱつしない",
     "nai_form_kanji": "出発しない",
     "dictionary_form": "しゅっぱつする",
-    "dictionary_form_kanji": "出発する"
+    "dictionary_form_kanji": "出発する",
+    "translation": "I'm leaving"
   },
   {
     "lesson": "46",
@@ -1608,7 +1786,8 @@
     "nai_form": "にゅうがくしない",
     "nai_form_kanji": "入学しない",
     "dictionary_form": "にゅうがくする",
-    "dictionary_form_kanji": "入学する"
+    "dictionary_form_kanji": "入学する",
+    "translation": "I'm going to enroll"
   },
   {
     "lesson": "6",
@@ -1617,7 +1796,8 @@
     "nai_form": "すわない",
     "nai_form_kanji": "吸わない",
     "dictionary_form": "すう",
-    "dictionary_form_kanji": "吸う"
+    "dictionary_form_kanji": "吸う",
+    "translation": "I'll suck"
   },
   {
     "lesson": "31",
@@ -1626,7 +1806,8 @@
     "nai_form": "とらない",
     "nai_form_kanji": "取らない",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "取る"
+    "dictionary_form_kanji": "取る",
+    "translation": "I'll take it"
   },
   {
     "lesson": "29",
@@ -1635,7 +1816,8 @@
     "nai_form": "こわれない",
     "nai_form_kanji": "壊れない",
     "dictionary_form": "こわれる",
-    "dictionary_form_kanji": "壊れる"
+    "dictionary_form_kanji": "壊れる",
+    "translation": "It's broken"
   },
   {
     "lesson": "35",
@@ -1644,7 +1826,8 @@
     "nai_form": "にゅうりょくしない",
     "nai_form_kanji": "入力しない",
     "dictionary_form": "にゅうりょくする",
-    "dictionary_form_kanji": "入力する"
+    "dictionary_form_kanji": "入力する",
+    "translation": "Enter"
   },
   {
     "lesson": "28",
@@ -1653,7 +1836,8 @@
     "nai_form": "かまない",
     "nai_form_kanji": null,
     "dictionary_form": "かむ",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll bite"
   },
   {
     "lesson": "43",
@@ -1662,7 +1846,8 @@
     "nai_form": "ふえない",
     "nai_form_kanji": "増えない",
     "dictionary_form": "ふえる",
-    "dictionary_form_kanji": "増える"
+    "dictionary_form_kanji": "増える",
+    "translation": "It'll increase"
   },
   {
     "lesson": "37",
@@ -1671,7 +1856,8 @@
     "nai_form": "ちゅういしない",
     "nai_form_kanji": "注意しない",
     "dictionary_form": "ちゅういする",
-    "dictionary_form_kanji": "注意する"
+    "dictionary_form_kanji": "注意する",
+    "translation": "I'll be careful"
   },
   {
     "lesson": "17",
@@ -1680,7 +1866,8 @@
     "nai_form": "はいらない",
     "nai_form_kanji": "入らない",
     "dictionary_form": "はいる",
-    "dictionary_form_kanji": "入る"
+    "dictionary_form_kanji": "入る",
+    "translation": "enter"
   },
   {
     "lesson": "37",
@@ -1689,7 +1876,8 @@
     "nai_form": "ゆしゅつしない",
     "nai_form_kanji": "輸出しない",
     "dictionary_form": "ゆしゅつする",
-    "dictionary_form_kanji": "輸出する"
+    "dictionary_form_kanji": "輸出する",
+    "translation": "I will export"
   },
   {
     "lesson": "36",
@@ -1698,7 +1886,8 @@
     "nai_form": "チャレンジしない",
     "nai_form_kanji": null,
     "dictionary_form": "チャレンジする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll take the challenge"
   },
   {
     "lesson": "32",
@@ -1707,7 +1896,8 @@
     "nai_form": "はれない",
     "nai_form_kanji": "晴れない",
     "dictionary_form": "はれる",
-    "dictionary_form_kanji": "晴れる"
+    "dictionary_form_kanji": "晴れる",
+    "translation": "It's sunny"
   },
   {
     "lesson": "35",
@@ -1716,7 +1906,8 @@
     "nai_form": "クリックしない",
     "nai_form_kanji": null,
     "dictionary_form": "クリックする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Click"
   },
   {
     "lesson": "21",
@@ -1725,7 +1916,8 @@
     "nai_form": "いわない",
     "nai_form_kanji": "言わない",
     "dictionary_form": "いう",
-    "dictionary_form_kanji": "言う"
+    "dictionary_form_kanji": "言う",
+    "translation": "I'll say it"
   },
   {
     "lesson": "6",
@@ -1734,7 +1926,8 @@
     "nai_form": "よまない",
     "nai_form_kanji": "読まない",
     "dictionary_form": "よむ",
-    "dictionary_form_kanji": "読む"
+    "dictionary_form_kanji": "読む",
+    "translation": "I'll read"
   },
   {
     "lesson": "23",
@@ -1743,7 +1936,8 @@
     "nai_form": "わたらない",
     "nai_form_kanji": "渡らない",
     "dictionary_form": "わたる",
-    "dictionary_form_kanji": "渡る"
+    "dictionary_form_kanji": "渡る",
+    "translation": "I'll cross"
   },
   {
     "lesson": "6",
@@ -1752,7 +1946,8 @@
     "nai_form": "とらない",
     "nai_form_kanji": "撮らない",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "撮る"
+    "dictionary_form_kanji": "撮る",
+    "translation": "I'll take a picture"
   },
   {
     "lesson": "39",
@@ -1761,7 +1956,8 @@
     "nai_form": "がっかりしない",
     "nai_form_kanji": null,
     "dictionary_form": "がっかりする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'm disappointed"
   },
   {
     "lesson": "29",
@@ -1770,7 +1966,8 @@
     "nai_form": "とまらない",
     "nai_form_kanji": "止まらない",
     "dictionary_form": "とまる",
-    "dictionary_form_kanji": "止まる"
+    "dictionary_form_kanji": "止まる",
+    "translation": "It's stopping"
   },
   {
     "lesson": "13",
@@ -1779,7 +1976,8 @@
     "nai_form": "つかれない",
     "nai_form_kanji": "疲れない",
     "dictionary_form": "つかれる",
-    "dictionary_form_kanji": "疲れる"
+    "dictionary_form_kanji": "疲れる",
+    "translation": "I'm tired"
   },
   {
     "lesson": "16",
@@ -1788,7 +1986,8 @@
     "nai_form": "おりない",
     "nai_form_kanji": "降りない",
     "dictionary_form": "おりる",
-    "dictionary_form_kanji": "降りる"
+    "dictionary_form_kanji": "降りる",
+    "translation": "I'm off"
   },
   {
     "lesson": "16",
@@ -1797,7 +1996,8 @@
     "nai_form": "でんわしない",
     "nai_form_kanji": "電話しない",
     "dictionary_form": "でんわする",
-    "dictionary_form_kanji": "電話する"
+    "dictionary_form_kanji": "電話する",
+    "translation": "I'll call"
   },
   {
     "lesson": "30",
@@ -1806,7 +2006,8 @@
     "nai_form": "かけない",
     "nai_form_kanji": "掛けない",
     "dictionary_form": "かける",
-    "dictionary_form_kanji": "掛ける"
+    "dictionary_form_kanji": "掛ける",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "27",
@@ -1815,7 +2016,8 @@
     "nai_form": "つけない",
     "nai_form_kanji": "付けない",
     "dictionary_form": "つける",
-    "dictionary_form_kanji": "付ける"
+    "dictionary_form_kanji": "付ける",
+    "translation": "I'll put it on"
   },
   {
     "lesson": "48",
@@ -1824,7 +2026,8 @@
     "nai_form": "たのしまない",
     "nai_form_kanji": "楽しまない",
     "dictionary_form": "たのしむ",
-    "dictionary_form_kanji": "楽しむ"
+    "dictionary_form_kanji": "楽しむ",
+    "translation": "I'll enjoy it"
   },
   {
     "lesson": "21",
@@ -1833,7 +2036,8 @@
     "nai_form": "やくにたたない",
     "nai_form_kanji": "役に立たない",
     "dictionary_form": "やくにたつ",
-    "dictionary_form_kanji": "役に立つ"
+    "dictionary_form_kanji": "役に立つ",
+    "translation": "It's helpful"
   },
   {
     "lesson": "27",
@@ -1842,7 +2046,8 @@
     "nai_form": "かわない",
     "nai_form_kanji": "飼わない",
     "dictionary_form": "かう",
-    "dictionary_form_kanji": "飼う"
+    "dictionary_form_kanji": "飼う",
+    "translation": "I'll keep it"
   },
   {
     "lesson": "16",
@@ -1851,7 +2056,8 @@
     "nai_form": "はいらない",
     "nai_form_kanji": "入らない",
     "dictionary_form": "はいる",
-    "dictionary_form_kanji": "入る"
+    "dictionary_form_kanji": "入る",
+    "translation": "enter"
   },
   {
     "lesson": "30",
@@ -1860,7 +2066,8 @@
     "nai_form": "まとめない",
     "nai_form_kanji": null,
     "dictionary_form": "まとめる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll summarize"
   },
   {
     "lesson": "34",
@@ -1869,7 +2076,8 @@
     "nai_form": "しつもんしない",
     "nai_form_kanji": "質問しない",
     "dictionary_form": "しつもんする",
-    "dictionary_form_kanji": "質問する"
+    "dictionary_form_kanji": "質問する",
+    "translation": "I'll ask a question"
   },
   {
     "lesson": "4",
@@ -1878,7 +2086,8 @@
     "nai_form": "おきない",
     "nai_form_kanji": "起きない",
     "dictionary_form": "おきる",
-    "dictionary_form_kanji": "起きる"
+    "dictionary_form_kanji": "起きる",
+    "translation": "I'm waking up"
   },
   {
     "lesson": "1",
@@ -1887,7 +2096,8 @@
     "nai_form": "あかない",
     "nai_form_kanji": "開かない",
     "dictionary_form": "あく",
-    "dictionary_form_kanji": "開く"
+    "dictionary_form_kanji": "開く",
+    "translation": "It will open"
   },
   {
     "lesson": "41",
@@ -1896,7 +2106,8 @@
     "nai_form": "やらない",
     "nai_form_kanji": null,
     "dictionary_form": "やる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "16",
@@ -1905,7 +2116,8 @@
     "nai_form": "ださない",
     "nai_form_kanji": "出さない",
     "dictionary_form": "だす",
-    "dictionary_form_kanji": "出す"
+    "dictionary_form_kanji": "出す",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "21",
@@ -1914,7 +2126,8 @@
     "nai_form": "りゅうがくしない",
     "nai_form_kanji": "留学しない",
     "dictionary_form": "りゅうがくする",
-    "dictionary_form_kanji": "留学する"
+    "dictionary_form_kanji": "留学する",
+    "translation": "I'm going to study abroad"
   },
   {
     "lesson": "39",
@@ -1923,7 +2136,8 @@
     "nai_form": "ぶつからない",
     "nai_form_kanji": null,
     "dictionary_form": "ぶつかる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll bump into it"
   },
   {
     "lesson": "13",
@@ -1932,7 +2146,8 @@
     "nai_form": "およがない",
     "nai_form_kanji": "泳がない",
     "dictionary_form": "およぐ",
-    "dictionary_form_kanji": "泳ぐ"
+    "dictionary_form_kanji": "泳ぐ",
+    "translation": "I'll swim"
   },
   {
     "lesson": "4",
@@ -1941,7 +2156,8 @@
     "nai_form": "おわらない",
     "nai_form_kanji": "終わらない",
     "dictionary_form": "おわる",
-    "dictionary_form_kanji": "終わる"
+    "dictionary_form_kanji": "終わる",
+    "translation": "It's over"
   },
   {
     "lesson": "39",
@@ -1950,7 +2166,8 @@
     "nai_form": "ふとらない",
     "nai_form_kanji": "太らない",
     "dictionary_form": "ふとる",
-    "dictionary_form_kanji": "太る"
+    "dictionary_form_kanji": "太る",
+    "translation": "I'm gaining weight"
   },
   {
     "lesson": "33",
@@ -1959,7 +2176,8 @@
     "nai_form": "はずさない",
     "nai_form_kanji": "外さない",
     "dictionary_form": "はずす",
-    "dictionary_form_kanji": "外す"
+    "dictionary_form_kanji": "外す",
+    "translation": "I'll remove it"
   },
   {
     "lesson": "25",
@@ -1968,7 +2186,8 @@
     "nai_form": "つかない",
     "nai_form_kanji": "着かない",
     "dictionary_form": "つく",
-    "dictionary_form_kanji": "着く"
+    "dictionary_form_kanji": "着く",
+    "translation": "I'll arrive"
   },
   {
     "lesson": "43",
@@ -1977,7 +2196,8 @@
     "nai_form": "さがらない",
     "nai_form_kanji": "下がらない",
     "dictionary_form": "さがる",
-    "dictionary_form_kanji": "下がる"
+    "dictionary_form_kanji": "下がる",
+    "translation": "It's going down"
   },
   {
     "lesson": "18",
@@ -1986,7 +2206,8 @@
     "nai_form": "すてない",
     "nai_form_kanji": "捨てない",
     "dictionary_form": "すてる",
-    "dictionary_form_kanji": "捨てる"
+    "dictionary_form_kanji": "捨てる",
+    "translation": "I'll throw it away"
   },
   {
     "lesson": "39",
@@ -1995,7 +2216,8 @@
     "nai_form": "とおらない",
     "nai_form_kanji": "通らない",
     "dictionary_form": "とおる",
-    "dictionary_form_kanji": "通る"
+    "dictionary_form_kanji": "通る",
+    "translation": "I'll pass"
   },
   {
     "lesson": "45",
@@ -2004,7 +2226,8 @@
     "nai_form": "しらせない",
     "nai_form_kanji": "知らせない",
     "dictionary_form": "しらせる",
-    "dictionary_form_kanji": "知らせる"
+    "dictionary_form_kanji": "知らせる",
+    "translation": "I'll let you know"
   },
   {
     "lesson": "46",
@@ -2013,7 +2236,8 @@
     "nai_form": "やけない",
     "nai_form_kanji": "焼けない",
     "dictionary_form": "やける",
-    "dictionary_form_kanji": "焼ける"
+    "dictionary_form_kanji": "焼ける",
+    "translation": "It's burned"
   },
   {
     "lesson": "36",
@@ -2022,7 +2246,8 @@
     "nai_form": "くさらない",
     "nai_form_kanji": "腐らない",
     "dictionary_form": "くさる",
-    "dictionary_form_kanji": "腐る"
+    "dictionary_form_kanji": "腐る",
+    "translation": "It's rotten"
   },
   {
     "lesson": "25",
@@ -2031,7 +2256,8 @@
     "nai_form": "たりない",
     "nai_form_kanji": "足りない",
     "dictionary_form": "たりる",
-    "dictionary_form_kanji": "足りる"
+    "dictionary_form_kanji": "足りる",
+    "translation": "It's enough"
   },
   {
     "lesson": "11",
@@ -2040,7 +2266,8 @@
     "nai_form": "やすまない",
     "nai_form_kanji": "休まない",
     "dictionary_form": "やすむ",
-    "dictionary_form_kanji": "休む"
+    "dictionary_form_kanji": "休む",
+    "translation": "I'm off (from work)"
   },
   {
     "lesson": "30",
@@ -2049,7 +2276,8 @@
     "nai_form": "よしゅうしない",
     "nai_form_kanji": "予習しない",
     "dictionary_form": "よしゅうする",
-    "dictionary_form_kanji": "予習する"
+    "dictionary_form_kanji": "予習する",
+    "translation": "I'll prepare"
   },
   {
     "lesson": "37",
@@ -2058,7 +2286,8 @@
     "nai_form": "しょうたいしない",
     "nai_form_kanji": "招待しない",
     "dictionary_form": "しょうたいする",
-    "dictionary_form_kanji": "招待する"
+    "dictionary_form_kanji": "招待する",
+    "translation": "I'll invite you"
   },
   {
     "lesson": "15",
@@ -2067,7 +2296,8 @@
     "nai_form": "うらない",
     "nai_form_kanji": "売らない",
     "dictionary_form": "うる",
-    "dictionary_form_kanji": "売る"
+    "dictionary_form_kanji": "売る",
+    "translation": "I'll sell it"
   },
   {
     "lesson": "30",
@@ -2076,7 +2306,8 @@
     "nai_form": "ならべない",
     "nai_form_kanji": "並べない",
     "dictionary_form": "ならべる",
-    "dictionary_form_kanji": "並べる"
+    "dictionary_form_kanji": "並べる",
+    "translation": "I'll line it up"
   },
   {
     "lesson": "13",
@@ -2085,7 +2316,8 @@
     "nai_form": "さんぽしない",
     "nai_form_kanji": "散歩しない",
     "dictionary_form": "さんぽする",
-    "dictionary_form_kanji": "散歩する"
+    "dictionary_form_kanji": "散歩する",
+    "translation": "I'll take a walk"
   },
   {
     "lesson": "46",
@@ -2094,7 +2326,8 @@
     "nai_form": "やかない",
     "nai_form_kanji": "焼かない",
     "dictionary_form": "やく",
-    "dictionary_form_kanji": "焼く"
+    "dictionary_form_kanji": "焼く",
+    "translation": "Bake"
   },
   {
     "lesson": "36",
@@ -2103,7 +2336,8 @@
     "nai_form": "なれない",
     "nai_form_kanji": "慣れない",
     "dictionary_form": "なれる",
-    "dictionary_form_kanji": "慣れる"
+    "dictionary_form_kanji": "慣れる",
+    "translation": "I'll get used to it"
   },
   {
     "lesson": "43",
@@ -2112,7 +2346,8 @@
     "nai_form": "へらない",
     "nai_form_kanji": "減らない",
     "dictionary_form": "へる",
-    "dictionary_form_kanji": "減る"
+    "dictionary_form_kanji": "減る",
+    "translation": "It'll decrease"
   },
   {
     "lesson": "21",
@@ -2121,7 +2356,8 @@
     "nai_form": "やめない",
     "nai_form_kanji": null,
     "dictionary_form": "やめる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll stop"
   },
   {
     "lesson": "32",
@@ -2130,7 +2366,8 @@
     "nai_form": "むりをしない",
     "nai_form_kanji": "無理をしない",
     "dictionary_form": "むりをする",
-    "dictionary_form_kanji": "無理をする"
+    "dictionary_form_kanji": "無理をする",
+    "translation": "I'll overdo it"
   },
   {
     "lesson": "47",
@@ -2139,7 +2376,8 @@
     "nai_form": "なくならない",
     "nai_form_kanji": "亡くならない",
     "dictionary_form": "なくなる",
-    "dictionary_form_kanji": "亡くなる"
+    "dictionary_form_kanji": "亡くなる",
+    "translation": "I'll die"
   },
   {
     "lesson": "40",
@@ -2148,7 +2386,8 @@
     "nai_form": "はからない",
     "nai_form_kanji": "測らない",
     "dictionary_form": "はかる",
-    "dictionary_form_kanji": "測る"
+    "dictionary_form_kanji": "測る",
+    "translation": "I'll measure, I'll measure"
   },
   {
     "lesson": "37",
@@ -2157,7 +2396,8 @@
     "nai_form": "たのまない",
     "nai_form_kanji": "頼まない",
     "dictionary_form": "たのむ",
-    "dictionary_form_kanji": "頼む"
+    "dictionary_form_kanji": "頼む",
+    "translation": "I'll ask"
   },
   {
     "lesson": "44",
@@ -2166,7 +2406,8 @@
     "nai_form": "なかない",
     "nai_form_kanji": "泣かない",
     "dictionary_form": "なく",
-    "dictionary_form_kanji": "泣く"
+    "dictionary_form_kanji": "泣く",
+    "translation": "I'm crying"
   },
   {
     "lesson": "27",
@@ -2175,7 +2416,8 @@
     "nai_form": "きこえない",
     "nai_form_kanji": "聞こえない",
     "dictionary_form": "きこえる",
-    "dictionary_form_kanji": "聞こえる"
+    "dictionary_form_kanji": "聞こえる",
+    "translation": "I can hear it"
   },
   {
     "lesson": "5",
@@ -2184,7 +2426,8 @@
     "nai_form": "いかない",
     "nai_form_kanji": "行かない",
     "dictionary_form": "いく",
-    "dictionary_form_kanji": "行く"
+    "dictionary_form_kanji": "行く",
+    "translation": "I'm going"
   },
   {
     "lesson": "17",
@@ -2193,7 +2436,8 @@
     "nai_form": "のまない",
     "nai_form_kanji": "飲まない",
     "dictionary_form": "のむ",
-    "dictionary_form_kanji": "飲む"
+    "dictionary_form_kanji": "飲む",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "28",
@@ -2202,7 +2446,8 @@
     "nai_form": "えらばない",
     "nai_form_kanji": "選ばない",
     "dictionary_form": "えらぶ",
-    "dictionary_form_kanji": "選ぶ"
+    "dictionary_form_kanji": "選ぶ",
+    "translation": "I'll choose"
   },
   {
     "lesson": "19",
@@ -2211,7 +2456,8 @@
     "nai_form": "のぼらない",
     "nai_form_kanji": "登らない",
     "dictionary_form": "のぼる",
-    "dictionary_form_kanji": "登る"
+    "dictionary_form_kanji": "登る",
+    "translation": "I'll climb"
   },
   {
     "lesson": "6",
@@ -2220,7 +2466,8 @@
     "nai_form": "みない",
     "nai_form_kanji": "見ない",
     "dictionary_form": "みる",
-    "dictionary_form_kanji": "見る"
+    "dictionary_form_kanji": "見る",
+    "translation": "I'll see"
   },
   {
     "lesson": "49",
@@ -2229,7 +2476,8 @@
     "nai_form": "りようしない",
     "nai_form_kanji": "利用しない",
     "dictionary_form": "りようする",
-    "dictionary_form_kanji": "利用する"
+    "dictionary_form_kanji": "利用する",
+    "translation": "I'll use it"
   },
   {
     "lesson": "40",
@@ -2238,7 +2486,8 @@
     "nai_form": "そうだんしない",
     "nai_form_kanji": "相談しない",
     "dictionary_form": "そうだんする",
-    "dictionary_form_kanji": "相談する"
+    "dictionary_form_kanji": "相談する",
+    "translation": "I'll talk"
   },
   {
     "lesson": "36",
@@ -2247,7 +2496,8 @@
     "nai_form": "あわない",
     "nai_form_kanji": null,
     "dictionary_form": "あう",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "7",
@@ -2256,7 +2506,8 @@
     "nai_form": "ならわない",
     "nai_form_kanji": "習わない",
     "dictionary_form": "ならう",
-    "dictionary_form_kanji": "習う"
+    "dictionary_form_kanji": "習う",
+    "translation": "I'll learn"
   },
   {
     "lesson": "14",
@@ -2265,7 +2516,8 @@
     "nai_form": "もたない",
     "nai_form_kanji": "持たない",
     "dictionary_form": "もつ",
-    "dictionary_form_kanji": "持つ"
+    "dictionary_form_kanji": "持つ",
+    "translation": "I'll have it"
   },
   {
     "lesson": "35",
@@ -2274,7 +2526,8 @@
     "nai_form": "かわらない",
     "nai_form_kanji": "変わらない",
     "dictionary_form": "かわる",
-    "dictionary_form_kanji": "変わる"
+    "dictionary_form_kanji": "変わる",
+    "translation": "It's changing"
   },
   {
     "lesson": "46",
@@ -2283,7 +2536,8 @@
     "nai_form": "とどかない",
     "nai_form_kanji": "届かない",
     "dictionary_form": "とどく",
-    "dictionary_form_kanji": "届く"
+    "dictionary_form_kanji": "届く",
+    "translation": "It'll arrive"
   },
   {
     "lesson": "27",
@@ -2292,7 +2546,8 @@
     "nai_form": "ひらかない",
     "nai_form_kanji": "開かない",
     "dictionary_form": "ひらく",
-    "dictionary_form_kanji": "開く"
+    "dictionary_form_kanji": "開く",
+    "translation": "It will open"
   },
   {
     "lesson": "17",
@@ -2301,7 +2556,8 @@
     "nai_form": "わすれない",
     "nai_form_kanji": "忘れない",
     "dictionary_form": "わすれる",
-    "dictionary_form_kanji": "忘れる"
+    "dictionary_form_kanji": "忘れる",
+    "translation": "I'll forget"
   },
   {
     "lesson": "39",
@@ -2310,7 +2566,8 @@
     "nai_form": "けんかしない",
     "nai_form_kanji": null,
     "dictionary_form": "けんかする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll fight"
   },
   {
     "lesson": "21",
@@ -2319,7 +2576,8 @@
     "nai_form": "かたない",
     "nai_form_kanji": "勝たない",
     "dictionary_form": "かつ",
-    "dictionary_form_kanji": "勝つ"
+    "dictionary_form_kanji": "勝つ",
+    "translation": "I'll win"
   },
   {
     "lesson": "32",
@@ -2328,7 +2586,8 @@
     "nai_form": "つづかない",
     "nai_form_kanji": "続かない",
     "dictionary_form": "つづく",
-    "dictionary_form_kanji": "続く"
+    "dictionary_form_kanji": "続く",
+    "translation": "Continue"
   },
   {
     "lesson": "17",
@@ -2337,7 +2596,8 @@
     "nai_form": "もってこない",
     "nai_form_kanji": "持って来ない",
     "dictionary_form": "もってくる",
-    "dictionary_form_kanji": "持って来る"
+    "dictionary_form_kanji": "持って来る",
+    "translation": "I'll bring it"
   },
   {
     "lesson": "5",
@@ -2346,7 +2606,8 @@
     "nai_form": "かえらない",
     "nai_form_kanji": "帰らない",
     "dictionary_form": "かえる",
-    "dictionary_form_kanji": "帰る"
+    "dictionary_form_kanji": "帰る",
+    "translation": "I'm going home"
   },
   {
     "lesson": "36",
@@ -2355,7 +2616,8 @@
     "nai_form": "ちょきんしない",
     "nai_form_kanji": "貯金しない",
     "dictionary_form": "ちょきんする",
-    "dictionary_form_kanji": "貯金する"
+    "dictionary_form_kanji": "貯金する",
+    "translation": "I'll save"
   },
   {
     "lesson": "35",
@@ -2364,7 +2626,8 @@
     "nai_form": "つけない",
     "nai_form_kanji": "付けない",
     "dictionary_form": "つける",
-    "dictionary_form_kanji": "付ける"
+    "dictionary_form_kanji": "付ける",
+    "translation": "I'll put it on"
   },
   {
     "lesson": "16",
@@ -2373,7 +2636,8 @@
     "nai_form": "はじめない",
     "nai_form_kanji": "始めない",
     "dictionary_form": "はじめる",
-    "dictionary_form_kanji": "始める"
+    "dictionary_form_kanji": "始める",
+    "translation": "I'll start"
   },
   {
     "lesson": "18",
@@ -2382,7 +2646,8 @@
     "nai_form": "あつめない",
     "nai_form_kanji": "集めない",
     "dictionary_form": "あつめる",
-    "dictionary_form_kanji": "集める"
+    "dictionary_form_kanji": "集める",
+    "translation": "I'll collect it"
   },
   {
     "lesson": "40",
@@ -2391,7 +2656,8 @@
     "nai_form": "よわない",
     "nai_form_kanji": "酔わない",
     "dictionary_form": "よう",
-    "dictionary_form_kanji": "酔う"
+    "dictionary_form_kanji": "酔う",
+    "translation": "I'm drunk"
   },
   {
     "lesson": "15",
@@ -2400,7 +2666,8 @@
     "nai_form": "すまない",
     "nai_form_kanji": "住まない",
     "dictionary_form": "すむ",
-    "dictionary_form_kanji": "住む"
+    "dictionary_form_kanji": "住む",
+    "translation": "I'll live there"
   },
   {
     "lesson": "38",
@@ -2409,7 +2676,8 @@
     "nai_form": "せいりしない",
     "nai_form_kanji": "整理しない",
     "dictionary_form": "せいりする",
-    "dictionary_form_kanji": "整理する"
+    "dictionary_form_kanji": "整理する",
+    "translation": "I'll sort it out"
   },
   {
     "lesson": "43",
@@ -2418,7 +2686,8 @@
     "nai_form": "とれない",
     "nai_form_kanji": "取れない",
     "dictionary_form": "とれる",
-    "dictionary_form_kanji": "取れる"
+    "dictionary_form_kanji": "取れる",
+    "translation": "I can take it"
   },
   {
     "lesson": "43",
@@ -2427,7 +2696,8 @@
     "nai_form": "あがらない",
     "nai_form_kanji": "上がらない",
     "dictionary_form": "あがる",
-    "dictionary_form_kanji": "上がる"
+    "dictionary_form_kanji": "上がる",
+    "translation": "It's going up"
   },
   {
     "lesson": "34",
@@ -2436,7 +2706,8 @@
     "nai_form": "つけない",
     "nai_form_kanji": null,
     "dictionary_form": "つける",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll put it on"
   },
   {
     "lesson": "27",
@@ -2445,7 +2716,8 @@
     "nai_form": "みえない",
     "nai_form_kanji": "見えない",
     "dictionary_form": "みえる",
-    "dictionary_form_kanji": "見える"
+    "dictionary_form_kanji": "見える",
+    "translation": "I can see"
   },
   {
     "lesson": "30",
@@ -2454,7 +2726,8 @@
     "nai_form": "はらない",
     "nai_form_kanji": "貼らない",
     "dictionary_form": "はる",
-    "dictionary_form_kanji": "貼る"
+    "dictionary_form_kanji": "貼る",
+    "translation": "I'll stick it"
   },
   {
     "lesson": "30",
@@ -2463,7 +2736,8 @@
     "nai_form": "ふくしゅうしない",
     "nai_form_kanji": "復習しない",
     "dictionary_form": "ふくしゅうする",
-    "dictionary_form_kanji": "復習する"
+    "dictionary_form_kanji": "復習する",
+    "translation": "I'll review"
   },
   {
     "lesson": "15",
@@ -2472,7 +2746,8 @@
     "nai_form": "つくらない",
     "nai_form_kanji": "作らない",
     "dictionary_form": "つくる",
-    "dictionary_form_kanji": "作る"
+    "dictionary_form_kanji": "作る",
+    "translation": "I'll make/make"
   },
   {
     "lesson": "14",
@@ -2481,7 +2756,8 @@
     "nai_form": "はいらない",
     "nai_form_kanji": "入らない",
     "dictionary_form": "はいる",
-    "dictionary_form_kanji": "入る"
+    "dictionary_form_kanji": "入る",
+    "translation": "enter"
   },
   {
     "lesson": "34",
@@ -2490,7 +2766,8 @@
     "nai_form": "ささない",
     "nai_form_kanji": null,
     "dictionary_form": "さす",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll say"
   },
   {
     "lesson": "38",
@@ -2499,7 +2776,8 @@
     "nai_form": "おさない",
     "nai_form_kanji": "押さない",
     "dictionary_form": "おす",
-    "dictionary_form_kanji": "押す"
+    "dictionary_form_kanji": "押す",
+    "translation": "Press"
   },
   {
     "lesson": "24",
@@ -2508,7 +2786,8 @@
     "nai_form": "くれない",
     "nai_form_kanji": null,
     "dictionary_form": "くれる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll give it"
   },
   {
     "lesson": "23",
@@ -2517,7 +2796,8 @@
     "nai_form": "きかない",
     "nai_form_kanji": "聞かない",
     "dictionary_form": "きく",
-    "dictionary_form_kanji": "聞く"
+    "dictionary_form_kanji": "聞く",
+    "translation": "I'll listen"
   },
   {
     "lesson": "34",
@@ -2526,7 +2806,8 @@
     "nai_form": "おらない",
     "nai_form_kanji": "折らない",
     "dictionary_form": "おる",
-    "dictionary_form_kanji": "折る"
+    "dictionary_form_kanji": "折る",
+    "translation": "Fold"
   },
   {
     "lesson": "40",
@@ -2535,7 +2816,8 @@
     "nai_form": "あわない",
     "nai_form_kanji": "合わない",
     "dictionary_form": "あう",
-    "dictionary_form_kanji": "合う"
+    "dictionary_form_kanji": "合う",
+    "translation": "It fits"
   },
   {
     "lesson": "9",
@@ -2544,7 +2826,8 @@
     "nai_form": "ない",
     "nai_form_kanji": null,
     "dictionary_form": "ある",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "there is"
   },
   {
     "lesson": "22",
@@ -2553,7 +2836,8 @@
     "nai_form": "しない",
     "nai_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "13",
@@ -2562,7 +2846,8 @@
     "nai_form": "けっこんしない",
     "nai_form_kanji": "結婚しない",
     "dictionary_form": "けっこんする",
-    "dictionary_form_kanji": "結婚する"
+    "dictionary_form_kanji": "結婚する",
+    "translation": "I'm getting married"
   },
   {
     "lesson": "37",
@@ -2571,7 +2856,8 @@
     "nai_form": "ゆにゅうしない",
     "nai_form_kanji": "輸入しない",
     "dictionary_form": "ゆにゅうする",
-    "dictionary_form_kanji": "輸入する"
+    "dictionary_form_kanji": "輸入する",
+    "translation": "I'll import it"
   },
   {
     "lesson": "44",
@@ -2580,7 +2866,8 @@
     "nai_form": "ぬれない",
     "nai_form_kanji": null,
     "dictionary_form": "ぬれる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It's wet"
   },
   {
     "lesson": "34",
@@ -2589,7 +2876,8 @@
     "nai_form": "くみたてない",
     "nai_form_kanji": "組み立てない",
     "dictionary_form": "くみたてる",
-    "dictionary_form_kanji": "組み立てる"
+    "dictionary_form_kanji": "組み立てる",
+    "translation": "I'll assemble it"
   },
   {
     "lesson": "17",
@@ -2598,7 +2886,8 @@
     "nai_form": "でかけない",
     "nai_form_kanji": "出かけない",
     "dictionary_form": "でかける",
-    "dictionary_form_kanji": "出かける"
+    "dictionary_form_kanji": "出かける",
+    "translation": "I'm going out"
   },
   {
     "lesson": "24",
@@ -2607,7 +2896,8 @@
     "nai_form": "あんないしない",
     "nai_form_kanji": "案内しない",
     "dictionary_form": "あんないする",
-    "dictionary_form_kanji": "案内する"
+    "dictionary_form_kanji": "案内する",
+    "translation": "I'll show you"
   },
   {
     "lesson": "26",
@@ -2616,7 +2906,8 @@
     "nai_form": "みない",
     "nai_form_kanji": "見ない",
     "dictionary_form": "みる",
-    "dictionary_form_kanji": "見る"
+    "dictionary_form_kanji": "見る",
+    "translation": "I'll see, I'll examine you"
   },
   {
     "lesson": "44",
@@ -2625,7 +2916,8 @@
     "nai_form": "わらわない",
     "nai_form_kanji": "笑わない",
     "dictionary_form": "わらう",
-    "dictionary_form_kanji": "笑う"
+    "dictionary_form_kanji": "笑う",
+    "translation": "I'll laugh"
   },
   {
     "lesson": "41",
@@ -2634,7 +2926,8 @@
     "nai_form": "さげない",
     "nai_form_kanji": "下げない",
     "dictionary_form": "さげる",
-    "dictionary_form_kanji": "下げる"
+    "dictionary_form_kanji": "下げる",
+    "translation": "I'll lower it"
   },
   {
     "lesson": "31",
@@ -2643,7 +2936,8 @@
     "nai_form": "のこらない",
     "nai_form_kanji": "残らない",
     "dictionary_form": "のこる",
-    "dictionary_form_kanji": "残る"
+    "dictionary_form_kanji": "残る",
+    "translation": "It's still"
   },
   {
     "lesson": "21",
@@ -2652,7 +2946,8 @@
     "nai_form": "ない",
     "nai_form_kanji": null,
     "dictionary_form": "ある",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "39",
@@ -2661,7 +2956,8 @@
     "nai_form": "やせない",
     "nai_form_kanji": null,
     "dictionary_form": "やせる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll lose weight"
   },
   {
     "lesson": "19",
@@ -2670,7 +2966,8 @@
     "nai_form": "ならない",
     "nai_form_kanji": null,
     "dictionary_form": "なる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It will become"
   },
   {
     "lesson": "47",
@@ -2679,7 +2976,8 @@
     "nai_form": "しない",
     "nai_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "29",
@@ -2688,7 +2986,8 @@
     "nai_form": "はずれない",
     "nai_form_kanji": "外れない",
     "dictionary_form": "はずれる",
-    "dictionary_form_kanji": "外れる"
+    "dictionary_form_kanji": "外れる",
+    "translation": "It's off"
   },
   {
     "lesson": "19",
@@ -2697,7 +2996,8 @@
     "nai_form": "とまらない",
     "nai_form_kanji": "泊まらない",
     "dictionary_form": "とまる",
-    "dictionary_form_kanji": "泊まる"
+    "dictionary_form_kanji": "泊まる",
+    "translation": "I'll stay"
   },
   {
     "lesson": "30",
@@ -2706,7 +3006,8 @@
     "nai_form": "もどさない",
     "nai_form_kanji": "戻さない",
     "dictionary_form": "もどす",
-    "dictionary_form_kanji": "戻す"
+    "dictionary_form_kanji": "戻す",
+    "translation": "I'll go back"
   },
   {
     "lesson": "37",
@@ -2715,7 +3016,8 @@
     "nai_form": "さそわない",
     "nai_form_kanji": "誘わない",
     "dictionary_form": "さそう",
-    "dictionary_form_kanji": "誘う"
+    "dictionary_form_kanji": "誘う",
+    "translation": "I'll invite you"
   },
   {
     "lesson": "32",
@@ -2724,7 +3026,8 @@
     "nai_form": "しっぱいしない",
     "nai_form_kanji": "失敗しない",
     "dictionary_form": "しっぱいする",
-    "dictionary_form_kanji": "失敗する"
+    "dictionary_form_kanji": "失敗する",
+    "translation": "It's failing"
   },
   {
     "lesson": "48",
@@ -2733,7 +3036,8 @@
     "nai_form": "とどけない",
     "nai_form_kanji": "届けない",
     "dictionary_form": "とどける",
-    "dictionary_form_kanji": "届ける"
+    "dictionary_form_kanji": "届ける",
+    "translation": "I'll deliver it"
   },
   {
     "lesson": "46",
@@ -2742,7 +3046,8 @@
     "nai_form": "わたさない",
     "nai_form_kanji": "渡さない",
     "dictionary_form": "わたす",
-    "dictionary_form_kanji": "渡す"
+    "dictionary_form_kanji": "渡す",
+    "translation": "I'll give it to you"
   },
   {
     "lesson": "24",
@@ -2751,7 +3056,8 @@
     "nai_form": "おくらない",
     "nai_form_kanji": "送らない",
     "dictionary_form": "おくる",
-    "dictionary_form_kanji": "送る"
+    "dictionary_form_kanji": "送る",
+    "translation": "send"
   },
   {
     "lesson": "6",
@@ -2760,7 +3066,8 @@
     "nai_form": "たべない",
     "nai_form_kanji": "食べない",
     "dictionary_form": "たべる",
-    "dictionary_form_kanji": "食べる"
+    "dictionary_form_kanji": "食べる",
+    "translation": "I'll eat"
   },
   {
     "lesson": "36",
@@ -2769,7 +3076,8 @@
     "nai_form": "すぎない",
     "nai_form_kanji": "過ぎない",
     "dictionary_form": "すぎる",
-    "dictionary_form_kanji": "過ぎる"
+    "dictionary_form_kanji": "過ぎる",
+    "translation": "It's past"
   },
   {
     "lesson": "14",
@@ -2778,7 +3086,8 @@
     "nai_form": "てつだわない",
     "nai_form_kanji": "手伝わない",
     "dictionary_form": "てつだう",
-    "dictionary_form_kanji": "手伝う"
+    "dictionary_form_kanji": "手伝う",
+    "translation": "I'll help"
   },
   {
     "lesson": "41",
@@ -2787,7 +3096,8 @@
     "nai_form": "しんせつにしない",
     "nai_form_kanji": "親切にしない",
     "dictionary_form": "しんせつにする",
-    "dictionary_form_kanji": "親切にする"
+    "dictionary_form_kanji": "親切にする",
+    "translation": "I'll be kind"
   },
   {
     "lesson": "30",
@@ -2796,7 +3106,8 @@
     "nai_form": "きめない",
     "nai_form_kanji": "決めない",
     "dictionary_form": "きめる",
-    "dictionary_form_kanji": "決める"
+    "dictionary_form_kanji": "決める",
+    "translation": "I'll decide"
   },
   {
     "lesson": "37",
@@ -2805,7 +3116,8 @@
     "nai_form": "こわさない",
     "nai_form_kanji": "壊さない",
     "dictionary_form": "こわす",
-    "dictionary_form_kanji": "壊す"
+    "dictionary_form_kanji": "壊す",
+    "translation": "I'll break it"
   },
   {
     "lesson": "41",
@@ -2814,7 +3126,8 @@
     "nai_form": "くださらない",
     "nai_form_kanji": null,
     "dictionary_form": "くださる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll give you"
   },
   {
     "lesson": "16",
@@ -2823,7 +3136,8 @@
     "nai_form": "のまない",
     "nai_form_kanji": "飲まない",
     "dictionary_form": "のむ",
-    "dictionary_form_kanji": "飲む"
+    "dictionary_form_kanji": "飲む",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "32",
@@ -2832,7 +3146,8 @@
     "nai_form": "うんどうしない",
     "nai_form_kanji": "運動しない",
     "dictionary_form": "うんどうする",
-    "dictionary_form_kanji": "運動する"
+    "dictionary_form_kanji": "運動する",
+    "translation": "I'll exercise"
   },
   {
     "lesson": "46",
@@ -2841,7 +3156,8 @@
     "nai_form": "そつぎょうしない",
     "nai_form_kanji": "卒業しない",
     "dictionary_form": "そつぎょうする",
-    "dictionary_form_kanji": "卒業する"
+    "dictionary_form_kanji": "卒業する",
+    "translation": "I'm graduating"
   },
   {
     "lesson": "48",
@@ -2850,7 +3166,8 @@
     "nai_form": "せわをしない",
     "nai_form_kanji": "世話をしない",
     "dictionary_form": "せわをする",
-    "dictionary_form_kanji": "世話をする"
+    "dictionary_form_kanji": "世話をする",
+    "translation": "I'll take care of you"
   },
   {
     "lesson": "7",
@@ -2859,7 +3176,8 @@
     "nai_form": "おくらない",
     "nai_form_kanji": "送らない",
     "dictionary_form": "おくる",
-    "dictionary_form_kanji": "送る"
+    "dictionary_form_kanji": "送る",
+    "translation": "send"
   },
   {
     "lesson": "47",
@@ -2868,7 +3186,8 @@
     "nai_form": "あつまらない",
     "nai_form_kanji": "集まらない",
     "dictionary_form": "あつまる",
-    "dictionary_form_kanji": "集まる"
+    "dictionary_form_kanji": "集まる",
+    "translation": "We'll gather [people]"
   },
   {
     "lesson": "45",
@@ -2877,7 +3196,8 @@
     "nai_form": "ゆうしょうしない",
     "nai_form_kanji": "優勝しない",
     "dictionary_form": "ゆうしょうする",
-    "dictionary_form_kanji": "優勝する"
+    "dictionary_form_kanji": "優勝する",
+    "translation": "I'll win"
   },
   {
     "lesson": "42",
@@ -2886,7 +3206,8 @@
     "nai_form": "ならばない",
     "nai_form_kanji": "並ばない",
     "dictionary_form": "ならぶ",
-    "dictionary_form_kanji": "並ぶ"
+    "dictionary_form_kanji": "並ぶ",
+    "translation": "I'll line up"
   },
   {
     "lesson": "29",
@@ -2895,7 +3216,8 @@
     "nai_form": "かからない",
     "nai_form_kanji": "掛からない",
     "dictionary_form": "かかる",
-    "dictionary_form_kanji": "掛かる"
+    "dictionary_form_kanji": "掛かる",
+    "translation": "It's going to take"
   },
   {
     "lesson": "10",
@@ -2904,7 +3226,8 @@
     "nai_form": "ない",
     "nai_form_kanji": null,
     "dictionary_form": "ある",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "there is"
   },
   {
     "lesson": "44",
@@ -2913,7 +3236,8 @@
     "nai_form": "ちょうせつしない",
     "nai_form_kanji": "調節しない",
     "dictionary_form": "ちょうせつする",
-    "dictionary_form_kanji": "調節する"
+    "dictionary_form_kanji": "調節する",
+    "translation": "I'll adjust it"
   },
   {
     "lesson": "23",
@@ -2922,7 +3246,8 @@
     "nai_form": "まわさない",
     "nai_form_kanji": "回さない",
     "dictionary_form": "まわす",
-    "dictionary_form_kanji": "回す"
+    "dictionary_form_kanji": "回す",
+    "translation": "I'll turn it"
   },
   {
     "lesson": "30",
@@ -2931,7 +3256,8 @@
     "nai_form": "しまわない",
     "nai_form_kanji": null,
     "dictionary_form": "しまう",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It's gone"
   },
   {
     "lesson": "32",
@@ -2940,7 +3266,8 @@
     "nai_form": "ごうかくしない",
     "nai_form_kanji": "合格しない",
     "dictionary_form": "ごうかくする",
-    "dictionary_form_kanji": "合格する"
+    "dictionary_form_kanji": "合格する",
+    "translation": "I'll pass"
   },
   {
     "lesson": "33",
@@ -2949,7 +3276,8 @@
     "nai_form": "はじまらない",
     "nai_form_kanji": "始まらない",
     "dictionary_form": "はじまる",
-    "dictionary_form_kanji": "始まる"
+    "dictionary_form_kanji": "始まる",
+    "translation": "It's starting"
   },
   {
     "lesson": "49",
@@ -2958,7 +3286,8 @@
     "nai_form": "つとめない",
     "nai_form_kanji": "勤めない",
     "dictionary_form": "つとめる",
-    "dictionary_form_kanji": "勤める"
+    "dictionary_form_kanji": "勤める",
+    "translation": "I'll work"
   },
   {
     "lesson": "43",
@@ -2967,7 +3296,8 @@
     "nai_form": "なくならない",
     "nai_form_kanji": null,
     "dictionary_form": "なくなる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It's gone"
   },
   {
     "lesson": "23",
@@ -2976,7 +3306,8 @@
     "nai_form": "でない",
     "nai_form_kanji": "出ない",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "26",
@@ -2985,7 +3316,8 @@
     "nai_form": "かたづかない",
     "nai_form_kanji": "片づかない",
     "dictionary_form": "かたづく",
-    "dictionary_form_kanji": "片づく"
+    "dictionary_form_kanji": "片づく",
+    "translation": "I'll clean it up"
   },
   {
     "lesson": "23",
@@ -2994,7 +3326,8 @@
     "nai_form": "あるかない",
     "nai_form_kanji": "歩かない",
     "dictionary_form": "あるく",
-    "dictionary_form_kanji": "歩く"
+    "dictionary_form_kanji": "歩く",
+    "translation": "I'm going to walk"
   },
   {
     "lesson": "29",
@@ -3003,7 +3336,8 @@
     "nai_form": "おれない",
     "nai_form_kanji": "折れない",
     "dictionary_form": "おれる",
-    "dictionary_form_kanji": "折れる"
+    "dictionary_form_kanji": "折れる",
+    "translation": "It will break"
   },
   {
     "lesson": "50",
@@ -3012,7 +3346,8 @@
     "nai_form": "いれない",
     "nai_form_kanji": null,
     "dictionary_form": "いれる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll come"
   },
   {
     "lesson": "50",
@@ -3021,7 +3356,8 @@
     "nai_form": "かんしゃしない",
     "nai_form_kanji": "感謝しない",
     "dictionary_form": "かんしゃする",
-    "dictionary_form_kanji": "感謝する"
+    "dictionary_form_kanji": "感謝する",
+    "translation": "appreciate"
   },
   {
     "lesson": "40",
@@ -3030,7 +3366,8 @@
     "nai_form": "とうちゃくしない",
     "nai_form_kanji": "到着しない",
     "dictionary_form": "とうちゃくする",
-    "dictionary_form_kanji": "到着する"
+    "dictionary_form_kanji": "到着する",
+    "translation": "I'll arrive"
   },
   {
     "lesson": "38",
@@ -3039,7 +3376,8 @@
     "nai_form": "さんかしない",
     "nai_form_kanji": "参加しない",
     "dictionary_form": "さんかする",
-    "dictionary_form_kanji": "参加する"
+    "dictionary_form_kanji": "参加する",
+    "translation": "join"
   },
   {
     "lesson": "37",
@@ -3048,7 +3386,8 @@
     "nai_form": "はっけんしない",
     "nai_form_kanji": "発見しない",
     "dictionary_form": "はっけんする",
-    "dictionary_form_kanji": "発見する"
+    "dictionary_form_kanji": "発見する",
+    "translation": "I'll discover"
   },
   {
     "lesson": "42",
@@ -3057,7 +3396,8 @@
     "nai_form": "けいさんしない",
     "nai_form_kanji": "計算しない",
     "dictionary_form": "けいさんする",
-    "dictionary_form_kanji": "計算する"
+    "dictionary_form_kanji": "計算する",
+    "translation": "I'll calculate it"
   },
   {
     "lesson": "39",
@@ -3066,7 +3406,8 @@
     "nai_form": "あんしんしない",
     "nai_form_kanji": "安心しない",
     "dictionary_form": "あんしんする",
-    "dictionary_form_kanji": "安心する"
+    "dictionary_form_kanji": "安心する",
+    "translation": "It's safe"
   },
   {
     "lesson": "16",
@@ -3075,7 +3416,8 @@
     "nai_form": "のりかえない",
     "nai_form_kanji": "乗り換えない",
     "dictionary_form": "のりかえる",
-    "dictionary_form_kanji": "乗り換える"
+    "dictionary_form_kanji": "乗り換える",
+    "translation": "I'll switch"
   },
   {
     "lesson": "22",
@@ -3084,7 +3426,8 @@
     "nai_form": "かけない",
     "nai_form_kanji": null,
     "dictionary_form": "かける",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "43",
@@ -3093,7 +3436,8 @@
     "nai_form": "おちない",
     "nai_form_kanji": "落ちない",
     "dictionary_form": "おちる",
-    "dictionary_form_kanji": "落ちる"
+    "dictionary_form_kanji": "落ちる",
+    "translation": "It's falling"
   },
   {
     "lesson": "17",
@@ -3102,7 +3446,8 @@
     "nai_form": "もっていかない",
     "nai_form_kanji": "持って行かない",
     "dictionary_form": "もっていく",
-    "dictionary_form_kanji": "持って行く"
+    "dictionary_form_kanji": "持って行く",
+    "translation": "I'll take it with me"
   },
   {
     "lesson": "14",
@@ -3111,7 +3456,8 @@
     "nai_form": "つかわない",
     "nai_form_kanji": "使わない",
     "dictionary_form": "つかう",
-    "dictionary_form_kanji": "使う"
+    "dictionary_form_kanji": "使う",
+    "translation": "I'll use it"
   },
   {
     "lesson": "47",
@@ -3120,7 +3466,8 @@
     "nai_form": "しない",
     "nai_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "37",
@@ -3129,7 +3476,8 @@
     "nai_form": "おこなわない",
     "nai_form_kanji": "行わない",
     "dictionary_form": "おこなう",
-    "dictionary_form_kanji": "行う"
+    "dictionary_form_kanji": "行う",
+    "translation": "I'll do it"
   },
   {
     "lesson": "14",
@@ -3138,7 +3486,8 @@
     "nai_form": "はなさない",
     "nai_form_kanji": "話さない",
     "dictionary_form": "はなす",
-    "dictionary_form_kanji": "話す"
+    "dictionary_form_kanji": "話す",
+    "translation": "I'll talk"
   },
   {
     "lesson": "33",
@@ -3147,7 +3496,8 @@
     "nai_form": "さわがない",
     "nai_form_kanji": "騒がない",
     "dictionary_form": "さわぐ",
-    "dictionary_form_kanji": "騒ぐ"
+    "dictionary_form_kanji": "騒ぐ",
+    "translation": "I'm making a fuss"
   },
   {
     "lesson": "37",
@@ -3156,7 +3506,8 @@
     "nai_form": "よごさない",
     "nai_form_kanji": "汚さない",
     "dictionary_form": "よごす",
-    "dictionary_form_kanji": "汚す"
+    "dictionary_form_kanji": "汚す",
+    "translation": "It's tainted"
   },
   {
     "lesson": "32",
@@ -3165,7 +3516,8 @@
     "nai_form": "やまない",
     "nai_form_kanji": null,
     "dictionary_form": "やむ",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll stop"
   },
   {
     "lesson": "32",
@@ -3174,7 +3526,8 @@
     "nai_form": "せいこうしない",
     "nai_form_kanji": "成功しない",
     "dictionary_form": "せいこうする",
-    "dictionary_form_kanji": "成功する"
+    "dictionary_form_kanji": "成功する",
+    "translation": "It'll be successful"
   },
   {
     "lesson": "22",
@@ -3183,7 +3536,8 @@
     "nai_form": "はかない",
     "nai_form_kanji": null,
     "dictionary_form": "はく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "33",
@@ -3192,7 +3546,8 @@
     "nai_form": "にげない",
     "nai_form_kanji": "逃げない",
     "dictionary_form": "にげる",
-    "dictionary_form_kanji": "逃げる"
+    "dictionary_form_kanji": "逃げる",
+    "translation": "I'll run away"
   },
   {
     "lesson": "20",
@@ -3201,7 +3556,8 @@
     "nai_form": "いらない",
     "nai_form_kanji": "要らない",
     "dictionary_form": "いる",
-    "dictionary_form_kanji": "要る"
+    "dictionary_form_kanji": "要る",
+    "translation": "I need it"
   },
   {
     "lesson": "29",
@@ -3210,7 +3566,8 @@
     "nai_form": "まちがえない",
     "nai_form_kanji": "間違えない",
     "dictionary_form": "まちがえる",
-    "dictionary_form_kanji": "間違える"
+    "dictionary_form_kanji": "間違える",
+    "translation": "I'm wrong"
   },
   {
     "lesson": "24",
@@ -3219,7 +3576,8 @@
     "nai_form": "つれていかない",
     "nai_form_kanji": "連れて行かない",
     "dictionary_form": "つれていく",
-    "dictionary_form_kanji": "連れて行く"
+    "dictionary_form_kanji": "連れて行く",
+    "translation": "I'll take you"
   },
   {
     "lesson": "34",
@@ -3228,7 +3586,8 @@
     "nai_form": "みつからない",
     "nai_form_kanji": "見つからない",
     "dictionary_form": "みつかる",
-    "dictionary_form_kanji": "見つかる"
+    "dictionary_form_kanji": "見つかる",
+    "translation": "You can find it"
   },
   {
     "lesson": "29",
@@ -3237,7 +3596,8 @@
     "nai_form": "おとさない",
     "nai_form_kanji": "落とさない",
     "dictionary_form": "おとす",
-    "dictionary_form_kanji": "落とす"
+    "dictionary_form_kanji": "落とす",
+    "translation": "I'll drop it"
   },
   {
     "lesson": "26",
@@ -3246,7 +3606,8 @@
     "nai_form": "ひろわない",
     "nai_form_kanji": "拾わない",
     "dictionary_form": "ひろう",
-    "dictionary_form_kanji": "拾う"
+    "dictionary_form_kanji": "拾う",
+    "translation": "I'll pick it up"
   },
   {
     "lesson": "18",
@@ -3255,7 +3616,8 @@
     "nai_form": "うたわない",
     "nai_form_kanji": "歌わない",
     "dictionary_form": "うたう",
-    "dictionary_form_kanji": "歌う"
+    "dictionary_form_kanji": "歌う",
+    "translation": "I'll sing"
   },
   {
     "lesson": "32",
@@ -3264,7 +3626,8 @@
     "nai_form": "ひやさない",
     "nai_form_kanji": "冷やさない",
     "dictionary_form": "ひやす",
-    "dictionary_form_kanji": "冷やす"
+    "dictionary_form_kanji": "冷やす",
+    "translation": "Let it cool"
   },
   {
     "lesson": "38",
@@ -3273,7 +3636,8 @@
     "nai_form": "つかない",
     "nai_form_kanji": null,
     "dictionary_form": "つく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll come on [I'm lying]"
   },
   {
     "lesson": "38",
@@ -3282,7 +3646,8 @@
     "nai_form": "かけない",
     "nai_form_kanji": "掛けない",
     "dictionary_form": "かける",
-    "dictionary_form_kanji": "掛ける"
+    "dictionary_form_kanji": "掛ける",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "46",
@@ -3291,7 +3656,8 @@
     "nai_form": "むかわない",
     "nai_form_kanji": "向かわない",
     "dictionary_form": "むかう",
-    "dictionary_form_kanji": "向かう"
+    "dictionary_form_kanji": "向かう",
+    "translation": "I'm heading"
   },
   {
     "lesson": "13",
@@ -3300,7 +3666,8 @@
     "nai_form": "あそばない",
     "nai_form_kanji": "遊ばない",
     "dictionary_form": "あそぶ",
-    "dictionary_form_kanji": "遊ぶ"
+    "dictionary_form_kanji": "遊ぶ",
+    "translation": "I'll play"
   },
   {
     "lesson": "29",
@@ -3309,7 +3676,8 @@
     "nai_form": "よごれない",
     "nai_form_kanji": "汚れない",
     "dictionary_form": "よごれる",
-    "dictionary_form_kanji": "汚れる"
+    "dictionary_form_kanji": "汚れる",
+    "translation": "It gets dirty"
   },
   {
     "lesson": "40",
@@ -3318,7 +3686,8 @@
     "nai_form": "たしかめない",
     "nai_form_kanji": "確かめない",
     "dictionary_form": "たしかめる",
-    "dictionary_form_kanji": "確かめる"
+    "dictionary_form_kanji": "確かめる",
+    "translation": "I'll check it out"
   },
   {
     "lesson": "38",
@@ -3327,7 +3696,8 @@
     "nai_form": "にゅういんしない",
     "nai_form_kanji": "入院しない",
     "dictionary_form": "にゅういんする",
-    "dictionary_form_kanji": "入院する"
+    "dictionary_form_kanji": "入院する",
+    "translation": "I'll be hospitalized"
   },
   {
     "lesson": "14",
@@ -3336,7 +3706,8 @@
     "nai_form": "つけない",
     "nai_form_kanji": null,
     "dictionary_form": "つける",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll put it on"
   },
   {
     "lesson": "27",
@@ -3345,7 +3716,8 @@
     "nai_form": "たてない",
     "nai_form_kanji": "建てない",
     "dictionary_form": "たてる",
-    "dictionary_form_kanji": "建てる"
+    "dictionary_form_kanji": "建てる",
+    "translation": "I'll build it"
   },
   {
     "lesson": "6",
@@ -3354,7 +3726,8 @@
     "nai_form": "きかない",
     "nai_form_kanji": "聞かない",
     "dictionary_form": "きく",
-    "dictionary_form_kanji": "聞く"
+    "dictionary_form_kanji": "聞く",
+    "translation": "I'll listen"
   },
   {
     "lesson": "34",
@@ -3363,7 +3736,8 @@
     "nai_form": "みがかない",
     "nai_form_kanji": "磨かない",
     "dictionary_form": "みがく",
-    "dictionary_form_kanji": "磨く"
+    "dictionary_form_kanji": "磨く",
+    "translation": "polish"
   },
   {
     "lesson": "29",
@@ -3372,7 +3746,8 @@
     "nai_form": "とりかえない",
     "nai_form_kanji": "取り替えない",
     "dictionary_form": "とりかえる",
-    "dictionary_form_kanji": "取り替える"
+    "dictionary_form_kanji": "取り替える",
+    "translation": "I'll replace it"
   },
   {
     "lesson": "10",
@@ -3381,6 +3756,7 @@
     "nai_form": "いない",
     "nai_form_kanji": null,
     "dictionary_form": "いる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'm here"
   }
 ]

@@ -7,6 +7,7 @@ export type FlashcardType = {
   frontKana?: string
   backKanji?: string
   backKana?: string
+  translation: string
 }
 
 export type SessionFlashcardType = FlashcardType & {

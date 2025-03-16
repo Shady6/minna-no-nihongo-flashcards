@@ -6,7 +6,8 @@
     "ta_form": "つかった",
     "ta_form_kanji": "使った",
     "dictionary_form": "つかう",
-    "dictionary_form_kanji": "使う"
+    "dictionary_form_kanji": "使う",
+    "translation": "I'll use it"
   },
   {
     "lesson": "37",
@@ -15,7 +16,8 @@
     "ta_form": "ちゅういした",
     "ta_form_kanji": "注意した",
     "dictionary_form": "ちゅういする",
-    "dictionary_form_kanji": "注意する"
+    "dictionary_form_kanji": "注意する",
+    "translation": "I'll be careful"
   },
   {
     "lesson": "47",
@@ -24,7 +26,8 @@
     "ta_form": "なくなった",
     "ta_form_kanji": "亡くなった",
     "dictionary_form": "なくなる",
-    "dictionary_form_kanji": "亡くなる"
+    "dictionary_form_kanji": "亡くなる",
+    "translation": "I'll die"
   },
   {
     "lesson": "13",
@@ -33,7 +36,8 @@
     "ta_form": "むかえた",
     "ta_form_kanji": "迎えた",
     "dictionary_form": "むかえる",
-    "dictionary_form_kanji": "迎える"
+    "dictionary_form_kanji": "迎える",
+    "translation": "I'll welcome"
   },
   {
     "lesson": "22",
@@ -42,7 +46,8 @@
     "ta_form": "かけた",
     "ta_form_kanji": null,
     "dictionary_form": "かける",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "40",
@@ -51,7 +56,8 @@
     "ta_form": "よった",
     "ta_form_kanji": "酔った",
     "dictionary_form": "よう",
-    "dictionary_form_kanji": "酔う"
+    "dictionary_form_kanji": "酔う",
+    "translation": "I'm drunk"
   },
   {
     "lesson": "35",
@@ -60,7 +66,8 @@
     "ta_form": "つけた",
     "ta_form_kanji": "付けた",
     "dictionary_form": "つける",
-    "dictionary_form_kanji": "付ける"
+    "dictionary_form_kanji": "付ける",
+    "translation": "I'll put it on"
   },
   {
     "lesson": "4",
@@ -69,7 +76,8 @@
     "ta_form": "おわった",
     "ta_form_kanji": "終わった",
     "dictionary_form": "おわる",
-    "dictionary_form_kanji": "終わる"
+    "dictionary_form_kanji": "終わる",
+    "translation": "It's over"
   },
   {
     "lesson": "32",
@@ -78,7 +86,8 @@
     "ta_form": "すいた",
     "ta_form_kanji": null,
     "dictionary_form": "すく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "22",
@@ -87,7 +96,8 @@
     "ta_form": "かぶった",
     "ta_form_kanji": null,
     "dictionary_form": "かぶる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "6",
@@ -96,7 +106,8 @@
     "ta_form": "かいた",
     "ta_form_kanji": "書いた",
     "dictionary_form": "かく",
-    "dictionary_form_kanji": "書く"
+    "dictionary_form_kanji": "書く",
+    "translation": "I'll write it"
   },
   {
     "lesson": "38",
@@ -105,7 +116,8 @@
     "ta_form": "はこんだ",
     "ta_form_kanji": "運んだ",
     "dictionary_form": "はこぶ",
-    "dictionary_form_kanji": "運ぶ"
+    "dictionary_form_kanji": "運ぶ",
+    "translation": "I'll carry it"
   },
   {
     "lesson": "18",
@@ -114,7 +126,8 @@
     "ta_form": "できた",
     "ta_form_kanji": null,
     "dictionary_form": "できる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "can"
   },
   {
     "lesson": "17",
@@ -123,7 +136,8 @@
     "ta_form": "のんだ",
     "ta_form_kanji": "飲んだ",
     "dictionary_form": "のむ",
-    "dictionary_form_kanji": "飲む"
+    "dictionary_form_kanji": "飲む",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "35",
@@ -132,7 +146,8 @@
     "ta_form": "クリックした",
     "ta_form_kanji": null,
     "dictionary_form": "クリックする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Click"
   },
   {
     "lesson": "36",
@@ -141,7 +156,8 @@
     "ta_form": "チャレンジした",
     "ta_form_kanji": null,
     "dictionary_form": "チャレンジする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll take the challenge"
   },
   {
     "lesson": "35",
@@ -150,7 +166,8 @@
     "ta_form": "かわった",
     "ta_form_kanji": "変わった",
     "dictionary_form": "かわる",
-    "dictionary_form_kanji": "変わる"
+    "dictionary_form_kanji": "変わる",
+    "translation": "It's changing"
   },
   {
     "lesson": "40",
@@ -159,7 +176,8 @@
     "ta_form": "かぞえた",
     "ta_form_kanji": "数えた",
     "dictionary_form": "かぞえる",
-    "dictionary_form_kanji": "数える"
+    "dictionary_form_kanji": "数える",
+    "translation": "I'll count"
   },
   {
     "lesson": "32",
@@ -168,7 +186,8 @@
     "ta_form": "はれた",
     "ta_form_kanji": "晴れた",
     "dictionary_form": "はれる",
-    "dictionary_form_kanji": "晴れる"
+    "dictionary_form_kanji": "晴れる",
+    "translation": "It's sunny"
   },
   {
     "lesson": "40",
@@ -177,7 +196,8 @@
     "ta_form": "たしかめた",
     "ta_form_kanji": "確かめた",
     "dictionary_form": "たしかめる",
-    "dictionary_form_kanji": "確かめる"
+    "dictionary_form_kanji": "確かめる",
+    "translation": "I'll check it out"
   },
   {
     "lesson": "33",
@@ -186,7 +206,8 @@
     "ta_form": "さわいだ",
     "ta_form_kanji": "騒いだ",
     "dictionary_form": "さわぐ",
-    "dictionary_form_kanji": "騒ぐ"
+    "dictionary_form_kanji": "騒ぐ",
+    "translation": "I'm making a fuss"
   },
   {
     "lesson": "33",
@@ -195,7 +216,8 @@
     "ta_form": "ちゅういした",
     "ta_form_kanji": "注意した",
     "dictionary_form": "ちゅういする",
-    "dictionary_form_kanji": "注意する"
+    "dictionary_form_kanji": "注意する",
+    "translation": "I'll be careful"
   },
   {
     "lesson": "26",
@@ -204,7 +226,8 @@
     "ta_form": "だした",
     "ta_form_kanji": "出した",
     "dictionary_form": "だす",
-    "dictionary_form_kanji": "出す"
+    "dictionary_form_kanji": "出す",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "14",
@@ -213,7 +236,8 @@
     "ta_form": "しめた",
     "ta_form_kanji": "閉めた",
     "dictionary_form": "しめる",
-    "dictionary_form_kanji": "閉める"
+    "dictionary_form_kanji": "閉める",
+    "translation": "I'll close it"
   },
   {
     "lesson": "14",
@@ -222,7 +246,8 @@
     "ta_form": "いそいだ",
     "ta_form_kanji": "急いだ",
     "dictionary_form": "いそぐ",
-    "dictionary_form_kanji": "急ぐ"
+    "dictionary_form_kanji": "急ぐ",
+    "translation": "I'm hurry"
   },
   {
     "lesson": "24",
@@ -231,7 +256,8 @@
     "ta_form": "つれていった",
     "ta_form_kanji": "連れて行った",
     "dictionary_form": "つれていく",
-    "dictionary_form_kanji": "連れて行く"
+    "dictionary_form_kanji": "連れて行く",
+    "translation": "I'll take you"
   },
   {
     "lesson": "22",
@@ -240,7 +266,8 @@
     "ta_form": "した",
     "ta_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "11",
@@ -249,7 +276,8 @@
     "ta_form": "いた",
     "ta_form_kanji": null,
     "dictionary_form": "いる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "There is (children...)"
   },
   {
     "lesson": "39",
@@ -258,7 +286,8 @@
     "ta_form": "しんだ",
     "ta_form_kanji": "死んだ",
     "dictionary_form": "しぬ",
-    "dictionary_form_kanji": "死ぬ"
+    "dictionary_form_kanji": "死ぬ",
+    "translation": "I'll die"
   },
   {
     "lesson": "32",
@@ -267,7 +296,8 @@
     "ta_form": "ひいた",
     "ta_form_kanji": null,
     "dictionary_form": "ひく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll pull it"
   },
   {
     "lesson": "14",
@@ -276,7 +306,8 @@
     "ta_form": "コピーした",
     "ta_form_kanji": null,
     "dictionary_form": "コピーする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll copy it"
   },
   {
     "lesson": "14",
@@ -285,7 +316,8 @@
     "ta_form": "おしえた",
     "ta_form_kanji": "教えた",
     "dictionary_form": "おしえる",
-    "dictionary_form_kanji": "教える"
+    "dictionary_form_kanji": "教える",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "18",
@@ -294,7 +326,8 @@
     "ta_form": "ひいた",
     "ta_form_kanji": "弾いた",
     "dictionary_form": "ひく",
-    "dictionary_form_kanji": "弾く"
+    "dictionary_form_kanji": "弾く",
+    "translation": "I'll play"
   },
   {
     "lesson": "33",
@@ -303,7 +336,8 @@
     "ta_form": "しゅっせきした",
     "ta_form_kanji": "出席した",
     "dictionary_form": "しゅっせきする",
-    "dictionary_form_kanji": "出席する"
+    "dictionary_form_kanji": "出席する",
+    "translation": "I'll be attending"
   },
   {
     "lesson": "30",
@@ -312,7 +346,8 @@
     "ta_form": "うえた",
     "ta_form_kanji": "植えた",
     "dictionary_form": "うえる",
-    "dictionary_form_kanji": "植える"
+    "dictionary_form_kanji": "植える",
+    "translation": "I'll plant it"
   },
   {
     "lesson": "17",
@@ -321,7 +356,8 @@
     "ta_form": "おぼえた",
     "ta_form_kanji": "覚えた",
     "dictionary_form": "おぼえる",
-    "dictionary_form_kanji": "覚える"
+    "dictionary_form_kanji": "覚える",
+    "translation": "I'll remember"
   },
   {
     "lesson": "22",
@@ -330,7 +366,8 @@
     "ta_form": "はいた",
     "ta_form_kanji": null,
     "dictionary_form": "はく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "27",
@@ -339,7 +376,8 @@
     "ta_form": "かった",
     "ta_form_kanji": "飼った",
     "dictionary_form": "かう",
-    "dictionary_form_kanji": "飼う"
+    "dictionary_form_kanji": "飼う",
+    "translation": "I'll keep it"
   },
   {
     "lesson": "31",
@@ -348,7 +386,8 @@
     "ta_form": "もうしこんだ",
     "ta_form_kanji": "申し込んだ",
     "dictionary_form": "もうしこむ",
-    "dictionary_form_kanji": "申し込む"
+    "dictionary_form_kanji": "申し込む",
+    "translation": "I'll apply"
   },
   {
     "lesson": "50",
@@ -357,7 +396,8 @@
     "ta_form": "いれた",
     "ta_form_kanji": null,
     "dictionary_form": "いれる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll come"
   },
   {
     "lesson": "43",
@@ -366,7 +406,8 @@
     "ta_form": "あがった",
     "ta_form_kanji": "上がった",
     "dictionary_form": "あがる",
-    "dictionary_form_kanji": "上がる"
+    "dictionary_form_kanji": "上がる",
+    "translation": "It's going up"
   },
   {
     "lesson": "30",
@@ -375,7 +416,8 @@
     "ta_form": "はった",
     "ta_form_kanji": "貼った",
     "dictionary_form": "はる",
-    "dictionary_form_kanji": "貼る"
+    "dictionary_form_kanji": "貼る",
+    "translation": "I'll stick it"
   },
   {
     "lesson": "18",
@@ -384,7 +426,8 @@
     "ta_form": "あつめた",
     "ta_form_kanji": "集めた",
     "dictionary_form": "あつめる",
-    "dictionary_form_kanji": "集める"
+    "dictionary_form_kanji": "集める",
+    "translation": "I'll collect it"
   },
   {
     "lesson": "25",
@@ -393,7 +436,8 @@
     "ta_form": "がんばった",
     "ta_form_kanji": "頑張った",
     "dictionary_form": "がんばる",
-    "dictionary_form_kanji": "頑張る"
+    "dictionary_form_kanji": "頑張る",
+    "translation": "I will do my best"
   },
   {
     "lesson": "22",
@@ -402,7 +446,8 @@
     "ta_form": "きた",
     "ta_form_kanji": "着た",
     "dictionary_form": "きる",
-    "dictionary_form_kanji": "着る"
+    "dictionary_form_kanji": "着る",
+    "translation": "I'll wear it"
   },
   {
     "lesson": "6",
@@ -411,7 +456,8 @@
     "ta_form": "かった",
     "ta_form_kanji": "買った",
     "dictionary_form": "かう",
-    "dictionary_form_kanji": "買う"
+    "dictionary_form_kanji": "買う",
+    "translation": "I'll take it"
   },
   {
     "lesson": "18",
@@ -420,7 +466,8 @@
     "ta_form": "よやくした",
     "ta_form_kanji": "予約した",
     "dictionary_form": "よやくする",
-    "dictionary_form_kanji": "予約する"
+    "dictionary_form_kanji": "予約する",
+    "translation": "I'll make a reservation"
   },
   {
     "lesson": "38",
@@ -429,7 +476,8 @@
     "ta_form": "にゅういんした",
     "ta_form_kanji": "入院した",
     "dictionary_form": "にゅういんする",
-    "dictionary_form_kanji": "入院する"
+    "dictionary_form_kanji": "入院する",
+    "translation": "I'll be hospitalized"
   },
   {
     "lesson": "35",
@@ -438,7 +486,8 @@
     "ta_form": "なおった",
     "ta_form_kanji": "治った",
     "dictionary_form": "なおる",
-    "dictionary_form_kanji": "治る"
+    "dictionary_form_kanji": "治る",
+    "translation": "It will heal"
   },
   {
     "lesson": "38",
@@ -447,7 +496,8 @@
     "ta_form": "そだてた",
     "ta_form_kanji": "育てた",
     "dictionary_form": "そだてる",
-    "dictionary_form_kanji": "育てる"
+    "dictionary_form_kanji": "育てる",
+    "translation": "I'll grow it"
   },
   {
     "lesson": "43",
@@ -456,7 +506,8 @@
     "ta_form": "ふえた",
     "ta_form_kanji": "増えた",
     "dictionary_form": "ふえる",
-    "dictionary_form_kanji": "増える"
+    "dictionary_form_kanji": "増える",
+    "translation": "It'll increase"
   },
   {
     "lesson": "6",
@@ -465,7 +516,8 @@
     "ta_form": "たべた",
     "ta_form_kanji": "食べた",
     "dictionary_form": "たべる",
-    "dictionary_form_kanji": "食べる"
+    "dictionary_form_kanji": "食べる",
+    "translation": "I'll eat"
   },
   {
     "lesson": "16",
@@ -474,7 +526,8 @@
     "ta_form": "はいった",
     "ta_form_kanji": "入った",
     "dictionary_form": "はいる",
-    "dictionary_form_kanji": "入る"
+    "dictionary_form_kanji": "入る",
+    "translation": "enter"
   },
   {
     "lesson": "47",
@@ -483,7 +536,8 @@
     "ta_form": "した",
     "ta_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "34",
@@ -492,7 +546,8 @@
     "ta_form": "みつかった",
     "ta_form_kanji": "見つかった",
     "dictionary_form": "みつかる",
-    "dictionary_form_kanji": "見つかる"
+    "dictionary_form_kanji": "見つかる",
+    "translation": "You can find it"
   },
   {
     "lesson": "17",
@@ -501,7 +556,8 @@
     "ta_form": "でかけた",
     "ta_form_kanji": "出かけた",
     "dictionary_form": "でかける",
-    "dictionary_form_kanji": "出かける"
+    "dictionary_form_kanji": "出かける",
+    "translation": "I'm going out"
   },
   {
     "lesson": "15",
@@ -510,7 +566,8 @@
     "ta_form": "おもいだした",
     "ta_form_kanji": "思い出した",
     "dictionary_form": "おもいだす",
-    "dictionary_form_kanji": "思い出す"
+    "dictionary_form_kanji": "思い出す",
+    "translation": "I remember"
   },
   {
     "lesson": "45",
@@ -519,7 +576,8 @@
     "ta_form": "しらせた",
     "ta_form_kanji": "知らせた",
     "dictionary_form": "しらせる",
-    "dictionary_form_kanji": "知らせる"
+    "dictionary_form_kanji": "知らせる",
+    "translation": "I'll let you know"
   },
   {
     "lesson": "44",
@@ -528,7 +586,8 @@
     "ta_form": "ぬれた",
     "ta_form_kanji": null,
     "dictionary_form": "ぬれる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It's wet"
   },
   {
     "lesson": "32",
@@ -537,7 +596,8 @@
     "ta_form": "しっぱいした",
     "ta_form_kanji": "失敗した",
     "dictionary_form": "しっぱいする",
-    "dictionary_form_kanji": "失敗する"
+    "dictionary_form_kanji": "失敗する",
+    "translation": "It's failing"
   },
   {
     "lesson": "49",
@@ -546,7 +606,8 @@
     "ta_form": "かけた",
     "ta_form_kanji": "掛けた",
     "dictionary_form": "かける",
-    "dictionary_form_kanji": "掛ける"
+    "dictionary_form_kanji": "掛ける",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "43",
@@ -555,7 +616,8 @@
     "ta_form": "とれた",
     "ta_form_kanji": "取れた",
     "dictionary_form": "とれる",
-    "dictionary_form_kanji": "取れる"
+    "dictionary_form_kanji": "取れる",
+    "translation": "I can take it"
   },
   {
     "lesson": "16",
@@ -564,7 +626,8 @@
     "ta_form": "おした",
     "ta_form_kanji": "押した",
     "dictionary_form": "おす",
-    "dictionary_form_kanji": "押す"
+    "dictionary_form_kanji": "押す",
+    "translation": "Press"
   },
   {
     "lesson": "35",
@@ -573,7 +636,8 @@
     "ta_form": "なおった",
     "ta_form_kanji": "直った",
     "dictionary_form": "なおる",
-    "dictionary_form_kanji": "直る"
+    "dictionary_form_kanji": "直る",
+    "translation": "It'll fix it"
   },
   {
     "lesson": "50",
@@ -582,7 +646,8 @@
     "ta_form": "よういした",
     "ta_form_kanji": "用意した",
     "dictionary_form": "よういする",
-    "dictionary_form_kanji": "用意する"
+    "dictionary_form_kanji": "用意する",
+    "translation": "I'll prepare it"
   },
   {
     "lesson": "23",
@@ -591,7 +656,8 @@
     "ta_form": "きいた",
     "ta_form_kanji": "聞いた",
     "dictionary_form": "きく",
-    "dictionary_form_kanji": "聞く"
+    "dictionary_form_kanji": "聞く",
+    "translation": "I'll listen"
   },
   {
     "lesson": "41",
@@ -600,7 +666,8 @@
     "ta_form": "さげた",
     "ta_form_kanji": "下げた",
     "dictionary_form": "さげる",
-    "dictionary_form_kanji": "下げる"
+    "dictionary_form_kanji": "下げる",
+    "translation": "I'll lower it"
   },
   {
     "lesson": "15",
@@ -609,7 +676,8 @@
     "ta_form": "つくった",
     "ta_form_kanji": "作った",
     "dictionary_form": "つくる",
-    "dictionary_form_kanji": "作る"
+    "dictionary_form_kanji": "作る",
+    "translation": "I'll make/make"
   },
   {
     "lesson": "28",
@@ -618,7 +686,8 @@
     "ta_form": "おどった",
     "ta_form_kanji": "踊った",
     "dictionary_form": "おどる",
-    "dictionary_form_kanji": "踊る"
+    "dictionary_form_kanji": "踊る",
+    "translation": "I'll dance"
   },
   {
     "lesson": "19",
@@ -627,7 +696,8 @@
     "ta_form": "のぼった",
     "ta_form_kanji": "登った",
     "dictionary_form": "のぼる",
-    "dictionary_form_kanji": "登る"
+    "dictionary_form_kanji": "登る",
+    "translation": "I'll climb"
   },
   {
     "lesson": "31",
@@ -636,7 +706,8 @@
     "ta_form": "みつけた",
     "ta_form_kanji": "見つけた",
     "dictionary_form": "みつける",
-    "dictionary_form_kanji": "見つける"
+    "dictionary_form_kanji": "見つける",
+    "translation": "I'll find it"
   },
   {
     "lesson": "16",
@@ -645,7 +716,8 @@
     "ta_form": "はじめた",
     "ta_form_kanji": "始めた",
     "dictionary_form": "はじめる",
-    "dictionary_form_kanji": "始める"
+    "dictionary_form_kanji": "始める",
+    "translation": "I'll start"
   },
   {
     "lesson": "39",
@@ -654,7 +726,8 @@
     "ta_form": "りこんした",
     "ta_form_kanji": "離婚した",
     "dictionary_form": "りこんする",
-    "dictionary_form_kanji": "離婚する"
+    "dictionary_form_kanji": "離婚する",
+    "translation": "I'm going to divorce"
   },
   {
     "lesson": "14",
@@ -663,7 +736,8 @@
     "ta_form": "とった",
     "ta_form_kanji": "取った",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "取る"
+    "dictionary_form_kanji": "取る",
+    "translation": "I'll take it"
   },
   {
     "lesson": "14",
@@ -672,7 +746,8 @@
     "ta_form": "でた",
     "ta_form_kanji": "出た",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "25",
@@ -681,7 +756,8 @@
     "ta_form": "かんがえた",
     "ta_form_kanji": "考えた",
     "dictionary_form": "かんがえる",
-    "dictionary_form_kanji": "考える"
+    "dictionary_form_kanji": "考える",
+    "translation": "I'll think about it"
   },
   {
     "lesson": "28",
@@ -690,7 +766,8 @@
     "ta_form": "うれた",
     "ta_form_kanji": "売れた",
     "dictionary_form": "うれる",
-    "dictionary_form_kanji": "売れる"
+    "dictionary_form_kanji": "売れる",
+    "translation": "It sells"
   },
   {
     "lesson": "6",
@@ -699,7 +776,8 @@
     "ta_form": "あった",
     "ta_form_kanji": "会った",
     "dictionary_form": "あう",
-    "dictionary_form_kanji": "会う"
+    "dictionary_form_kanji": "会う",
+    "translation": "I'll meet"
   },
   {
     "lesson": "37",
@@ -708,7 +786,8 @@
     "ta_form": "さそった",
     "ta_form_kanji": "誘った",
     "dictionary_form": "さそう",
-    "dictionary_form_kanji": "誘う"
+    "dictionary_form_kanji": "誘う",
+    "translation": "I'll invite you"
   },
   {
     "lesson": "20",
@@ -717,7 +796,8 @@
     "ta_form": "しゅうりした",
     "ta_form_kanji": "修理した",
     "dictionary_form": "しゅうりする",
-    "dictionary_form_kanji": "修理する"
+    "dictionary_form_kanji": "修理する",
+    "translation": "I'll repair it"
   },
   {
     "lesson": "23",
@@ -726,7 +806,8 @@
     "ta_form": "あるいた",
     "ta_form_kanji": "歩いた",
     "dictionary_form": "あるく",
-    "dictionary_form_kanji": "歩く"
+    "dictionary_form_kanji": "歩く",
+    "translation": "I'm going to walk"
   },
   {
     "lesson": "17",
@@ -735,7 +816,8 @@
     "ta_form": "しんぱいした",
     "ta_form_kanji": "心配した",
     "dictionary_form": "しんぱいする",
-    "dictionary_form_kanji": "心配する"
+    "dictionary_form_kanji": "心配する",
+    "translation": "I'm worried"
   },
   {
     "lesson": "46",
@@ -744,7 +826,8 @@
     "ta_form": "でた",
     "ta_form_kanji": "出た",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "38",
@@ -753,7 +836,8 @@
     "ta_form": "さんかした",
     "ta_form_kanji": "参加した",
     "dictionary_form": "さんかする",
-    "dictionary_form_kanji": "参加する"
+    "dictionary_form_kanji": "参加する",
+    "translation": "join"
   },
   {
     "lesson": "25",
@@ -762,7 +846,8 @@
     "ta_form": "たりた",
     "ta_form_kanji": "足りた",
     "dictionary_form": "たりる",
-    "dictionary_form_kanji": "足りる"
+    "dictionary_form_kanji": "足りる",
+    "translation": "It's enough"
   },
   {
     "lesson": "40",
@@ -771,7 +856,8 @@
     "ta_form": "うまくいった",
     "ta_form_kanji": null,
     "dictionary_form": "うまくいく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It's going well"
   },
   {
     "lesson": "37",
@@ -780,7 +866,8 @@
     "ta_form": "しかった",
     "ta_form_kanji": null,
     "dictionary_form": "しかる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "That's right"
   },
   {
     "lesson": "50",
@@ -789,7 +876,8 @@
     "ta_form": "きんちょうした",
     "ta_form_kanji": "緊張した",
     "dictionary_form": "きんちょうする",
-    "dictionary_form_kanji": "緊張する"
+    "dictionary_form_kanji": "緊張する",
+    "translation": "I'm nervous"
   },
   {
     "lesson": "21",
@@ -798,7 +886,8 @@
     "ta_form": "りゅうがくした",
     "ta_form_kanji": "留学した",
     "dictionary_form": "りゅうがくする",
-    "dictionary_form_kanji": "留学する"
+    "dictionary_form_kanji": "留学する",
+    "translation": "I'm going to study abroad"
   },
   {
     "lesson": "11",
@@ -807,7 +896,8 @@
     "ta_form": "いた",
     "ta_form_kanji": null,
     "dictionary_form": "いる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'm here (in Japan)"
   },
   {
     "lesson": "34",
@@ -816,7 +906,8 @@
     "ta_form": "さした",
     "ta_form_kanji": null,
     "dictionary_form": "さす",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll say"
   },
   {
     "lesson": "33",
@@ -825,7 +916,8 @@
     "ta_form": "まもった",
     "ta_form_kanji": "守った",
     "dictionary_form": "まもる",
-    "dictionary_form_kanji": "守る"
+    "dictionary_form_kanji": "守る",
+    "translation": "I'll protect it"
   },
   {
     "lesson": "38",
@@ -834,7 +926,8 @@
     "ta_form": "せいりした",
     "ta_form_kanji": "整理した",
     "dictionary_form": "せいりする",
-    "dictionary_form_kanji": "整理する"
+    "dictionary_form_kanji": "整理する",
+    "translation": "I'll sort it out"
   },
   {
     "lesson": "23",
@@ -843,7 +936,8 @@
     "ta_form": "さわった",
     "ta_form_kanji": "触った",
     "dictionary_form": "さわる",
-    "dictionary_form_kanji": "触る"
+    "dictionary_form_kanji": "触る",
+    "translation": "I'll touch it"
   },
   {
     "lesson": "18",
@@ -852,7 +946,8 @@
     "ta_form": "かえた",
     "ta_form_kanji": "換えた",
     "dictionary_form": "かえる",
-    "dictionary_form_kanji": "換える"
+    "dictionary_form_kanji": "換える",
+    "translation": "I'll change it"
   },
   {
     "lesson": "6",
@@ -861,7 +956,8 @@
     "ta_form": "みた",
     "ta_form_kanji": "見た",
     "dictionary_form": "みる",
-    "dictionary_form_kanji": "見る"
+    "dictionary_form_kanji": "見る",
+    "translation": "I'll see"
   },
   {
     "lesson": "6",
@@ -870,7 +966,8 @@
     "ta_form": "のんだ",
     "ta_form_kanji": "飲んだ",
     "dictionary_form": "のむ",
-    "dictionary_form_kanji": "飲む"
+    "dictionary_form_kanji": "飲む",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "27",
@@ -879,7 +976,8 @@
     "ta_form": "たてた",
     "ta_form_kanji": "建てた",
     "dictionary_form": "たてる",
-    "dictionary_form_kanji": "建てる"
+    "dictionary_form_kanji": "建てる",
+    "translation": "I'll build it"
   },
   {
     "lesson": "20",
@@ -888,7 +986,8 @@
     "ta_form": "しらべた",
     "ta_form_kanji": "調べた",
     "dictionary_form": "しらべる",
-    "dictionary_form_kanji": "調べる"
+    "dictionary_form_kanji": "調べる",
+    "translation": "I'll look into it"
   },
   {
     "lesson": "40",
@@ -897,7 +996,8 @@
     "ta_form": "そうだんした",
     "ta_form_kanji": "相談した",
     "dictionary_form": "そうだんする",
-    "dictionary_form_kanji": "相談する"
+    "dictionary_form_kanji": "相談する",
+    "translation": "I'll talk"
   },
   {
     "lesson": "23",
@@ -906,7 +1006,8 @@
     "ta_form": "ひいた",
     "ta_form_kanji": "引いた",
     "dictionary_form": "ひく",
-    "dictionary_form_kanji": "引く"
+    "dictionary_form_kanji": "引く",
+    "translation": "I'll pull"
   },
   {
     "lesson": "39",
@@ -915,7 +1016,8 @@
     "ta_form": "ぶつかった",
     "ta_form_kanji": null,
     "dictionary_form": "ぶつかる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll bump into it"
   },
   {
     "lesson": "16",
@@ -924,7 +1026,8 @@
     "ta_form": "あびた",
     "ta_form_kanji": "浴びた",
     "dictionary_form": "あびる",
-    "dictionary_form_kanji": "浴びる"
+    "dictionary_form_kanji": "浴びる",
+    "translation": "I'll take a shower [Shower]"
   },
   {
     "lesson": "15",
@@ -933,7 +1036,8 @@
     "ta_form": "しった",
     "ta_form_kanji": "知った",
     "dictionary_form": "しる",
-    "dictionary_form_kanji": "知る"
+    "dictionary_form_kanji": "知る",
+    "translation": "I'll know"
   },
   {
     "lesson": "29",
@@ -942,7 +1046,8 @@
     "ta_form": "はずれた",
     "ta_form_kanji": "外れた",
     "dictionary_form": "はずれる",
-    "dictionary_form_kanji": "外れる"
+    "dictionary_form_kanji": "外れる",
+    "translation": "It's off"
   },
   {
     "lesson": "30",
@@ -951,7 +1056,8 @@
     "ta_form": "ならべた",
     "ta_form_kanji": "並べた",
     "dictionary_form": "ならべる",
-    "dictionary_form_kanji": "並べる"
+    "dictionary_form_kanji": "並べる",
+    "translation": "I'll line it up"
   },
   {
     "lesson": "46",
@@ -960,7 +1066,8 @@
     "ta_form": "むかった",
     "ta_form_kanji": "向かった",
     "dictionary_form": "むかう",
-    "dictionary_form_kanji": "向かう"
+    "dictionary_form_kanji": "向かう",
+    "translation": "I'm heading"
   },
   {
     "lesson": "32",
@@ -969,7 +1076,8 @@
     "ta_form": "うんどうした",
     "ta_form_kanji": "運動した",
     "dictionary_form": "うんどうする",
-    "dictionary_form_kanji": "運動する"
+    "dictionary_form_kanji": "運動する",
+    "translation": "I'll exercise"
   },
   {
     "lesson": "39",
@@ -978,7 +1086,8 @@
     "ta_form": "ふとった",
     "ta_form_kanji": "太った",
     "dictionary_form": "ふとる",
-    "dictionary_form_kanji": "太る"
+    "dictionary_form_kanji": "太る",
+    "translation": "I'm gaining weight"
   },
   {
     "lesson": "40",
@@ -987,7 +1096,8 @@
     "ta_form": "でた",
     "ta_form_kanji": "出た",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "36",
@@ -996,7 +1106,8 @@
     "ta_form": "あった",
     "ta_form_kanji": null,
     "dictionary_form": "あう",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "7",
@@ -1005,7 +1116,8 @@
     "ta_form": "おくった",
     "ta_form_kanji": "送った",
     "dictionary_form": "おくる",
-    "dictionary_form_kanji": "送る"
+    "dictionary_form_kanji": "送る",
+    "translation": "send"
   },
   {
     "lesson": "7",
@@ -1014,7 +1126,8 @@
     "ta_form": "かした",
     "ta_form_kanji": "貸した",
     "dictionary_form": "かす",
-    "dictionary_form_kanji": "貸す"
+    "dictionary_form_kanji": "貸す",
+    "translation": "lend"
   },
   {
     "lesson": "21",
@@ -1023,7 +1136,8 @@
     "ta_form": "うごいた",
     "ta_form_kanji": "動いた",
     "dictionary_form": "うごく",
-    "dictionary_form_kanji": "動く"
+    "dictionary_form_kanji": "動く",
+    "translation": "It's moving"
   },
   {
     "lesson": "17",
@@ -1032,7 +1146,8 @@
     "ta_form": "しゅっちょうした",
     "ta_form_kanji": "出張した",
     "dictionary_form": "しゅっちょうする",
-    "dictionary_form_kanji": "出張する"
+    "dictionary_form_kanji": "出張する",
+    "translation": "I'm going on a business trip"
   },
   {
     "lesson": "45",
@@ -1041,7 +1156,8 @@
     "ta_form": "ゆうしょうした",
     "ta_form_kanji": "優勝した",
     "dictionary_form": "ゆうしょうする",
-    "dictionary_form_kanji": "優勝する"
+    "dictionary_form_kanji": "優勝する",
+    "translation": "I'll win"
   },
   {
     "lesson": "33",
@@ -1050,7 +1166,8 @@
     "ta_form": "はずした",
     "ta_form_kanji": "外した",
     "dictionary_form": "はずす",
-    "dictionary_form_kanji": "外す"
+    "dictionary_form_kanji": "外す",
+    "translation": "I'll remove it"
   },
   {
     "lesson": "29",
@@ -1059,7 +1176,8 @@
     "ta_form": "とまった",
     "ta_form_kanji": "止まった",
     "dictionary_form": "とまる",
-    "dictionary_form_kanji": "止まる"
+    "dictionary_form_kanji": "止まる",
+    "translation": "It's stopping"
   },
   {
     "lesson": "10",
@@ -1068,7 +1186,8 @@
     "ta_form": "いた",
     "ta_form_kanji": null,
     "dictionary_form": "いる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'm here"
   },
   {
     "lesson": "9",
@@ -1077,7 +1196,8 @@
     "ta_form": "わかった",
     "ta_form_kanji": null,
     "dictionary_form": "わかる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I understand"
   },
   {
     "lesson": "36",
@@ -1086,7 +1206,8 @@
     "ta_form": "すぎた",
     "ta_form_kanji": "過ぎた",
     "dictionary_form": "すぎる",
-    "dictionary_form_kanji": "過ぎる"
+    "dictionary_form_kanji": "過ぎる",
+    "translation": "It's past"
   },
   {
     "lesson": "6",
@@ -1095,7 +1216,8 @@
     "ta_form": "とった",
     "ta_form_kanji": "撮った",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "撮る"
+    "dictionary_form_kanji": "撮る",
+    "translation": "I'll take a picture"
   },
   {
     "lesson": "21",
@@ -1104,7 +1226,8 @@
     "ta_form": "かった",
     "ta_form_kanji": "勝った",
     "dictionary_form": "かつ",
-    "dictionary_form_kanji": "勝つ"
+    "dictionary_form_kanji": "勝つ",
+    "translation": "I'll win"
   },
   {
     "lesson": "29",
@@ -1113,7 +1236,8 @@
     "ta_form": "かたづけた",
     "ta_form_kanji": "片づけた",
     "dictionary_form": "かたづける",
-    "dictionary_form_kanji": "片づける"
+    "dictionary_form_kanji": "片づける",
+    "translation": "I'll clean it up"
   },
   {
     "lesson": "31",
@@ -1122,7 +1246,8 @@
     "ta_form": "つづけた",
     "ta_form_kanji": "続けた",
     "dictionary_form": "つづける",
-    "dictionary_form_kanji": "続ける"
+    "dictionary_form_kanji": "続ける",
+    "translation": "I'll continue"
   },
   {
     "lesson": "34",
@@ -1131,7 +1256,8 @@
     "ta_form": "つけた",
     "ta_form_kanji": null,
     "dictionary_form": "つける",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll put it on"
   },
   {
     "lesson": "32",
@@ -1140,7 +1266,8 @@
     "ta_form": "ひやした",
     "ta_form_kanji": "冷やした",
     "dictionary_form": "ひやす",
-    "dictionary_form_kanji": "冷やす"
+    "dictionary_form_kanji": "冷やす",
+    "translation": "Let it cool"
   },
   {
     "lesson": "41",
@@ -1149,7 +1276,8 @@
     "ta_form": "やった",
     "ta_form_kanji": null,
     "dictionary_form": "やる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "24",
@@ -1158,7 +1286,8 @@
     "ta_form": "なおした",
     "ta_form_kanji": "直した",
     "dictionary_form": "なおす",
-    "dictionary_form_kanji": "直す"
+    "dictionary_form_kanji": "直す",
+    "translation": "I'll fix it"
   },
   {
     "lesson": "24",
@@ -1167,7 +1296,8 @@
     "ta_form": "おくった",
     "ta_form_kanji": "送った",
     "dictionary_form": "おくる",
-    "dictionary_form_kanji": "送る"
+    "dictionary_form_kanji": "送る",
+    "translation": "send"
   },
   {
     "lesson": "25",
@@ -1176,7 +1306,8 @@
     "ta_form": "ついた",
     "ta_form_kanji": "着いた",
     "dictionary_form": "つく",
-    "dictionary_form_kanji": "着く"
+    "dictionary_form_kanji": "着く",
+    "translation": "I'll arrive"
   },
   {
     "lesson": "35",
@@ -1185,7 +1316,8 @@
     "ta_form": "こまった",
     "ta_form_kanji": "困った",
     "dictionary_form": "こまる",
-    "dictionary_form_kanji": "困る"
+    "dictionary_form_kanji": "困る",
+    "translation": "It's a problem"
   },
   {
     "lesson": "34",
@@ -1194,7 +1326,8 @@
     "ta_form": "のせた",
     "ta_form_kanji": "載せた",
     "dictionary_form": "のせる",
-    "dictionary_form_kanji": "載せる"
+    "dictionary_form_kanji": "載せる",
+    "translation": "I'll post it"
   },
   {
     "lesson": "47",
@@ -1203,7 +1336,8 @@
     "ta_form": "ふいた",
     "ta_form_kanji": "吹いた",
     "dictionary_form": "ふく",
-    "dictionary_form_kanji": "吹く"
+    "dictionary_form_kanji": "吹く",
+    "translation": "I'll blow"
   },
   {
     "lesson": "38",
@@ -1212,7 +1346,8 @@
     "ta_form": "おした",
     "ta_form_kanji": "押した",
     "dictionary_form": "おす",
-    "dictionary_form_kanji": "押す"
+    "dictionary_form_kanji": "押す",
+    "translation": "Press"
   },
   {
     "lesson": "14",
@@ -1221,7 +1356,8 @@
     "ta_form": "はいった",
     "ta_form_kanji": "入った",
     "dictionary_form": "はいる",
-    "dictionary_form_kanji": "入る"
+    "dictionary_form_kanji": "入る",
+    "translation": "enter"
   },
   {
     "lesson": "14",
@@ -1230,7 +1366,8 @@
     "ta_form": "けした",
     "ta_form_kanji": "消した",
     "dictionary_form": "けす",
-    "dictionary_form_kanji": "消す"
+    "dictionary_form_kanji": "消す",
+    "translation": "erase"
   },
   {
     "lesson": "30",
@@ -1239,7 +1376,8 @@
     "ta_form": "きめた",
     "ta_form_kanji": "決めた",
     "dictionary_form": "きめる",
-    "dictionary_form_kanji": "決める"
+    "dictionary_form_kanji": "決める",
+    "translation": "I'll decide"
   },
   {
     "lesson": "37",
@@ -1248,7 +1386,8 @@
     "ta_form": "はっけんした",
     "ta_form_kanji": "発見した",
     "dictionary_form": "はっけんする",
-    "dictionary_form_kanji": "発見する"
+    "dictionary_form_kanji": "発見する",
+    "translation": "I'll discover"
   },
   {
     "lesson": "14",
@@ -1257,7 +1396,8 @@
     "ta_form": "もった",
     "ta_form_kanji": "持った",
     "dictionary_form": "もつ",
-    "dictionary_form_kanji": "持つ"
+    "dictionary_form_kanji": "持つ",
+    "translation": "I'll have it"
   },
   {
     "lesson": "42",
@@ -1266,7 +1406,8 @@
     "ta_form": "つつんだ",
     "ta_form_kanji": "包んだ",
     "dictionary_form": "つつむ",
-    "dictionary_form_kanji": "包む"
+    "dictionary_form_kanji": "包む",
+    "translation": "I'll wrap it"
   },
   {
     "lesson": "29",
@@ -1275,7 +1416,8 @@
     "ta_form": "よごれた",
     "ta_form_kanji": "汚れた",
     "dictionary_form": "よごれる",
-    "dictionary_form_kanji": "汚れる"
+    "dictionary_form_kanji": "汚れる",
+    "translation": "It gets dirty"
   },
   {
     "lesson": "45",
@@ -1284,7 +1426,8 @@
     "ta_form": "キャンセルした",
     "ta_form_kanji": null,
     "dictionary_form": "キャンセルする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll cancel"
   },
   {
     "lesson": "16",
@@ -1293,7 +1436,8 @@
     "ta_form": "のりかえた",
     "ta_form_kanji": "乗り換えた",
     "dictionary_form": "のりかえる",
-    "dictionary_form_kanji": "乗り換える"
+    "dictionary_form_kanji": "乗り換える",
+    "translation": "I'll switch"
   },
   {
     "lesson": "28",
@@ -1302,7 +1446,8 @@
     "ta_form": "かよった",
     "ta_form_kanji": "通った",
     "dictionary_form": "かよう",
-    "dictionary_form_kanji": "通う"
+    "dictionary_form_kanji": "通う",
+    "translation": "I'm going"
   },
   {
     "lesson": "43",
@@ -1311,7 +1456,8 @@
     "ta_form": "へった",
     "ta_form_kanji": "減った",
     "dictionary_form": "へる",
-    "dictionary_form_kanji": "減る"
+    "dictionary_form_kanji": "減る",
+    "translation": "It'll decrease"
   },
   {
     "lesson": "34",
@@ -1320,7 +1466,8 @@
     "ta_form": "おった",
     "ta_form_kanji": "折った",
     "dictionary_form": "おる",
-    "dictionary_form_kanji": "折る"
+    "dictionary_form_kanji": "折る",
+    "translation": "Fold"
   },
   {
     "lesson": "26",
@@ -1329,7 +1476,8 @@
     "ta_form": "みた",
     "ta_form_kanji": "見た",
     "dictionary_form": "みる",
-    "dictionary_form_kanji": "見る"
+    "dictionary_form_kanji": "見る",
+    "translation": "I'll see, I'll examine you"
   },
   {
     "lesson": "29",
@@ -1338,7 +1486,8 @@
     "ta_form": "まちがえた",
     "ta_form_kanji": "間違えた",
     "dictionary_form": "まちがえる",
-    "dictionary_form_kanji": "間違える"
+    "dictionary_form_kanji": "間違える",
+    "translation": "I'm wrong"
   },
   {
     "lesson": "13",
@@ -1347,7 +1496,8 @@
     "ta_form": "けっこんした",
     "ta_form_kanji": "結婚した",
     "dictionary_form": "けっこんする",
-    "dictionary_form_kanji": "結婚する"
+    "dictionary_form_kanji": "結婚する",
+    "translation": "I'm getting married"
   },
   {
     "lesson": "39",
@@ -1356,7 +1506,8 @@
     "ta_form": "やせた",
     "ta_form_kanji": null,
     "dictionary_form": "やせる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll lose weight"
   },
   {
     "lesson": "29",
@@ -1365,7 +1516,8 @@
     "ta_form": "とりかえた",
     "ta_form_kanji": "取り替えた",
     "dictionary_form": "とりかえる",
-    "dictionary_form_kanji": "取り替える"
+    "dictionary_form_kanji": "取り替える",
+    "translation": "I'll replace it"
   },
   {
     "lesson": "14",
@@ -1374,7 +1526,8 @@
     "ta_form": "みせた",
     "ta_form_kanji": "見せた",
     "dictionary_form": "みせる",
-    "dictionary_form_kanji": "見せる"
+    "dictionary_form_kanji": "見せる",
+    "translation": "I'll show it"
   },
   {
     "lesson": "37",
@@ -1383,7 +1536,8 @@
     "ta_form": "たのんだ",
     "ta_form_kanji": "頼んだ",
     "dictionary_form": "たのむ",
-    "dictionary_form_kanji": "頼む"
+    "dictionary_form_kanji": "頼む",
+    "translation": "I'll ask"
   },
   {
     "lesson": "48",
@@ -1392,7 +1546,8 @@
     "ta_form": "とどけた",
     "ta_form_kanji": "届けた",
     "dictionary_form": "とどける",
-    "dictionary_form_kanji": "届ける"
+    "dictionary_form_kanji": "届ける",
+    "translation": "I'll deliver it"
   },
   {
     "lesson": "45",
@@ -1401,7 +1556,8 @@
     "ta_form": "しんじた",
     "ta_form_kanji": "信じた",
     "dictionary_form": "しんじる",
-    "dictionary_form_kanji": "信じる"
+    "dictionary_form_kanji": "信じる",
+    "translation": "I believe it"
   },
   {
     "lesson": "32",
@@ -1410,7 +1566,8 @@
     "ta_form": "せいこうした",
     "ta_form_kanji": "成功した",
     "dictionary_form": "せいこうする",
-    "dictionary_form_kanji": "成功する"
+    "dictionary_form_kanji": "成功する",
+    "translation": "It'll be successful"
   },
   {
     "lesson": "13",
@@ -1419,7 +1576,8 @@
     "ta_form": "さんぽした",
     "ta_form_kanji": "散歩した",
     "dictionary_form": "さんぽする",
-    "dictionary_form_kanji": "散歩する"
+    "dictionary_form_kanji": "散歩する",
+    "translation": "I'll take a walk"
   },
   {
     "lesson": "17",
@@ -1428,7 +1586,8 @@
     "ta_form": "はらった",
     "ta_form_kanji": "払った",
     "dictionary_form": "はらう",
-    "dictionary_form_kanji": "払う"
+    "dictionary_form_kanji": "払う",
+    "translation": "I'll pay"
   },
   {
     "lesson": "41",
@@ -1437,7 +1596,8 @@
     "ta_form": "しんせつにした",
     "ta_form_kanji": "親切にした",
     "dictionary_form": "しんせつにする",
-    "dictionary_form_kanji": "親切にする"
+    "dictionary_form_kanji": "親切にする",
+    "translation": "I'll be kind"
   },
   {
     "lesson": "29",
@@ -1446,7 +1606,8 @@
     "ta_form": "しまった",
     "ta_form_kanji": "閉まった",
     "dictionary_form": "しまる",
-    "dictionary_form_kanji": "閉まる"
+    "dictionary_form_kanji": "閉まる",
+    "translation": "It's closed"
   },
   {
     "lesson": "49",
@@ -1455,7 +1616,8 @@
     "ta_form": "じゅしょうした",
     "ta_form_kanji": "受賞した",
     "dictionary_form": "じゅしょうする",
-    "dictionary_form_kanji": "受賞する"
+    "dictionary_form_kanji": "受賞する",
+    "translation": "I'll be awarded"
   },
   {
     "lesson": "23",
@@ -1464,7 +1626,8 @@
     "ta_form": "かえた",
     "ta_form_kanji": "変えた",
     "dictionary_form": "かえる",
-    "dictionary_form_kanji": "変える"
+    "dictionary_form_kanji": "変える",
+    "translation": "I'll change it"
   },
   {
     "lesson": "7",
@@ -1473,7 +1636,8 @@
     "ta_form": "ならった",
     "ta_form_kanji": "習った",
     "dictionary_form": "ならう",
-    "dictionary_form_kanji": "習う"
+    "dictionary_form_kanji": "習う",
+    "translation": "I'll learn"
   },
   {
     "lesson": "13",
@@ -1482,7 +1646,8 @@
     "ta_form": "あそんだ",
     "ta_form_kanji": "遊んだ",
     "dictionary_form": "あそぶ",
-    "dictionary_form_kanji": "遊ぶ"
+    "dictionary_form_kanji": "遊ぶ",
+    "translation": "I'll play"
   },
   {
     "lesson": "47",
@@ -1491,7 +1656,8 @@
     "ta_form": "しりあった",
     "ta_form_kanji": "知り合った",
     "dictionary_form": "しりあう",
-    "dictionary_form_kanji": "知り合う"
+    "dictionary_form_kanji": "知り合う",
+    "translation": "I'll know you"
   },
   {
     "lesson": "21",
@@ -1500,7 +1666,8 @@
     "ta_form": "あった",
     "ta_form_kanji": null,
     "dictionary_form": "ある",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "15",
@@ -1509,7 +1676,8 @@
     "ta_form": "うった",
     "ta_form_kanji": "売った",
     "dictionary_form": "うる",
-    "dictionary_form_kanji": "売る"
+    "dictionary_form_kanji": "売る",
+    "translation": "I'll sell it"
   },
   {
     "lesson": "29",
@@ -1518,7 +1686,8 @@
     "ta_form": "ついた",
     "ta_form_kanji": "付いた",
     "dictionary_form": "つく",
-    "dictionary_form_kanji": "付く"
+    "dictionary_form_kanji": "付く",
+    "translation": "Comes with"
   },
   {
     "lesson": "48",
@@ -1527,7 +1696,8 @@
     "ta_form": "せわをした",
     "ta_form_kanji": "世話をした",
     "dictionary_form": "せわをする",
-    "dictionary_form_kanji": "世話をする"
+    "dictionary_form_kanji": "世話をする",
+    "translation": "I'll take care of you"
   },
   {
     "lesson": "23",
@@ -1536,7 +1706,8 @@
     "ta_form": "まわした",
     "ta_form_kanji": "回した",
     "dictionary_form": "まわす",
-    "dictionary_form_kanji": "回す"
+    "dictionary_form_kanji": "回す",
+    "translation": "I'll turn it"
   },
   {
     "lesson": "33",
@@ -1545,7 +1716,8 @@
     "ta_form": "はじまった",
     "ta_form_kanji": "始まった",
     "dictionary_form": "はじまる",
-    "dictionary_form_kanji": "始まる"
+    "dictionary_form_kanji": "始まる",
+    "translation": "It's starting"
   },
   {
     "lesson": "44",
@@ -1554,7 +1726,8 @@
     "ta_form": "ちょうせつした",
     "ta_form_kanji": "調節した",
     "dictionary_form": "ちょうせつする",
-    "dictionary_form_kanji": "調節する"
+    "dictionary_form_kanji": "調節する",
+    "translation": "I'll adjust it"
   },
   {
     "lesson": "44",
@@ -1563,7 +1736,8 @@
     "ta_form": "わらった",
     "ta_form_kanji": "笑った",
     "dictionary_form": "わらう",
-    "dictionary_form_kanji": "笑う"
+    "dictionary_form_kanji": "笑う",
+    "translation": "I'll laugh"
   },
   {
     "lesson": "14",
@@ -1572,7 +1746,8 @@
     "ta_form": "たった",
     "ta_form_kanji": "立った",
     "dictionary_form": "たつ",
-    "dictionary_form_kanji": "立つ"
+    "dictionary_form_kanji": "立つ",
+    "translation": "I'll stand"
   },
   {
     "lesson": "14",
@@ -1581,7 +1756,8 @@
     "ta_form": "あけた",
     "ta_form_kanji": "開けた",
     "dictionary_form": "あける",
-    "dictionary_form_kanji": "開ける"
+    "dictionary_form_kanji": "開ける",
+    "translation": "I'll open it"
   },
   {
     "lesson": "37",
@@ -1590,7 +1766,8 @@
     "ta_form": "ほめた",
     "ta_form_kanji": "褒めた",
     "dictionary_form": "ほめる",
-    "dictionary_form_kanji": "褒める"
+    "dictionary_form_kanji": "褒める",
+    "translation": "I'll praise you"
   },
   {
     "lesson": "16",
@@ -1599,7 +1776,8 @@
     "ta_form": "でた",
     "ta_form_kanji": "出た",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "47",
@@ -1608,7 +1786,8 @@
     "ta_form": "した",
     "ta_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "47",
@@ -1617,7 +1796,8 @@
     "ta_form": "した",
     "ta_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "37",
@@ -1626,7 +1806,8 @@
     "ta_form": "しょうたいした",
     "ta_form_kanji": "招待した",
     "dictionary_form": "しょうたいする",
-    "dictionary_form_kanji": "招待する"
+    "dictionary_form_kanji": "招待する",
+    "translation": "I'll invite you"
   },
   {
     "lesson": "4",
@@ -1635,7 +1816,8 @@
     "ta_form": "はたらいた",
     "ta_form_kanji": "働いた",
     "dictionary_form": "はたらく",
-    "dictionary_form_kanji": "働く"
+    "dictionary_form_kanji": "働く",
+    "translation": "I'll work"
   },
   {
     "lesson": "47",
@@ -1644,7 +1826,8 @@
     "ta_form": "わかれた",
     "ta_form_kanji": "別れた",
     "dictionary_form": "わかれる",
-    "dictionary_form_kanji": "別れる"
+    "dictionary_form_kanji": "別れる",
+    "translation": "I'll part ways"
   },
   {
     "lesson": "27",
@@ -1653,7 +1836,8 @@
     "ta_form": "きこえた",
     "ta_form_kanji": "聞こえた",
     "dictionary_form": "きこえる",
-    "dictionary_form_kanji": "聞こえる"
+    "dictionary_form_kanji": "聞こえる",
+    "translation": "I can hear it"
   },
   {
     "lesson": "30",
@@ -1662,7 +1846,8 @@
     "ta_form": "ふくしゅうした",
     "ta_form_kanji": "復習した",
     "dictionary_form": "ふくしゅうする",
-    "dictionary_form_kanji": "復習する"
+    "dictionary_form_kanji": "復習する",
+    "translation": "I'll review"
   },
   {
     "lesson": "6",
@@ -1671,7 +1856,8 @@
     "ta_form": "きいた",
     "ta_form_kanji": "聞いた",
     "dictionary_form": "きく",
-    "dictionary_form_kanji": "聞く"
+    "dictionary_form_kanji": "聞く",
+    "translation": "I'll listen"
   },
   {
     "lesson": "32",
@@ -1680,7 +1866,8 @@
     "ta_form": "つづいた",
     "ta_form_kanji": "続いた",
     "dictionary_form": "つづく",
-    "dictionary_form_kanji": "続く"
+    "dictionary_form_kanji": "続く",
+    "translation": "Continue"
   },
   {
     "lesson": "15",
@@ -1689,7 +1876,8 @@
     "ta_form": "すわった",
     "ta_form_kanji": "座った",
     "dictionary_form": "すわる",
-    "dictionary_form_kanji": "座る"
+    "dictionary_form_kanji": "座る",
+    "translation": "I'll sit"
   },
   {
     "lesson": "46",
@@ -1698,7 +1886,8 @@
     "ta_form": "やけた",
     "ta_form_kanji": "焼けた",
     "dictionary_form": "やける",
-    "dictionary_form_kanji": "焼ける"
+    "dictionary_form_kanji": "焼ける",
+    "translation": "It's burned"
   },
   {
     "lesson": "18",
@@ -1707,7 +1896,8 @@
     "ta_form": "うんてんした",
     "ta_form_kanji": "運転した",
     "dictionary_form": "うんてんする",
-    "dictionary_form_kanji": "運転する"
+    "dictionary_form_kanji": "運転する",
+    "translation": "I'll drive"
   },
   {
     "lesson": "46",
@@ -1716,7 +1906,8 @@
     "ta_form": "にゅうがくした",
     "ta_form_kanji": "入学した",
     "dictionary_form": "にゅうがくする",
-    "dictionary_form_kanji": "入学する"
+    "dictionary_form_kanji": "入学する",
+    "translation": "I'm going to enroll"
   },
   {
     "lesson": "22",
@@ -1725,7 +1916,8 @@
     "ta_form": "うまれた",
     "ta_form_kanji": "生まれた",
     "dictionary_form": "うまれる",
-    "dictionary_form_kanji": "生まれる"
+    "dictionary_form_kanji": "生まれる",
+    "translation": "Born"
   },
   {
     "lesson": "50",
@@ -1734,7 +1926,8 @@
     "ta_form": "かなった",
     "ta_form_kanji": null,
     "dictionary_form": "かなう",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "38",
@@ -1743,7 +1936,8 @@
     "ta_form": "いれた",
     "ta_form_kanji": "入れた",
     "dictionary_form": "いれる",
-    "dictionary_form_kanji": "入れる"
+    "dictionary_form_kanji": "入れる",
+    "translation": "I'll put it in"
   },
   {
     "lesson": "28",
@@ -1752,7 +1946,8 @@
     "ta_form": "メモした",
     "ta_form_kanji": null,
     "dictionary_form": "メモする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll make a note"
   },
   {
     "lesson": "50",
@@ -1761,7 +1956,8 @@
     "ta_form": "かんしゃした",
     "ta_form_kanji": "感謝した",
     "dictionary_form": "かんしゃする",
-    "dictionary_form_kanji": "感謝する"
+    "dictionary_form_kanji": "感謝する",
+    "translation": "appreciate"
   },
   {
     "lesson": "44",
@@ -1770,7 +1966,8 @@
     "ta_form": "ないた",
     "ta_form_kanji": "泣いた",
     "dictionary_form": "なく",
-    "dictionary_form_kanji": "泣く"
+    "dictionary_form_kanji": "泣く",
+    "translation": "I'm crying"
   },
   {
     "lesson": "17",
@@ -1779,7 +1976,8 @@
     "ta_form": "ざんぎょうした",
     "ta_form_kanji": "残業した",
     "dictionary_form": "ざんぎょうする",
-    "dictionary_form_kanji": "残業する"
+    "dictionary_form_kanji": "残業する",
+    "translation": "I'll work overtime"
   },
   {
     "lesson": "42",
@@ -1788,7 +1986,8 @@
     "ta_form": "でた",
     "ta_form_kanji": "出た",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "14",
@@ -1797,7 +1996,8 @@
     "ta_form": "まった",
     "ta_form_kanji": "待った",
     "dictionary_form": "まつ",
-    "dictionary_form_kanji": "待つ"
+    "dictionary_form_kanji": "待つ",
+    "translation": "I'll wait"
   },
   {
     "lesson": "38",
@@ -1806,7 +2006,8 @@
     "ta_form": "きった",
     "ta_form_kanji": "切った",
     "dictionary_form": "きる",
-    "dictionary_form_kanji": "切る"
+    "dictionary_form_kanji": "切る",
+    "translation": "I'll cut it"
   },
   {
     "lesson": "23",
@@ -1815,7 +2016,8 @@
     "ta_form": "わたった",
     "ta_form_kanji": "渡った",
     "dictionary_form": "わたる",
-    "dictionary_form_kanji": "渡る"
+    "dictionary_form_kanji": "渡る",
+    "translation": "I'll cross"
   },
   {
     "lesson": "14",
@@ -1824,7 +2026,8 @@
     "ta_form": "つけた",
     "ta_form_kanji": null,
     "dictionary_form": "つける",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll put it on"
   },
   {
     "lesson": "42",
@@ -1833,7 +2036,8 @@
     "ta_form": "まぜた",
     "ta_form_kanji": "混ぜた",
     "dictionary_form": "まぜる",
-    "dictionary_form_kanji": "混ぜる"
+    "dictionary_form_kanji": "混ぜる",
+    "translation": "Mix it"
   },
   {
     "lesson": "36",
@@ -1842,7 +2046,8 @@
     "ta_form": "ちょきんした",
     "ta_form_kanji": "貯金した",
     "dictionary_form": "ちょきんする",
-    "dictionary_form_kanji": "貯金する"
+    "dictionary_form_kanji": "貯金する",
+    "translation": "I'll save"
   },
   {
     "lesson": "9",
@@ -1851,7 +2056,8 @@
     "ta_form": "あった",
     "ta_form_kanji": null,
     "dictionary_form": "ある",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "there is"
   },
   {
     "lesson": "30",
@@ -1860,7 +2066,8 @@
     "ta_form": "かけた",
     "ta_form_kanji": "掛けた",
     "dictionary_form": "かける",
-    "dictionary_form_kanji": "掛ける"
+    "dictionary_form_kanji": "掛ける",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "38",
@@ -1869,7 +2076,8 @@
     "ta_form": "かけた",
     "ta_form_kanji": "掛けた",
     "dictionary_form": "かける",
-    "dictionary_form_kanji": "掛ける"
+    "dictionary_form_kanji": "掛ける",
+    "translation": "I'll hang it"
   },
   {
     "lesson": "34",
@@ -1878,7 +2086,8 @@
     "ta_form": "みがいた",
     "ta_form_kanji": "磨いた",
     "dictionary_form": "みがく",
-    "dictionary_form_kanji": "磨く"
+    "dictionary_form_kanji": "磨く",
+    "translation": "polish"
   },
   {
     "lesson": "43",
@@ -1887,7 +2096,8 @@
     "ta_form": "きれた",
     "ta_form_kanji": "切れた",
     "dictionary_form": "きれる",
-    "dictionary_form_kanji": "切れる"
+    "dictionary_form_kanji": "切れる",
+    "translation": "It's cut"
   },
   {
     "lesson": "14",
@@ -1896,7 +2106,8 @@
     "ta_form": "ふった",
     "ta_form_kanji": "降った",
     "dictionary_form": "ふる",
-    "dictionary_form_kanji": "降る"
+    "dictionary_form_kanji": "降る",
+    "translation": "I'm off"
   },
   {
     "lesson": "16",
@@ -1905,7 +2116,8 @@
     "ta_form": "けんがくした",
     "ta_form_kanji": "見学した",
     "dictionary_form": "けんがくする",
-    "dictionary_form_kanji": "見学する"
+    "dictionary_form_kanji": "見学する",
+    "translation": "I'll be watching"
   },
   {
     "lesson": "30",
@@ -1914,7 +2126,8 @@
     "ta_form": "かざった",
     "ta_form_kanji": "飾った",
     "dictionary_form": "かざる",
-    "dictionary_form_kanji": "飾る"
+    "dictionary_form_kanji": "飾る",
+    "translation": "I'll decorate it"
   },
   {
     "lesson": "21",
@@ -1923,7 +2136,8 @@
     "ta_form": "いった",
     "ta_form_kanji": "言った",
     "dictionary_form": "いう",
-    "dictionary_form_kanji": "言う"
+    "dictionary_form_kanji": "言う",
+    "translation": "I'll say it"
   },
   {
     "lesson": "5",
@@ -1932,7 +2146,8 @@
     "ta_form": "きた",
     "ta_form_kanji": "来た",
     "dictionary_form": "くる",
-    "dictionary_form_kanji": "来る"
+    "dictionary_form_kanji": "来る",
+    "translation": "I'll come"
   },
   {
     "lesson": "4",
@@ -1941,7 +2156,8 @@
     "ta_form": "やすんだ",
     "ta_form_kanji": "休んだ",
     "dictionary_form": "やすむ",
-    "dictionary_form_kanji": "休む"
+    "dictionary_form_kanji": "休む",
+    "translation": "I'm off"
   },
   {
     "lesson": "44",
@@ -1950,7 +2166,8 @@
     "ta_form": "すべった",
     "ta_form_kanji": "滑った",
     "dictionary_form": "すべる",
-    "dictionary_form_kanji": "滑る"
+    "dictionary_form_kanji": "滑る",
+    "translation": "It's slipping"
   },
   {
     "lesson": "29",
@@ -1959,7 +2176,8 @@
     "ta_form": "きえた",
     "ta_form_kanji": "消えた",
     "dictionary_form": "きえる",
-    "dictionary_form_kanji": "消える"
+    "dictionary_form_kanji": "消える",
+    "translation": "It's disappearing"
   },
   {
     "lesson": "21",
@@ -1968,7 +2186,8 @@
     "ta_form": "おもった",
     "ta_form_kanji": "思った",
     "dictionary_form": "おもう",
-    "dictionary_form_kanji": "思う"
+    "dictionary_form_kanji": "思う",
+    "translation": "I think so"
   },
   {
     "lesson": "37",
@@ -1977,7 +2196,8 @@
     "ta_form": "おこなった",
     "ta_form_kanji": "行った",
     "dictionary_form": "おこなう",
-    "dictionary_form_kanji": "行う"
+    "dictionary_form_kanji": "行う",
+    "translation": "I'll do it"
   },
   {
     "lesson": "19",
@@ -1986,7 +2206,8 @@
     "ta_form": "せんたくした",
     "ta_form_kanji": "洗濯した",
     "dictionary_form": "せんたくする",
-    "dictionary_form_kanji": "洗濯する"
+    "dictionary_form_kanji": "洗濯する",
+    "translation": "I'll wash it"
   },
   {
     "lesson": "7",
@@ -1995,7 +2216,8 @@
     "ta_form": "あげた",
     "ta_form_kanji": null,
     "dictionary_form": "あげる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll give it"
   },
   {
     "lesson": "16",
@@ -2004,7 +2226,8 @@
     "ta_form": "おりた",
     "ta_form_kanji": "降りた",
     "dictionary_form": "おりる",
-    "dictionary_form_kanji": "降りる"
+    "dictionary_form_kanji": "降りる",
+    "translation": "I'm off"
   },
   {
     "lesson": "23",
@@ -2013,7 +2236,8 @@
     "ta_form": "まがった",
     "ta_form_kanji": "曲がった",
     "dictionary_form": "まがる",
-    "dictionary_form_kanji": "曲がる"
+    "dictionary_form_kanji": "曲がる",
+    "translation": "It's bent"
   },
   {
     "lesson": "38",
@@ -2022,7 +2246,8 @@
     "ta_form": "たいいんした",
     "ta_form_kanji": "退院した",
     "dictionary_form": "たいいんする",
-    "dictionary_form_kanji": "退院する"
+    "dictionary_form_kanji": "退院する",
+    "translation": "I'll be discharged from the hospital"
   },
   {
     "lesson": "42",
@@ -2031,7 +2256,8 @@
     "ta_form": "わかした",
     "ta_form_kanji": "沸かした",
     "dictionary_form": "わかす",
-    "dictionary_form_kanji": "沸かす"
+    "dictionary_form_kanji": "沸かす",
+    "translation": "I'll boil it"
   },
   {
     "lesson": "32",
@@ -2040,7 +2266,8 @@
     "ta_form": "くもった",
     "ta_form_kanji": "曇った",
     "dictionary_form": "くもる",
-    "dictionary_form_kanji": "曇る"
+    "dictionary_form_kanji": "曇る",
+    "translation": "It's cloudy"
   },
   {
     "lesson": "29",
@@ -2049,7 +2276,8 @@
     "ta_form": "こわれた",
     "ta_form_kanji": "壊れた",
     "dictionary_form": "こわれる",
-    "dictionary_form_kanji": "壊れる"
+    "dictionary_form_kanji": "壊れる",
+    "translation": "It's broken"
   },
   {
     "lesson": "27",
@@ -2058,7 +2286,8 @@
     "ta_form": "できた",
     "ta_form_kanji": null,
     "dictionary_form": "できる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "17",
@@ -2067,7 +2296,8 @@
     "ta_form": "わすれた",
     "ta_form_kanji": "忘れた",
     "dictionary_form": "わすれる",
-    "dictionary_form_kanji": "忘れる"
+    "dictionary_form_kanji": "忘れる",
+    "translation": "I'll forget"
   },
   {
     "lesson": "32",
@@ -2076,7 +2306,8 @@
     "ta_form": "やんだ",
     "ta_form_kanji": null,
     "dictionary_form": "やむ",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll stop"
   },
   {
     "lesson": "15",
@@ -2085,7 +2316,8 @@
     "ta_form": "けんきゅうした",
     "ta_form_kanji": "研究した",
     "dictionary_form": "けんきゅうする",
-    "dictionary_form_kanji": "研究する"
+    "dictionary_form_kanji": "研究する",
+    "translation": "I'll research"
   },
   {
     "lesson": "46",
@@ -2094,7 +2326,8 @@
     "ta_form": "とどいた",
     "ta_form_kanji": "届いた",
     "dictionary_form": "とどく",
-    "dictionary_form_kanji": "届く"
+    "dictionary_form_kanji": "届く",
+    "translation": "It'll arrive"
   },
   {
     "lesson": "17",
@@ -2103,7 +2336,8 @@
     "ta_form": "はいった",
     "ta_form_kanji": "入った",
     "dictionary_form": "はいる",
-    "dictionary_form_kanji": "入る"
+    "dictionary_form_kanji": "入る",
+    "translation": "enter"
   },
   {
     "lesson": "31",
@@ -2112,7 +2346,8 @@
     "ta_form": "のこった",
     "ta_form_kanji": "残った",
     "dictionary_form": "のこる",
-    "dictionary_form_kanji": "残る"
+    "dictionary_form_kanji": "残る",
+    "translation": "It's still"
   },
   {
     "lesson": "41",
@@ -2121,7 +2356,8 @@
     "ta_form": "あげた",
     "ta_form_kanji": "上げた",
     "dictionary_form": "あげる",
-    "dictionary_form_kanji": "上げる"
+    "dictionary_form_kanji": "上げる",
+    "translation": "I'll raise it"
   },
   {
     "lesson": "37",
@@ -2130,7 +2366,8 @@
     "ta_form": "はつめいした",
     "ta_form_kanji": "発明した",
     "dictionary_form": "はつめいする",
-    "dictionary_form_kanji": "発明する"
+    "dictionary_form_kanji": "発明する",
+    "translation": "I'll invent"
   },
   {
     "lesson": "17",
@@ -2139,7 +2376,8 @@
     "ta_form": "なくした",
     "ta_form_kanji": null,
     "dictionary_form": "なくす",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll lose it"
   },
   {
     "lesson": "30",
@@ -2148,7 +2386,8 @@
     "ta_form": "もどした",
     "ta_form_kanji": "戻した",
     "dictionary_form": "もどす",
-    "dictionary_form_kanji": "戻す"
+    "dictionary_form_kanji": "戻す",
+    "translation": "I'll go back"
   },
   {
     "lesson": "24",
@@ -2157,7 +2396,8 @@
     "ta_form": "あんないした",
     "ta_form_kanji": "案内した",
     "dictionary_form": "あんないする",
-    "dictionary_form_kanji": "案内する"
+    "dictionary_form_kanji": "案内する",
+    "translation": "I'll show you"
   },
   {
     "lesson": "39",
@@ -2166,7 +2406,8 @@
     "ta_form": "あんしんした",
     "ta_form_kanji": "安心した",
     "dictionary_form": "あんしんする",
-    "dictionary_form_kanji": "安心する"
+    "dictionary_form_kanji": "安心する",
+    "translation": "It's safe"
   },
   {
     "lesson": "31",
@@ -2175,7 +2416,8 @@
     "ta_form": "うけた",
     "ta_form_kanji": "受けた",
     "dictionary_form": "うける",
-    "dictionary_form_kanji": "受ける"
+    "dictionary_form_kanji": "受ける",
+    "translation": "I'll take it"
   },
   {
     "lesson": "28",
@@ -2184,7 +2426,8 @@
     "ta_form": "えらんだ",
     "ta_form_kanji": "選んだ",
     "dictionary_form": "えらぶ",
-    "dictionary_form_kanji": "選ぶ"
+    "dictionary_form_kanji": "選ぶ",
+    "translation": "I'll choose"
   },
   {
     "lesson": "46",
@@ -2193,7 +2436,8 @@
     "ta_form": "やいた",
     "ta_form_kanji": "焼いた",
     "dictionary_form": "やく",
-    "dictionary_form_kanji": "焼く"
+    "dictionary_form_kanji": "焼く",
+    "translation": "Bake"
   },
   {
     "lesson": "31",
@@ -2202,7 +2446,8 @@
     "ta_form": "とった",
     "ta_form_kanji": "取った",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "取る"
+    "dictionary_form_kanji": "取る",
+    "translation": "I'll take it"
   },
   {
     "lesson": "39",
@@ -2211,7 +2456,8 @@
     "ta_form": "とおった",
     "ta_form_kanji": "通った",
     "dictionary_form": "とおる",
-    "dictionary_form_kanji": "通る"
+    "dictionary_form_kanji": "通る",
+    "translation": "I'll pass"
   },
   {
     "lesson": "19",
@@ -2220,7 +2466,8 @@
     "ta_form": "そうじした",
     "ta_form_kanji": "掃除した",
     "dictionary_form": "そうじする",
-    "dictionary_form_kanji": "掃除する"
+    "dictionary_form_kanji": "掃除する",
+    "translation": "I'll clean it"
   },
   {
     "lesson": "13",
@@ -2229,7 +2476,8 @@
     "ta_form": "かいものした",
     "ta_form_kanji": "買い物した",
     "dictionary_form": "かいものする",
-    "dictionary_form_kanji": "買い物する"
+    "dictionary_form_kanji": "買い物する",
+    "translation": "I'll shop"
   },
   {
     "lesson": "39",
@@ -2238,7 +2486,8 @@
     "ta_form": "がっかりした",
     "ta_form_kanji": null,
     "dictionary_form": "がっかりする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'm disappointed"
   },
   {
     "lesson": "13",
@@ -2247,7 +2496,8 @@
     "ta_form": "つかれた",
     "ta_form_kanji": "疲れた",
     "dictionary_form": "つかれる",
-    "dictionary_form_kanji": "疲れる"
+    "dictionary_form_kanji": "疲れる",
+    "translation": "I'm tired"
   },
   {
     "lesson": "48",
@@ -2256,7 +2506,8 @@
     "ta_form": "おろした",
     "ta_form_kanji": "下ろした",
     "dictionary_form": "おろす",
-    "dictionary_form_kanji": "下ろす"
+    "dictionary_form_kanji": "下ろす",
+    "translation": "I'll take it down, I'll take it down"
   },
   {
     "lesson": "46",
@@ -2265,7 +2516,8 @@
     "ta_form": "わたした",
     "ta_form_kanji": "渡した",
     "dictionary_form": "わたす",
-    "dictionary_form_kanji": "渡す"
+    "dictionary_form_kanji": "渡す",
+    "translation": "I'll give it to you"
   },
   {
     "lesson": "46",
@@ -2274,7 +2526,8 @@
     "ta_form": "そつぎょうした",
     "ta_form_kanji": "卒業した",
     "dictionary_form": "そつぎょうする",
-    "dictionary_form_kanji": "卒業する"
+    "dictionary_form_kanji": "卒業する",
+    "translation": "I'm graduating"
   },
   {
     "lesson": "14",
@@ -2283,7 +2536,8 @@
     "ta_form": "とめた",
     "ta_form_kanji": "止めた",
     "dictionary_form": "とめる",
-    "dictionary_form_kanji": "止める"
+    "dictionary_form_kanji": "止める",
+    "translation": "I'll stop"
   },
   {
     "lesson": "16",
@@ -2292,7 +2546,8 @@
     "ta_form": "でんわした",
     "ta_form_kanji": "電話した",
     "dictionary_form": "でんわする",
-    "dictionary_form_kanji": "電話する"
+    "dictionary_form_kanji": "電話する",
+    "translation": "I'll call"
   },
   {
     "lesson": "32",
@@ -2301,7 +2556,8 @@
     "ta_form": "でた",
     "ta_form_kanji": "出た",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "23",
@@ -2310,7 +2566,8 @@
     "ta_form": "でた",
     "ta_form_kanji": "出た",
     "dictionary_form": "でる",
-    "dictionary_form_kanji": "出る"
+    "dictionary_form_kanji": "出る",
+    "translation": "It's coming out"
   },
   {
     "lesson": "30",
@@ -2319,7 +2576,8 @@
     "ta_form": "しまった",
     "ta_form_kanji": null,
     "dictionary_form": "しまう",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It's gone"
   },
   {
     "lesson": "14",
@@ -2328,7 +2586,8 @@
     "ta_form": "はなした",
     "ta_form_kanji": "話した",
     "dictionary_form": "はなす",
-    "dictionary_form_kanji": "話す"
+    "dictionary_form_kanji": "話す",
+    "translation": "I'll talk"
   },
   {
     "lesson": "26",
@@ -2337,7 +2596,8 @@
     "ta_form": "かたづいた",
     "ta_form_kanji": "片づいた",
     "dictionary_form": "かたづく",
-    "dictionary_form_kanji": "片づく"
+    "dictionary_form_kanji": "片づく",
+    "translation": "I'll clean it up"
   },
   {
     "lesson": "21",
@@ -2346,7 +2606,8 @@
     "ta_form": "やめた",
     "ta_form_kanji": null,
     "dictionary_form": "やめる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll stop"
   },
   {
     "lesson": "37",
@@ -2355,7 +2616,8 @@
     "ta_form": "ほんやくした",
     "ta_form_kanji": "翻訳した",
     "dictionary_form": "ほんやくする",
-    "dictionary_form_kanji": "翻訳する"
+    "dictionary_form_kanji": "翻訳する",
+    "translation": "I'll translate"
   },
   {
     "lesson": "15",
@@ -2364,7 +2626,8 @@
     "ta_form": "おいた",
     "ta_form_kanji": "置いた",
     "dictionary_form": "おく",
-    "dictionary_form_kanji": "置く"
+    "dictionary_form_kanji": "置く",
+    "translation": "I'll put it"
   },
   {
     "lesson": "36",
@@ -2373,7 +2636,8 @@
     "ta_form": "ちがった",
     "ta_form_kanji": "違った",
     "dictionary_form": "ちがう",
-    "dictionary_form_kanji": "違う"
+    "dictionary_form_kanji": "違う",
+    "translation": "It's not"
   },
   {
     "lesson": "15",
@@ -2382,7 +2646,8 @@
     "ta_form": "すんだ",
     "ta_form_kanji": "住んだ",
     "dictionary_form": "すむ",
-    "dictionary_form_kanji": "住む"
+    "dictionary_form_kanji": "住む",
+    "translation": "I'll live there"
   },
   {
     "lesson": "24",
@@ -2391,7 +2656,8 @@
     "ta_form": "くれた",
     "ta_form_kanji": null,
     "dictionary_form": "くれる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll give it"
   },
   {
     "lesson": "30",
@@ -2400,7 +2666,8 @@
     "ta_form": "まとめた",
     "ta_form_kanji": null,
     "dictionary_form": "まとめる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll summarize"
   },
   {
     "lesson": "18",
@@ -2409,7 +2676,8 @@
     "ta_form": "あらった",
     "ta_form_kanji": "洗った",
     "dictionary_form": "あらう",
-    "dictionary_form_kanji": "洗う"
+    "dictionary_form_kanji": "洗う",
+    "translation": "I'll wash it"
   },
   {
     "lesson": "30",
@@ -2418,7 +2686,8 @@
     "ta_form": "そのままにした",
     "ta_form_kanji": null,
     "dictionary_form": "そのままにする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll leave it as is"
   },
   {
     "lesson": "29",
@@ -2427,7 +2696,8 @@
     "ta_form": "われた",
     "ta_form_kanji": "割れた",
     "dictionary_form": "われる",
-    "dictionary_form_kanji": "割れる"
+    "dictionary_form_kanji": "割れる",
+    "translation": "It's cracking"
   },
   {
     "lesson": "37",
@@ -2436,7 +2706,8 @@
     "ta_form": "とった",
     "ta_form_kanji": "取った",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "取る"
+    "dictionary_form_kanji": "取る",
+    "translation": "I'll take it"
   },
   {
     "lesson": "19",
@@ -2445,7 +2716,8 @@
     "ta_form": "とまった",
     "ta_form_kanji": "泊まった",
     "dictionary_form": "とまる",
-    "dictionary_form_kanji": "泊まる"
+    "dictionary_form_kanji": "泊まる",
+    "translation": "I'll stay"
   },
   {
     "lesson": "14",
@@ -2454,7 +2726,8 @@
     "ta_form": "よんだ",
     "ta_form_kanji": "呼んだ",
     "dictionary_form": "よぶ",
-    "dictionary_form_kanji": "呼ぶ"
+    "dictionary_form_kanji": "呼ぶ",
+    "translation": "I'll call you"
   },
   {
     "lesson": "7",
@@ -2463,7 +2736,8 @@
     "ta_form": "かりた",
     "ta_form_kanji": "借りた",
     "dictionary_form": "かりる",
-    "dictionary_form_kanji": "借りる"
+    "dictionary_form_kanji": "借りる",
+    "translation": "I'll borrow it"
   },
   {
     "lesson": "16",
@@ -2472,7 +2746,8 @@
     "ta_form": "のんだ",
     "ta_form_kanji": "飲んだ",
     "dictionary_form": "のむ",
-    "dictionary_form_kanji": "飲む"
+    "dictionary_form_kanji": "飲む",
+    "translation": "I'll drink it"
   },
   {
     "lesson": "14",
@@ -2481,7 +2756,8 @@
     "ta_form": "てつだった",
     "ta_form_kanji": "手伝った",
     "dictionary_form": "てつだう",
-    "dictionary_form_kanji": "手伝う"
+    "dictionary_form_kanji": "手伝う",
+    "translation": "I'll help"
   },
   {
     "lesson": "34",
@@ -2490,7 +2766,8 @@
     "ta_form": "くみたてた",
     "ta_form_kanji": "組み立てた",
     "dictionary_form": "くみたてる",
-    "dictionary_form_kanji": "組み立てる"
+    "dictionary_form_kanji": "組み立てる",
+    "translation": "I'll assemble it"
   },
   {
     "lesson": "6",
@@ -2499,7 +2776,8 @@
     "ta_form": "よんだ",
     "ta_form_kanji": "読んだ",
     "dictionary_form": "よむ",
-    "dictionary_form_kanji": "読む"
+    "dictionary_form_kanji": "読む",
+    "translation": "I'll read"
   },
   {
     "lesson": "47",
@@ -2508,7 +2786,8 @@
     "ta_form": "あつまった",
     "ta_form_kanji": "集まった",
     "dictionary_form": "あつまる",
-    "dictionary_form_kanji": "集まる"
+    "dictionary_form_kanji": "集まる",
+    "translation": "We'll gather [people]"
   },
   {
     "lesson": "31",
@@ -2517,7 +2796,8 @@
     "ta_form": "きゅうけいした",
     "ta_form_kanji": "休憩した",
     "dictionary_form": "きゅうけいする",
-    "dictionary_form_kanji": "休憩する"
+    "dictionary_form_kanji": "休憩する",
+    "translation": "I'll take a break"
   },
   {
     "lesson": "41",
@@ -2526,7 +2806,8 @@
     "ta_form": "くださった",
     "ta_form_kanji": null,
     "dictionary_form": "くださる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll give you"
   },
   {
     "lesson": "32",
@@ -2535,7 +2816,8 @@
     "ta_form": "ごうかくした",
     "ta_form_kanji": "合格した",
     "dictionary_form": "ごうかくする",
-    "dictionary_form_kanji": "合格する"
+    "dictionary_form_kanji": "合格する",
+    "translation": "I'll pass"
   },
   {
     "lesson": "44",
@@ -2544,7 +2826,8 @@
     "ta_form": "ねむった",
     "ta_form_kanji": "眠った",
     "dictionary_form": "ねむる",
-    "dictionary_form_kanji": "眠る"
+    "dictionary_form_kanji": "眠る",
+    "translation": "I'm going to sleep"
   },
   {
     "lesson": "33",
@@ -2553,7 +2836,8 @@
     "ta_form": "つたえた",
     "ta_form_kanji": "伝えた",
     "dictionary_form": "つたえる",
-    "dictionary_form_kanji": "伝える"
+    "dictionary_form_kanji": "伝える",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "46",
@@ -2562,7 +2846,8 @@
     "ta_form": "かえってきた",
     "ta_form_kanji": "帰って来た",
     "dictionary_form": "かえってくる",
-    "dictionary_form_kanji": "帰って来る"
+    "dictionary_form_kanji": "帰って来る",
+    "translation": "I'll come back"
   },
   {
     "lesson": "49",
@@ -2571,7 +2856,8 @@
     "ta_form": "だした",
     "ta_form_kanji": "出した",
     "dictionary_form": "だす",
-    "dictionary_form_kanji": "出す"
+    "dictionary_form_kanji": "出す",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "33",
@@ -2580,7 +2866,8 @@
     "ta_form": "にげた",
     "ta_form_kanji": "逃げた",
     "dictionary_form": "にげる",
-    "dictionary_form_kanji": "逃げる"
+    "dictionary_form_kanji": "逃げる",
+    "translation": "I'll run away"
   },
   {
     "lesson": "29",
@@ -2589,7 +2876,8 @@
     "ta_form": "おれた",
     "ta_form_kanji": "折れた",
     "dictionary_form": "おれる",
-    "dictionary_form_kanji": "折れる"
+    "dictionary_form_kanji": "折れる",
+    "translation": "It will break"
   },
   {
     "lesson": "37",
@@ -2598,7 +2886,8 @@
     "ta_form": "ゆにゅうした",
     "ta_form_kanji": "輸入した",
     "dictionary_form": "ゆにゅうする",
-    "dictionary_form_kanji": "輸入する"
+    "dictionary_form_kanji": "輸入する",
+    "translation": "I'll import it"
   },
   {
     "lesson": "13",
@@ -2607,7 +2896,8 @@
     "ta_form": "しょくじした",
     "ta_form_kanji": "食事した",
     "dictionary_form": "しょくじする",
-    "dictionary_form_kanji": "食事する"
+    "dictionary_form_kanji": "食事する",
+    "translation": "I'll eat"
   },
   {
     "lesson": "39",
@@ -2616,7 +2906,8 @@
     "ta_form": "こたえた",
     "ta_form_kanji": "答えた",
     "dictionary_form": "こたえる",
-    "dictionary_form_kanji": "答える"
+    "dictionary_form_kanji": "答える",
+    "translation": "I'll answer"
   },
   {
     "lesson": "29",
@@ -2625,7 +2916,8 @@
     "ta_form": "やぶれた",
     "ta_form_kanji": "破れた",
     "dictionary_form": "やぶれる",
-    "dictionary_form_kanji": "破れる"
+    "dictionary_form_kanji": "破れる",
+    "translation": "It's torn"
   },
   {
     "lesson": "34",
@@ -2634,7 +2926,8 @@
     "ta_form": "しつもんした",
     "ta_form_kanji": "質問した",
     "dictionary_form": "しつもんする",
-    "dictionary_form_kanji": "質問する"
+    "dictionary_form_kanji": "質問する",
+    "translation": "I'll ask a question"
   },
   {
     "lesson": "35",
@@ -2643,7 +2936,8 @@
     "ta_form": "にゅうりょくした",
     "ta_form_kanji": "入力した",
     "dictionary_form": "にゅうりょくする",
-    "dictionary_form_kanji": "入力する"
+    "dictionary_form_kanji": "入力する",
+    "translation": "Enter"
   },
   {
     "lesson": "6",
@@ -2652,7 +2946,8 @@
     "ta_form": "すった",
     "ta_form_kanji": "吸った",
     "dictionary_form": "すう",
-    "dictionary_form_kanji": "吸う"
+    "dictionary_form_kanji": "吸う",
+    "translation": "I'll suck"
   },
   {
     "lesson": "17",
@@ -2661,7 +2956,8 @@
     "ta_form": "もってきた",
     "ta_form_kanji": "持って来た",
     "dictionary_form": "もってくる",
-    "dictionary_form_kanji": "持って来る"
+    "dictionary_form_kanji": "持って来る",
+    "translation": "I'll bring it"
   },
   {
     "lesson": "33",
@@ -2670,7 +2966,8 @@
     "ta_form": "なげた",
     "ta_form_kanji": "投げた",
     "dictionary_form": "なげる",
-    "dictionary_form_kanji": "投げる"
+    "dictionary_form_kanji": "投げる",
+    "translation": "I'll throw it"
   },
   {
     "lesson": "37",
@@ -2679,7 +2976,8 @@
     "ta_form": "ゆしゅつした",
     "ta_form_kanji": "輸出した",
     "dictionary_form": "ゆしゅつする",
-    "dictionary_form_kanji": "輸出する"
+    "dictionary_form_kanji": "輸出する",
+    "translation": "I will export"
   },
   {
     "lesson": "49",
@@ -2688,7 +2986,8 @@
     "ta_form": "つとめた",
     "ta_form_kanji": "勤めた",
     "dictionary_form": "つとめる",
-    "dictionary_form_kanji": "勤める"
+    "dictionary_form_kanji": "勤める",
+    "translation": "I'll work"
   },
   {
     "lesson": "19",
@@ -2697,7 +2996,8 @@
     "ta_form": "なった",
     "ta_form_kanji": null,
     "dictionary_form": "なる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It will become"
   },
   {
     "lesson": "4",
@@ -2706,7 +3006,8 @@
     "ta_form": "べんきょうした",
     "ta_form_kanji": "勉強した",
     "dictionary_form": "べんきょうする",
-    "dictionary_form_kanji": "勉強する"
+    "dictionary_form_kanji": "勉強する",
+    "translation": "I'll study"
   },
   {
     "lesson": "27",
@@ -2715,7 +3016,8 @@
     "ta_form": "はしった",
     "ta_form_kanji": "走った",
     "dictionary_form": "はしる",
-    "dictionary_form_kanji": "走る"
+    "dictionary_form_kanji": "走る",
+    "translation": "I'll run"
   },
   {
     "lesson": "20",
@@ -2724,7 +3026,8 @@
     "ta_form": "いった",
     "ta_form_kanji": "要った",
     "dictionary_form": "いる",
-    "dictionary_form_kanji": "要る"
+    "dictionary_form_kanji": "要る",
+    "translation": "I need it"
   },
   {
     "lesson": "7",
@@ -2733,7 +3036,8 @@
     "ta_form": "しつれいした",
     "ta_form_kanji": "失礼した",
     "dictionary_form": "しつれいする",
-    "dictionary_form_kanji": "失礼する"
+    "dictionary_form_kanji": "失礼する",
+    "translation": "Excuse me"
   },
   {
     "lesson": "26",
@@ -2742,7 +3046,8 @@
     "ta_form": "おくれた",
     "ta_form_kanji": "遅れた",
     "dictionary_form": "おくれる",
-    "dictionary_form_kanji": "遅れる"
+    "dictionary_form_kanji": "遅れる",
+    "translation": "I'll be late"
   },
   {
     "lesson": "39",
@@ -2751,7 +3056,8 @@
     "ta_form": "けんかした",
     "ta_form_kanji": null,
     "dictionary_form": "けんかする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll fight"
   },
   {
     "lesson": "38",
@@ -2760,7 +3066,8 @@
     "ta_form": "ついた",
     "ta_form_kanji": null,
     "dictionary_form": "つく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll come on [I'm lying]"
   },
   {
     "lesson": "28",
@@ -2769,7 +3076,8 @@
     "ta_form": "かんだ",
     "ta_form_kanji": null,
     "dictionary_form": "かむ",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll bite"
   },
   {
     "lesson": "44",
@@ -2778,7 +3086,8 @@
     "ta_form": "おきた",
     "ta_form_kanji": "起きた",
     "dictionary_form": "おきる",
-    "dictionary_form_kanji": "起きる"
+    "dictionary_form_kanji": "起きる",
+    "translation": "I'm waking up"
   },
   {
     "lesson": "27",
@@ -2787,7 +3096,8 @@
     "ta_form": "みえた",
     "ta_form_kanji": "見えた",
     "dictionary_form": "みえる",
-    "dictionary_form_kanji": "見える"
+    "dictionary_form_kanji": "見える",
+    "translation": "I can see"
   },
   {
     "lesson": "25",
@@ -2796,7 +3106,8 @@
     "ta_form": "とった",
     "ta_form_kanji": "取った",
     "dictionary_form": "とる",
-    "dictionary_form_kanji": "取る"
+    "dictionary_form_kanji": "取る",
+    "translation": "I'll take it"
   },
   {
     "lesson": "17",
@@ -2805,7 +3116,8 @@
     "ta_form": "かえした",
     "ta_form_kanji": "返した",
     "dictionary_form": "かえす",
-    "dictionary_form_kanji": "返す"
+    "dictionary_form_kanji": "返す",
+    "translation": "I'll return it"
   },
   {
     "lesson": "26",
@@ -2814,7 +3126,8 @@
     "ta_form": "やった",
     "ta_form_kanji": null,
     "dictionary_form": "やる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "29",
@@ -2823,7 +3136,8 @@
     "ta_form": "かかった",
     "ta_form_kanji": "掛かった",
     "dictionary_form": "かかる",
-    "dictionary_form_kanji": "掛かる"
+    "dictionary_form_kanji": "掛かる",
+    "translation": "It's going to take"
   },
   {
     "lesson": "26",
@@ -2832,7 +3146,8 @@
     "ta_form": "さがした",
     "ta_form_kanji": "探した",
     "dictionary_form": "さがす",
-    "dictionary_form_kanji": "探す"
+    "dictionary_form_kanji": "探す",
+    "translation": "I'll look for, I'll look for"
   },
   {
     "lesson": "34",
@@ -2841,7 +3156,8 @@
     "ta_form": "きがついた",
     "ta_form_kanji": "気がついた",
     "dictionary_form": "きがつく",
-    "dictionary_form_kanji": "気がつく"
+    "dictionary_form_kanji": "気がつく",
+    "translation": "I'll notice"
   },
   {
     "lesson": "7",
@@ -2850,7 +3166,8 @@
     "ta_form": "おしえた",
     "ta_form_kanji": "教えた",
     "dictionary_form": "おしえる",
-    "dictionary_form_kanji": "教える"
+    "dictionary_form_kanji": "教える",
+    "translation": "I'll tell you"
   },
   {
     "lesson": "10",
@@ -2859,7 +3176,8 @@
     "ta_form": "あった",
     "ta_form_kanji": null,
     "dictionary_form": "ある",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "there is"
   },
   {
     "lesson": "43",
@@ -2868,7 +3186,8 @@
     "ta_form": "なくなった",
     "ta_form_kanji": null,
     "dictionary_form": "なくなる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "It's gone"
   },
   {
     "lesson": "7",
@@ -2877,7 +3196,8 @@
     "ta_form": "きった",
     "ta_form_kanji": "切った",
     "dictionary_form": "きる",
-    "dictionary_form_kanji": "切る"
+    "dictionary_form_kanji": "切る",
+    "translation": "I'll cut it"
   },
   {
     "lesson": "16",
@@ -2886,7 +3206,8 @@
     "ta_form": "のった",
     "ta_form_kanji": "乗った",
     "dictionary_form": "のる",
-    "dictionary_form_kanji": "乗る"
+    "dictionary_form_kanji": "乗る",
+    "translation": "I'll ride"
   },
   {
     "lesson": "39",
@@ -2895,7 +3216,8 @@
     "ta_form": "たおれた",
     "ta_form_kanji": "倒れた",
     "dictionary_form": "たおれる",
-    "dictionary_form_kanji": "倒れる"
+    "dictionary_form_kanji": "倒れる",
+    "translation": "[The building] collapses"
   },
   {
     "lesson": "6",
@@ -2904,7 +3226,8 @@
     "ta_form": "した",
     "ta_form_kanji": null,
     "dictionary_form": "する",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll do it"
   },
   {
     "lesson": "48",
@@ -2913,7 +3236,8 @@
     "ta_form": "たのしんだ",
     "ta_form_kanji": "楽しんだ",
     "dictionary_form": "たのしむ",
-    "dictionary_form_kanji": "楽しむ"
+    "dictionary_form_kanji": "楽しむ",
+    "translation": "I'll enjoy it"
   },
   {
     "lesson": "42",
@@ -2922,7 +3246,8 @@
     "ta_form": "ならんだ",
     "ta_form_kanji": "並んだ",
     "dictionary_form": "ならぶ",
-    "dictionary_form_kanji": "並ぶ"
+    "dictionary_form_kanji": "並ぶ",
+    "translation": "I'll line up"
   },
   {
     "lesson": "37",
@@ -2931,7 +3256,8 @@
     "ta_form": "やけた",
     "ta_form_kanji": "焼けた",
     "dictionary_form": "やける",
-    "dictionary_form_kanji": "焼ける"
+    "dictionary_form_kanji": "焼ける",
+    "translation": "It's burned"
   },
   {
     "lesson": "18",
@@ -2940,7 +3266,8 @@
     "ta_form": "すてた",
     "ta_form_kanji": "捨てた",
     "dictionary_form": "すてる",
-    "dictionary_form_kanji": "捨てる"
+    "dictionary_form_kanji": "捨てる",
+    "translation": "I'll throw it away"
   },
   {
     "lesson": "35",
@@ -2949,7 +3276,8 @@
     "ta_form": "さいた",
     "ta_form_kanji": "咲いた",
     "dictionary_form": "さく",
-    "dictionary_form_kanji": "咲く"
+    "dictionary_form_kanji": "咲く",
+    "translation": "It's blooming"
   },
   {
     "lesson": "4",
@@ -2958,7 +3286,8 @@
     "ta_form": "おきた",
     "ta_form_kanji": "起きた",
     "dictionary_form": "おきる",
-    "dictionary_form_kanji": "起きる"
+    "dictionary_form_kanji": "起きる",
+    "translation": "I'm waking up"
   },
   {
     "lesson": "16",
@@ -2967,7 +3296,8 @@
     "ta_form": "だした",
     "ta_form_kanji": "出した",
     "dictionary_form": "だす",
-    "dictionary_form_kanji": "出す"
+    "dictionary_form_kanji": "出す",
+    "translation": "I'll put it out"
   },
   {
     "lesson": "18",
@@ -2976,7 +3306,8 @@
     "ta_form": "うたった",
     "ta_form_kanji": "歌った",
     "dictionary_form": "うたう",
-    "dictionary_form_kanji": "歌う"
+    "dictionary_form_kanji": "歌う",
+    "translation": "I'll sing"
   },
   {
     "lesson": "36",
@@ -2985,7 +3316,8 @@
     "ta_form": "なれた",
     "ta_form_kanji": "慣れた",
     "dictionary_form": "なれる",
-    "dictionary_form_kanji": "慣れる"
+    "dictionary_form_kanji": "慣れる",
+    "translation": "I'll get used to it"
   },
   {
     "lesson": "49",
@@ -2994,7 +3326,8 @@
     "ta_form": "すごした",
     "ta_form_kanji": "過ごした",
     "dictionary_form": "すごす",
-    "dictionary_form_kanji": "過ごす"
+    "dictionary_form_kanji": "過ごす",
+    "translation": "I'll spend it"
   },
   {
     "lesson": "40",
@@ -3003,7 +3336,8 @@
     "ta_form": "はかった",
     "ta_form_kanji": "測った",
     "dictionary_form": "はかる",
-    "dictionary_form_kanji": "測る"
+    "dictionary_form_kanji": "測る",
+    "translation": "I'll measure, I'll measure"
   },
   {
     "lesson": "7",
@@ -3012,7 +3346,8 @@
     "ta_form": "かけた",
     "ta_form_kanji": null,
     "dictionary_form": "かける",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "26",
@@ -3021,7 +3356,8 @@
     "ta_form": "まにあった",
     "ta_form_kanji": "間に合った",
     "dictionary_form": "まにあう",
-    "dictionary_form_kanji": "間に合う"
+    "dictionary_form_kanji": "間に合う",
+    "translation": "I'll make it in time"
   },
   {
     "lesson": "49",
@@ -3030,7 +3366,8 @@
     "ta_form": "りようした",
     "ta_form_kanji": "利用した",
     "dictionary_form": "りようする",
-    "dictionary_form_kanji": "利用する"
+    "dictionary_form_kanji": "利用する",
+    "translation": "I'll use it"
   },
   {
     "lesson": "26",
@@ -3039,7 +3376,8 @@
     "ta_form": "ひろった",
     "ta_form_kanji": "拾った",
     "dictionary_form": "ひろう",
-    "dictionary_form_kanji": "拾う"
+    "dictionary_form_kanji": "拾う",
+    "translation": "I'll pick it up"
   },
   {
     "lesson": "19",
@@ -3048,7 +3386,8 @@
     "ta_form": "れんしゅうした",
     "ta_form_kanji": "練習した",
     "dictionary_form": "れんしゅうする",
-    "dictionary_form_kanji": "練習する"
+    "dictionary_form_kanji": "練習する",
+    "translation": "I'll practice"
   },
   {
     "lesson": "17",
@@ -3057,7 +3396,8 @@
     "ta_form": "もっていった",
     "ta_form_kanji": "持って行った",
     "dictionary_form": "もっていく",
-    "dictionary_form_kanji": "持って行く"
+    "dictionary_form_kanji": "持って行く",
+    "translation": "I'll take it with me"
   },
   {
     "lesson": "11",
@@ -3066,7 +3406,8 @@
     "ta_form": "やすんだ",
     "ta_form_kanji": "休んだ",
     "dictionary_form": "やすむ",
-    "dictionary_form_kanji": "休む"
+    "dictionary_form_kanji": "休む",
+    "translation": "I'm off (from work)"
   },
   {
     "lesson": "13",
@@ -3075,7 +3416,8 @@
     "ta_form": "およいだ",
     "ta_form_kanji": "泳いだ",
     "dictionary_form": "およぐ",
-    "dictionary_form_kanji": "泳ぐ"
+    "dictionary_form_kanji": "泳ぐ",
+    "translation": "I'll swim"
   },
   {
     "lesson": "37",
@@ -3084,7 +3426,8 @@
     "ta_form": "ふんだ",
     "ta_form_kanji": "踏んだ",
     "dictionary_form": "ふむ",
-    "dictionary_form_kanji": "踏む"
+    "dictionary_form_kanji": "踏む",
+    "translation": "I'll step on"
   },
   {
     "lesson": "37",
@@ -3093,7 +3436,8 @@
     "ta_form": "こわした",
     "ta_form_kanji": "壊した",
     "dictionary_form": "こわす",
-    "dictionary_form_kanji": "壊す"
+    "dictionary_form_kanji": "壊す",
+    "translation": "I'll break it"
   },
   {
     "lesson": "32",
@@ -3102,7 +3446,8 @@
     "ta_form": "こんだ",
     "ta_form_kanji": "込んだ",
     "dictionary_form": "こむ",
-    "dictionary_form_kanji": "込む"
+    "dictionary_form_kanji": "込む",
+    "translation": "will be included"
   },
   {
     "lesson": "32",
@@ -3111,7 +3456,8 @@
     "ta_form": "むりをした",
     "ta_form_kanji": "無理をした",
     "dictionary_form": "むりをする",
-    "dictionary_form_kanji": "無理をする"
+    "dictionary_form_kanji": "無理をする",
+    "translation": "I'll overdo it"
   },
   {
     "lesson": "44",
@@ -3120,7 +3466,8 @@
     "ta_form": "かわいた",
     "ta_form_kanji": "乾いた",
     "dictionary_form": "かわく",
-    "dictionary_form_kanji": "乾く"
+    "dictionary_form_kanji": "乾く",
+    "translation": "It's dry"
   },
   {
     "lesson": "24",
@@ -3129,7 +3476,8 @@
     "ta_form": "せつめいした",
     "ta_form_kanji": "説明した",
     "dictionary_form": "せつめいする",
-    "dictionary_form_kanji": "説明する"
+    "dictionary_form_kanji": "説明する",
+    "translation": "I'll explain it"
   },
   {
     "lesson": "27",
@@ -3138,7 +3486,8 @@
     "ta_form": "つけた",
     "ta_form_kanji": "付けた",
     "dictionary_form": "つける",
-    "dictionary_form_kanji": "付ける"
+    "dictionary_form_kanji": "付ける",
+    "translation": "I'll put it on"
   },
   {
     "lesson": "5",
@@ -3147,7 +3496,8 @@
     "ta_form": "かえった",
     "ta_form_kanji": "帰った",
     "dictionary_form": "かえる",
-    "dictionary_form_kanji": "帰る"
+    "dictionary_form_kanji": "帰る",
+    "translation": "I'm going home"
   },
   {
     "lesson": "1",
@@ -3156,7 +3506,8 @@
     "ta_form": "あいた",
     "ta_form_kanji": "開いた",
     "dictionary_form": "あく",
-    "dictionary_form_kanji": "開く"
+    "dictionary_form_kanji": "開く",
+    "translation": "It will open"
   },
   {
     "lesson": "40",
@@ -3165,7 +3516,8 @@
     "ta_form": "とうちゃくした",
     "ta_form_kanji": "到着した",
     "dictionary_form": "とうちゃくする",
-    "dictionary_form_kanji": "到着する"
+    "dictionary_form_kanji": "到着する",
+    "translation": "I'll arrive"
   },
   {
     "lesson": "17",
@@ -3174,7 +3526,8 @@
     "ta_form": "ぬいだ",
     "ta_form_kanji": "脱いだ",
     "dictionary_form": "ぬぐ",
-    "dictionary_form_kanji": "脱ぐ"
+    "dictionary_form_kanji": "脱ぐ",
+    "translation": "I'll take it off"
   },
   {
     "lesson": "27",
@@ -3183,7 +3536,8 @@
     "ta_form": "ひらいた",
     "ta_form_kanji": "開いた",
     "dictionary_form": "ひらく",
-    "dictionary_form_kanji": "開く"
+    "dictionary_form_kanji": "開く",
+    "translation": "It will open"
   },
   {
     "lesson": "40",
@@ -3192,7 +3546,8 @@
     "ta_form": "しゅっぱつした",
     "ta_form_kanji": "出発した",
     "dictionary_form": "しゅっぱつする",
-    "dictionary_form_kanji": "出発する"
+    "dictionary_form_kanji": "出発する",
+    "translation": "I'm leaving"
   },
   {
     "lesson": "47",
@@ -3201,7 +3556,8 @@
     "ta_form": "もえた",
     "ta_form_kanji": "燃えた",
     "dictionary_form": "もえる",
-    "dictionary_form_kanji": "燃える"
+    "dictionary_form_kanji": "燃える",
+    "translation": "burn"
   },
   {
     "lesson": "43",
@@ -3210,7 +3566,8 @@
     "ta_form": "おちた",
     "ta_form_kanji": "落ちた",
     "dictionary_form": "おちる",
-    "dictionary_form_kanji": "落ちる"
+    "dictionary_form_kanji": "落ちる",
+    "translation": "It's falling"
   },
   {
     "lesson": "42",
@@ -3219,7 +3576,8 @@
     "ta_form": "けいさんした",
     "ta_form_kanji": "計算した",
     "dictionary_form": "けいさんする",
-    "dictionary_form_kanji": "計算する"
+    "dictionary_form_kanji": "計算する",
+    "translation": "I'll calculate it"
   },
   {
     "lesson": "47",
@@ -3228,7 +3586,8 @@
     "ta_form": "こんやくした",
     "ta_form_kanji": "婚約した",
     "dictionary_form": "こんやくする",
-    "dictionary_form_kanji": "婚約する"
+    "dictionary_form_kanji": "婚約する",
+    "translation": "I'm engaged"
   },
   {
     "lesson": "33",
@@ -3237,7 +3596,8 @@
     "ta_form": "もどった",
     "ta_form_kanji": "戻った",
     "dictionary_form": "もどる",
-    "dictionary_form_kanji": "戻る"
+    "dictionary_form_kanji": "戻る",
+    "translation": "i will be back"
   },
   {
     "lesson": "37",
@@ -3246,7 +3606,8 @@
     "ta_form": "よごした",
     "ta_form_kanji": "汚した",
     "dictionary_form": "よごす",
-    "dictionary_form_kanji": "汚す"
+    "dictionary_form_kanji": "汚す",
+    "translation": "It's tainted"
   },
   {
     "lesson": "39",
@@ -3255,7 +3616,8 @@
     "ta_form": "びっくりした",
     "ta_form_kanji": null,
     "dictionary_form": "びっくりする",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'm surprised"
   },
   {
     "lesson": "43",
@@ -3264,7 +3626,8 @@
     "ta_form": "さがった",
     "ta_form_kanji": "下がった",
     "dictionary_form": "さがる",
-    "dictionary_form_kanji": "下がる"
+    "dictionary_form_kanji": "下がる",
+    "translation": "It's going down"
   },
   {
     "lesson": "26",
@@ -3273,7 +3636,8 @@
     "ta_form": "れんらくした",
     "ta_form_kanji": "連絡した",
     "dictionary_form": "れんらくする",
-    "dictionary_form_kanji": "連絡する"
+    "dictionary_form_kanji": "連絡する",
+    "translation": "I'll contact you"
   },
   {
     "lesson": "33",
@@ -3282,7 +3646,8 @@
     "ta_form": "あきらめた",
     "ta_form_kanji": null,
     "dictionary_form": "あきらめる",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "I'll give up"
   },
   {
     "lesson": "40",
@@ -3291,7 +3656,8 @@
     "ta_form": "あった",
     "ta_form_kanji": "合った",
     "dictionary_form": "あう",
-    "dictionary_form_kanji": "合う"
+    "dictionary_form_kanji": "合う",
+    "translation": "It fits"
   },
   {
     "lesson": "21",
@@ -3300,7 +3666,8 @@
     "ta_form": "まけた",
     "ta_form_kanji": "負けた",
     "dictionary_form": "まける",
-    "dictionary_form_kanji": "負ける"
+    "dictionary_form_kanji": "負ける",
+    "translation": "I'll lose"
   },
   {
     "lesson": "24",
@@ -3309,7 +3676,8 @@
     "ta_form": "つれてきた",
     "ta_form_kanji": "連れて来た",
     "dictionary_form": "つれてくる",
-    "dictionary_form_kanji": "連れて来る"
+    "dictionary_form_kanji": "連れて来る",
+    "translation": "I'll bring it"
   },
   {
     "lesson": "29",
@@ -3318,7 +3686,8 @@
     "ta_form": "ついた",
     "ta_form_kanji": null,
     "dictionary_form": "つく",
-    "dictionary_form_kanji": null
+    "dictionary_form_kanji": null,
+    "translation": "Translation error: "
   },
   {
     "lesson": "29",
@@ -3327,7 +3696,8 @@
     "ta_form": "おとした",
     "ta_form_kanji": "落とした",
     "dictionary_form": "おとす",
-    "dictionary_form_kanji": "落とす"
+    "dictionary_form_kanji": "落とす",
+    "translation": "I'll drop it"
   },
   {
     "lesson": "11",
@@ -3336,7 +3706,8 @@
     "ta_form": "おねがいした",
     "ta_form_kanji": "お願いした",
     "dictionary_form": "おねがいする",
-    "dictionary_form_kanji": "お願いする"
+    "dictionary_form_kanji": "お願いする",
+    "translation": "please"
   },
   {
     "lesson": "30",
@@ -3345,7 +3716,8 @@
     "ta_form": "よしゅうした",
     "ta_form_kanji": "予習した",
     "dictionary_form": "よしゅうする",
-    "dictionary_form_kanji": "予習する"
+    "dictionary_form_kanji": "予習する",
+    "translation": "I'll prepare"
   },
   {
     "lesson": "16",
@@ -3354,7 +3726,8 @@
     "ta_form": "いれた",
     "ta_form_kanji": "入れた",
     "dictionary_form": "いれる",
-    "dictionary_form_kanji": "入れる"
+    "dictionary_form_kanji": "入れる",
+    "translation": "I'll put it in"
   },
   {
     "lesson": "5",
@@ -3363,7 +3736,8 @@
     "ta_form": "いった",
     "ta_form_kanji": "行った",
     "dictionary_form": "いく",
-    "dictionary_form_kanji": "行く"
+    "dictionary_form_kanji": "行く",
+    "translation": "I'm going"
   },
   {
     "lesson": "21",
@@ -3372,7 +3746,8 @@
     "ta_form": "やくにたった",
     "ta_form_kanji": "役に立った",
     "dictionary_form": "やくにたつ",
-    "dictionary_form_kanji": "役に立つ"
+    "dictionary_form_kanji": "役に立つ",
+    "translation": "It's helpful"
   },
   {
     "lesson": "36",
@@ -3381,6 +3756,7 @@
     "ta_form": "くさった",
     "ta_form_kanji": "腐った",
     "dictionary_form": "くさる",
-    "dictionary_form_kanji": "腐る"
+    "dictionary_form_kanji": "腐る",
+    "translation": "It's rotten"
   }
 ]
