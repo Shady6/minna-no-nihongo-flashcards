@@ -7,7 +7,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "かけるな",
     "prohibitive_form_kanji": null,
-    "translation": "Translation error: "
+    "translation": "Translation error: ",
+    "audio_id": "0"
   },
   {
     "lesson": "25",
@@ -17,7 +18,8 @@
     "dictionary_form_kanji": "頑張る",
     "prohibitive_form": "がんばるな",
     "prohibitive_form_kanji": "頑張るな",
-    "translation": "I will do my best"
+    "translation": "I will do my best",
+    "audio_id": "1"
   },
   {
     "lesson": "11",
@@ -27,7 +29,8 @@
     "dictionary_form_kanji": "お願いする",
     "prohibitive_form": "おねがいするな",
     "prohibitive_form_kanji": "お願いするな",
-    "translation": "please"
+    "translation": "please",
+    "audio_id": "2"
   },
   {
     "lesson": "23",
@@ -37,7 +40,8 @@
     "dictionary_form_kanji": "回す",
     "prohibitive_form": "まわすな",
     "prohibitive_form_kanji": "回すな",
-    "translation": "I'll turn it"
+    "translation": "I'll turn it",
+    "audio_id": "3"
   },
   {
     "lesson": "33",
@@ -47,7 +51,8 @@
     "dictionary_form_kanji": "守る",
     "prohibitive_form": "まもるな",
     "prohibitive_form_kanji": "守るな",
-    "translation": "I'll protect it"
+    "translation": "I'll protect it",
+    "audio_id": "4"
   },
   {
     "lesson": "19",
@@ -57,7 +62,8 @@
     "dictionary_form_kanji": "洗濯する",
     "prohibitive_form": "せんたくするな",
     "prohibitive_form_kanji": "洗濯するな",
-    "translation": "I'll wash it"
+    "translation": "I'll wash it",
+    "audio_id": "5"
   },
   {
     "lesson": "30",
@@ -67,7 +73,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "まとめるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll summarize"
+    "translation": "I'll summarize",
+    "audio_id": "6"
   },
   {
     "lesson": "38",
@@ -77,7 +84,8 @@
     "dictionary_form_kanji": "運ぶ",
     "prohibitive_form": "はこぶな",
     "prohibitive_form_kanji": "運ぶな",
-    "translation": "I'll carry it"
+    "translation": "I'll carry it",
+    "audio_id": "7"
   },
   {
     "lesson": "46",
@@ -87,7 +95,8 @@
     "dictionary_form_kanji": "入学する",
     "prohibitive_form": "にゅうがくするな",
     "prohibitive_form_kanji": "入学するな",
-    "translation": "I'm going to enroll"
+    "translation": "I'm going to enroll",
+    "audio_id": "8"
   },
   {
     "lesson": "23",
@@ -97,7 +106,8 @@
     "dictionary_form_kanji": "歩く",
     "prohibitive_form": "あるくな",
     "prohibitive_form_kanji": "歩くな",
-    "translation": "I'm going to walk"
+    "translation": "I'm going to walk",
+    "audio_id": "9"
   },
   {
     "lesson": "29",
@@ -107,7 +117,8 @@
     "dictionary_form_kanji": "片づける",
     "prohibitive_form": "かたづけるな",
     "prohibitive_form_kanji": "片づけるな",
-    "translation": "I'll clean it up"
+    "translation": "I'll clean it up",
+    "audio_id": "10"
   },
   {
     "lesson": "18",
@@ -117,7 +128,8 @@
     "dictionary_form_kanji": "歌う",
     "prohibitive_form": "うたうな",
     "prohibitive_form_kanji": "歌うな",
-    "translation": "I'll sing"
+    "translation": "I'll sing",
+    "audio_id": "11"
   },
   {
     "lesson": "27",
@@ -127,7 +139,8 @@
     "dictionary_form_kanji": "走る",
     "prohibitive_form": "はしるな",
     "prohibitive_form_kanji": "走るな",
-    "translation": "I'll run"
+    "translation": "I'll run",
+    "audio_id": "12"
   },
   {
     "lesson": "37",
@@ -137,7 +150,8 @@
     "dictionary_form_kanji": "行う",
     "prohibitive_form": "おこなうな",
     "prohibitive_form_kanji": "行うな",
-    "translation": "I'll do it"
+    "translation": "I'll do it",
+    "audio_id": "13"
   },
   {
     "lesson": "32",
@@ -147,7 +161,8 @@
     "dictionary_form_kanji": "失敗する",
     "prohibitive_form": "しっぱいするな",
     "prohibitive_form_kanji": "失敗するな",
-    "translation": "It's failing"
+    "translation": "It's failing",
+    "audio_id": "14"
   },
   {
     "lesson": "28",
@@ -157,7 +172,8 @@
     "dictionary_form_kanji": "踊る",
     "prohibitive_form": "おどるな",
     "prohibitive_form_kanji": "踊るな",
-    "translation": "I'll dance"
+    "translation": "I'll dance",
+    "audio_id": "15"
   },
   {
     "lesson": "17",
@@ -167,7 +183,8 @@
     "dictionary_form_kanji": "出張する",
     "prohibitive_form": "しゅっちょうするな",
     "prohibitive_form_kanji": "出張するな",
-    "translation": "I'm going on a business trip"
+    "translation": "I'm going on a business trip",
+    "audio_id": "16"
   },
   {
     "lesson": "28",
@@ -177,7 +194,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "メモするな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll make a note"
+    "translation": "I'll make a note",
+    "audio_id": "17"
   },
   {
     "lesson": "40",
@@ -187,7 +205,8 @@
     "dictionary_form_kanji": "測る",
     "prohibitive_form": "はかるな",
     "prohibitive_form_kanji": "測るな",
-    "translation": "I'll measure, I'll measure"
+    "translation": "I'll measure, I'll measure",
+    "audio_id": "18"
   },
   {
     "lesson": "33",
@@ -197,7 +216,8 @@
     "dictionary_form_kanji": "投げる",
     "prohibitive_form": "なげるな",
     "prohibitive_form_kanji": "投げるな",
-    "translation": "I'll throw it"
+    "translation": "I'll throw it",
+    "audio_id": "19"
   },
   {
     "lesson": "7",
@@ -207,7 +227,8 @@
     "dictionary_form_kanji": "借りる",
     "prohibitive_form": "かりるな",
     "prohibitive_form_kanji": "借りるな",
-    "translation": "I'll borrow it"
+    "translation": "I'll borrow it",
+    "audio_id": "20"
   },
   {
     "lesson": "18",
@@ -217,7 +238,8 @@
     "dictionary_form_kanji": "洗う",
     "prohibitive_form": "あらうな",
     "prohibitive_form_kanji": "洗うな",
-    "translation": "I'll wash it"
+    "translation": "I'll wash it",
+    "audio_id": "21"
   },
   {
     "lesson": "47",
@@ -227,7 +249,8 @@
     "dictionary_form_kanji": "集まる",
     "prohibitive_form": "あつまるな",
     "prohibitive_form_kanji": "集まるな",
-    "translation": "We'll gather [people]"
+    "translation": "We'll gather [people]",
+    "audio_id": "22"
   },
   {
     "lesson": "31",
@@ -237,7 +260,8 @@
     "dictionary_form_kanji": "取る",
     "prohibitive_form": "とるな",
     "prohibitive_form_kanji": "取るな",
-    "translation": "I'll take it"
+    "translation": "I'll take it",
+    "audio_id": "23"
   },
   {
     "lesson": "48",
@@ -247,7 +271,8 @@
     "dictionary_form_kanji": "届ける",
     "prohibitive_form": "とどけるな",
     "prohibitive_form_kanji": "届けるな",
-    "translation": "I'll deliver it"
+    "translation": "I'll deliver it",
+    "audio_id": "24"
   },
   {
     "lesson": "34",
@@ -257,7 +282,8 @@
     "dictionary_form_kanji": "質問する",
     "prohibitive_form": "しつもんするな",
     "prohibitive_form_kanji": "質問するな",
-    "translation": "I'll ask a question"
+    "translation": "I'll ask a question",
+    "audio_id": "25"
   },
   {
     "lesson": "30",
@@ -267,7 +293,8 @@
     "dictionary_form_kanji": "掛ける",
     "prohibitive_form": "かけるな",
     "prohibitive_form_kanji": "掛けるな",
-    "translation": "I'll hang it"
+    "translation": "I'll hang it",
+    "audio_id": "26"
   },
   {
     "lesson": "16",
@@ -277,7 +304,8 @@
     "dictionary_form_kanji": "見学する",
     "prohibitive_form": "けんがくするな",
     "prohibitive_form_kanji": "見学するな",
-    "translation": "I'll be watching"
+    "translation": "I'll be watching",
+    "audio_id": "27"
   },
   {
     "lesson": "11",
@@ -287,7 +315,8 @@
     "dictionary_form_kanji": "休む",
     "prohibitive_form": "やすむな",
     "prohibitive_form_kanji": "休むな",
-    "translation": "I'm off (from work)"
+    "translation": "I'm off (from work)",
+    "audio_id": "28"
   },
   {
     "lesson": "25",
@@ -297,7 +326,8 @@
     "dictionary_form_kanji": "考える",
     "prohibitive_form": "かんがえるな",
     "prohibitive_form_kanji": "考えるな",
-    "translation": "I'll think about it"
+    "translation": "I'll think about it",
+    "audio_id": "29"
   },
   {
     "lesson": "28",
@@ -307,7 +337,8 @@
     "dictionary_form_kanji": "選ぶ",
     "prohibitive_form": "えらぶな",
     "prohibitive_form_kanji": "選ぶな",
-    "translation": "I'll choose"
+    "translation": "I'll choose",
+    "audio_id": "30"
   },
   {
     "lesson": "35",
@@ -317,7 +348,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "クリックするな",
     "prohibitive_form_kanji": null,
-    "translation": "Click"
+    "translation": "Click",
+    "audio_id": "31"
   },
   {
     "lesson": "37",
@@ -327,7 +359,8 @@
     "dictionary_form_kanji": "頼む",
     "prohibitive_form": "たのむな",
     "prohibitive_form_kanji": "頼むな",
-    "translation": "I'll ask"
+    "translation": "I'll ask",
+    "audio_id": "32"
   },
   {
     "lesson": "38",
@@ -337,7 +370,8 @@
     "dictionary_form_kanji": "入院する",
     "prohibitive_form": "にゅういんするな",
     "prohibitive_form_kanji": "入院するな",
-    "translation": "I'll be hospitalized"
+    "translation": "I'll be hospitalized",
+    "audio_id": "33"
   },
   {
     "lesson": "16",
@@ -347,7 +381,8 @@
     "dictionary_form_kanji": "押す",
     "prohibitive_form": "おすな",
     "prohibitive_form_kanji": "押すな",
-    "translation": "Press"
+    "translation": "Press",
+    "audio_id": "34"
   },
   {
     "lesson": "45",
@@ -357,7 +392,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "キャンセルするな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll cancel"
+    "translation": "I'll cancel",
+    "audio_id": "35"
   },
   {
     "lesson": "23",
@@ -367,7 +403,8 @@
     "dictionary_form_kanji": "聞く",
     "prohibitive_form": "きくな",
     "prohibitive_form_kanji": "聞くな",
-    "translation": "I'll listen"
+    "translation": "I'll listen",
+    "audio_id": "36"
   },
   {
     "lesson": "16",
@@ -377,7 +414,8 @@
     "dictionary_form_kanji": "入る",
     "prohibitive_form": "はいるな",
     "prohibitive_form_kanji": "入るな",
-    "translation": "enter"
+    "translation": "enter",
+    "audio_id": "37"
   },
   {
     "lesson": "16",
@@ -387,7 +425,8 @@
     "dictionary_form_kanji": "浴びる",
     "prohibitive_form": "あびるな",
     "prohibitive_form_kanji": "浴びるな",
-    "translation": "I'll take a shower [Shower]"
+    "translation": "I'll take a shower [Shower]",
+    "audio_id": "38"
   },
   {
     "lesson": "25",
@@ -397,7 +436,8 @@
     "dictionary_form_kanji": "着く",
     "prohibitive_form": "つくな",
     "prohibitive_form_kanji": "着くな",
-    "translation": "I'll arrive"
+    "translation": "I'll arrive",
+    "audio_id": "39"
   },
   {
     "lesson": "30",
@@ -407,7 +447,8 @@
     "dictionary_form_kanji": "予習する",
     "prohibitive_form": "よしゅうするな",
     "prohibitive_form_kanji": "予習するな",
-    "translation": "I'll prepare"
+    "translation": "I'll prepare",
+    "audio_id": "40"
   },
   {
     "lesson": "7",
@@ -417,7 +458,8 @@
     "dictionary_form_kanji": "切る",
     "prohibitive_form": "きるな",
     "prohibitive_form_kanji": "切るな",
-    "translation": "I'll cut it"
+    "translation": "I'll cut it",
+    "audio_id": "41"
   },
   {
     "lesson": "34",
@@ -427,7 +469,8 @@
     "dictionary_form_kanji": "折る",
     "prohibitive_form": "おるな",
     "prohibitive_form_kanji": "折るな",
-    "translation": "Fold"
+    "translation": "Fold",
+    "audio_id": "42"
   },
   {
     "lesson": "27",
@@ -437,7 +480,8 @@
     "dictionary_form_kanji": "飼う",
     "prohibitive_form": "かうな",
     "prohibitive_form_kanji": "飼うな",
-    "translation": "I'll keep it"
+    "translation": "I'll keep it",
+    "audio_id": "43"
   },
   {
     "lesson": "21",
@@ -447,7 +491,8 @@
     "dictionary_form_kanji": "勝つ",
     "prohibitive_form": "かつな",
     "prohibitive_form_kanji": "勝つな",
-    "translation": "I'll win"
+    "translation": "I'll win",
+    "audio_id": "44"
   },
   {
     "lesson": "30",
@@ -457,7 +502,8 @@
     "dictionary_form_kanji": "決める",
     "prohibitive_form": "きめるな",
     "prohibitive_form_kanji": "決めるな",
-    "translation": "I'll decide"
+    "translation": "I'll decide",
+    "audio_id": "45"
   },
   {
     "lesson": "7",
@@ -467,7 +513,8 @@
     "dictionary_form_kanji": "習う",
     "prohibitive_form": "ならうな",
     "prohibitive_form_kanji": "習うな",
-    "translation": "I'll learn"
+    "translation": "I'll learn",
+    "audio_id": "46"
   },
   {
     "lesson": "15",
@@ -477,7 +524,8 @@
     "dictionary_form_kanji": "思い出す",
     "prohibitive_form": "おもいだすな",
     "prohibitive_form_kanji": "思い出すな",
-    "translation": "I remember"
+    "translation": "I remember",
+    "audio_id": "47"
   },
   {
     "lesson": "17",
@@ -487,7 +535,8 @@
     "dictionary_form_kanji": "心配する",
     "prohibitive_form": "しんぱいするな",
     "prohibitive_form_kanji": "心配するな",
-    "translation": "I'm worried"
+    "translation": "I'm worried",
+    "audio_id": "48"
   },
   {
     "lesson": "21",
@@ -497,7 +546,8 @@
     "dictionary_form_kanji": "言う",
     "prohibitive_form": "いうな",
     "prohibitive_form_kanji": "言うな",
-    "translation": "I'll say it"
+    "translation": "I'll say it",
+    "audio_id": "49"
   },
   {
     "lesson": "13",
@@ -507,7 +557,8 @@
     "dictionary_form_kanji": "泳ぐ",
     "prohibitive_form": "およぐな",
     "prohibitive_form_kanji": "泳ぐな",
-    "translation": "I'll swim"
+    "translation": "I'll swim",
+    "audio_id": "50"
   },
   {
     "lesson": "6",
@@ -517,7 +568,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "するな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll do it"
+    "translation": "I'll do it",
+    "audio_id": "51"
   },
   {
     "lesson": "46",
@@ -527,7 +579,8 @@
     "dictionary_form_kanji": "向かう",
     "prohibitive_form": "むかうな",
     "prohibitive_form_kanji": "向かうな",
-    "translation": "I'm heading"
+    "translation": "I'm heading",
+    "audio_id": "52"
   },
   {
     "lesson": "38",
@@ -537,7 +590,8 @@
     "dictionary_form_kanji": "退院する",
     "prohibitive_form": "たいいんするな",
     "prohibitive_form_kanji": "退院するな",
-    "translation": "I'll be discharged from the hospital"
+    "translation": "I'll be discharged from the hospital",
+    "audio_id": "53"
   },
   {
     "lesson": "36",
@@ -547,7 +601,8 @@
     "dictionary_form_kanji": "慣れる",
     "prohibitive_form": "なれるな",
     "prohibitive_form_kanji": "慣れるな",
-    "translation": "I'll get used to it"
+    "translation": "I'll get used to it",
+    "audio_id": "54"
   },
   {
     "lesson": "6",
@@ -557,7 +612,8 @@
     "dictionary_form_kanji": "買う",
     "prohibitive_form": "かうな",
     "prohibitive_form_kanji": "買うな",
-    "translation": "I'll take it"
+    "translation": "I'll take it",
+    "audio_id": "55"
   },
   {
     "lesson": "22",
@@ -567,7 +623,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "かけるな",
     "prohibitive_form_kanji": null,
-    "translation": "Translation error: "
+    "translation": "Translation error: ",
+    "audio_id": "56"
   },
   {
     "lesson": "32",
@@ -577,7 +634,8 @@
     "dictionary_form_kanji": "運動する",
     "prohibitive_form": "うんどうするな",
     "prohibitive_form_kanji": "運動するな",
-    "translation": "I'll exercise"
+    "translation": "I'll exercise",
+    "audio_id": "57"
   },
   {
     "lesson": "16",
@@ -587,7 +645,8 @@
     "dictionary_form_kanji": "電話する",
     "prohibitive_form": "でんわするな",
     "prohibitive_form_kanji": "電話するな",
-    "translation": "I'll call"
+    "translation": "I'll call",
+    "audio_id": "58"
   },
   {
     "lesson": "47",
@@ -597,7 +656,8 @@
     "dictionary_form_kanji": "知り合う",
     "prohibitive_form": "しりあうな",
     "prohibitive_form_kanji": "知り合うな",
-    "translation": "I'll know you"
+    "translation": "I'll know you",
+    "audio_id": "59"
   },
   {
     "lesson": "50",
@@ -607,7 +667,8 @@
     "dictionary_form_kanji": "感謝する",
     "prohibitive_form": "かんしゃするな",
     "prohibitive_form_kanji": "感謝するな",
-    "translation": "appreciate"
+    "translation": "appreciate",
+    "audio_id": "60"
   },
   {
     "lesson": "32",
@@ -617,7 +678,8 @@
     "dictionary_form_kanji": "無理をする",
     "prohibitive_form": "むりをするな",
     "prohibitive_form_kanji": "無理をするな",
-    "translation": "I'll overdo it"
+    "translation": "I'll overdo it",
+    "audio_id": "61"
   },
   {
     "lesson": "41",
@@ -627,7 +689,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "やるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll do it"
+    "translation": "I'll do it",
+    "audio_id": "62"
   },
   {
     "lesson": "16",
@@ -637,7 +700,8 @@
     "dictionary_form_kanji": "始める",
     "prohibitive_form": "はじめるな",
     "prohibitive_form_kanji": "始めるな",
-    "translation": "I'll start"
+    "translation": "I'll start",
+    "audio_id": "63"
   },
   {
     "lesson": "7",
@@ -647,7 +711,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "あげるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll give it"
+    "translation": "I'll give it",
+    "audio_id": "64"
   },
   {
     "lesson": "4",
@@ -657,7 +722,8 @@
     "dictionary_form_kanji": "休む",
     "prohibitive_form": "やすむな",
     "prohibitive_form_kanji": "休むな",
-    "translation": "I'm off"
+    "translation": "I'm off",
+    "audio_id": "65"
   },
   {
     "lesson": "32",
@@ -667,7 +733,8 @@
     "dictionary_form_kanji": "冷やす",
     "prohibitive_form": "ひやすな",
     "prohibitive_form_kanji": "冷やすな",
-    "translation": "Let it cool"
+    "translation": "Let it cool",
+    "audio_id": "66"
   },
   {
     "lesson": "19",
@@ -677,7 +744,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "なるな",
     "prohibitive_form_kanji": null,
-    "translation": "It will become"
+    "translation": "It will become",
+    "audio_id": "67"
   },
   {
     "lesson": "21",
@@ -687,7 +755,8 @@
     "dictionary_form_kanji": "留学する",
     "prohibitive_form": "りゅうがくするな",
     "prohibitive_form_kanji": "留学するな",
-    "translation": "I'm going to study abroad"
+    "translation": "I'm going to study abroad",
+    "audio_id": "68"
   },
   {
     "lesson": "31",
@@ -697,7 +766,8 @@
     "dictionary_form_kanji": "見つける",
     "prohibitive_form": "みつけるな",
     "prohibitive_form_kanji": "見つけるな",
-    "translation": "I'll find it"
+    "translation": "I'll find it",
+    "audio_id": "69"
   },
   {
     "lesson": "45",
@@ -707,7 +777,8 @@
     "dictionary_form_kanji": "信じる",
     "prohibitive_form": "しんじるな",
     "prohibitive_form_kanji": "信じるな",
-    "translation": "I believe it"
+    "translation": "I believe it",
+    "audio_id": "70"
   },
   {
     "lesson": "49",
@@ -717,7 +788,8 @@
     "dictionary_form_kanji": "掛ける",
     "prohibitive_form": "かけるな",
     "prohibitive_form_kanji": "掛けるな",
-    "translation": "I'll hang it"
+    "translation": "I'll hang it",
+    "audio_id": "71"
   },
   {
     "lesson": "14",
@@ -727,7 +799,8 @@
     "dictionary_form_kanji": "立つ",
     "prohibitive_form": "たつな",
     "prohibitive_form_kanji": "立つな",
-    "translation": "I'll stand"
+    "translation": "I'll stand",
+    "audio_id": "72"
   },
   {
     "lesson": "19",
@@ -737,7 +810,8 @@
     "dictionary_form_kanji": "掃除する",
     "prohibitive_form": "そうじするな",
     "prohibitive_form_kanji": "掃除するな",
-    "translation": "I'll clean it"
+    "translation": "I'll clean it",
+    "audio_id": "73"
   },
   {
     "lesson": "24",
@@ -747,7 +821,8 @@
     "dictionary_form_kanji": "案内する",
     "prohibitive_form": "あんないするな",
     "prohibitive_form_kanji": "案内するな",
-    "translation": "I'll show you"
+    "translation": "I'll show you",
+    "audio_id": "74"
   },
   {
     "lesson": "42",
@@ -757,7 +832,8 @@
     "dictionary_form_kanji": "包む",
     "prohibitive_form": "つつむな",
     "prohibitive_form_kanji": "包むな",
-    "translation": "I'll wrap it"
+    "translation": "I'll wrap it",
+    "audio_id": "75"
   },
   {
     "lesson": "14",
@@ -767,7 +843,8 @@
     "dictionary_form_kanji": "手伝う",
     "prohibitive_form": "てつだうな",
     "prohibitive_form_kanji": "手伝うな",
-    "translation": "I'll help"
+    "translation": "I'll help",
+    "audio_id": "76"
   },
   {
     "lesson": "14",
@@ -777,7 +854,8 @@
     "dictionary_form_kanji": "止める",
     "prohibitive_form": "とめるな",
     "prohibitive_form_kanji": "止めるな",
-    "translation": "I'll stop"
+    "translation": "I'll stop",
+    "audio_id": "77"
   },
   {
     "lesson": "33",
@@ -787,7 +865,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "あきらめるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll give up"
+    "translation": "I'll give up",
+    "audio_id": "78"
   },
   {
     "lesson": "49",
@@ -797,7 +876,8 @@
     "dictionary_form_kanji": "過ごす",
     "prohibitive_form": "すごすな",
     "prohibitive_form_kanji": "過ごすな",
-    "translation": "I'll spend it"
+    "translation": "I'll spend it",
+    "audio_id": "79"
   },
   {
     "lesson": "38",
@@ -807,7 +887,8 @@
     "dictionary_form_kanji": "入れる",
     "prohibitive_form": "いれるな",
     "prohibitive_form_kanji": "入れるな",
-    "translation": "I'll put it in"
+    "translation": "I'll put it in",
+    "audio_id": "80"
   },
   {
     "lesson": "15",
@@ -817,7 +898,8 @@
     "dictionary_form_kanji": "売る",
     "prohibitive_form": "うるな",
     "prohibitive_form_kanji": "売るな",
-    "translation": "I'll sell it"
+    "translation": "I'll sell it",
+    "audio_id": "81"
   },
   {
     "lesson": "31",
@@ -827,7 +909,8 @@
     "dictionary_form_kanji": "受ける",
     "prohibitive_form": "うけるな",
     "prohibitive_form_kanji": "受けるな",
-    "translation": "I'll take it"
+    "translation": "I'll take it",
+    "audio_id": "82"
   },
   {
     "lesson": "17",
@@ -837,7 +920,8 @@
     "dictionary_form_kanji": "飲む",
     "prohibitive_form": "のむな",
     "prohibitive_form_kanji": "飲むな",
-    "translation": "I'll drink it"
+    "translation": "I'll drink it",
+    "audio_id": "83"
   },
   {
     "lesson": "5",
@@ -847,7 +931,8 @@
     "dictionary_form_kanji": "来る",
     "prohibitive_form": "くるな",
     "prohibitive_form_kanji": "来るな",
-    "translation": "I'll come"
+    "translation": "I'll come",
+    "audio_id": "84"
   },
   {
     "lesson": "37",
@@ -857,7 +942,8 @@
     "dictionary_form_kanji": "翻訳する",
     "prohibitive_form": "ほんやくするな",
     "prohibitive_form_kanji": "翻訳するな",
-    "translation": "I'll translate"
+    "translation": "I'll translate",
+    "audio_id": "85"
   },
   {
     "lesson": "40",
@@ -867,7 +953,8 @@
     "dictionary_form_kanji": "確かめる",
     "prohibitive_form": "たしかめるな",
     "prohibitive_form_kanji": "確かめるな",
-    "translation": "I'll check it out"
+    "translation": "I'll check it out",
+    "audio_id": "86"
   },
   {
     "lesson": "45",
@@ -877,7 +964,8 @@
     "dictionary_form_kanji": "優勝する",
     "prohibitive_form": "ゆうしょうするな",
     "prohibitive_form_kanji": "優勝するな",
-    "translation": "I'll win"
+    "translation": "I'll win",
+    "audio_id": "87"
   },
   {
     "lesson": "14",
@@ -887,7 +975,8 @@
     "dictionary_form_kanji": "閉める",
     "prohibitive_form": "しめるな",
     "prohibitive_form_kanji": "閉めるな",
-    "translation": "I'll close it"
+    "translation": "I'll close it",
+    "audio_id": "88"
   },
   {
     "lesson": "39",
@@ -897,7 +986,8 @@
     "dictionary_form_kanji": "死ぬ",
     "prohibitive_form": "しぬな",
     "prohibitive_form_kanji": "死ぬな",
-    "translation": "I'll die"
+    "translation": "I'll die",
+    "audio_id": "89"
   },
   {
     "lesson": "39",
@@ -907,7 +997,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "やせるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll lose weight"
+    "translation": "I'll lose weight",
+    "audio_id": "90"
   },
   {
     "lesson": "44",
@@ -917,7 +1008,8 @@
     "dictionary_form_kanji": "眠る",
     "prohibitive_form": "ねむるな",
     "prohibitive_form_kanji": "眠るな",
-    "translation": "I'm going to sleep"
+    "translation": "I'm going to sleep",
+    "audio_id": "91"
   },
   {
     "lesson": "39",
@@ -927,7 +1019,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "けんかするな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll fight"
+    "translation": "I'll fight",
+    "audio_id": "92"
   },
   {
     "lesson": "47",
@@ -937,7 +1030,8 @@
     "dictionary_form_kanji": "別れる",
     "prohibitive_form": "わかれるな",
     "prohibitive_form_kanji": "別れるな",
-    "translation": "I'll part ways"
+    "translation": "I'll part ways",
+    "audio_id": "93"
   },
   {
     "lesson": "13",
@@ -947,7 +1041,8 @@
     "dictionary_form_kanji": "散歩する",
     "prohibitive_form": "さんぽするな",
     "prohibitive_form_kanji": "散歩するな",
-    "translation": "I'll take a walk"
+    "translation": "I'll take a walk",
+    "audio_id": "94"
   },
   {
     "lesson": "36",
@@ -957,7 +1052,8 @@
     "dictionary_form_kanji": "過ぎる",
     "prohibitive_form": "すぎるな",
     "prohibitive_form_kanji": "過ぎるな",
-    "translation": "It's past"
+    "translation": "It's past",
+    "audio_id": "95"
   },
   {
     "lesson": "37",
@@ -967,7 +1063,8 @@
     "dictionary_form_kanji": "踏む",
     "prohibitive_form": "ふむな",
     "prohibitive_form_kanji": "踏むな",
-    "translation": "I'll step on"
+    "translation": "I'll step on",
+    "audio_id": "96"
   },
   {
     "lesson": "4",
@@ -977,7 +1074,8 @@
     "dictionary_form_kanji": "勉強する",
     "prohibitive_form": "べんきょうするな",
     "prohibitive_form_kanji": "勉強するな",
-    "translation": "I'll study"
+    "translation": "I'll study",
+    "audio_id": "97"
   },
   {
     "lesson": "17",
@@ -987,7 +1085,8 @@
     "dictionary_form_kanji": "持って行く",
     "prohibitive_form": "もっていくな",
     "prohibitive_form_kanji": "持って行くな",
-    "translation": "I'll take it with me"
+    "translation": "I'll take it with me",
+    "audio_id": "98"
   },
   {
     "lesson": "49",
@@ -997,7 +1096,8 @@
     "dictionary_form_kanji": "受賞する",
     "prohibitive_form": "じゅしょうするな",
     "prohibitive_form_kanji": "受賞するな",
-    "translation": "I'll be awarded"
+    "translation": "I'll be awarded",
+    "audio_id": "99"
   },
   {
     "lesson": "14",
@@ -1007,7 +1107,8 @@
     "dictionary_form_kanji": "呼ぶ",
     "prohibitive_form": "よぶな",
     "prohibitive_form_kanji": "呼ぶな",
-    "translation": "I'll call you"
+    "translation": "I'll call you",
+    "audio_id": "100"
   },
   {
     "lesson": "37",
@@ -1017,7 +1118,8 @@
     "dictionary_form_kanji": "発見する",
     "prohibitive_form": "はっけんするな",
     "prohibitive_form_kanji": "発見するな",
-    "translation": "I'll discover"
+    "translation": "I'll discover",
+    "audio_id": "101"
   },
   {
     "lesson": "29",
@@ -1027,7 +1129,8 @@
     "dictionary_form_kanji": "止まる",
     "prohibitive_form": "とまるな",
     "prohibitive_form_kanji": "止まるな",
-    "translation": "It's stopping"
+    "translation": "It's stopping",
+    "audio_id": "102"
   },
   {
     "lesson": "26",
@@ -1037,7 +1140,8 @@
     "dictionary_form_kanji": "探す",
     "prohibitive_form": "さがすな",
     "prohibitive_form_kanji": "探すな",
-    "translation": "I'll look for, I'll look for"
+    "translation": "I'll look for, I'll look for",
+    "audio_id": "103"
   },
   {
     "lesson": "6",
@@ -1047,7 +1151,8 @@
     "dictionary_form_kanji": "吸う",
     "prohibitive_form": "すうな",
     "prohibitive_form_kanji": "吸うな",
-    "translation": "I'll suck"
+    "translation": "I'll suck",
+    "audio_id": "104"
   },
   {
     "lesson": "6",
@@ -1057,7 +1162,8 @@
     "dictionary_form_kanji": "撮る",
     "prohibitive_form": "とるな",
     "prohibitive_form_kanji": "撮るな",
-    "translation": "I'll take a picture"
+    "translation": "I'll take a picture",
+    "audio_id": "105"
   },
   {
     "lesson": "6",
@@ -1067,7 +1173,8 @@
     "dictionary_form_kanji": "飲む",
     "prohibitive_form": "のむな",
     "prohibitive_form_kanji": "飲むな",
-    "translation": "I'll drink it"
+    "translation": "I'll drink it",
+    "audio_id": "106"
   },
   {
     "lesson": "48",
@@ -1077,7 +1184,8 @@
     "dictionary_form_kanji": "世話をする",
     "prohibitive_form": "せわをするな",
     "prohibitive_form_kanji": "世話をするな",
-    "translation": "I'll take care of you"
+    "translation": "I'll take care of you",
+    "audio_id": "107"
   },
   {
     "lesson": "16",
@@ -1087,7 +1195,8 @@
     "dictionary_form_kanji": "乗り換える",
     "prohibitive_form": "のりかえるな",
     "prohibitive_form_kanji": "乗り換えるな",
-    "translation": "I'll switch"
+    "translation": "I'll switch",
+    "audio_id": "108"
   },
   {
     "lesson": "5",
@@ -1097,7 +1206,8 @@
     "dictionary_form_kanji": "行く",
     "prohibitive_form": "いくな",
     "prohibitive_form_kanji": "行くな",
-    "translation": "I'm going"
+    "translation": "I'm going",
+    "audio_id": "109"
   },
   {
     "lesson": "37",
@@ -1107,7 +1217,8 @@
     "dictionary_form_kanji": "壊す",
     "prohibitive_form": "こわすな",
     "prohibitive_form_kanji": "壊すな",
-    "translation": "I'll break it"
+    "translation": "I'll break it",
+    "audio_id": "110"
   },
   {
     "lesson": "21",
@@ -1117,7 +1228,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "やめるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll stop"
+    "translation": "I'll stop",
+    "audio_id": "111"
   },
   {
     "lesson": "33",
@@ -1127,7 +1239,8 @@
     "dictionary_form_kanji": "騒ぐ",
     "prohibitive_form": "さわぐな",
     "prohibitive_form_kanji": "騒ぐな",
-    "translation": "I'm making a fuss"
+    "translation": "I'm making a fuss",
+    "audio_id": "112"
   },
   {
     "lesson": "18",
@@ -1137,7 +1250,8 @@
     "dictionary_form_kanji": "換える",
     "prohibitive_form": "かえるな",
     "prohibitive_form_kanji": "換えるな",
-    "translation": "I'll change it"
+    "translation": "I'll change it",
+    "audio_id": "113"
   },
   {
     "lesson": "27",
@@ -1147,7 +1261,8 @@
     "dictionary_form_kanji": "開く",
     "prohibitive_form": "ひらくな",
     "prohibitive_form_kanji": "開くな",
-    "translation": "It will open"
+    "translation": "It will open",
+    "audio_id": "114"
   },
   {
     "lesson": "26",
@@ -1157,7 +1272,8 @@
     "dictionary_form_kanji": "見る",
     "prohibitive_form": "みるな",
     "prohibitive_form_kanji": "見るな",
-    "translation": "I'll see, I'll examine you"
+    "translation": "I'll see, I'll examine you",
+    "audio_id": "115"
   },
   {
     "lesson": "38",
@@ -1167,7 +1283,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "つくな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll come on [I'm lying]"
+    "translation": "I'll come on [I'm lying]",
+    "audio_id": "116"
   },
   {
     "lesson": "36",
@@ -1177,7 +1294,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "チャレンジするな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll take the challenge"
+    "translation": "I'll take the challenge",
+    "audio_id": "117"
   },
   {
     "lesson": "34",
@@ -1187,7 +1305,8 @@
     "dictionary_form_kanji": "磨く",
     "prohibitive_form": "みがくな",
     "prohibitive_form_kanji": "磨くな",
-    "translation": "polish"
+    "translation": "polish",
+    "audio_id": "118"
   },
   {
     "lesson": "24",
@@ -1197,7 +1316,8 @@
     "dictionary_form_kanji": "説明する",
     "prohibitive_form": "せつめいするな",
     "prohibitive_form_kanji": "説明するな",
-    "translation": "I'll explain it"
+    "translation": "I'll explain it",
+    "audio_id": "119"
   },
   {
     "lesson": "41",
@@ -1207,7 +1327,8 @@
     "dictionary_form_kanji": "親切にする",
     "prohibitive_form": "しんせつにするな",
     "prohibitive_form_kanji": "親切にするな",
-    "translation": "I'll be kind"
+    "translation": "I'll be kind",
+    "audio_id": "120"
   },
   {
     "lesson": "14",
@@ -1217,7 +1338,8 @@
     "dictionary_form_kanji": "教える",
     "prohibitive_form": "おしえるな",
     "prohibitive_form_kanji": "教えるな",
-    "translation": "I'll tell you"
+    "translation": "I'll tell you",
+    "audio_id": "121"
   },
   {
     "lesson": "42",
@@ -1227,7 +1349,8 @@
     "dictionary_form_kanji": "沸かす",
     "prohibitive_form": "わかすな",
     "prohibitive_form_kanji": "沸かすな",
-    "translation": "I'll boil it"
+    "translation": "I'll boil it",
+    "audio_id": "122"
   },
   {
     "lesson": "33",
@@ -1237,7 +1360,8 @@
     "dictionary_form_kanji": "外す",
     "prohibitive_form": "はずすな",
     "prohibitive_form_kanji": "外すな",
-    "translation": "I'll remove it"
+    "translation": "I'll remove it",
+    "audio_id": "123"
   },
   {
     "lesson": "17",
@@ -1247,7 +1371,8 @@
     "dictionary_form_kanji": "返す",
     "prohibitive_form": "かえすな",
     "prohibitive_form_kanji": "返すな",
-    "translation": "I'll return it"
+    "translation": "I'll return it",
+    "audio_id": "124"
   },
   {
     "lesson": "15",
@@ -1257,7 +1382,8 @@
     "dictionary_form_kanji": "置く",
     "prohibitive_form": "おくな",
     "prohibitive_form_kanji": "置くな",
-    "translation": "I'll put it"
+    "translation": "I'll put it",
+    "audio_id": "125"
   },
   {
     "lesson": "14",
@@ -1267,7 +1393,8 @@
     "dictionary_form_kanji": "入る",
     "prohibitive_form": "はいるな",
     "prohibitive_form_kanji": "入るな",
-    "translation": "enter"
+    "translation": "enter",
+    "audio_id": "126"
   },
   {
     "lesson": "6",
@@ -1277,7 +1404,8 @@
     "dictionary_form_kanji": "読む",
     "prohibitive_form": "よむな",
     "prohibitive_form_kanji": "読むな",
-    "translation": "I'll read"
+    "translation": "I'll read",
+    "audio_id": "127"
   },
   {
     "lesson": "17",
@@ -1287,7 +1415,8 @@
     "dictionary_form_kanji": "払う",
     "prohibitive_form": "はらうな",
     "prohibitive_form_kanji": "払うな",
-    "translation": "I'll pay"
+    "translation": "I'll pay",
+    "audio_id": "128"
   },
   {
     "lesson": "22",
@@ -1297,7 +1426,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "するな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll do it"
+    "translation": "I'll do it",
+    "audio_id": "129"
   },
   {
     "lesson": "13",
@@ -1307,7 +1437,8 @@
     "dictionary_form_kanji": "買い物する",
     "prohibitive_form": "かいものするな",
     "prohibitive_form_kanji": "買い物するな",
-    "translation": "I'll shop"
+    "translation": "I'll shop",
+    "audio_id": "130"
   },
   {
     "lesson": "7",
@@ -1317,7 +1448,8 @@
     "dictionary_form_kanji": "貸す",
     "prohibitive_form": "かすな",
     "prohibitive_form_kanji": "貸すな",
-    "translation": "lend"
+    "translation": "lend",
+    "audio_id": "131"
   },
   {
     "lesson": "16",
@@ -1327,7 +1459,8 @@
     "dictionary_form_kanji": "乗る",
     "prohibitive_form": "のるな",
     "prohibitive_form_kanji": "乗るな",
-    "translation": "I'll ride"
+    "translation": "I'll ride",
+    "audio_id": "132"
   },
   {
     "lesson": "26",
@@ -1337,7 +1470,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "やるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll do it"
+    "translation": "I'll do it",
+    "audio_id": "133"
   },
   {
     "lesson": "34",
@@ -1347,7 +1481,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "つけるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll put it on"
+    "translation": "I'll put it on",
+    "audio_id": "134"
   },
   {
     "lesson": "23",
@@ -1357,7 +1492,8 @@
     "dictionary_form_kanji": "触る",
     "prohibitive_form": "さわるな",
     "prohibitive_form_kanji": "触るな",
-    "translation": "I'll touch it"
+    "translation": "I'll touch it",
+    "audio_id": "135"
   },
   {
     "lesson": "38",
@@ -1367,7 +1503,8 @@
     "dictionary_form_kanji": "押す",
     "prohibitive_form": "おすな",
     "prohibitive_form_kanji": "押すな",
-    "translation": "Press"
+    "translation": "Press",
+    "audio_id": "136"
   },
   {
     "lesson": "7",
@@ -1377,7 +1514,8 @@
     "dictionary_form_kanji": "失礼する",
     "prohibitive_form": "しつれいするな",
     "prohibitive_form_kanji": "失礼するな",
-    "translation": "Excuse me"
+    "translation": "Excuse me",
+    "audio_id": "137"
   },
   {
     "lesson": "28",
@@ -1387,7 +1525,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "かむな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll bite"
+    "translation": "I'll bite",
+    "audio_id": "138"
   },
   {
     "lesson": "31",
@@ -1397,7 +1536,8 @@
     "dictionary_form_kanji": "休憩する",
     "prohibitive_form": "きゅうけいするな",
     "prohibitive_form_kanji": "休憩するな",
-    "translation": "I'll take a break"
+    "translation": "I'll take a break",
+    "audio_id": "139"
   },
   {
     "lesson": "34",
@@ -1407,7 +1547,8 @@
     "dictionary_form_kanji": "組み立てる",
     "prohibitive_form": "くみたてるな",
     "prohibitive_form_kanji": "組み立てるな",
-    "translation": "I'll assemble it"
+    "translation": "I'll assemble it",
+    "audio_id": "140"
   },
   {
     "lesson": "13",
@@ -1417,7 +1558,8 @@
     "dictionary_form_kanji": "結婚する",
     "prohibitive_form": "けっこんするな",
     "prohibitive_form_kanji": "結婚するな",
-    "translation": "I'm getting married"
+    "translation": "I'm getting married",
+    "audio_id": "141"
   },
   {
     "lesson": "39",
@@ -1427,7 +1569,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "びっくりするな",
     "prohibitive_form_kanji": null,
-    "translation": "I'm surprised"
+    "translation": "I'm surprised",
+    "audio_id": "142"
   },
   {
     "lesson": "35",
@@ -1437,7 +1580,8 @@
     "dictionary_form_kanji": "入力する",
     "prohibitive_form": "にゅうりょくするな",
     "prohibitive_form_kanji": "入力するな",
-    "translation": "Enter"
+    "translation": "Enter",
+    "audio_id": "143"
   },
   {
     "lesson": "33",
@@ -1447,7 +1591,8 @@
     "dictionary_form_kanji": "逃げる",
     "prohibitive_form": "にげるな",
     "prohibitive_form_kanji": "逃げるな",
-    "translation": "I'll run away"
+    "translation": "I'll run away",
+    "audio_id": "144"
   },
   {
     "lesson": "37",
@@ -1457,7 +1602,8 @@
     "dictionary_form_kanji": "取る",
     "prohibitive_form": "とるな",
     "prohibitive_form_kanji": "取るな",
-    "translation": "I'll take it"
+    "translation": "I'll take it",
+    "audio_id": "145"
   },
   {
     "lesson": "37",
@@ -1467,7 +1613,8 @@
     "dictionary_form_kanji": "発明する",
     "prohibitive_form": "はつめいするな",
     "prohibitive_form_kanji": "発明するな",
-    "translation": "I'll invent"
+    "translation": "I'll invent",
+    "audio_id": "146"
   },
   {
     "lesson": "20",
@@ -1477,7 +1624,8 @@
     "dictionary_form_kanji": "修理する",
     "prohibitive_form": "しゅうりするな",
     "prohibitive_form_kanji": "修理するな",
-    "translation": "I'll repair it"
+    "translation": "I'll repair it",
+    "audio_id": "147"
   },
   {
     "lesson": "37",
@@ -1487,7 +1635,8 @@
     "dictionary_form_kanji": "汚す",
     "prohibitive_form": "よごすな",
     "prohibitive_form_kanji": "汚すな",
-    "translation": "It's tainted"
+    "translation": "It's tainted",
+    "audio_id": "148"
   },
   {
     "lesson": "21",
@@ -1497,7 +1646,8 @@
     "dictionary_form_kanji": "思う",
     "prohibitive_form": "おもうな",
     "prohibitive_form_kanji": "思うな",
-    "translation": "I think so"
+    "translation": "I think so",
+    "audio_id": "149"
   },
   {
     "lesson": "29",
@@ -1507,7 +1657,8 @@
     "dictionary_form_kanji": "取り替える",
     "prohibitive_form": "とりかえるな",
     "prohibitive_form_kanji": "取り替えるな",
-    "translation": "I'll replace it"
+    "translation": "I'll replace it",
+    "audio_id": "150"
   },
   {
     "lesson": "48",
@@ -1517,7 +1668,8 @@
     "dictionary_form_kanji": "楽しむ",
     "prohibitive_form": "たのしむな",
     "prohibitive_form_kanji": "楽しむな",
-    "translation": "I'll enjoy it"
+    "translation": "I'll enjoy it",
+    "audio_id": "151"
   },
   {
     "lesson": "23",
@@ -1527,7 +1679,8 @@
     "dictionary_form_kanji": "曲がる",
     "prohibitive_form": "まがるな",
     "prohibitive_form_kanji": "曲がるな",
-    "translation": "It's bent"
+    "translation": "It's bent",
+    "audio_id": "152"
   },
   {
     "lesson": "49",
@@ -1537,7 +1690,8 @@
     "dictionary_form_kanji": "利用する",
     "prohibitive_form": "りようするな",
     "prohibitive_form_kanji": "利用するな",
-    "translation": "I'll use it"
+    "translation": "I'll use it",
+    "audio_id": "153"
   },
   {
     "lesson": "14",
@@ -1547,7 +1701,8 @@
     "dictionary_form_kanji": "取る",
     "prohibitive_form": "とるな",
     "prohibitive_form_kanji": "取るな",
-    "translation": "I'll take it"
+    "translation": "I'll take it",
+    "audio_id": "154"
   },
   {
     "lesson": "14",
@@ -1557,7 +1712,8 @@
     "dictionary_form_kanji": "待つ",
     "prohibitive_form": "まつな",
     "prohibitive_form_kanji": "待つな",
-    "translation": "I'll wait"
+    "translation": "I'll wait",
+    "audio_id": "155"
   },
   {
     "lesson": "17",
@@ -1567,7 +1723,8 @@
     "dictionary_form_kanji": "残業する",
     "prohibitive_form": "ざんぎょうするな",
     "prohibitive_form_kanji": "残業するな",
-    "translation": "I'll work overtime"
+    "translation": "I'll work overtime",
+    "audio_id": "156"
   },
   {
     "lesson": "30",
@@ -1577,7 +1734,8 @@
     "dictionary_form_kanji": "飾る",
     "prohibitive_form": "かざるな",
     "prohibitive_form_kanji": "飾るな",
-    "translation": "I'll decorate it"
+    "translation": "I'll decorate it",
+    "audio_id": "157"
   },
   {
     "lesson": "46",
@@ -1587,7 +1745,8 @@
     "dictionary_form_kanji": "卒業する",
     "prohibitive_form": "そつぎょうするな",
     "prohibitive_form_kanji": "卒業するな",
-    "translation": "I'm graduating"
+    "translation": "I'm graduating",
+    "audio_id": "158"
   },
   {
     "lesson": "26",
@@ -1597,7 +1756,8 @@
     "dictionary_form_kanji": "遅れる",
     "prohibitive_form": "おくれるな",
     "prohibitive_form_kanji": "遅れるな",
-    "translation": "I'll be late"
+    "translation": "I'll be late",
+    "audio_id": "159"
   },
   {
     "lesson": "50",
@@ -1607,7 +1767,8 @@
     "dictionary_form_kanji": "緊張する",
     "prohibitive_form": "きんちょうするな",
     "prohibitive_form_kanji": "緊張するな",
-    "translation": "I'm nervous"
+    "translation": "I'm nervous",
+    "audio_id": "160"
   },
   {
     "lesson": "30",
@@ -1617,7 +1778,8 @@
     "dictionary_form_kanji": "戻す",
     "prohibitive_form": "もどすな",
     "prohibitive_form_kanji": "戻すな",
-    "translation": "I'll go back"
+    "translation": "I'll go back",
+    "audio_id": "161"
   },
   {
     "lesson": "33",
@@ -1627,7 +1789,8 @@
     "dictionary_form_kanji": "注意する",
     "prohibitive_form": "ちゅういするな",
     "prohibitive_form_kanji": "注意するな",
-    "translation": "I'll be careful"
+    "translation": "I'll be careful",
+    "audio_id": "162"
   },
   {
     "lesson": "48",
@@ -1637,7 +1800,8 @@
     "dictionary_form_kanji": "下ろす",
     "prohibitive_form": "おろすな",
     "prohibitive_form_kanji": "下ろすな",
-    "translation": "I'll take it down, I'll take it down"
+    "translation": "I'll take it down, I'll take it down",
+    "audio_id": "163"
   },
   {
     "lesson": "37",
@@ -1647,7 +1811,8 @@
     "dictionary_form_kanji": "誘う",
     "prohibitive_form": "さそうな",
     "prohibitive_form_kanji": "誘うな",
-    "translation": "I'll invite you"
+    "translation": "I'll invite you",
+    "audio_id": "164"
   },
   {
     "lesson": "24",
@@ -1657,7 +1822,8 @@
     "dictionary_form_kanji": "連れて来る",
     "prohibitive_form": "つれてくるな",
     "prohibitive_form_kanji": "連れて来るな",
-    "translation": "I'll bring it"
+    "translation": "I'll bring it",
+    "audio_id": "165"
   },
   {
     "lesson": "46",
@@ -1667,7 +1833,8 @@
     "dictionary_form_kanji": "焼く",
     "prohibitive_form": "やくな",
     "prohibitive_form_kanji": "焼くな",
-    "translation": "Bake"
+    "translation": "Bake",
+    "audio_id": "166"
   },
   {
     "lesson": "23",
@@ -1677,7 +1844,8 @@
     "dictionary_form_kanji": "引く",
     "prohibitive_form": "ひくな",
     "prohibitive_form_kanji": "引くな",
-    "translation": "I'll pull"
+    "translation": "I'll pull",
+    "audio_id": "167"
   },
   {
     "lesson": "6",
@@ -1687,7 +1855,8 @@
     "dictionary_form_kanji": "見る",
     "prohibitive_form": "みるな",
     "prohibitive_form_kanji": "見るな",
-    "translation": "I'll see"
+    "translation": "I'll see",
+    "audio_id": "168"
   },
   {
     "lesson": "41",
@@ -1697,7 +1866,8 @@
     "dictionary_form_kanji": "上げる",
     "prohibitive_form": "あげるな",
     "prohibitive_form_kanji": "上げるな",
-    "translation": "I'll raise it"
+    "translation": "I'll raise it",
+    "audio_id": "169"
   },
   {
     "lesson": "17",
@@ -1707,7 +1877,8 @@
     "dictionary_form_kanji": "持って来る",
     "prohibitive_form": "もってくるな",
     "prohibitive_form_kanji": "持って来るな",
-    "translation": "I'll bring it"
+    "translation": "I'll bring it",
+    "audio_id": "170"
   },
   {
     "lesson": "16",
@@ -1717,7 +1888,8 @@
     "dictionary_form_kanji": "降りる",
     "prohibitive_form": "おりるな",
     "prohibitive_form_kanji": "降りるな",
-    "translation": "I'm off"
+    "translation": "I'm off",
+    "audio_id": "171"
   },
   {
     "lesson": "14",
@@ -1727,7 +1899,8 @@
     "dictionary_form_kanji": "持つ",
     "prohibitive_form": "もつな",
     "prohibitive_form_kanji": "持つな",
-    "translation": "I'll have it"
+    "translation": "I'll have it",
+    "audio_id": "172"
   },
   {
     "lesson": "14",
@@ -1737,7 +1910,8 @@
     "dictionary_form_kanji": "使う",
     "prohibitive_form": "つかうな",
     "prohibitive_form_kanji": "使うな",
-    "translation": "I'll use it"
+    "translation": "I'll use it",
+    "audio_id": "173"
   },
   {
     "lesson": "15",
@@ -1747,7 +1921,8 @@
     "dictionary_form_kanji": "座る",
     "prohibitive_form": "すわるな",
     "prohibitive_form_kanji": "座るな",
-    "translation": "I'll sit"
+    "translation": "I'll sit",
+    "audio_id": "174"
   },
   {
     "lesson": "15",
@@ -1757,7 +1932,8 @@
     "dictionary_form_kanji": "作る",
     "prohibitive_form": "つくるな",
     "prohibitive_form_kanji": "作るな",
-    "translation": "I'll make/make"
+    "translation": "I'll make/make",
+    "audio_id": "175"
   },
   {
     "lesson": "14",
@@ -1767,7 +1943,8 @@
     "dictionary_form_kanji": "話す",
     "prohibitive_form": "はなすな",
     "prohibitive_form_kanji": "話すな",
-    "translation": "I'll talk"
+    "translation": "I'll talk",
+    "audio_id": "176"
   },
   {
     "lesson": "26",
@@ -1777,7 +1954,8 @@
     "dictionary_form_kanji": "出す",
     "prohibitive_form": "だすな",
     "prohibitive_form_kanji": "出すな",
-    "translation": "I'll put it out"
+    "translation": "I'll put it out",
+    "audio_id": "177"
   },
   {
     "lesson": "17",
@@ -1787,7 +1965,8 @@
     "dictionary_form_kanji": "出かける",
     "prohibitive_form": "でかけるな",
     "prohibitive_form_kanji": "出かけるな",
-    "translation": "I'm going out"
+    "translation": "I'm going out",
+    "audio_id": "178"
   },
   {
     "lesson": "30",
@@ -1797,7 +1976,8 @@
     "dictionary_form_kanji": "植える",
     "prohibitive_form": "うえるな",
     "prohibitive_form_kanji": "植えるな",
-    "translation": "I'll plant it"
+    "translation": "I'll plant it",
+    "audio_id": "179"
   },
   {
     "lesson": "32",
@@ -1807,7 +1987,8 @@
     "dictionary_form_kanji": "合格する",
     "prohibitive_form": "ごうかくするな",
     "prohibitive_form_kanji": "合格するな",
-    "translation": "I'll pass"
+    "translation": "I'll pass",
+    "audio_id": "180"
   },
   {
     "lesson": "16",
@@ -1817,7 +1998,8 @@
     "dictionary_form_kanji": "出る",
     "prohibitive_form": "でるな",
     "prohibitive_form_kanji": "出るな",
-    "translation": "It's coming out"
+    "translation": "It's coming out",
+    "audio_id": "181"
   },
   {
     "lesson": "39",
@@ -1827,7 +2009,8 @@
     "dictionary_form_kanji": "通る",
     "prohibitive_form": "とおるな",
     "prohibitive_form_kanji": "通るな",
-    "translation": "I'll pass"
+    "translation": "I'll pass",
+    "audio_id": "182"
   },
   {
     "lesson": "40",
@@ -1837,7 +2020,8 @@
     "dictionary_form_kanji": "相談する",
     "prohibitive_form": "そうだんするな",
     "prohibitive_form_kanji": "相談するな",
-    "translation": "I'll talk"
+    "translation": "I'll talk",
+    "audio_id": "183"
   },
   {
     "lesson": "14",
@@ -1847,7 +2031,8 @@
     "dictionary_form_kanji": "開ける",
     "prohibitive_form": "あけるな",
     "prohibitive_form_kanji": "開けるな",
-    "translation": "I'll open it"
+    "translation": "I'll open it",
+    "audio_id": "184"
   },
   {
     "lesson": "16",
@@ -1857,7 +2042,8 @@
     "dictionary_form_kanji": "飲む",
     "prohibitive_form": "のむな",
     "prohibitive_form_kanji": "飲むな",
-    "translation": "I'll drink it"
+    "translation": "I'll drink it",
+    "audio_id": "185"
   },
   {
     "lesson": "27",
@@ -1867,7 +2053,8 @@
     "dictionary_form_kanji": "付ける",
     "prohibitive_form": "つけるな",
     "prohibitive_form_kanji": "付けるな",
-    "translation": "I'll put it on"
+    "translation": "I'll put it on",
+    "audio_id": "186"
   },
   {
     "lesson": "23",
@@ -1877,7 +2064,8 @@
     "dictionary_form_kanji": "変える",
     "prohibitive_form": "かえるな",
     "prohibitive_form_kanji": "変えるな",
-    "translation": "I'll change it"
+    "translation": "I'll change it",
+    "audio_id": "187"
   },
   {
     "lesson": "33",
@@ -1887,7 +2075,8 @@
     "dictionary_form_kanji": "伝える",
     "prohibitive_form": "つたえるな",
     "prohibitive_form_kanji": "伝えるな",
-    "translation": "I'll tell you"
+    "translation": "I'll tell you",
+    "audio_id": "188"
   },
   {
     "lesson": "14",
@@ -1897,7 +2086,8 @@
     "dictionary_form_kanji": "急ぐ",
     "prohibitive_form": "いそぐな",
     "prohibitive_form_kanji": "急ぐな",
-    "translation": "I'm hurry"
+    "translation": "I'm hurry",
+    "audio_id": "189"
   },
   {
     "lesson": "26",
@@ -1907,7 +2097,8 @@
     "dictionary_form_kanji": "拾う",
     "prohibitive_form": "ひろうな",
     "prohibitive_form_kanji": "拾うな",
-    "translation": "I'll pick it up"
+    "translation": "I'll pick it up",
+    "audio_id": "190"
   },
   {
     "lesson": "22",
@@ -1917,7 +2108,8 @@
     "dictionary_form_kanji": "着る",
     "prohibitive_form": "きるな",
     "prohibitive_form_kanji": "着るな",
-    "translation": "I'll wear it"
+    "translation": "I'll wear it",
+    "audio_id": "191"
   },
   {
     "lesson": "19",
@@ -1927,7 +2119,8 @@
     "dictionary_form_kanji": "練習する",
     "prohibitive_form": "れんしゅうするな",
     "prohibitive_form_kanji": "練習するな",
-    "translation": "I'll practice"
+    "translation": "I'll practice",
+    "audio_id": "192"
   },
   {
     "lesson": "44",
@@ -1937,7 +2130,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "ぬれるな",
     "prohibitive_form_kanji": null,
-    "translation": "It's wet"
+    "translation": "It's wet",
+    "audio_id": "193"
   },
   {
     "lesson": "13",
@@ -1947,7 +2141,8 @@
     "dictionary_form_kanji": "食事する",
     "prohibitive_form": "しょくじするな",
     "prohibitive_form_kanji": "食事するな",
-    "translation": "I'll eat"
+    "translation": "I'll eat",
+    "audio_id": "194"
   },
   {
     "lesson": "28",
@@ -1957,7 +2152,8 @@
     "dictionary_form_kanji": "通う",
     "prohibitive_form": "かような",
     "prohibitive_form_kanji": "通うな",
-    "translation": "I'm going"
+    "translation": "I'm going",
+    "audio_id": "195"
   },
   {
     "lesson": "40",
@@ -1967,7 +2163,8 @@
     "dictionary_form_kanji": "到着する",
     "prohibitive_form": "とうちゃくするな",
     "prohibitive_form_kanji": "到着するな",
-    "translation": "I'll arrive"
+    "translation": "I'll arrive",
+    "audio_id": "196"
   },
   {
     "lesson": "38",
@@ -1977,7 +2174,8 @@
     "dictionary_form_kanji": "掛ける",
     "prohibitive_form": "かけるな",
     "prohibitive_form_kanji": "掛けるな",
-    "translation": "I'll hang it"
+    "translation": "I'll hang it",
+    "audio_id": "197"
   },
   {
     "lesson": "24",
@@ -1987,7 +2185,8 @@
     "dictionary_form_kanji": "直す",
     "prohibitive_form": "なおすな",
     "prohibitive_form_kanji": "直すな",
-    "translation": "I'll fix it"
+    "translation": "I'll fix it",
+    "audio_id": "198"
   },
   {
     "lesson": "42",
@@ -1997,7 +2196,8 @@
     "dictionary_form_kanji": "混ぜる",
     "prohibitive_form": "まぜるな",
     "prohibitive_form_kanji": "混ぜるな",
-    "translation": "Mix it"
+    "translation": "Mix it",
+    "audio_id": "199"
   },
   {
     "lesson": "46",
@@ -2007,7 +2207,8 @@
     "dictionary_form_kanji": "帰って来る",
     "prohibitive_form": "かえってくるな",
     "prohibitive_form_kanji": "帰って来るな",
-    "translation": "I'll come back"
+    "translation": "I'll come back",
+    "audio_id": "200"
   },
   {
     "lesson": "26",
@@ -2017,7 +2218,8 @@
     "dictionary_form_kanji": "連絡する",
     "prohibitive_form": "れんらくするな",
     "prohibitive_form_kanji": "連絡するな",
-    "translation": "I'll contact you"
+    "translation": "I'll contact you",
+    "audio_id": "201"
   },
   {
     "lesson": "16",
@@ -2027,7 +2229,8 @@
     "dictionary_form_kanji": "出す",
     "prohibitive_form": "だすな",
     "prohibitive_form_kanji": "出すな",
-    "translation": "I'll put it out"
+    "translation": "I'll put it out",
+    "audio_id": "202"
   },
   {
     "lesson": "34",
@@ -2037,7 +2240,8 @@
     "dictionary_form_kanji": "気がつく",
     "prohibitive_form": "きがつくな",
     "prohibitive_form_kanji": "気がつくな",
-    "translation": "I'll notice"
+    "translation": "I'll notice",
+    "audio_id": "203"
   },
   {
     "lesson": "40",
@@ -2047,7 +2251,8 @@
     "dictionary_form_kanji": "出発する",
     "prohibitive_form": "しゅっぱつするな",
     "prohibitive_form_kanji": "出発するな",
-    "translation": "I'm leaving"
+    "translation": "I'm leaving",
+    "audio_id": "204"
   },
   {
     "lesson": "6",
@@ -2057,7 +2262,8 @@
     "dictionary_form_kanji": "会う",
     "prohibitive_form": "あうな",
     "prohibitive_form_kanji": "NA",
-    "translation": "I'll meet"
+    "translation": "I'll meet",
+    "audio_id": "205"
   },
   {
     "lesson": "15",
@@ -2067,7 +2273,8 @@
     "dictionary_form_kanji": "知る",
     "prohibitive_form": "しるな",
     "prohibitive_form_kanji": "知るな",
-    "translation": "I'll know"
+    "translation": "I'll know",
+    "audio_id": "206"
   },
   {
     "lesson": "6",
@@ -2077,7 +2284,8 @@
     "dictionary_form_kanji": "食べる",
     "prohibitive_form": "たべるな",
     "prohibitive_form_kanji": "食べるな",
-    "translation": "I'll eat"
+    "translation": "I'll eat",
+    "audio_id": "207"
   },
   {
     "lesson": "20",
@@ -2087,7 +2295,8 @@
     "dictionary_form_kanji": "調べる",
     "prohibitive_form": "しらべるな",
     "prohibitive_form_kanji": "調べるな",
-    "translation": "I'll look into it"
+    "translation": "I'll look into it",
+    "audio_id": "208"
   },
   {
     "lesson": "22",
@@ -2097,7 +2306,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "かぶるな",
     "prohibitive_form_kanji": null,
-    "translation": "Translation error: "
+    "translation": "Translation error: ",
+    "audio_id": "209"
   },
   {
     "lesson": "10",
@@ -2107,7 +2317,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "いるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'm here"
+    "translation": "I'm here",
+    "audio_id": "210"
   },
   {
     "lesson": "45",
@@ -2117,7 +2328,8 @@
     "dictionary_form_kanji": "知らせる",
     "prohibitive_form": "しらせるな",
     "prohibitive_form_kanji": "知らせるな",
-    "translation": "I'll let you know"
+    "translation": "I'll let you know",
+    "audio_id": "211"
   },
   {
     "lesson": "47",
@@ -2127,7 +2339,8 @@
     "dictionary_form_kanji": "婚約する",
     "prohibitive_form": "こんやくするな",
     "prohibitive_form_kanji": "婚約するな",
-    "translation": "I'm engaged"
+    "translation": "I'm engaged",
+    "audio_id": "212"
   },
   {
     "lesson": "23",
@@ -2137,7 +2350,8 @@
     "dictionary_form_kanji": "渡る",
     "prohibitive_form": "わたるな",
     "prohibitive_form_kanji": "渡るな",
-    "translation": "I'll cross"
+    "translation": "I'll cross",
+    "audio_id": "213"
   },
   {
     "lesson": "7",
@@ -2147,7 +2361,8 @@
     "dictionary_form_kanji": "教える",
     "prohibitive_form": "おしえるな",
     "prohibitive_form_kanji": "教えるな",
-    "translation": "I'll tell you"
+    "translation": "I'll tell you",
+    "audio_id": "214"
   },
   {
     "lesson": "7",
@@ -2157,7 +2372,8 @@
     "dictionary_form_kanji": "送る",
     "prohibitive_form": "おくるな",
     "prohibitive_form_kanji": "送るな",
-    "translation": "send"
+    "translation": "send",
+    "audio_id": "215"
   },
   {
     "lesson": "14",
@@ -2167,7 +2383,8 @@
     "dictionary_form_kanji": "見せる",
     "prohibitive_form": "みせるな",
     "prohibitive_form_kanji": "見せるな",
-    "translation": "I'll show it"
+    "translation": "I'll show it",
+    "audio_id": "216"
   },
   {
     "lesson": "41",
@@ -2177,7 +2394,8 @@
     "dictionary_form_kanji": "下げる",
     "prohibitive_form": "さげるな",
     "prohibitive_form_kanji": "下げるな",
-    "translation": "I'll lower it"
+    "translation": "I'll lower it",
+    "audio_id": "217"
   },
   {
     "lesson": "30",
@@ -2187,7 +2405,8 @@
     "dictionary_form_kanji": "並べる",
     "prohibitive_form": "ならべるな",
     "prohibitive_form_kanji": "並べるな",
-    "translation": "I'll line it up"
+    "translation": "I'll line it up",
+    "audio_id": "218"
   },
   {
     "lesson": "22",
@@ -2197,7 +2416,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "はくな",
     "prohibitive_form_kanji": null,
-    "translation": "Translation error: "
+    "translation": "Translation error: ",
+    "audio_id": "219"
   },
   {
     "lesson": "15",
@@ -2207,7 +2427,8 @@
     "dictionary_form_kanji": "住む",
     "prohibitive_form": "すむな",
     "prohibitive_form_kanji": "住むな",
-    "translation": "I'll live there"
+    "translation": "I'll live there",
+    "audio_id": "220"
   },
   {
     "lesson": "42",
@@ -2217,7 +2438,8 @@
     "dictionary_form_kanji": "計算する",
     "prohibitive_form": "けいさんするな",
     "prohibitive_form_kanji": "計算するな",
-    "translation": "I'll calculate it"
+    "translation": "I'll calculate it",
+    "audio_id": "221"
   },
   {
     "lesson": "32",
@@ -2227,7 +2449,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "ひくな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll pull it"
+    "translation": "I'll pull it",
+    "audio_id": "222"
   },
   {
     "lesson": "38",
@@ -2237,7 +2460,8 @@
     "dictionary_form_kanji": "育てる",
     "prohibitive_form": "そだてるな",
     "prohibitive_form_kanji": "育てるな",
-    "translation": "I'll grow it"
+    "translation": "I'll grow it",
+    "audio_id": "223"
   },
   {
     "lesson": "18",
@@ -2247,7 +2471,8 @@
     "dictionary_form_kanji": "運転する",
     "prohibitive_form": "うんてんするな",
     "prohibitive_form_kanji": "運転するな",
-    "translation": "I'll drive"
+    "translation": "I'll drive",
+    "audio_id": "224"
   },
   {
     "lesson": "40",
@@ -2257,7 +2482,8 @@
     "dictionary_form_kanji": "数える",
     "prohibitive_form": "かぞえるな",
     "prohibitive_form_kanji": "数えるな",
-    "translation": "I'll count"
+    "translation": "I'll count",
+    "audio_id": "225"
   },
   {
     "lesson": "49",
@@ -2267,7 +2493,8 @@
     "dictionary_form_kanji": "勤める",
     "prohibitive_form": "つとめるな",
     "prohibitive_form_kanji": "勤めるな",
-    "translation": "I'll work"
+    "translation": "I'll work",
+    "audio_id": "226"
   },
   {
     "lesson": "13",
@@ -2277,7 +2504,8 @@
     "dictionary_form_kanji": "遊ぶ",
     "prohibitive_form": "あそぶな",
     "prohibitive_form_kanji": "遊ぶな",
-    "translation": "I'll play"
+    "translation": "I'll play",
+    "audio_id": "227"
   },
   {
     "lesson": "44",
@@ -2287,7 +2515,8 @@
     "dictionary_form_kanji": "笑う",
     "prohibitive_form": "わらうな",
     "prohibitive_form_kanji": "笑うな",
-    "translation": "I'll laugh"
+    "translation": "I'll laugh",
+    "audio_id": "228"
   },
   {
     "lesson": "29",
@@ -2297,7 +2526,8 @@
     "dictionary_form_kanji": "落とす",
     "prohibitive_form": "おとすな",
     "prohibitive_form_kanji": "落とすな",
-    "translation": "I'll drop it"
+    "translation": "I'll drop it",
+    "audio_id": "229"
   },
   {
     "lesson": "6",
@@ -2307,7 +2537,8 @@
     "dictionary_form_kanji": "聞く",
     "prohibitive_form": "きくな",
     "prohibitive_form_kanji": "聞くな",
-    "translation": "I'll listen"
+    "translation": "I'll listen",
+    "audio_id": "230"
   },
   {
     "lesson": "32",
@@ -2317,7 +2548,8 @@
     "dictionary_form_kanji": "出る",
     "prohibitive_form": "でるな",
     "prohibitive_form_kanji": "出るな",
-    "translation": "It's coming out"
+    "translation": "It's coming out",
+    "audio_id": "231"
   },
   {
     "lesson": "37",
@@ -2327,7 +2559,8 @@
     "dictionary_form_kanji": "褒める",
     "prohibitive_form": "ほめるな",
     "prohibitive_form_kanji": "褒めるな",
-    "translation": "I'll praise you"
+    "translation": "I'll praise you",
+    "audio_id": "232"
   },
   {
     "lesson": "31",
@@ -2337,7 +2570,8 @@
     "dictionary_form_kanji": "申し込む",
     "prohibitive_form": "もうしこむな",
     "prohibitive_form_kanji": "申し込むな",
-    "translation": "I'll apply"
+    "translation": "I'll apply",
+    "audio_id": "233"
   },
   {
     "lesson": "5",
@@ -2347,7 +2581,8 @@
     "dictionary_form_kanji": "帰る",
     "prohibitive_form": "かえるな",
     "prohibitive_form_kanji": "帰るな",
-    "translation": "I'm going home"
+    "translation": "I'm going home",
+    "audio_id": "234"
   },
   {
     "lesson": "19",
@@ -2357,7 +2592,8 @@
     "dictionary_form_kanji": "泊まる",
     "prohibitive_form": "とまるな",
     "prohibitive_form_kanji": "泊まるな",
-    "translation": "I'll stay"
+    "translation": "I'll stay",
+    "audio_id": "235"
   },
   {
     "lesson": "18",
@@ -2367,7 +2603,8 @@
     "dictionary_form_kanji": "弾く",
     "prohibitive_form": "ひくな",
     "prohibitive_form_kanji": "弾くな",
-    "translation": "I'll play"
+    "translation": "I'll play",
+    "audio_id": "236"
   },
   {
     "lesson": "37",
@@ -2377,7 +2614,8 @@
     "dictionary_form_kanji": "輸入する",
     "prohibitive_form": "ゆにゅうするな",
     "prohibitive_form_kanji": "輸入するな",
-    "translation": "I'll import it"
+    "translation": "I'll import it",
+    "audio_id": "237"
   },
   {
     "lesson": "19",
@@ -2387,7 +2625,8 @@
     "dictionary_form_kanji": "登る",
     "prohibitive_form": "のぼるな",
     "prohibitive_form_kanji": "登るな",
-    "translation": "I'll climb"
+    "translation": "I'll climb",
+    "audio_id": "238"
   },
   {
     "lesson": "36",
@@ -2397,7 +2636,8 @@
     "dictionary_form_kanji": "貯金する",
     "prohibitive_form": "ちょきんするな",
     "prohibitive_form_kanji": "貯金するな",
-    "translation": "I'll save"
+    "translation": "I'll save",
+    "audio_id": "239"
   },
   {
     "lesson": "4",
@@ -2407,7 +2647,8 @@
     "dictionary_form_kanji": "働く",
     "prohibitive_form": "はたらくな",
     "prohibitive_form_kanji": "働くな",
-    "translation": "I'll work"
+    "translation": "I'll work",
+    "audio_id": "240"
   },
   {
     "lesson": "44",
@@ -2417,7 +2658,8 @@
     "dictionary_form_kanji": "調節する",
     "prohibitive_form": "ちょうせつするな",
     "prohibitive_form_kanji": "調節するな",
-    "translation": "I'll adjust it"
+    "translation": "I'll adjust it",
+    "audio_id": "241"
   },
   {
     "lesson": "39",
@@ -2427,7 +2669,8 @@
     "dictionary_form_kanji": "安心する",
     "prohibitive_form": "あんしんするな",
     "prohibitive_form_kanji": "安心するな",
-    "translation": "It's safe"
+    "translation": "It's safe",
+    "audio_id": "242"
   },
   {
     "lesson": "15",
@@ -2437,7 +2680,8 @@
     "dictionary_form_kanji": "研究する",
     "prohibitive_form": "けんきゅうするな",
     "prohibitive_form_kanji": "研究するな",
-    "translation": "I'll research"
+    "translation": "I'll research",
+    "audio_id": "243"
   },
   {
     "lesson": "39",
@@ -2447,7 +2691,8 @@
     "dictionary_form_kanji": "答える",
     "prohibitive_form": "こたえるな",
     "prohibitive_form_kanji": "答えるな",
-    "translation": "I'll answer"
+    "translation": "I'll answer",
+    "audio_id": "244"
   },
   {
     "lesson": "14",
@@ -2457,7 +2702,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "つけるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll put it on"
+    "translation": "I'll put it on",
+    "audio_id": "245"
   },
   {
     "lesson": "14",
@@ -2467,7 +2713,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "コピーするな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll copy it"
+    "translation": "I'll copy it",
+    "audio_id": "246"
   },
   {
     "lesson": "38",
@@ -2477,7 +2724,8 @@
     "dictionary_form_kanji": "整理する",
     "prohibitive_form": "せいりするな",
     "prohibitive_form_kanji": "整理するな",
-    "translation": "I'll sort it out"
+    "translation": "I'll sort it out",
+    "audio_id": "247"
   },
   {
     "lesson": "27",
@@ -2487,7 +2735,8 @@
     "dictionary_form_kanji": "建てる",
     "prohibitive_form": "たてるな",
     "prohibitive_form_kanji": "建てるな",
-    "translation": "I'll build it"
+    "translation": "I'll build it",
+    "audio_id": "248"
   },
   {
     "lesson": "18",
@@ -2497,7 +2746,8 @@
     "dictionary_form_kanji": "捨てる",
     "prohibitive_form": "すてるな",
     "prohibitive_form_kanji": "捨てるな",
-    "translation": "I'll throw it away"
+    "translation": "I'll throw it away",
+    "audio_id": "249"
   },
   {
     "lesson": "16",
@@ -2507,7 +2757,8 @@
     "dictionary_form_kanji": "入れる",
     "prohibitive_form": "いれるな",
     "prohibitive_form_kanji": "入れるな",
-    "translation": "I'll put it in"
+    "translation": "I'll put it in",
+    "audio_id": "250"
   },
   {
     "lesson": "44",
@@ -2517,7 +2768,8 @@
     "dictionary_form_kanji": "泣く",
     "prohibitive_form": "なくな",
     "prohibitive_form_kanji": "泣くな",
-    "translation": "I'm crying"
+    "translation": "I'm crying",
+    "audio_id": "251"
   },
   {
     "lesson": "37",
@@ -2527,7 +2779,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "しかるな",
     "prohibitive_form_kanji": null,
-    "translation": "That's right"
+    "translation": "That's right",
+    "audio_id": "252"
   },
   {
     "lesson": "14",
@@ -2537,7 +2790,8 @@
     "dictionary_form_kanji": "消す",
     "prohibitive_form": "けすな",
     "prohibitive_form_kanji": "消すな",
-    "translation": "erase"
+    "translation": "erase",
+    "audio_id": "253"
   },
   {
     "lesson": "39",
@@ -2547,7 +2801,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "がっかりするな",
     "prohibitive_form_kanji": null,
-    "translation": "I'm disappointed"
+    "translation": "I'm disappointed",
+    "audio_id": "254"
   },
   {
     "lesson": "50",
@@ -2557,7 +2812,8 @@
     "dictionary_form_kanji": "用意する",
     "prohibitive_form": "よういするな",
     "prohibitive_form_kanji": "用意するな",
-    "translation": "I'll prepare it"
+    "translation": "I'll prepare it",
+    "audio_id": "255"
   },
   {
     "lesson": "17",
@@ -2567,7 +2823,8 @@
     "dictionary_form_kanji": "忘れる",
     "prohibitive_form": "わすれるな",
     "prohibitive_form_kanji": "忘れるな",
-    "translation": "I'll forget"
+    "translation": "I'll forget",
+    "audio_id": "256"
   },
   {
     "lesson": "24",
@@ -2577,7 +2834,8 @@
     "dictionary_form_kanji": "送る",
     "prohibitive_form": "おくるな",
     "prohibitive_form_kanji": "送るな",
-    "translation": "send"
+    "translation": "send",
+    "audio_id": "257"
   },
   {
     "lesson": "29",
@@ -2587,7 +2845,8 @@
     "dictionary_form_kanji": "間違える",
     "prohibitive_form": "まちがえるな",
     "prohibitive_form_kanji": "間違えるな",
-    "translation": "I'm wrong"
+    "translation": "I'm wrong",
+    "audio_id": "258"
   },
   {
     "lesson": "50",
@@ -2597,7 +2856,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "いれるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll come"
+    "translation": "I'll come",
+    "audio_id": "259"
   },
   {
     "lesson": "39",
@@ -2607,7 +2867,8 @@
     "dictionary_form_kanji": "離婚する",
     "prohibitive_form": "りこんするな",
     "prohibitive_form_kanji": "離婚するな",
-    "translation": "I'm going to divorce"
+    "translation": "I'm going to divorce",
+    "audio_id": "260"
   },
   {
     "lesson": "46",
@@ -2617,7 +2878,8 @@
     "dictionary_form_kanji": "渡す",
     "prohibitive_form": "わたすな",
     "prohibitive_form_kanji": "渡すな",
-    "translation": "I'll give it to you"
+    "translation": "I'll give it to you",
+    "audio_id": "261"
   },
   {
     "lesson": "37",
@@ -2627,7 +2889,8 @@
     "dictionary_form_kanji": "招待する",
     "prohibitive_form": "しょうたいするな",
     "prohibitive_form_kanji": "招待するな",
-    "translation": "I'll invite you"
+    "translation": "I'll invite you",
+    "audio_id": "262"
   },
   {
     "lesson": "31",
@@ -2637,7 +2900,8 @@
     "dictionary_form_kanji": "続ける",
     "prohibitive_form": "つづけるな",
     "prohibitive_form_kanji": "続けるな",
-    "translation": "I'll continue"
+    "translation": "I'll continue",
+    "audio_id": "263"
   },
   {
     "lesson": "17",
@@ -2647,7 +2911,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "なくすな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll lose it"
+    "translation": "I'll lose it",
+    "audio_id": "264"
   },
   {
     "lesson": "35",
@@ -2657,7 +2922,8 @@
     "dictionary_form_kanji": "付ける",
     "prohibitive_form": "つけるな",
     "prohibitive_form_kanji": "付けるな",
-    "translation": "I'll put it on"
+    "translation": "I'll put it on",
+    "audio_id": "265"
   },
   {
     "lesson": "30",
@@ -2667,7 +2933,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "しまうな",
     "prohibitive_form_kanji": null,
-    "translation": "It's gone"
+    "translation": "It's gone",
+    "audio_id": "266"
   },
   {
     "lesson": "30",
@@ -2677,7 +2944,8 @@
     "dictionary_form_kanji": "貼る",
     "prohibitive_form": "はるな",
     "prohibitive_form_kanji": "貼るな",
-    "translation": "I'll stick it"
+    "translation": "I'll stick it",
+    "audio_id": "267"
   },
   {
     "lesson": "14",
@@ -2687,7 +2955,8 @@
     "dictionary_form_kanji": "出る",
     "prohibitive_form": "でるな",
     "prohibitive_form_kanji": "出るな",
-    "translation": "It's coming out"
+    "translation": "It's coming out",
+    "audio_id": "268"
   },
   {
     "lesson": "36",
@@ -2697,7 +2966,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "あうな",
     "prohibitive_form_kanji": null,
-    "translation": "Translation error: "
+    "translation": "Translation error: ",
+    "audio_id": "269"
   },
   {
     "lesson": "30",
@@ -2707,7 +2977,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "そのままにするな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll leave it as is"
+    "translation": "I'll leave it as is",
+    "audio_id": "270"
   },
   {
     "lesson": "13",
@@ -2717,7 +2988,8 @@
     "dictionary_form_kanji": "迎える",
     "prohibitive_form": "むかえるな",
     "prohibitive_form_kanji": "迎えるな",
-    "translation": "I'll welcome"
+    "translation": "I'll welcome",
+    "audio_id": "271"
   },
   {
     "lesson": "39",
@@ -2727,7 +2999,8 @@
     "dictionary_form_kanji": "太る",
     "prohibitive_form": "ふとるな",
     "prohibitive_form_kanji": "太るな",
-    "translation": "I'm gaining weight"
+    "translation": "I'm gaining weight",
+    "audio_id": "272"
   },
   {
     "lesson": "38",
@@ -2737,7 +3010,8 @@
     "dictionary_form_kanji": "参加する",
     "prohibitive_form": "さんかするな",
     "prohibitive_form_kanji": "参加するな",
-    "translation": "join"
+    "translation": "join",
+    "audio_id": "273"
   },
   {
     "lesson": "18",
@@ -2747,7 +3021,8 @@
     "dictionary_form_kanji": "予約する",
     "prohibitive_form": "よやくするな",
     "prohibitive_form_kanji": "予約するな",
-    "translation": "I'll make a reservation"
+    "translation": "I'll make a reservation",
+    "audio_id": "274"
   },
   {
     "lesson": "17",
@@ -2757,7 +3032,8 @@
     "dictionary_form_kanji": "入る",
     "prohibitive_form": "はいるな",
     "prohibitive_form_kanji": "入るな",
-    "translation": "enter"
+    "translation": "enter",
+    "audio_id": "275"
   },
   {
     "lesson": "38",
@@ -2767,7 +3043,8 @@
     "dictionary_form_kanji": "切る",
     "prohibitive_form": "きるな",
     "prohibitive_form_kanji": "切るな",
-    "translation": "I'll cut it"
+    "translation": "I'll cut it",
+    "audio_id": "276"
   },
   {
     "lesson": "4",
@@ -2777,7 +3054,8 @@
     "dictionary_form_kanji": "起きる",
     "prohibitive_form": "おきるな",
     "prohibitive_form_kanji": "起きるな",
-    "translation": "I'm waking up"
+    "translation": "I'm waking up",
+    "audio_id": "277"
   },
   {
     "lesson": "18",
@@ -2787,7 +3065,8 @@
     "dictionary_form_kanji": "集める",
     "prohibitive_form": "あつめるな",
     "prohibitive_form_kanji": "集めるな",
-    "translation": "I'll collect it"
+    "translation": "I'll collect it",
+    "audio_id": "278"
   },
   {
     "lesson": "37",
@@ -2797,7 +3076,8 @@
     "dictionary_form_kanji": "輸出する",
     "prohibitive_form": "ゆしゅつするな",
     "prohibitive_form_kanji": "輸出するな",
-    "translation": "I will export"
+    "translation": "I will export",
+    "audio_id": "279"
   },
   {
     "lesson": "21",
@@ -2807,7 +3087,8 @@
     "dictionary_form_kanji": "動く",
     "prohibitive_form": "うごくな",
     "prohibitive_form_kanji": "動くな",
-    "translation": "It's moving"
+    "translation": "It's moving",
+    "audio_id": "280"
   },
   {
     "lesson": "21",
@@ -2817,7 +3098,8 @@
     "dictionary_form_kanji": "役に立つ",
     "prohibitive_form": "やくにたつな",
     "prohibitive_form_kanji": "役に立つな",
-    "translation": "It's helpful"
+    "translation": "It's helpful",
+    "audio_id": "281"
   },
   {
     "lesson": "17",
@@ -2827,7 +3109,8 @@
     "dictionary_form_kanji": "覚える",
     "prohibitive_form": "おぼえるな",
     "prohibitive_form_kanji": "覚えるな",
-    "translation": "I'll remember"
+    "translation": "I'll remember",
+    "audio_id": "282"
   },
   {
     "lesson": "21",
@@ -2837,7 +3120,8 @@
     "dictionary_form_kanji": "負ける",
     "prohibitive_form": "まけるな",
     "prohibitive_form_kanji": "負けるな",
-    "translation": "I'll lose"
+    "translation": "I'll lose",
+    "audio_id": "283"
   },
   {
     "lesson": "34",
@@ -2847,7 +3131,8 @@
     "dictionary_form_kanji": "載せる",
     "prohibitive_form": "のせるな",
     "prohibitive_form_kanji": "載せるな",
-    "translation": "I'll post it"
+    "translation": "I'll post it",
+    "audio_id": "284"
   },
   {
     "lesson": "33",
@@ -2857,7 +3142,8 @@
     "dictionary_form_kanji": "戻る",
     "prohibitive_form": "もどるな",
     "prohibitive_form_kanji": "戻るな",
-    "translation": "i will be back"
+    "translation": "i will be back",
+    "audio_id": "285"
   },
   {
     "lesson": "17",
@@ -2867,7 +3153,8 @@
     "dictionary_form_kanji": "脱ぐ",
     "prohibitive_form": "ぬぐな",
     "prohibitive_form_kanji": "脱ぐな",
-    "translation": "I'll take it off"
+    "translation": "I'll take it off",
+    "audio_id": "286"
   },
   {
     "lesson": "11",
@@ -2877,7 +3164,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "いるな",
     "prohibitive_form_kanji": null,
-    "translation": "I'm here (in Japan)"
+    "translation": "I'm here (in Japan)",
+    "audio_id": "287"
   },
   {
     "lesson": "44",
@@ -2887,7 +3175,8 @@
     "dictionary_form_kanji": "滑る",
     "prohibitive_form": "すべるな",
     "prohibitive_form_kanji": "滑るな",
-    "translation": "It's slipping"
+    "translation": "It's slipping",
+    "audio_id": "288"
   },
   {
     "lesson": "33",
@@ -2897,7 +3186,8 @@
     "dictionary_form_kanji": "出席する",
     "prohibitive_form": "しゅっせきするな",
     "prohibitive_form_kanji": "出席するな",
-    "translation": "I'll be attending"
+    "translation": "I'll be attending",
+    "audio_id": "289"
   },
   {
     "lesson": "34",
@@ -2907,7 +3197,8 @@
     "dictionary_form_kanji": null,
     "prohibitive_form": "さすな",
     "prohibitive_form_kanji": null,
-    "translation": "I'll say"
+    "translation": "I'll say",
+    "audio_id": "290"
   },
   {
     "lesson": "6",
@@ -2917,7 +3208,8 @@
     "dictionary_form_kanji": "書く",
     "prohibitive_form": "かくな",
     "prohibitive_form_kanji": "書くな",
-    "translation": "I'll write it"
+    "translation": "I'll write it",
+    "audio_id": "291"
   },
   {
     "lesson": "40",
@@ -2927,7 +3219,8 @@
     "dictionary_form_kanji": "酔う",
     "prohibitive_form": "ような",
     "prohibitive_form_kanji": "酔うな",
-    "translation": "I'm drunk"
+    "translation": "I'm drunk",
+    "audio_id": "292"
   },
   {
     "lesson": "30",
@@ -2937,7 +3230,8 @@
     "dictionary_form_kanji": "復習する",
     "prohibitive_form": "ふくしゅうするな",
     "prohibitive_form_kanji": "復習するな",
-    "translation": "I'll review"
+    "translation": "I'll review",
+    "audio_id": "293"
   },
   {
     "lesson": "37",
@@ -2947,7 +3241,8 @@
     "dictionary_form_kanji": "注意する",
     "prohibitive_form": "ちゅういするな",
     "prohibitive_form_kanji": "注意するな",
-    "translation": "I'll be careful"
+    "translation": "I'll be careful",
+    "audio_id": "294"
   },
   {
     "lesson": "42",
@@ -2957,7 +3252,8 @@
     "dictionary_form_kanji": "並ぶ",
     "prohibitive_form": "ならぶな",
     "prohibitive_form_kanji": "並ぶな",
-    "translation": "I'll line up"
+    "translation": "I'll line up",
+    "audio_id": "295"
   },
   {
     "lesson": "24",
@@ -2967,6 +3263,7 @@
     "dictionary_form_kanji": "連れて行く",
     "prohibitive_form": "つれていくな",
     "prohibitive_form_kanji": "連れて行くな",
-    "translation": "I'll take you"
+    "translation": "I'll take you",
+    "audio_id": "296"
   }
 ]

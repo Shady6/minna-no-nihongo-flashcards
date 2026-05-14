@@ -4,14 +4,17 @@ import './index.css'
 import App from './App'
 import { DeckProvider } from './contexts/DeckContext'
 import { DeckConfigProvider } from './contexts/DeckConfigContext'
+import { SettingsProvider } from './contexts/SettingsContext'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
   <React.StrictMode>
-    <DeckConfigProvider>
-      <DeckProvider>
-        <App />
-      </DeckProvider>
-    </DeckConfigProvider>
+    <SettingsProvider>
+      <DeckConfigProvider>
+        <DeckProvider>
+          <App />
+        </DeckProvider>
+      </DeckConfigProvider>
+    </SettingsProvider>
   </React.StrictMode>
 )

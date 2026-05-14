@@ -4,6 +4,7 @@ import { FlashcardContainer } from './FlashcardContainer'
 import { DeckConfigType, useDeckConfig } from '../contexts/DeckConfigContext'
 import { Stack } from '@mui/material'
 import { KeyboardShortcutsInfo } from './KeyboardShortcutsInfo'
+import { AudioToggle } from './AudioToggle'
 
 // Import all form data
 import teFormData from '../data/te_form.json'
@@ -14,7 +15,7 @@ import potentialFormData from '../data/potential_form.json'
 import volitionalFormData from '../data/volitional_form.json'
 import passiveFormData from '../data/passive_form.json'
 import causativeFormData from '../data/causative_form.json'
-import causativePassiveFormData from '../data/causative passive_form.json'
+import causativePassiveFormData from '../data/causative_passive_form.json'
 import imperativeFormData from '../data/imperative_form.json'
 import prohibitiveFormData from '../data/prohibitive_form.json'
 
@@ -49,6 +50,7 @@ export const loadData = (deckConfig: DeckConfigType) => {
           lesson: Number(item.lesson),
           form: form,
           translation: item.translation,
+          audio_id: item.audio_id
         })
       }
     })
@@ -73,6 +75,7 @@ export default function Deck() {
   return (
     <Stack sx={{ width: '100%', height: '100%', position: 'relative' }}>
       <KeyboardShortcutsInfo />
+      <AudioToggle />
       <FlashcardContainer />
     </Stack>
   )
